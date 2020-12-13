@@ -43,8 +43,12 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/822
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/824
 #EXTINF:-1,SPORT TV 1 FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/826
+#EXTINF:-1,SPORT TV 1 FHD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13401
 #EXTINF:-1,SPORT TV 2 FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/829
+#EXTINF:-1,SPORT TV 2 FHD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13403
 #EXTINF:-1,SPORT TV 3 FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/832
 #EXTINF:-1,SPORT TV 4 FHD
@@ -57,6 +61,8 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/842
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/845
 #EXTINF:-1,ELEVEN SPORTS 3 FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/848
+#EXTINF:-1,ELEVEN SPORTS 3
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/850
 #EXTINF:-1,ELEVEN SPORTS 4 FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/851
 #EXTINF:-1,ELEVEN SPORTS 5 FHD
@@ -67,6 +73,8 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/857
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/858
 #EXTINF:-1,BENFICA TV FHD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/860
+#EXTINF:-1,BENFICA TV HD Backup 1
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/13405
 #EXTINF:-1,HBO PORTUGAL
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/7604
 #EXTINF:-1,NETFLIX
