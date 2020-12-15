@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,RTP 1 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176723
+#EXTINF:-1,RTP 2 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176725
+#EXTINF:-1,RTP 3 SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176727
+#EXTINF:-1,SIC FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176731
+#EXTINF:-1,SIC NOTICIAS FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176824
+#EXTINF:-1,TVI FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176733
+#EXTINF:-1,TVI 24 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176874
+#EXTINF:-1,CMTV FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176761
+#EXTINF:-1,PORTO CANAL FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176816
+#EXTINF:-1,ABOLA TV FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176740
+#EXTINF:-1,BENFICA TV 1 SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176748
+#EXTINF:-1,TVCINE TOP FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176871
+#EXTINF:-1,TVCINE EDITION FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176867
+#EXTINF:-1,TVCINE EMOTION FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176869
+#EXTINF:-1,TVCINE ACTION FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176865
+#EXTINF:-1,TV SERIES FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176860
+#EXTINF:-1,AMC FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176741
+#EXTINF:-1,AXN BLACK FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176743
+#EXTINF:-1,AXN SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176744
+#EXTINF:-1,AXN WHITE SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176745
+#EXTINF:-1,BLAZE SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176749
+#EXTINF:-1,CINEMUNDO SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176760
+#EXTINF:-1,FOX COMEDY SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176780
+#EXTINF:-1,FOX CRIME FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176781
+#EXTINF:-1,FOX FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176783
+#EXTINF:-1,FOX LIFE FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176784
+#EXTINF:-1,FOX MOVIES FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176785
+#EXTINF:-1,FOX NEWS SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176786
+#EXTINF:-1,FOX SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176787
+#EXTINF:-1,HOLLYWOOD FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176791
+#EXTINF:-1,MOV FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176802
+#EXTINF:-1,NOS STUDIOS FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176812
+#EXTINF:-1,SIC MULHER SD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176823
+#EXTINF:-1,SIC RADICAL FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176825
+#EXTINF:-1,SYFY FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176884
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192201
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192202
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192203
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192204
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192205
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192206
+#EXTINF:-1,SPORT TV + FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192217
+#EXTINF:-1,SPORT TV 1 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192219
+#EXTINF:-1,SPORT TV 1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192220
+#EXTINF:-1,SPORT TV 2 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192221
+#EXTINF:-1,SPORT TV 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192222
+#EXTINF:-1,SPORT TV 3 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192223
+#EXTINF:-1,SPORT TV 3 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192224
+#EXTINF:-1,SPORT TV 4 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192225
+#EXTINF:-1,SPORT TV 4 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192226
+#EXTINF:-1,SPORT TV 5 FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192227
+#EXTINF:-1,SPORT TV 5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192228
+#EXTINF:-1,SPORT TV FHD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192229
+#EXTINF:-1,SPORT TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192230
+#EXTINF:-1,SPORT TV1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192233
+#EXTINF:-1,SPORT TV5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192234
+#EXTINF:-1,Sporting HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192235
