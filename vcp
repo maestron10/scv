@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,RTP1 HD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/768
-#EXTINF:-1,RTP2 HD
+#EXTINF:-1,RTP2
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/771
 #EXTINF:-1,SIC HD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/774
@@ -51,19 +51,17 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/832
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/835
 #EXTINF:-1,SPORT.TV 5 HD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/838
-#EXTINF:-1,Eleven 1 HD
+#EXTINF:-1,Eleven 1 
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/842
-#EXTINF:-1,Eleven 2 HD
+#EXTINF:-1,Eleven 2 
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/845
-#EXTINF:-1,Eleven 3 HD
+#EXTINF:-1,Eleven 3 
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/848
-#EXTINF:-1,Eleven 4 HD
+#EXTINF:-1,Eleven 4 
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/851
-#EXTINF:-1,Eleven 5 HD
+#EXTINF:-1,Eleven 5 
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/854
-#EXTINF:-1,Eleven 6 HD
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/857
-#EXTINF:-1,Eleven 6 HD
+#EXTINF:-1,Eleven 6 
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/858
 #EXTINF:-1,BENFICA TV HD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/860
@@ -330,3 +328,4 @@ http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/4962
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/4963
 #EXTINF:-1,FOX NEWS
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/4855
+
