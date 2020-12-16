@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,RTP1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7459
-#EXTINF:-1,RTP2 HD 
+#EXTINF:-1,RTP2
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7458
 #EXTINF:-1,RTP3 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7494
@@ -39,7 +39,7 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51924
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51923
 #EXTINF:-1,Eleven 6  
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51922
-#EXTINF:-1,Sport TV + HD 
+#EXTINF:-1,Sport.TV+ HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7477
 #EXTINF:-1,Sporting TV HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7476
@@ -79,9 +79,9 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7538
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7536
 #EXTINF:-1,AXN White HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/667464
-#EXTINF:-1,AXN Movies HD 
+#EXTINF:-1,AXN Movies 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7537
-#EXTINF:-1,AMC 
+#EXTINF:-1,AMC
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7539
 #EXTINF:-1,Fox Crime HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8810
@@ -113,7 +113,7 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13099
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13098
 #EXTINF:-1,TV Series HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7469
-#EXTINF:-1,Hollywood 
+#EXTINF:-1,Hollywood HD
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7510
 #EXTINF:-1,NOS Studios HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/658469
