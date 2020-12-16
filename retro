@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1, RTP1 
+#EXTINF:-1, RTP1 HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11919
 #EXTINF:-1, RTP2 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11920
 #EXTINF:-1, RTP3
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11926
-#EXTINF:-1, SIC 
+#EXTINF:-1, SIC HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11921
 #EXTINF:-1, SIC NOTICIAS 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11925
@@ -25,17 +25,17 @@ http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11931
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11932
 #EXTINF:-1, SIC RADICAL 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11933
-#EXTINF:-1, SPORT.TV + 
+#EXTINF:-1, SPORT.TV+ 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11949
-#EXTINF:-1, SPORT.TV 1 
+#EXTINF:-1, SPORT.TV1 HD 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11951
-#EXTINF:-1, SPORT.TV2 
+#EXTINF:-1, SPORT.TV2 HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11954
-#EXTINF:-1, SPORT.TV 3 
+#EXTINF:-1, SPORT.TV3 HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11957
-#EXTINF:-1, SPORT.TV 4 
+#EXTINF:-1, SPORT.TV4 HD 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11960
-#EXTINF:-1, SPORT.TV 5 
+#EXTINF:-1, SPORT.TV5 HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11962
 #EXTINF:-1, Benfica TV HD 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11965
@@ -57,19 +57,19 @@ http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11985
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11986
 #EXTINF:-1, TVC SERIES 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11991
-#EXTINF:-1, TVCINE TOP
+#EXTINF:-1, TVCINE TOP HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11993
-#EXTINF:-1, TVCINE EDITION
+#EXTINF:-1, TVCINE EDITION HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11995
-#EXTINF:-1, TVCINE EMOTION
+#EXTINF:-1, TVCINE EMOTION HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11997
-#EXTINF:-1, TVCINE ACTION
+#EXTINF:-1, TVCINE ACTION HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11999
 #EXTINF:-1,Euro Channel
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/41837
-#EXTINF:-1, NOS STUDIOS 
+#EXTINF:-1, NOS Studios 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12001
-#EXTINF:-1, HOLLYWOOD 
+#EXTINF:-1, HOLLYWOOD HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12002
 #EXTINF:-1, FOX MOVIES 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12004
@@ -83,7 +83,7 @@ http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12009
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12011
 #EXTINF:-1, AXN WHITE 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12013
-#EXTINF:-1, AXN 
+#EXTINF:-1, AXN HD
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12015
 #EXTINF:-1, AXN BLACK 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/12017
