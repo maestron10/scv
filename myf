@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 FHD 
+#EXTINF:-1,RTP1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7459
-#EXTINF:-1,RTP 2 FHD 
+#EXTINF:-1,RTP2 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7458
-#EXTINF:-1,RTP 3 
+#EXTINF:-1,RTP3 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7494
 #EXTINF:-1,SIC HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7488
-#EXTINF:-1,TVI FHD 
+#EXTINF:-1,TVI HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7464
 #EXTINF:-1,SIC Noticias 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7484
@@ -17,101 +17,101 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7483
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7499
 #EXTINF:-1,CMTV HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/12536
-#EXTINF:-1,BTV 1 FHD 
+#EXTINF:-1,BTV 1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/12521
-#EXTINF:-1,BTV 1 FHD [B] 
+#EXTINF:-1,BTV 1 HD [B] 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7534
 #EXTINF:-1,BTV 1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/12520
-#EXTINF:-1,Eurosport 1 FHD 
+#EXTINF:-1,Eurosport 1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7519
-#EXTINF:-1,Eurosport 2 FHD 
+#EXTINF:-1,Eurosport 2 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7518
-#EXTINF:-1,Eleven Sport 1 HD 
+#EXTINF:-1,Eleven 1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51927
-#EXTINF:-1,Eleven Sport 2 HD 
+#EXTINF:-1,Eleven 2 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51926
-#EXTINF:-1,Eleven Sport 3 HD 
+#EXTINF:-1,Eleven 3 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51925
-#EXTINF:-1,Eleven Sport 4 HD 
+#EXTINF:-1,Eleven 4 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51924
-#EXTINF:-1,Eleven Sport 5 HD 
+#EXTINF:-1,Eleven 5 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51923
-#EXTINF:-1,Eleven Sport 6 HD 
+#EXTINF:-1,Eleven 6 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/51922
-#EXTINF:-1,Sport TV + FHD 
+#EXTINF:-1,Sport TV + HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7477
-#EXTINF:-1,Sporting TV FHD 
+#EXTINF:-1,Sporting TV HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7476
-#EXTINF:-1,Sport TV 1 FHD 
+#EXTINF:-1,Sport TV 1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8818
-#EXTINF:-1,Sport TV 1 [B] FHD 
+#EXTINF:-1,Sport TV 1 [B] HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13097
 #EXTINF:-1,Sport TV 1 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13096
-#EXTINF:-1,Sport TV 2 FHD 
+#EXTINF:-1,Sport TV 2 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7481
 #EXTINF:-1,Sport TV 2 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8814
 #EXTINF:-1,Sport TV 2 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13093
-#EXTINF:-1,Sport TV 3 FHD 
+#EXTINF:-1,Sport TV 3 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8817
 #EXTINF:-1,Sport TV 3 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8813
 #EXTINF:-1,Sport TV 3 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13091
-#EXTINF:-1,Sport TV 4 FHD 
+#EXTINF:-1,Sport TV 4 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8816
 #EXTINF:-1,Sport TV 4 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13089
 #EXTINF:-1,Sport TV 4 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7479
-#EXTINF:-1,Sport TV 5 FHD 
+#EXTINF:-1,Sport TV 5 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7478
 #EXTINF:-1,Sport TV 5 HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8812
 #EXTINF:-1,Sport TV 5 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13087
-#EXTINF:-1,AXN FHD 
+#EXTINF:-1,AXN HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7538
-#EXTINF:-1,AXN White FHD 
+#EXTINF:-1,AXN White HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7536
-#EXTINF:-1,AXN White FHD 
+#EXTINF:-1,AXN White HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/667464
-#EXTINF:-1,AXN Movies FHD 
+#EXTINF:-1,AXN Movies HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7537
 #EXTINF:-1,AMC 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7539
-#EXTINF:-1,Fox Crime FHD 
+#EXTINF:-1,Fox Crime HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8810
 #EXTINF:-1,Fox Comedy 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7515
-#EXTINF:-1,Fox Life FHD 
+#EXTINF:-1,Fox Life HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7514
-#EXTINF:-1,Fox FHD 
+#EXTINF:-1,Fox HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7456
 #EXTINF:-1,Syfy HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7454
-#EXTINF:-1,Fox Movies FHD 
+#EXTINF:-1,Fox Movies HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7513
-#EXTINF:-1,TvCine Top FHD 
+#EXTINF:-1,TvCine Top HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13105
 #EXTINF:-1,TvCine Top HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13104
-#EXTINF:-1,TvCine Emotion FHD 
+#EXTINF:-1,TvCine Emotion HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13103
 #EXTINF:-1,TvCine Emotion HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13102
-#EXTINF:-1,TvCine Action FHD 
+#EXTINF:-1,TvCine Action HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13101
 #EXTINF:-1,TvCine Action HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13100
-#EXTINF:-1,TvCine Edition FHD 
+#EXTINF:-1,TvCine Edition HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13099
 #EXTINF:-1,TvCine Edition HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/13098
-#EXTINF:-1,TV Series FHD 
+#EXTINF:-1,TV Series HD 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7469
 #EXTINF:-1,Hollywood 
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7510
