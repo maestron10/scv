@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, RTP 1 
+#EXTINF:-1, RTP1 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11919
-#EXTINF:-1, RTP 2 
+#EXTINF:-1, RTP2 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11920
-#EXTINF:-1, RTP 3
+#EXTINF:-1, RTP3
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11926
 #EXTINF:-1, SIC 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11921
@@ -11,7 +11,7 @@ http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11921
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11925
 #EXTINF:-1, TVI 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11922
-#EXTINF:-1, TVI 24 
+#EXTINF:-1, TVI24 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11924
 #EXTINF:-1, A BOLA TV
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11927
@@ -25,42 +25,32 @@ http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11931
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11932
 #EXTINF:-1, SIC RADICAL 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11933
-#EXTINF:-1, SPORT TV + 
+#EXTINF:-1, SPORT.TV + 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11949
-#EXTINF:-1, SPORT TV 1 
+#EXTINF:-1, SPORT.TV 1 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11951
-#EXTINF:-1,PT: SPORT TV1 HD
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11952
-#EXTINF:-1, SPORT TV2 
+#EXTINF:-1, SPORT.TV2 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11954
-#EXTINF:-1, SPORT TV 3 
+#EXTINF:-1, SPORT.TV 3 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11957
-#EXTINF:-1, SPORT TV 4 
+#EXTINF:-1, SPORT.TV 4 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11960
-#EXTINF:-1, SPORT TV 5 
+#EXTINF:-1, SPORT.TV 5 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11962
 #EXTINF:-1, BENFICA TV 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11965
-#EXTINF:-1, ELEVEN SPORTS 1 
+#EXTINF:-1, ELEVEN 1 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11966
-#EXTINF:-1, Eleven Sports 1
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/30853
-#EXTINF:-1, ELEVEN SPORTS 2 
+#EXTINF:-1, ELEVEN 2 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11969
-#EXTINF:-1, Eleven Sports 2
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/30854
-#EXTINF:-1, ELEVEN SPORTS 3 FHD
+#EXTINF:-1, ELEVEN 3 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11973
-#EXTINF:-1, Eleven Sports 3
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/30855
-EXTINF:-1, ELEVENS SPORTS 4 
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11976
-#EXTINF:-1, Eleven Sports 4
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/30856
-#EXTINF:-1, Eleven Sports 5
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/30857
-#EXTINF:-1, Eleven Sports 6
-http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/30858
+#EXTINF:-1, ELEVENS 4
+http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11975
+#EXTINF:-1, ELEVEN 5 
+http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11978
+#EXTINF:-1, ELEVEN 6 
+http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11981
 #EXTINF:-1, EUROSPORT 1 
 http://link.iptvlogin.com:80/xtremretro.ddns.net/YAPzvef0gF/11985
 #EXTINF:-1, EUROSPORT 2
@@ -123,15 +113,15 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227531.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227532.mp4
 #EXTINF:-1,100% Wolf - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227533.mkv
-#EXTINF:-1,1001 HistÃ³rias Do Bugs Bunny - 1982
+#EXTINF:-1,1001 Historias Do Bugs Bunny - 1982
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227534.avi
-#EXTINF:-1,101 DÃ¡lmatas - 1961
+#EXTINF:-1,101 Dalmatas - 1961
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227535.mp4
-#EXTINF:-1,101 DÃ¡lmatas - 1996
+#EXTINF:-1,101 Dalmatas - 1996
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227536.avi
-#EXTINF:-1,101 DÃ¡lmatas 2 - A Aventura de Patch em Londres - 2003
+#EXTINF:-1,101 Dalmatas 2 - A Aventura de Patch em Londres - 2003
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227537.mp4
-#EXTINF:-1,102 DÃ¡lmatas - 2000
+#EXTINF:-1,102 Dalmatas - 2000
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227538.avi
 #EXTINF:-1,12 Macacos - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227539.mkv
@@ -147,7 +137,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227543.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227544.mkv
 #EXTINF:-1,2 Minutes of Fame - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227545.mkv
-#EXTINF:-1,2001: Uma Odisseia no EspaÃ§o - 1968
+#EXTINF:-1,2001: Uma Odisseia no Espaa§o - 1968
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227546.mkv
 #EXTINF:-1,2012 - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227547.mkv
@@ -155,11 +145,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227547.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227548.mkv
 #EXTINF:-1,28 Dias Depois - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227549.mkv
-#EXTINF:-1,3 Porquinhos e Um BebÃª - 2008
+#EXTINF:-1,3 Porquinhos e Um Bebaª - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227550.avi
 #EXTINF:-1,300 - 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227551.mkv
-#EXTINF:-1,300: O InÃ­cio de um ImpÃ©rio - 2014
+#EXTINF:-1,300: O Ina­cio de um Imperio - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227552.mkv
 #EXTINF:-1,3022 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227553.mp4
@@ -177,13 +167,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227558.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227559.mp4
 #EXTINF:-1,7500 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227560.mkv
-#EXTINF:-1,7Âº AnÃ£o - O Pequeno HerÃ³i - 2014
+#EXTINF:-1,7Âº Ana£o - O Pequeno Heroi - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227561.mp4
 #EXTINF:-1,8 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227562.mkv
-#EXTINF:-1,A 5Âª Vaga - 2016
+#EXTINF:-1,A 5ª Vaga - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227563.mkv
-#EXTINF:-1,A AscensÃ£o da Rainha Guerreira - 2019
+#EXTINF:-1,A Ascensao da Rainha Guerreira - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227564.mp4
 #EXTINF:-1,A Bela de Dia - 1967
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227565.mkv
@@ -191,7 +181,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227565.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227566.mkv
 #EXTINF:-1,A Bela e o Monstro: Natal Encantado - 1997
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227567.avi
-#EXTINF:-1,A Bela e o Monstro: O Mundo MÃ¡gico de Belle - 1998
+#EXTINF:-1,A Bela e o Monstro: O Mundo Ma¡gico de Belle - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227568.avi
 #EXTINF:-1,A Bela Intrigante - 1991
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227569.mkv
@@ -199,21 +189,21 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227569.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227570.mkv
 #EXTINF:-1,A Cabana - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227571.mkv
-#EXTINF:-1,A CanÃ§Ã£o de Lisboa - 1933
+#EXTINF:-1,A Cancao de Lisboa - 1933
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227572.mp4
-#EXTINF:-1,A CanÃ§Ã£o de Lisboa - 2016
+#EXTINF:-1,A Cancao de Lisboa - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227573.mp4
-#EXTINF:-1,A CanÃ§Ã£o do Oceano - 2014
+#EXTINF:-1,A Cancao do Oceano - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227574.mp4
 #EXTINF:-1,A Casa da Magia (2013)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227575.mp4
-#EXTINF:-1,A Casa do Mickey Mouse - As Aventuras do Mickey No PaÃ­s Das Maravilhas - 2009
+#EXTINF:-1,A Casa do Mickey Mouse - As Aventuras do Mickey No Paa­s Das Maravilhas - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227576.avi
 #EXTINF:-1,A Casa Fantasma - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227577.mp4
 #EXTINF:-1,A Casa na Floresta - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227578.mkv
-#EXTINF:-1,A CaÃ§ada - 2020
+#EXTINF:-1,A Caa§ada - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227579.mkv
 #EXTINF:-1,A Christmas Carol - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227580.mkv
@@ -223,9 +213,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227581.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227582.mkv
 #EXTINF:-1,A Conquista do Planeta dos Macacos - 1972
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227583.mkv
-#EXTINF:-1,A Costa dos MurmÃºrios - 2004
+#EXTINF:-1,A Costa dos Murmarios - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227584.mp4
-#EXTINF:-1,A CrianÃ§a Zombie - 2019
+#EXTINF:-1,A Crianca Zombie - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227585.mkv
 #EXTINF:-1,A Dama e o Vagabundo (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227586.mkv
@@ -233,23 +223,23 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227586.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227587.mkv
 #EXTINF:-1,A Date by Christmas Eve - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227588.mkv
-#EXTINF:-1,A DistÃ¢ncia Entre NÃ³s - 2019
+#EXTINF:-1,A Distancia Entre Nos - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227589.mkv
 #EXTINF:-1,A Espada Era a Lei - 1963
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227590.avi
-#EXTINF:-1,A Espada MÃ¡gica: A Lenda de Camelot - 1998
+#EXTINF:-1,A Espada Magica: A Lenda de Camelot - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227591.mp4
 #EXTINF:-1,A Estrela de Natal (2017)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227592.mp4
-#EXTINF:-1,A ExtraordinÃ¡ria Garota Chamada Estrela - 2020(VP)
+#EXTINF:-1,A Extraordina¡ria Garota Chamada Estrela - 2020(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227593.mp4
 #EXTINF:-1,A Fall From Grace - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227594.mkv
 #EXTINF:-1,A Family Reunion Christmas - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227595.mkv
-#EXTINF:-1,A FamÃ­lia Addams - 2019
+#EXTINF:-1,A Fama­lia Addams - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227596.mkv
-#EXTINF:-1,A FamÃ­lia Addams - 2019 (VO)
+#EXTINF:-1,A Fama­lia Addams - 2019 (VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227597.mp4
 #EXTINF:-1,A Fortuna - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227598.mkv
@@ -257,13 +247,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227598.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227599.avi
 #EXTINF:-1,A Good Woman Is Hard to Find - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227600.mp4
-#EXTINF:-1,A Guarda do LeÃ£o: Um Novo Rugido - 2015
+#EXTINF:-1,A Guarda do Lea£o: Um Novo Rugido - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227601.mkv
 #EXTINF:-1,A Guerra dos Mundos - 1953
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227602.mkv
 #EXTINF:-1,A Herdade (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227604.mkv
-#EXTINF:-1,A HistÃ³ria dos Beastie Boys: Um DocumentÃ¡rio ao Vivo de Spike Jonze - 2020
+#EXTINF:-1,A Historia dos Beastie Boys: Um Documenta¡rio ao Vivo de Spike Jonze - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227605.mkv
 #EXTINF:-1,A Hora da sua Morte - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227606.mp4
@@ -283,21 +273,21 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227612.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227613.mkv
 #EXTINF:-1,A Ilha de Black Mor - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227614.mkv
-#EXTINF:-1,A IncrÃ­vel HistÃ³ria da Pera Gigante - 2017
+#EXTINF:-1,A Incra­vel Historia da Pera Gigante - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227615.mkv
-#EXTINF:-1,A Lenda do DragÃ£o - 2016(VP)
+#EXTINF:-1,A Lenda do Draga£o - 2016(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227616.mkv
 #EXTINF:-1,A Lista de Schindler - 1993
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227617.mkv
-#EXTINF:-1,A MaldiÃ§Ã£o da Mulher Que Chora - 2019
+#EXTINF:-1,A Maldicao da Mulher Que Chora - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227618.mkv
-#EXTINF:-1,A Menina da RÃ¡dio - 1944
+#EXTINF:-1,A Menina da Radio - 1944
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227619.mp4
 #EXTINF:-1,A Mentira Perfeita - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227620.mkv
-#EXTINF:-1,A Minha irmÃ£ InvisÃ­vel - 2015(VP)
+#EXTINF:-1,A Minha irma Invisi­vel - 2015(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227621.avi
-#EXTINF:-1,A Morte do DemÃ´nio - 2013
+#EXTINF:-1,A Morte do Demonio - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227622.mkv
 #EXTINF:-1,A Mosca - 1986
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227623.mkv
@@ -305,25 +295,25 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227623.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227624.mkv
 #EXTINF:-1,A Mulher do Meu Marido (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227625.mp4
-#EXTINF:-1,A MÃ£e Ã‰ Que Sabe - 2016
+#EXTINF:-1,A Mae e Que Sabe - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227626.mp4
-#EXTINF:-1,A MÃºmia - 1999
+#EXTINF:-1,A Mumia - 1999
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227627.mkv
-#EXTINF:-1,A MÃºmia: O TÃºmulo do Imperador DragÃ£o - 2008
+#EXTINF:-1,A Mumia: O Tumulo do Imperador Draga£o - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227628.mkv
 #EXTINF:-1,A Noite dos Mortos Vivos - 1990
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227629.mkv
-#EXTINF:-1,A Nova MissÃ£o de Dug - 2009
+#EXTINF:-1,A Nova Missao de Dug - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227630.mp4
 #EXTINF:-1,A Origem - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227631.mkv
-#EXTINF:-1,A Origem dos GuardiÃµes - 2012
+#EXTINF:-1,A Origem dos Guardioes - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227632.avi
-#EXTINF:-1,A Ovelha ChonÃ© - O Filme - 2015
+#EXTINF:-1,A Ovelha Chone - O Filme - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227633.mp4
-#EXTINF:-1,A Ovelha ChonÃ© - O Filme: A Quinta Contra-Ataca - 2019
+#EXTINF:-1,A Ovelha Chone - O Filme: A Quinta Contra-Ataca - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227634.mp4
-#EXTINF:-1,A PaixÃ£o de Cristo - 2004
+#EXTINF:-1,A Paixao de Cristo - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227635.mkv
 #EXTINF:-1,A Pequena Sereia - 1989
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227636.avi
@@ -337,11 +327,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227639.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227640.mkv
 #EXTINF:-1,A Princesa Cisne - 1994(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227641.mkv
-#EXTINF:-1,A Princesa e o DragÃ£o - 2018
+#EXTINF:-1,A Princesa e o Dragao - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227642.mp4
 #EXTINF:-1,A Princesa e o Sapo - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227643.avi
-#EXTINF:-1,A Queda do ImpÃ©rio Americano - 2018
+#EXTINF:-1,A Queda do Imperio Americano - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227644.mkv
 #EXTINF:-1,A Ressaca - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227645.mkv
@@ -355,7 +345,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227648.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227649.mkv
 #EXTINF:-1,A Serial Killer's Guide to Life - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227650.mkv
-#EXTINF:-1,A Sua Ãšltima Vontade - 2020
+#EXTINF:-1,A Sua ašltima Vontade - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227651.mp4
 #EXTINF:-1,A Sun - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227652.mkv
@@ -367,11 +357,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227654.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227655.mkv
 #EXTINF:-1,A Verdade em Segredo - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227656.mkv
-#EXTINF:-1,A Verdadeira HistÃ³ria de Jack, o Estripador - 2001
+#EXTINF:-1,A Verdadeira Historia de Jack, o Estripador - 2001
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227657.mkv
-#EXTINF:-1,A vida de BraÃ§o na Favela- 2020
+#EXTINF:-1,A vida de Braa§o na Favela- 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227658.mp4
-#EXTINF:-1,A Vida de um CampeÃ£o - 2019
+#EXTINF:-1,A Vida de um Campea£o - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227659.mkv
 #EXTINF:-1,A Vida Privada de Salazar - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227660.mkv
@@ -389,11 +379,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227665.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227666.mkv
 #EXTINF:-1,Abigail Haunting - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227667.mkv
-#EXTINF:-1,AbominÃ¡vel - 2019
+#EXTINF:-1,Abomina¡vel - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227668.mkv
-#EXTINF:-1,AbominÃ¡vel - 2019
+#EXTINF:-1,Abomina¡vel - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227669.mkv
-#EXTINF:-1,AbominÃ¡vel - 2019 (VO)
+#EXTINF:-1,Abomina¡vel - 2019 (VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227670.mkv
 #EXTINF:-1,About Cannabis and Cancer - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227671.mkv
@@ -417,7 +407,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227679.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227680.mkv
 #EXTINF:-1,Advogado do Diabo - 1997
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227681.mkv
-#EXTINF:-1,AdÃ£o e Eva - 1995
+#EXTINF:-1,Ada£o e Eva - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227682.avi
 #EXTINF:-1,After - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227683.mkv
@@ -431,7 +421,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227686.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227687.mp4
 #EXTINF:-1,Agent Toby Barks - 2020 (VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227688.mp4
-#EXTINF:-1,Agora Ã© que sÃ£o Elas - 1954
+#EXTINF:-1,Agora e que sa£o Elas - 1954
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227689.mp4
 #EXTINF:-1,Ala-Arriba! - 1942
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227690.mp4
@@ -443,23 +433,23 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227692.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227693.avi
 #EXTINF:-1,Aladdin - 2019 (VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227694.mp4
-#EXTINF:-1,Aladdin e o Rei dos LadrÃµes - 1996
+#EXTINF:-1,Aladdin e o Rei dos Ladraµes - 1996
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227695.mp4
 #EXTINF:-1,Aladdin: O Regresso de Jafar (1994)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227696.mp4
 #EXTINF:-1,Aldeia da Roupa Branca - 1939
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227697.mp4
-#EXTINF:-1,Alexandre e o TerrÃ­vel, HorrÃ­vel, Nada Bom, PÃ©ssimo Dia (2014)
+#EXTINF:-1,Alexandre e o Terra­vel, Horra­vel, Nada Bom, Pessimo Dia (2014)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227698.avi
-#EXTINF:-1,AlguÃ©m Como Eu - 2017
+#EXTINF:-1,Alguem Como Eu - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227699.mkv
 #EXTINF:-1,Ali G - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227700.mp4
 #EXTINF:-1,Alice do Outro Lado do Espelho - 2016(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227701.mp4
-#EXTINF:-1,Alice no paÃ­s das Maravilhas - 1995
+#EXTINF:-1,Alice no paa­s das Maravilhas - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227702.mp4
-#EXTINF:-1,Alice no PaÃ­s das Maravilhas - 2010(VP)
+#EXTINF:-1,Alice no Paa­s das Maravilhas - 2010(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227703.mp4
 #EXTINF:-1,Alien 3 - A Desforra - 1992
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227704.mkv
@@ -511,9 +501,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227726.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227727.mp4
 #EXTINF:-1,American Pie 4: Tocando a Maior Zona - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227728.mp4
-#EXTINF:-1,American Pie 5: O Ãšltimo Stifler VÃ­rgem - 2006
+#EXTINF:-1,American Pie 5: O ašltimo Stifler Va­rgem - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227729.mp4
-#EXTINF:-1,American Pie 6: Caindo em TentaÃ§Ã£o - 2007
+#EXTINF:-1,American Pie 6: Caindo em Tentaa§a£o - 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227730.mp4
 #EXTINF:-1,American Pie Apresenta: O Livro do Amor - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227731.mp4
@@ -521,7 +511,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227731.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227732.mp4
 #EXTINF:-1,American Son - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227733.mp4
-#EXTINF:-1,Amigos ImprovÃ¡veis (2011)
+#EXTINF:-1,Amigos Improva¡veis (2011)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227734.mp4
 #EXTINF:-1,Amor a preto e branco
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227735.mp4
@@ -533,7 +523,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227737.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227738.mkv
 #EXTINF:-1,And Then We Danced - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227739.mkv
-#EXTINF:-1,AndrÃ©s Iniesta: el hÃ©roe inesperado - 2020
+#EXTINF:-1,Andres Iniesta: el heroe inesperado - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227740.mp4
 #EXTINF:-1,Andy Murray: Resurfacing - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227741.mp4
@@ -559,7 +549,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227750.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227751.mkv
 #EXTINF:-1,Antrum - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227752.mkv
-#EXTINF:-1,ApariÃ§Ã£o - 2018
+#EXTINF:-1,Aparia§a£o - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227753.mp4
 #EXTINF:-1,Apocalypse Now - 1979
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227754.mp4
@@ -567,7 +557,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227754.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227755.mkv
 #EXTINF:-1,Apollo: Missions to the Moon - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227756.avi
-#EXTINF:-1,AprÃ³ mesÃ©k - 2019
+#EXTINF:-1,Apro mesek - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227757.mp4
 #EXTINF:-1,Aquaman - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227758.mkv
@@ -575,9 +565,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227758.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227759.mp4
 #EXTINF:-1,Arkansas - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227760.mkv
-#EXTINF:-1,Armados em EspiÃµes - 2019
+#EXTINF:-1,Armados em Espiaµes - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227761.mp4
-#EXTINF:-1,Armados em EspiÃµes - 2019(vo)
+#EXTINF:-1,Armados em Espiaµes - 2019(vo)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227762.mp4
 #EXTINF:-1,Armageddon - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227763.mkv
@@ -585,7 +575,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227763.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227764.mp4
 #EXTINF:-1,Artemis Fowl - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227765.mkv
-#EXTINF:-1,Arthur e a VinganÃ§a de Maltazard - 2009
+#EXTINF:-1,Arthur e a Vingana§a de Maltazard - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227766.avi
 #EXTINF:-1,Artik - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227767.mkv
@@ -607,9 +597,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227774.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227775.mkv
 #EXTINF:-1,As Cinquenta Sombras Mais Negras - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227776.mkv
-#EXTINF:-1,As CrÃ³nicas de Riddick - 2004
+#EXTINF:-1,As Cronicas de Riddick - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227777.mkv
-#EXTINF:-1,As Faces do DemÃ´nio - 2019
+#EXTINF:-1,As Faces do Dema´nio - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227778.mkv
 #EXTINF:-1,As Golpistas - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227779.mp4
@@ -627,7 +617,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227784.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227785.mkv
 #EXTINF:-1,Assalto ao Aeroporto - 1990
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227786.mkv
-#EXTINF:-1,Assalto ao Arranha-CÃ©us - 1988
+#EXTINF:-1,Assalto ao Arranha-Ceus - 1988
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227787.mkv
 #EXTINF:-1,Assalto ao Poder - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227788.mkv
@@ -635,17 +625,17 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227788.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227789.mp4
 #EXTINF:-1,Assassinaut - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227790.mkv
-#EXTINF:-1,Assassinos AnÃ´nimos - 2019
+#EXTINF:-1,Assassinos Ana´nimos - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227791.mp4
-#EXTINF:-1,Assassinos AnÃ´nimos - 2019
+#EXTINF:-1,Assassinos Ana´nimos - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227792.mkv
 #EXTINF:-1,Assim Nasce Uma Estrela - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227793.mkv
 #EXTINF:-1,Asterix e os Vikings (2006)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227794.mp4
-#EXTINF:-1,AstÃ©rix - O Segredo da PoÃ§Ã£o MÃ¡gica - 2018
+#EXTINF:-1,Asterix - O Segredo da Poa§a£o Ma¡gica - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227795.mp4
-#EXTINF:-1,AstÃ©rix: O DomÃ­nio dos Deuses - 2014
+#EXTINF:-1,Asterix: O Doma­nio dos Deuses - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227796.mp4
 #EXTINF:-1,Athlete: Ore ga kare ni oboreta hibi- 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227797.mp4
@@ -653,15 +643,15 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227797.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227798.mkv
 #EXTINF:-1,Atividade Paranormal 3 - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227799.mkv
-#EXTINF:-1,Atividade Paranormal 5 - DimensÃ£o Fantasma - 2015
+#EXTINF:-1,Atividade Paranormal 5 - Dimensa£o Fantasma - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227800.mkv
 #EXTINF:-1,Atlantis Rising - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227801.avi
-#EXTINF:-1,AtlÃ¢ntida - O Continente Perdido - 2001
+#EXTINF:-1,Atla¢ntida - O Continente Perdido - 2001
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227802.mp4
-#EXTINF:-1,AtlÃ¢ntida: O Regresso de Milo - 2003
+#EXTINF:-1,Atla¢ntida: O Regresso de Milo - 2003
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227803.mp4
-#EXTINF:-1,AtÃ© Logo, Meu Filho - 2019
+#EXTINF:-1,Ate Logo, Meu Filho - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227804.mkv
 #EXTINF:-1,Auntie Edna - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227805.avi
@@ -671,19 +661,19 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227806.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227807.mkv
 #EXTINF:-1,Austin Powers em Membro Dourado - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227808.mkv
-#EXTINF:-1,Austin Powers: O EspiÃ£o IrresistÃ­vel - 1999
+#EXTINF:-1,Austin Powers: O Espia£o Irresista­vel - 1999
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227809.mkv
 #EXTINF:-1,Avatar - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227810.mkv
-#EXTINF:-1,AviÃµes - 2013
+#EXTINF:-1,Aviaµes - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227811.avi
-#EXTINF:-1,AviÃµes - Equipa de Resgate - 2014
+#EXTINF:-1,Aviaµes - Equipa de Resgate - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227812.mkv
 #EXTINF:-1,Awoken - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227813.mkv
 #EXTINF:-1,Axcellerator - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227814.mp4
-#EXTINF:-1,Axel e os Meninos do EspaÃ§o - 2017
+#EXTINF:-1,Axel e os Meninos do Espaa§o - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227815.mkv
 #EXTINF:-1,Babysitters em Apuros - 2016(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227816.avi
@@ -717,9 +707,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227829.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227830.mp4
 #EXTINF:-1,Balas & Bolinhos: O Regresso - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227831.avi
-#EXTINF:-1,Balas & Bolinhos: O Ãšltimo CapÃ­tulo - 2012
+#EXTINF:-1,Balas & Bolinhos: O ašltimo Capa­tulo - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227832.mp4
-#EXTINF:-1,BALAS e BOLINHOS - MESMO Ã€ FRENTE DO TEU FOCINHO -2020
+#EXTINF:-1,BALAS e BOLINHOS - MESMO a€ FRENTE DO TEU FOCINHO -2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227833.mp4
 #EXTINF:-1,Bambi - 1942
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227834.avi
@@ -727,13 +717,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227834.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227835.mkv
 #EXTINF:-1,Barbie - A Princesa e a Popstar - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227836.avi
-#EXTINF:-1,Barbie e as suas IrmÃ£s em busca dos cachorrinhos - 2016
+#EXTINF:-1,Barbie e as suas Irma£s em busca dos cachorrinhos - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227837.mp4
-#EXTINF:-1,Barbie e as suas IrmÃ£s em uma Aventura de Cavalos - 2013
+#EXTINF:-1,Barbie e as suas Irma£s em uma Aventura de Cavalos - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227838.mp4
 #EXTINF:-1,Barbie e o Portal Secreto - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227839.mp4
-#EXTINF:-1,Barbie e os golfinhos mÃ¡gicos - 2017
+#EXTINF:-1,Barbie e os golfinhos ma¡gicos - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227840.mp4
 #EXTINF:-1,Barbie Em Um Mundo de Video Game - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227841.mkv
@@ -743,13 +733,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227842.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227843.avi
 #EXTINF:-1,Barbie: A Magia de Aladus - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227844.avi
-#EXTINF:-1,Barbie: A Princesa e a PlebÃ©ia - 2004
+#EXTINF:-1,Barbie: A Princesa e a Plebeia - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227845.avi
-#EXTINF:-1,Barbie: A Sereia das PÃ©rolas - 2013
+#EXTINF:-1,Barbie: A Sereia das Perolas - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227846.mp4
 #EXTINF:-1,Barbie: Agentes Secretas - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227847.mp4
-#EXTINF:-1,Barbie: As Sapatilhas MÃ¡gicas - 2013
+#EXTINF:-1,Barbie: As Sapatilhas Ma¡gicas - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227848.mp4
 #EXTINF:-1,Barbie: Aventura nas Estrelas - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227849.mp4
@@ -783,7 +773,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227862.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227863.mkv
 #EXTINF:-1,Batman - 1989
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227864.mkv
-#EXTINF:-1,Batman - O InÃ­cio - 2005
+#EXTINF:-1,Batman - O Ina­cio - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227865.mkv
 #EXTINF:-1,Batman Para Sempre - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227866.mkv
@@ -793,11 +783,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227867.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227868.mkv
 #EXTINF:-1,Batman Sem Limites: Instintos Animais - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227869.mkv
-#EXTINF:-1,Batman v Super-Homem: O Despertar da JustiÃ§a - 2016
+#EXTINF:-1,Batman v Super-Homem: O Despertar da Justia§a - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227870.mkv
 #EXTINF:-1,Batman vs As Tartarugas Ninja - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227871.mkv
-#EXTINF:-1,Batman: SilÃªncio - 2019
+#EXTINF:-1,Batman: Silaªncio - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227872.mkv
 #EXTINF:-1,Beat Bugs: All Together Now - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227873.mp4
@@ -813,7 +803,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227877.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227878.mp4
 #EXTINF:-1,Being - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227879.mp4
-#EXTINF:-1,Bem-vindo Ã  Zombieland - 2009
+#EXTINF:-1,Bem-vindo a  Zombieland - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227880.mkv
 #EXTINF:-1,Bert Kreischer: Hey Big Boy - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227881.mkv
@@ -823,7 +813,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227882.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227883.mkv
 #EXTINF:-1,Bharat - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227884.mkv
-#EXTINF:-1,Big Hero 6 - Os Novos HerÃ³is - 2014
+#EXTINF:-1,Big Hero 6 - Os Novos Herois - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227885.avi
 #EXTINF:-1,Big Time Adolescence - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227886.mkv
@@ -833,7 +823,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227887.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227888.mkv
 #EXTINF:-1,Billy the Kid - A Lenda - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227889.mkv
-#EXTINF:-1,Birds of Prey (E a FantabulÃ¡stica EmancipaÃ§Ã£o de uma Harley Quinn) - 2020
+#EXTINF:-1,Birds of Prey (E a Fantabula¡stica Emancipaa§a£o de uma Harley Quinn) - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227890.mp4
 #EXTINF:-1,Black and Blue - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227891.mkv
@@ -849,7 +839,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227895.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227896.mkv
 #EXTINF:-1,Blade: Trinity - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227897.avi
-#EXTINF:-1,Blinded by the Light - O Poder da MÃºsica - 2019
+#EXTINF:-1,Blinded by the Light - O Poder da Maºsica - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227898.mkv
 #EXTINF:-1,Blinky Bill, o Filme - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227899.mp4
@@ -871,7 +861,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227906.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227907.mkv
 #EXTINF:-1,Bolt - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227908.mkv
-#EXTINF:-1,Bombshell - O EscÃ¢ndalo - 2019
+#EXTINF:-1,Bombshell - O Esca¢ndalo - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227909.mp4
 #EXTINF:-1,Boog & Elliot 2 - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227910.mkv
@@ -879,17 +869,17 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227910.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227911.avi
 #EXTINF:-1,Boog & Elliot: Aventura na Floresta - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227912.mkv
-#EXTINF:-1,Boog e Elliot VÃ£o Ã  CaÃ§a - 2006
+#EXTINF:-1,Boog e Elliot Va£o a  Caa§a - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227913.mkv
 #EXTINF:-1,Book of Monsters - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227914.mkv
-#EXTINF:-1,Bora LÃ¡ - 2020
+#EXTINF:-1,Bora La¡ - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227915.mp4
-#EXTINF:-1,Boyhood: Da infÃ¢ncia a juventude - 2014
+#EXTINF:-1,Boyhood: Da infa¢ncia a juventude - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227916.mkv
 #EXTINF:-1,Bratz: Rock Angelz - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227917.mkv
-#EXTINF:-1,Brave - IndomÃ¡vel - 2012 (DUAL AUDIO)
+#EXTINF:-1,Brave - Indoma¡vel - 2012 (DUAL AUDIO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227918.avi
 #EXTINF:-1,Braveheart: O Desafio do Guerreiro - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227919.mkv
@@ -933,9 +923,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227937.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227938.avi
 #EXTINF:-1,Calm with Horses - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227939.mp4
-#EXTINF:-1,Camorra  A MÃ¡fia Italiana
+#EXTINF:-1,Camorra  A Ma¡fia Italiana
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227940.mp4
-#EXTINF:-1,CamÃµes - 1946
+#EXTINF:-1,Camaµes - 1946
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227941.mp4
 #EXTINF:-1,Can You Keep a Secret? - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227942.mkv
@@ -943,13 +933,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227942.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227943.mp4
 #EXTINF:-1,Cantiga da Rua - 1950
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227944.mp4
-#EXTINF:-1,CapitÃ£o AmÃ©rica - O Primeiro Vingador - 2011
+#EXTINF:-1,Capita£o America - O Primeiro Vingador - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227945.avi
-#EXTINF:-1,CapitÃ£o AmÃ©rica: Guerra Civil - 2016
+#EXTINF:-1,Capita£o America: Guerra Civil - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227946.avi
-#EXTINF:-1,CapitÃ£o AmÃ©rica: O Soldado do Inverno - 2014
+#EXTINF:-1,Capita£o America: O Soldado do Inverno - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227947.mkv
-#EXTINF:-1,CapitÃ£o Cuecas e a HistÃ³ria Assustadora do Fals-o-ween (2019)
+#EXTINF:-1,Capita£o Cuecas e a Historia Assustadora do Fals-o-ween (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227948.mp4
 #EXTINF:-1,Capone - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227949.mp4
@@ -959,9 +949,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227950.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227951.mp4
 #EXTINF:-1,Capuchinho Vermelho - A Nova Aventura - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227952.mp4
-#EXTINF:-1,Capuchinho Vermelho - A Verdadeira HistÃ³ria - 2005
+#EXTINF:-1,Capuchinho Vermelho - A Verdadeira Historia - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227953.avi
-#EXTINF:-1,Carecas do SubÃºrbio Conexao Reporter
+#EXTINF:-1,Carecas do Subaºrbio Conexao Reporter
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227954.mp4
 #EXTINF:-1,Carga - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227955.mp4
@@ -979,9 +969,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227960.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227961.mkv
 #EXTINF:-1,Cats - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227962.mkv
-#EXTINF:-1,CaÃ§a-Fantasmas - 2016
+#EXTINF:-1,Caa§a-Fantasmas - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227963.mkv
-#EXTINF:-1,Ce que le jour doit Ã  la nuit - 2012
+#EXTINF:-1,Ce que le jour doit a  la nuit - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227964.mkv
 #EXTINF:-1,Cegonhas - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227965.mkv
@@ -995,7 +985,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227968.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227969.mkv
 #EXTINF:-1,Chorar de Rir (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227970.mp4
-#EXTINF:-1,Chovem AlmÃ´ndegas - 2009
+#EXTINF:-1,Chovem Alma´ndegas - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227971.avi
 #EXTINF:-1,Chris D'Elia: No Pain - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227972.mkv
@@ -1007,13 +997,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227974.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227975.mkv
 #EXTINF:-1,Cinderela - 2015(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227976.mp4
-#EXTINF:-1,Cinderela e o PrÃ­ncipe Secreto (2018)(VO)
+#EXTINF:-1,Cinderela e o Pra­ncipe Secreto (2018)(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227977.mkv
 #EXTINF:-1,Cinderela Reviravolta no Tempo - 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227978.avi
 #EXTINF:-1,Circus of Books - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227979.mkv
-#EXTINF:-1,Citizen Kane - O Mundo a Seus PÃ©s - 1941
+#EXTINF:-1,Citizen Kane - O Mundo a Seus Pes - 1941
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227980.mkv
 #EXTINF:-1,Clara e Claire - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227981.mkv
@@ -1027,7 +1017,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227984.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227985.mkv
 #EXTINF:-1,Coffee & Kareem - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227986.mp4
-#EXTINF:-1,Cold Case HammarskjÃ¶ld - 2019
+#EXTINF:-1,Cold Case Hammarskja¶ld - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227987.mkv
 #EXTINF:-1,Colewell - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227988.mkv
@@ -1039,9 +1029,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227990.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227991.mkv
 #EXTINF:-1,Comportem-se como Adultos - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227992.mkv
-#EXTINF:-1,Conan e os BÃ¡rbaros - 1982
+#EXTINF:-1,Conan e os Ba¡rbaros - 1982
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227993.mkv
-#EXTINF:-1,Conan, O BÃ¡rbaro - 2011
+#EXTINF:-1,Conan, O Ba¡rbaro - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227994.mkv
 #EXTINF:-1,Conan, O Destruidor - 1984
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227995.mkv
@@ -1049,11 +1039,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227995.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227996.mkv
 #EXTINF:-1,Containment - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227997.mp4
-#EXTINF:-1,ContÃ¡gio - 2011
+#EXTINF:-1,Conta¡gio - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227998.mkv
 #EXTINF:-1,Copperman - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/227999.mkv
-#EXTINF:-1,Corpus Christi - A RedenÃ§Ã£o - 2019
+#EXTINF:-1,Corpus Christi - A Redena§a£o - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228000.mkv
 #EXTINF:-1,Cowboys vs. Zombies - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228001.mkv
@@ -1071,7 +1061,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228006.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228007.mp4
 #EXTINF:-1,Cruel Peter - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228008.mkv
-#EXTINF:-1,CrÃ³nicas de Natal - 2018 (VP)
+#EXTINF:-1,Cronicas de Natal - 2018 (VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228009.mp4
 #EXTINF:-1,Cube Zero - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228010.mkv
@@ -1083,11 +1073,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228012.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228013.mkv
 #EXTINF:-1,Curiosa - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228014.mkv
-#EXTINF:-1,CÃ£es Astronautas - 2010
+#EXTINF:-1,Ca£es Astronautas - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228015.avi
 #EXTINF:-1,D-Day - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228016.mkv
-#EXTINF:-1,Da 5 Bloods: IrmÃ£os de Armas - 2020
+#EXTINF:-1,Da 5 Bloods: Irma£os de Armas - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228017.mkv
 #EXTINF:-1,Dancing with the Birds - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228018.mkv
@@ -1095,7 +1085,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228018.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228019.mkv
 #EXTINF:-1,Daniel Isn't Real - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228020.mkv
-#EXTINF:-1,Danmarks SÃ¸nner - 2019
+#EXTINF:-1,Danmarks Sa¸nner - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228021.mkv
 #EXTINF:-1,Dark Encounter - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228022.mkv
@@ -1141,7 +1131,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228041.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228042.mkv
 #EXTINF:-1,Devdas - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228043.mp4
-#EXTINF:-1,Dia da IndependÃªncia - 1996
+#EXTINF:-1,Dia da Independaªncia - 1996
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228044.mkv
 #EXTINF:-1,Dia dos Mortos - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228045.mkv
@@ -1151,9 +1141,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228046.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228047.mp4
 #EXTINF:-1,Die Hard 4.0 - Viver ou Morrer - 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228048.mkv
-#EXTINF:-1,Die Hard: A VinganÃ§a - 1995
+#EXTINF:-1,Die Hard: A Vingana§a - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228049.mkv
-#EXTINF:-1,Die Hard: Nunca Ã© Bom Dia para Morrer - 2013
+#EXTINF:-1,Die Hard: Nunca e Bom Dia para Morrer - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228050.mkv
 #EXTINF:-1,Dinossauro (2000)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228051.mp4
@@ -1187,7 +1177,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228064.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228065.mkv
 #EXTINF:-1,Door in the Woods - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228066.mkv
-#EXTINF:-1,Dor e GlÃ³ria - 2019
+#EXTINF:-1,Dor e Gloria - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228067.mp4
 #EXTINF:-1,Dora e a Cidade Perdida - 2019(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228068.mp4
@@ -1201,13 +1191,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228071.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228072.mp4
 #EXTINF:-1,Downton Abbey - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228073.mkv
-#EXTINF:-1,Dragon Hill - A Colina do DragÃ£o - 2002
+#EXTINF:-1,Dragon Hill - A Colina do Draga£o - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228074.mkv
 #EXTINF:-1,Dragonheart: Vengeance - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228075.mkv
 #EXTINF:-1,Dragons: Rescue Riders: Hunt for the Golden Dragon - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228076.mkv
-#EXTINF:-1,DragÃ£o Vermelho - 2002
+#EXTINF:-1,Draga£o Vermelho - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228077.mkv
 #EXTINF:-1,Dreamkatcher - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228078.mp4
@@ -1255,7 +1245,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228098.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228099.avi
 #EXTINF:-1,Em Busca do Vale Encantado - 1988
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228100.mkv
-#EXTINF:-1,Em Busca do Vale Encantado IV: Viagem AtravÃ©s Da NÃ©voa - 1996
+#EXTINF:-1,Em Busca do Vale Encantado IV: Viagem Atraves Da Nevoa - 1996
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228101.mkv
 #EXTINF:-1,Em Chamas - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228102.mkv
@@ -1269,7 +1259,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228105.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228106.mp4
 #EXTINF:-1,Enemy Lines - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228107.mp4
-#EXTINF:-1,Engenhos MortÃ­feros - 2018
+#EXTINF:-1,Engenhos Morta­feros - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228108.mkv
 #EXTINF:-1,Entre as Sombras : Among the Shadows - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228109.mkv
@@ -1281,7 +1271,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228111.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228112.mkv
 #EXTINF:-1,Era Uma Vez emâ€¦ Hollywood - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228113.mkv
-#EXTINF:-1,Era Uma Vez na AmÃ©rica - 1984
+#EXTINF:-1,Era Uma Vez na America - 1984
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228114.mkv
 #EXTINF:-1,Era uma Vez: Anastasia - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228115.mp4
@@ -1289,9 +1279,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228115.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228116.mkv
 #EXTINF:-1,Especiais - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228117.mkv
-#EXTINF:-1,Especial de Natal Porta dos Fundos: A Primeira TentaÃ§Ã£o de Cristo - 2019
+#EXTINF:-1,Especial de Natal Porta dos Fundos: A Primeira Tentaa§a£o de Cristo - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228118.mp4
-#EXTINF:-1,EsquadrÃ£o 6 - 2019
+#EXTINF:-1,Esquadra£o 6 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228119.mp4
 #EXTINF:-1,Estou Me Guardando para Quando o Carnaval Chegar - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228120.mkv
@@ -1301,7 +1291,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228121.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228122.mkv
 #EXTINF:-1,Euphoria - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228123.mp4
-#EXTINF:-1,EusÃ©bio: HistÃ³ria de uma Lenda - 2017
+#EXTINF:-1,Eusebio: Historia de uma Lenda - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228124.mp4
 #EXTINF:-1,Evanescence - Argentina 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228125.mp4
@@ -1311,15 +1301,15 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228126.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228127.mp4
 #EXTINF:-1,Evge - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228128.mkv
-#EXTINF:-1,Expresso do AmanhÃ£ - 2013
+#EXTINF:-1,Expresso do Amanha£ - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228129.mkv
-#EXTINF:-1,Exterminador ImplacÃ¡vel 2: O Dia do Julgamento - 1991
+#EXTINF:-1,Exterminador Implaca¡vel 2: O Dia do Julgamento - 1991
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228130.mkv
-#EXTINF:-1,Exterminador ImplacÃ¡vel 3: AscensÃ£o das MÃ¡quinas - 2003
+#EXTINF:-1,Exterminador Implaca¡vel 3: Ascensa£o das Ma¡quinas - 2003
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228131.mkv
-#EXTINF:-1,Exterminador ImplacÃ¡vel: A SalvaÃ§Ã£o - 2009
+#EXTINF:-1,Exterminador Implaca¡vel: A Salvaa§a£o - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228132.mkv
-#EXTINF:-1,Exterminador ImplacÃ¡vel: Destino Sombrio - 2019
+#EXTINF:-1,Exterminador Implaca¡vel: Destino Sombrio - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228133.mp4
 #EXTINF:-1,Exterminador: Genisys - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228134.mkv
@@ -1335,9 +1325,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228138.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228139.mkv
 #EXTINF:-1,Famel Top Secret - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228140.mkv
-#EXTINF:-1,Famel- A Ãšltima Famel - 2010
+#EXTINF:-1,Famel- A ašltima Famel - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228141.mp4
-#EXTINF:-1,Fangio: O Homem que Domava as MÃ¡quinas - 2020
+#EXTINF:-1,Fangio: O Homem que Domava as Ma¡quinas - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228142.mkv
 #EXTINF:-1,Fantasia - 1940
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228143.avi
@@ -1369,7 +1359,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228155.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228156.mkv
 #EXTINF:-1,Forrest Gump - 1994
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228157.mkv
-#EXTINF:-1,ForÃ§a G - 2009(VP)
+#EXTINF:-1,Fora§a G - 2009(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228158.avi
 #EXTINF:-1,Foxtrot Six - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228159.mp4
@@ -1411,7 +1401,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228176.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228177.mkv
 #EXTINF:-1,Ghost Rider - 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228178.avi
-#EXTINF:-1,Ghost Rider: EspÃ­rito de VinganÃ§a - 2011
+#EXTINF:-1,Ghost Rider: Espa­rito de Vingana§a - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228179.avi
 #EXTINF:-1,Girl on the Third Floor - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228180.mkv
@@ -1429,7 +1419,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228185.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228186.mkv
 #EXTINF:-1,Godzilla II: Rei dos Monstros - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228187.mkv
-#EXTINF:-1,Golpe no ParaÃ­so - 2004
+#EXTINF:-1,Golpe no Paraa­so - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228188.mp4
 #EXTINF:-1,Gon  the Little Fox - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228189.mkv
@@ -1439,7 +1429,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228190.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228191.mkv
 #EXTINF:-1,Grand-Daddy Day Care - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228192.mp4
-#EXTINF:-1,GraÃ§as a Deus - 2019
+#EXTINF:-1,Graa§as a Deus - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228193.mp4
 #EXTINF:-1,Grease: Nos Tempos da Brilhantina - 1978
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228194.mp4
@@ -1465,9 +1455,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228203.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228204.mp4
 #EXTINF:-1,Gru - O Maldisposto 3 - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228205.mp4
-#EXTINF:-1,GuardiÃµes da GalÃ¡xia - 2014
+#EXTINF:-1,Guardiaµes da Gala¡xia - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228206.mkv
-#EXTINF:-1,GuardiÃµes da GalÃ¡xia Vol. 2 - 2017
+#EXTINF:-1,Guardiaµes da Gala¡xia Vol. 2 - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228207.avi
 #EXTINF:-1,Guerra das Correntes - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228208.mkv
@@ -1489,7 +1479,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228215.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228216.mkv
 #EXTINF:-1,Halloween - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228217.mkv
-#EXTINF:-1,Han Solo: Uma HistÃ³ria de Star Wars - 2018
+#EXTINF:-1,Han Solo: Uma Historia de Star Wars - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228218.mkv
 #EXTINF:-1,Hank Zipzer's Christmas Catastrophe - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228219.mp4
@@ -1505,27 +1495,27 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228223.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228224.mkv
 #EXTINF:-1,Harriet - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228225.mkv
-#EXTINF:-1,Harry Potter e a CÃ¢mara dos Segredos - 2002 (VP)
+#EXTINF:-1,Harry Potter e a Ca¢mara dos Segredos - 2002 (VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228226.avi
-#EXTINF:-1,Harry Potter e a Ordem da FÃ©nix - 2007(VP)
+#EXTINF:-1,Harry Potter e a Ordem da Fenix - 2007(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228227.avi
 #EXTINF:-1,Harry Potter e a Pedra Filosofal - 2001 (VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228228.avi
-#EXTINF:-1,Harry Potter e o CÃ¡lice de Fogo - 2005(VP)
+#EXTINF:-1,Harry Potter e o Ca¡lice de Fogo - 2005(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228229.avi
 #EXTINF:-1,Harry Potter e o Prisioneiro de Azkaban - 2004 (VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228230.avi
-#EXTINF:-1,Harry Potter e o PrÃ­ncipe Misterioso - 2009(VP)
+#EXTINF:-1,Harry Potter e o Pra­ncipe Misterioso - 2009(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228231.avi
-#EXTINF:-1,Harry Potter e os TalismÃ£s da Morte: Parte 1 - 2010(VP)
+#EXTINF:-1,Harry Potter e os Talisma£s da Morte: Parte 1 - 2010(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228232.avi
-#EXTINF:-1,Harry Potter e os TalismÃ£s da Morte: Parte 2 - 2011(VP)
+#EXTINF:-1,Harry Potter e os Talisma£s da Morte: Parte 2 - 2011(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228233.avi
 #EXTINF:-1,Haunt - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228234.mkv
 #EXTINF:-1,Have a Good Trip: Adventures in Psychedelics - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228235.mkv
-#EXTINF:-1,Heat - Cidade Sob PressÃ£o - 1995
+#EXTINF:-1,Heat - Cidade Sob Pressa£o - 1995
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228236.mkv
 #EXTINF:-1,Heidi - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228237.mkv
@@ -1543,7 +1533,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228242.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228243.avi
 #EXTINF:-1,Heritage - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228244.mkv
-#EXTINF:-1,HistÃ³rias Assustadoras Para Contar no Escuro - 2019
+#EXTINF:-1,Historias Assustadoras Para Contar no Escuro - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228245.mkv
 #EXTINF:-1,Hitman - Agent Jun- 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228246.mkv
@@ -1593,11 +1583,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228267.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228268.mkv
 #EXTINF:-1,Hotel Ruanda - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228269.mkv
-#EXTINF:-1,Hotel TransilvÃ¢nia - 2012
+#EXTINF:-1,Hotel Transilva¢nia - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228270.avi
 #EXTINF:-1,Hotel Transylvania 2 - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228271.mkv
-#EXTINF:-1,Hotel Transylvania 3: Umas FÃ©rias Monstruosas - 2018
+#EXTINF:-1,Hotel Transylvania 3: Umas Ferias Monstruosas - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228272.mp4
 #EXTINF:-1,House of Purgatory - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228273.mkv
@@ -1605,9 +1595,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228273.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228274.mkv
 #EXTINF:-1,Hunter's Moon - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228275.mkv
-#EXTINF:-1,HvÃ­tur, HvÃ­tur Dagur - 2019
+#EXTINF:-1,Hva­tur, Hva­tur Dagur - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228276.mkv
-#EXTINF:-1,HÃ¶re die Stille - 2016
+#EXTINF:-1,Ha¶re die Stille - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228277.mkv
 #EXTINF:-1,I Am Fear - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228278.mp4
@@ -1629,7 +1619,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228285.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228286.mkv
 #EXTINF:-1,Iliza Shlesinger: Unveiled - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228287.mkv
-#EXTINF:-1,Impacto MortÃ­fero - 2019
+#EXTINF:-1,Impacto Morta­fero - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228288.mkv
 #EXTINF:-1,Impacto Profundo - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228289.mkv
@@ -1687,13 +1677,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228314.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228315.mp4
 #EXTINF:-1,Isi & Ossi - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228316.mkv
-#EXTINF:-1,Isto NÃ£o Ã© Um ChapÃ©u
+#EXTINF:-1,Isto Na£o e Um Chapeu
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228317.mp4
-#EXTINF:-1,It - CapÃ­tulo 2 - 2019
+#EXTINF:-1,It - Capa­tulo 2 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228318.mkv
 #EXTINF:-1,Itsy Bitsy - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228319.mkv
-#EXTINF:-1,J'accuse - O Oficial e o EspiÃ£o - 2019
+#EXTINF:-1,J'accuse - O Oficial e o Espia£o - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228320.mkv
 #EXTINF:-1,J'ai perdu mon corps - 2019(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228321.mkv
@@ -1721,7 +1711,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228331.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228332.mkv
 #EXTINF:-1,John Wick 2 - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228333.mkv
-#EXTINF:-1,John Wick 3: ImplacÃ¡vel - 2019
+#EXTINF:-1,John Wick 3: Implaca¡vel - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228334.mkv
 #EXTINF:-1,Jojo Rabbit - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228335.mkv
@@ -1731,9 +1721,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228336.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228337.mkv
 #EXTINF:-1,Judy - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228338.mkv
-#EXTINF:-1,Jumanji: Bem-Vindos Ã  Selva - 2017
+#EXTINF:-1,Jumanji: Bem-Vindos a  Selva - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228339.mkv
-#EXTINF:-1,Jumanji: O NÃ­vel Seguinte - 2019
+#EXTINF:-1,Jumanji: O Na­vel Seguinte - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228340.mkv
 #EXTINF:-1,Jungle Shuffle - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228341.avi
@@ -2509,7 +2499,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228726.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228727.mp4
 #EXTINF:-1,Kim Possible - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228728.avi
-#EXTINF:-1,Kim Possible - Ficheiros de VilÃµes - 2003
+#EXTINF:-1,Kim Possible - Ficheiros de Vilaµes - 2003
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228729.avi
 #EXTINF:-1,Kitbull - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228730.avi
@@ -2517,7 +2507,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228730.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228731.mp4
 #EXTINF:-1,Klaus - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228732.mkv
-#EXTINF:-1,Knives Out: Todos SÃ£o Suspeitos - 2019
+#EXTINF:-1,Knives Out: Todos Sa£o Suspeitos - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228733.mp4
 #EXTINF:-1,Koma - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228734.mkv
@@ -2527,11 +2517,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228735.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228736.mkv
 #EXTINF:-1,L'Intervention - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228737.mkv
-#EXTINF:-1,L'OdyssÃ©e de Choum - 2020
+#EXTINF:-1,L'Odyssee de Choum - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228738.mp4
-#EXTINF:-1,La belle Ã©poque - 2019
+#EXTINF:-1,La belle epoque - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228739.mkv
-#EXTINF:-1,La casa de papel: El fenÃ³meno - 2020
+#EXTINF:-1,La casa de papel: El fenomeno - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228740.mkv
 #EXTINF:-1,La odisea de los giles - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228741.mkv
@@ -2545,11 +2535,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228744.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228745.mkv
 #EXTINF:-1,Lado a Lado - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228746.mkv
-#EXTINF:-1,LadrÃµes de Tuta e Meia - 2019
+#EXTINF:-1,Ladraµes de Tuta e Meia - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228747.mp4
 #EXTINF:-1,Lady Gaga: Enigma | Live in Miami on Super Saturday Night
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228748.mp4
-#EXTINF:-1,Laranja MecÃ¢nica - 1971
+#EXTINF:-1,Laranja Meca¢nica - 1971
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228749.mkv
 #EXTINF:-1,Largo do Caldas - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228750.mp4
@@ -2579,7 +2569,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228761.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228762.mp4
 #EXTINF:-1,Legalidade (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228763.mp4
-#EXTINF:-1,LEGO Aquaman - A FÃºria de AtlÃ¢ntida - 2018
+#EXTINF:-1,LEGO Aquaman - A Faºria de Atla¢ntida - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228764.mp4
 #EXTINF:-1,Lego Batman: O Filme - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228765.mkv
@@ -2587,7 +2577,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228765.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228766.mkv
 #EXTINF:-1,LEGO DC Comics Super Heroes: Batman: Be-Leaguered - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228767.mp4
-#EXTINF:-1,Lego Jurassic World: A ExposiÃ§Ã£o Secreta - 2018
+#EXTINF:-1,Lego Jurassic World: A Exposia§a£o Secreta - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228768.mp4
 #EXTINF:-1,LEGO Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228769.mp4
@@ -2603,17 +2593,17 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228773.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228774.mp4
 #EXTINF:-1,LEGO Scooby-Doo! Blowout Beach Bash - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228775.mkv
-#EXTINF:-1,LEGO Super HerÃ³is: Liga da JustiÃ§a vs. Liga Bizarra - 2015
+#EXTINF:-1,LEGO Super Herois: Liga da Justia§a vs. Liga Bizarra - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228776.mkv
-#EXTINF:-1,Les Crevettes PailletÃ©es - 2019
+#EXTINF:-1,Les Crevettes Pailletees - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228777.mkv
 #EXTINF:-1,Les Traducteurs - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228778.mp4
 #EXTINF:-1,Leviano - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228779.mp4
-#EXTINF:-1,Liga da JustiÃ§a - 2017
+#EXTINF:-1,Liga da Justia§a - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228780.mkv
-#EXTINF:-1,Liga da JustiÃ§a: A LegiÃ£o do Mal - 2012
+#EXTINF:-1,Liga da Justia§a: A Legia£o do Mal - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228781.mkv
 #EXTINF:-1,Like a Boss- 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228782.mp4
@@ -2643,13 +2633,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228793.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228794.mkv
 #EXTINF:-1,Low Tide - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228795.mkv
-#EXTINF:-1,Luan Santana - GoiÃ¢nia 2019
+#EXTINF:-1,Luan Santana - Goia¢nia 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228796.mp4
 #EXTINF:-1,Luce - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228797.mkv
 #EXTINF:-1,Lucky Day - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228798.mkv
-#EXTINF:-1,Lucky Luke : Os Dalton Ã€ Solta - 1983
+#EXTINF:-1,Lucky Luke : Os Dalton a€ Solta - 1983
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228799.mkv
 #EXTINF:-1,Lucky Luke: a Balada dos Dalton - 1978
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228800.mkv
@@ -2673,35 +2663,35 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228808.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228809.mkv
 #EXTINF:-1,Mad Max - 1979
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228810.mkv
-#EXTINF:-1,Mad Max 2 - A CaÃ§ada Continua - 1981
+#EXTINF:-1,Mad Max 2 - A Caa§ada Continua - 1981
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228811.mkv
-#EXTINF:-1,Mad Max 3 - AlÃ©m da CÃºpula do TrovÃ£o - 1985
+#EXTINF:-1,Mad Max 3 - Alem da Caºpula do Trova£o - 1985
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228812.mkv
-#EXTINF:-1,Mad Max: Estrada da FÃºria - 2015
+#EXTINF:-1,Mad Max: Estrada da Faºria - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228813.mkv
-#EXTINF:-1,MadagÃ¡scar - 2005
+#EXTINF:-1,Madaga¡scar - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228814.mp4
-#EXTINF:-1,MadagÃ¡scar 2 - 2008
+#EXTINF:-1,Madaga¡scar 2 - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228815.mp4
-#EXTINF:-1,MadagÃ¡scar 3 - 2012
+#EXTINF:-1,Madaga¡scar 3 - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228816.mp4
 #EXTINF:-1,Making Waves: The Art of Cinematic Sound - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228817.mkv
 #EXTINF:-1,Malapata - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228818.mp4
-#EXTINF:-1,MalÃ©fica - 2014
+#EXTINF:-1,Malefica - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228819.avi
-#EXTINF:-1,MalÃ©fica: Mestre do Mal - 2019
+#EXTINF:-1,Malefica: Mestre do Mal - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228820.mkv
-#EXTINF:-1,MalÃ©fica: Mestre do Mal - 2019(VP)
+#EXTINF:-1,Malefica: Mestre do Mal - 2019(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228821.mkv
 #EXTINF:-1,Marginais -2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228822.mp4
-#EXTINF:-1,Maria do CaritÃ³ - 2019
+#EXTINF:-1,Maria do Carito - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228823.mp4
 #EXTINF:-1,Maria Papoila - 1937
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228824.avi
-#EXTINF:-1,Maria, Regina RomÃ¢niei - 2019
+#EXTINF:-1,Maria, Regina Roma¢niei - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228825.mkv
 #EXTINF:-1,Marnie e os Amigos - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228826.mkv
@@ -2715,7 +2705,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228829.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228830.avi
 #EXTINF:-1,Mary - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228831.mkv
-#EXTINF:-1,MarÃ­lia MendonÃ§a no Rio de Janeiro
+#EXTINF:-1,Mara­lia Mendona§a no Rio de Janeiro
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228832.mp4
 #EXTINF:-1,Maska - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228833.mp4
@@ -2761,9 +2751,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228852.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228853.mkv
 #EXTINF:-1,Meu Primeiro Amor - Parte 2 - 1994
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228854.mkv
-#EXTINF:-1,Mia e o LeÃ£o Branco - 2018
+#EXTINF:-1,Mia e o Lea£o Branco - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228855.mkv
-#EXTINF:-1,MIB: Homens de Negro - ForÃ§a Internacional - 2019
+#EXTINF:-1,MIB: Homens de Negro - Fora§a Internacional - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228856.mkv
 #EXTINF:-1,Michelle Wolf: Joke Show - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228857.mp4
@@ -2781,11 +2771,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228862.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228863.mkv
 #EXTINF:-1,Mine 9 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228864.mp4
-#EXTINF:-1,Minha MÃ£e - 2004
+#EXTINF:-1,Minha Ma£e - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228865.mkv
-#EXTINF:-1,Minha MÃ£e Ã© uma PeÃ§a - 2013
+#EXTINF:-1,Minha Ma£e e uma Pea§a - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228866.mp4
-#EXTINF:-1,Minha MÃ£e Ã© Uma PeÃ§a 3: O Filme - 2019
+#EXTINF:-1,Minha Ma£e e Uma Pea§a 3: O Filme - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228867.mkv
 #EXTINF:-1,Miracle in Cell No. 7 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228868.mp4
@@ -2795,23 +2785,23 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228869.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228870.mkv
 #EXTINF:-1,Miss Fisher and the Crypt of Tears - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228871.mp4
-#EXTINF:-1,MissÃ£o Catmandu: As Aventuras de Nelly e Simon - 2017
+#EXTINF:-1,Missa£o Catmandu: As Aventuras de Nelly e Simon - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228872.mkv
-#EXTINF:-1,MissÃ£o: ImpossÃ­vel - 1996
+#EXTINF:-1,Missa£o: Impossa­vel - 1996
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228873.mkv
-#EXTINF:-1,MissÃ£o: ImpossÃ­vel - Fallout - 2018
+#EXTINF:-1,Missa£o: Impossa­vel - Fallout - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228874.mkv
-#EXTINF:-1,MissÃ£o: ImpossÃ­vel - NaÃ§Ã£o Secreta - 2015
+#EXTINF:-1,Missa£o: Impossa­vel - Naa§a£o Secreta - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228875.mkv
-#EXTINF:-1,MissÃ£o: ImpossÃ­vel - OperaÃ§Ã£o Fantasma - 2011
+#EXTINF:-1,Missa£o: Impossa­vel - Operaa§a£o Fantasma - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228876.mkv
-#EXTINF:-1,MissÃ£o: ImpossÃ­vel 2 - 2000
+#EXTINF:-1,Missa£o: Impossa­vel 2 - 2000
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228877.mkv
-#EXTINF:-1,MissÃ£o: ImpossÃ­vel 3 - 2006
+#EXTINF:-1,Missa£o: Impossa­vel 3 - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228878.mkv
-#EXTINF:-1,MistÃ©rios de Lisboa - 2010 (part1)
+#EXTINF:-1,Misterios de Lisboa - 2010 (part1)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228879.mp4
-#EXTINF:-1,MistÃ©rios de Lisboa - 2010(part2)
+#EXTINF:-1,Misterios de Lisboa - 2010(part2)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228880.mp4
 #EXTINF:-1,Mix Bruna Louise
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228881.mp4
@@ -2819,7 +2809,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228881.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228882.mkv
 #EXTINF:-1,Modern Family - The Documentary- 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228883.mkv
-#EXTINF:-1,Modo AviÃ£o - 2020
+#EXTINF:-1,Modo Avia£o - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228884.mp4
 #EXTINF:-1,Mon Inconnue - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228885.mkv
@@ -2829,15 +2819,15 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228886.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228887.avi
 #EXTINF:-1,Monstros e Monstrinhos - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228888.mp4
-#EXTINF:-1,Monstros FantÃ¡sticos: Os Crimes de Grindelwald - 2018
+#EXTINF:-1,Monstros Fanta¡sticos: Os Crimes de Grindelwald - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228889.mkv
 #EXTINF:-1,Monstros: A Universidade - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228890.avi
-#EXTINF:-1,Morangos com AÃ§Ãºcar - O Filme - 2012
+#EXTINF:-1,Morangos com Aa§aºcar - O Filme - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228891.avi
-#EXTINF:-1,Mortadela e SalamÃ£o: MissÃ£o NÃ£o PossÃ­vel - 2014
+#EXTINF:-1,Mortadela e Salama£o: Missa£o Na£o Possa­vel - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228892.mkv
-#EXTINF:-1,Mortal Kombat Legends: A VinganÃ§a de Scorpion - 2020(VO)
+#EXTINF:-1,Mortal Kombat Legends: A Vingana§a de Scorpion - 2020(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228893.mp4
 #EXTINF:-1,Mosley e a Cidade Secreta - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228894.mp4
@@ -2853,7 +2843,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228898.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228899.mkv
 #EXTINF:-1,Mrs. Serial Killer - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228900.mp4
-#EXTINF:-1,MudanÃ§a de HÃ¡bito - 1992
+#EXTINF:-1,Mudana§a de Ha¡bito - 1992
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228901.mp4
 #EXTINF:-1,Mulan - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228902.mkv
@@ -2869,41 +2859,41 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228906.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228907.mkv
 #EXTINF:-1,My Soul To Keep - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228908.mkv
-#EXTINF:-1,MÃ¡quina de Guerra - 2017
+#EXTINF:-1,Ma¡quina de Guerra - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228909.mkv
-#EXTINF:-1,MÃ¡quina MortÃ­fera - 1987
+#EXTINF:-1,Ma¡quina Morta­fera - 1987
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228910.mkv
-#EXTINF:-1,MÃ¡quina MortÃ­fera 2 - 1989
+#EXTINF:-1,Ma¡quina Morta­fera 2 - 1989
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228911.mkv
-#EXTINF:-1,MÃ¡quina MortÃ­fera 3 - 1992
+#EXTINF:-1,Ma¡quina Morta­fera 3 - 1992
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228912.mkv
-#EXTINF:-1,MÃ¡quina MortÃ­fera 4 - 1998
+#EXTINF:-1,Ma¡quina Morta­fera 4 - 1998
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228913.mkv
-#EXTINF:-1,MÃ©morable (2019)(VO)
+#EXTINF:-1,Memorable (2019)(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228914.mp4
-#EXTINF:-1,MÃ­nimos (2015)
+#EXTINF:-1,Ma­nimos (2015)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228915.mp4
-#EXTINF:-1,MÃ­nimos:  Minion - 2015
+#EXTINF:-1,Ma­nimos:  Minion - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228916.mp4
-#EXTINF:-1,MÃ­nimos: Banana - 2010
+#EXTINF:-1,Ma­nimos: Banana - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228917.mp4
-#EXTINF:-1,MÃ­nimos: CompetiÃ§Ã£o - 2015
+#EXTINF:-1,Ma­nimos: Competia§a£o - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228918.mp4
-#EXTINF:-1,MÃ­nimos: Orientation Day - 2010
+#EXTINF:-1,Ma­nimos: Orientation Day - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228919.mp4
-#EXTINF:-1,MÃ­nimos: Puppy - 2013
+#EXTINF:-1,Ma­nimos: Puppy - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228920.mp4
-#EXTINF:-1,MÃ­nimos: PÃ¢nico na CorrespondÃªncia - 2013
+#EXTINF:-1,Ma­nimos: Pa¢nico na Correspondaªncia - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228921.mp4
-#EXTINF:-1,MÃ­nimos: Reforma da Casa - 2010
+#EXTINF:-1,Ma­nimos: Reforma da Casa - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228922.mp4
-#EXTINF:-1,MÃºmia a RessurreiÃ§Ã£o - 2014
+#EXTINF:-1,Maºmia a Ressurreia§a£o - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228923.mkv
-#EXTINF:-1,MÃºsica no CoraÃ§Ã£o - 1965
+#EXTINF:-1,Maºsica no Coraa§a£o - 1965
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228924.mkv
-#EXTINF:-1,NabarvenÃ© ptÃ¡Äe - 2019
+#EXTINF:-1,Nabarvene pta¡Äe - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228925.mkv
-#EXTINF:-1,Natal em Ãfrica - 2019
+#EXTINF:-1,Natal em africa - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228926.mkv
 #EXTINF:-1,Natal Sangrento - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228927.mp4
@@ -2929,21 +2919,21 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228936.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228937.mkv
 #EXTINF:-1,Night Hunter - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228938.mkv
-#EXTINF:-1,NinguÃ©m Sabe - 2004
+#EXTINF:-1,Ninguem Sabe - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228939.mkv
 #EXTINF:-1,Noelle - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228940.mkv
 #EXTINF:-1,Noelle - 2019(VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228941.mkv
-#EXTINF:-1,Nome de CÃ³digo: Cloverfield - 2008
+#EXTINF:-1,Nome de Codigo: Cloverfield - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228942.mkv
-#EXTINF:-1,Norm - O HerÃ³i do Ãrtico - 2016(Dual Audio)
+#EXTINF:-1,Norm - O Heroi do artico - 2016(Dual Audio)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228943.mkv
 #EXTINF:-1,Nous finirons ensemble - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228944.mkv
 #EXTINF:-1,Nove Semanas e Meia - 1986
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228945.mkv
-#EXTINF:-1,NÃ£o Te Preocupes, NÃ£o IrÃ¡ Longe a PÃ© - 2018
+#EXTINF:-1,Na£o Te Preocupes, Na£o Ira¡ Longe a Pe - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228946.mkv
 #EXTINF:-1,O Abismo - 1989
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228947.mkv
@@ -2951,9 +2941,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228947.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228948.mkv
 #EXTINF:-1,O Amigo Gigante (2016)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228949.mkv
-#EXTINF:-1,O Amor DÃ¡ Trabalho - 2019
+#EXTINF:-1,O Amor Da¡ Trabalho - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228950.mp4
-#EXTINF:-1,O Amor Ã© Lindo ... Porque Sim! (2016)
+#EXTINF:-1,O Amor e Lindo ... Porque Sim! (2016)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228951.mp4
 #EXTINF:-1,O Apelo Selvagem - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228952.mkv
@@ -2961,9 +2951,9 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228952.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228953.mkv
 #EXTINF:-1,O Bar Luva Dourada - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228954.mkv
-#EXTINF:-1,O Bom, O Mau e o VilÃ£o - 1966
+#EXTINF:-1,O Bom, O Mau e o Vila£o - 1966
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228955.mkv
-#EXTINF:-1,O Boneco DiabÃ³lico - 2019
+#EXTINF:-1,O Boneco Diabolico - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228956.mkv
 #EXTINF:-1,O Bosque de Blair Witch - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228957.mkv
@@ -2979,7 +2969,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228961.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228962.mkv
 #EXTINF:-1,O Cavaleiro das Trevas Renasce - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228963.mkv
-#EXTINF:-1,O CaÃ§ador - 1978
+#EXTINF:-1,O Caa§ador - 1978
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228964.mkv
 #EXTINF:-1,O Conselheiro - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228965.mkv
@@ -2987,27 +2977,27 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228965.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228966.mp4
 #EXTINF:-1,O Corcunda de Notre Dame II - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228967.mp4
-#EXTINF:-1,O Costa d'Ãfrica - 1954
+#EXTINF:-1,O Costa d'africa - 1954
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228968.mp4
 #EXTINF:-1,O Costa do Castelo - 1943
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228969.avi
-#EXTINF:-1,O Dia da IndependÃªncia: Nova AmeaÃ§a - 2016
+#EXTINF:-1,O Dia da Independaªncia: Nova Ameaa§a - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228970.mkv
 #EXTINF:-1,O Diabo Veste Prada - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228971.mkv
 #EXTINF:-1,O Exorcista - 1973
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228972.mkv
-#EXTINF:-1,O Exterminador ImplacÃ¡vel - 1984
+#EXTINF:-1,O Exterminador Implaca¡vel - 1984
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228973.mkv
-#EXTINF:-1,O ExÃ©rcito das Trevas - 1992
+#EXTINF:-1,O Exercito das Trevas - 1992
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228974.mkv
-#EXTINF:-1,O FalcÃ£o Manteiga de Amendoim - 2019
+#EXTINF:-1,O Falca£o Manteiga de Amendoim - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228975.mkv
 #EXTINF:-1,O Fantasma de Barba Negra - 1968
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228976.mp4
-#EXTINF:-1,O FantÃ¡stico Homem Aranha 2 - O Poder de Eletro - 2014
+#EXTINF:-1,O Fanta¡stico Homem Aranha 2 - O Poder de Eletro - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228977.mkv
-#EXTINF:-1,O FantÃ¡stico Homem-Aranha - 2012
+#EXTINF:-1,O Fanta¡stico Homem-Aranha - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228978.mkv
 #EXTINF:-1,O Farol - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228979.mkv
@@ -3019,7 +3009,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228981.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228982.mp4
 #EXTINF:-1,O Filme LEGO 2 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228983.mp4
-#EXTINF:-1,O Fim da InocÃªncia - 2017
+#EXTINF:-1,O Fim da Inocaªncia - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228984.mp4
 #EXTINF:-1,O Gangue do Parque - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228985.avi
@@ -3029,41 +3019,41 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228986.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228987.avi
 #EXTINF:-1,O Grande Mestre 4 - A Batalha Final - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228988.mp4
-#EXTINF:-1,O HerÃ³i de Hacksaw Ridge - 2016
+#EXTINF:-1,O Heroi de Hacksaw Ridge - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228989.mp4
-#EXTINF:-1,O Hobbit: A Batalha dos Cinco ExÃ©rcitos - 2014
+#EXTINF:-1,O Hobbit: A Batalha dos Cinco Exercitos - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228990.mkv
-#EXTINF:-1,O Hobbit: A DesolaÃ§Ã£o de Smaug - 2013
+#EXTINF:-1,O Hobbit: A Desolaa§a£o de Smaug - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228991.mkv
 #EXTINF:-1,O Hobbit: Uma Viagem Inesperada - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228992.mkv
-#EXTINF:-1,O Homem InvisÃ­vel - 2020
+#EXTINF:-1,O Homem Invisa­vel - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228993.mkv
 #EXTINF:-1,O Homem Que Matou Don Quixote - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228994.mkv
 #EXTINF:-1,O Imortal - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228995.mkv
-#EXTINF:-1,O IncrÃ­vel Hulk - 2008
+#EXTINF:-1,O Incra­vel Hulk - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228996.avi
 #EXTINF:-1,O Informador - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228997.mkv
-#EXTINF:-1,O IrlandÃªs - 2019
+#EXTINF:-1,O Irlandes - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228998.mkv
 #EXTINF:-1,O Justiceiro: Em Zona de Guerra - 2008
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/228999.avi
 #EXTINF:-1,O Lago dos Gansos Selvagens - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229000.mkv
-#EXTINF:-1,O LampiÃ£o da Estrela - 2000
+#EXTINF:-1,O Lampiao da Estrela - 2000
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229001.mp4
-#EXTINF:-1,O LeÃ£o da Estrela - 2015
+#EXTINF:-1,O Leao da Estrela - 2015
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229002.mp4
 #EXTINF:-1,O Lobo de Wall Street - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229003.mkv
-#EXTINF:-1,O Meu EspiÃ£o - 2020
+#EXTINF:-1,O Meu Espiao - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229004.mkv
 #EXTINF:-1,O Motorista - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229005.mp4
-#EXTINF:-1,O Natal de Ã‚ngela - 2017
+#EXTINF:-1,O Natal de a‚ngela - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229006.mp4
 #EXTINF:-1,O Ninja das Caldas - 2002
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229007.avi
@@ -3089,11 +3079,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229016.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229017.mkv
 #EXTINF:-1,O Paradoxo Cloverfield - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229018.mkv
-#EXTINF:-1,O ParaÃ­so da Barafunda - 2004
+#EXTINF:-1,O Paraa­so da Barafunda - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229019.avi
 #EXTINF:-1,O Pequeno Vampiro - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229020.mp4
-#EXTINF:-1,O Perfume - HistÃ³ria de um Assassino - 2006
+#EXTINF:-1,O Perfume - Historia de um Assassino - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229021.mkv
 #EXTINF:-1,O Pintassilgo - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229022.mkv
@@ -3127,11 +3117,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229533.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229534.mkv
 #EXTINF:-1,Transformers 3 - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229535.mkv
-#EXTINF:-1,Transformers: A VinganÃ§a dos Derrotados - 2009
+#EXTINF:-1,Transformers: A Vingana§a dos Derrotados - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229536.mkv
-#EXTINF:-1,Transformers: Era da ExtinÃ§Ã£o - 2014
+#EXTINF:-1,Transformers: Era da Extina§a£o - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229537.mkv
-#EXTINF:-1,Transformers: O Ãšltimo Cavaleiro - 2017
+#EXTINF:-1,Transformers: O ašltimo Cavaleiro - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229538.mkv
 #EXTINF:-1,Transit 17 - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229539.mkv
@@ -3163,7 +3153,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229551.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229552.mkv
 #EXTINF:-1,Tropas Estelares: Invasores de Marte (2017)(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229553.mkv
-#EXTINF:-1,Tropas Estelares: InvasÃ£o (2012)(VO)
+#EXTINF:-1,Tropas Estelares: Invasa£o (2012)(VO)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229554.mkv
 #EXTINF:-1,Trouble: Aventura na Cidade (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229555.avi
@@ -3177,13 +3167,13 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229558.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229559.mp4
 #EXTINF:-1,Tudo Bons Rapazes - 1990
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229560.mkv
-#EXTINF:-1,Tudo Pela JustiÃ§a - 2019
+#EXTINF:-1,Tudo Pela Justia§a - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229561.mp4
 #EXTINF:-1,Tudo por um Popstar (2018)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229562.mp4
 #EXTINF:-1,Turbo - 2013
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229563.avi
-#EXTINF:-1,Tyler Rake: OperaÃ§Ã£o de Resgate - 2020
+#EXTINF:-1,Tyler Rake: Operaa§a£o de Resgate - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229564.mkv
 #EXTINF:-1,UglyDolls - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229565.mp4
@@ -3191,7 +3181,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229565.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229566.mkv
 #EXTINF:-1,Ultras - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229567.mp4
-#EXTINF:-1,Um Amigo ExtraordinÃ¡rio - 2019
+#EXTINF:-1,Um Amigo Extraordina¡rio - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229568.mkv
 #EXTINF:-1,Um Conto de Natal - 1984
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229569.mkv
@@ -3201,7 +3191,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229570.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229571.mkv
 #EXTINF:-1,Um Dia de Chuva em Nova Iorque - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229572.mkv
-#EXTINF:-1,Um ExcÃªntrico Encantador (2011)
+#EXTINF:-1,Um Excaªntrico Encantador (2011)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229573.avi
 #EXTINF:-1,Um Monstro em Paris - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229574.avi
@@ -3211,19 +3201,19 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229575.mp4
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229576.mp4
 #EXTINF:-1,Um Passado em Segredo - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229577.mp4
-#EXTINF:-1,Um RobÃ´ em Curto Circuito - 1986
+#EXTINF:-1,Um Roba´ em Curto Circuito - 1986
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229578.mkv
-#EXTINF:-1,Uma Aventura no JurÃ¡ssico - 2012
+#EXTINF:-1,Uma Aventura no Jura¡ssico - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229579.mp4
-#EXTINF:-1,Uma Aventura nos Mares - A 1Âª Viagem de Circum-NavegaÃ§Ã£o - 2019
+#EXTINF:-1,Uma Aventura nos Mares - A 1Âª Viagem de Circum-Navegaa§a£o - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229580.mp4
-#EXTINF:-1,Uma FamÃ­lia no Ringue - 2019
+#EXTINF:-1,Uma Fama­lia no Ringue - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229581.mkv
-#EXTINF:-1,Uma Noite Alucinante - A Morte do DemÃ´nio - 1981
+#EXTINF:-1,Uma Noite Alucinante - A Morte do Dema´nio - 1981
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229582.mkv
 #EXTINF:-1,Uma Noite Alucinante 2 - 1987
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229583.mkv
-#EXTINF:-1,Uma Rapariga FÃ¡cil - 2019
+#EXTINF:-1,Uma Rapariga Fa¡cil - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229584.mkv
 #EXTINF:-1,Uma Verdade Anulada - Boy Erased - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229585.mkv
@@ -3243,21 +3233,21 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229591.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229592.avi
 #EXTINF:-1,Uri: The Surgical Strike - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229593.mp4
-#EXTINF:-1,Ut og stjÃ¦le hester - 2019
+#EXTINF:-1,Ut og stja¦le hester - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229594.mkv
 #EXTINF:-1,V -1983
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229595.mkv
-#EXTINF:-1,Vai que Cola 2: O ComeÃ§o (2019)
+#EXTINF:-1,Vai que Cola 2: O Comea§o (2019)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229596.mp4
 #EXTINF:-1,Vaiana - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229597.mp4
 #EXTINF:-1,Vaiana - 2016(3D)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229598.mkv
-#EXTINF:-1,Valiant - Um HerÃ³i que Vale a Pena - 2005
+#EXTINF:-1,Valiant - Um Heroi que Vale a Pena - 2005
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229599.mp4
 #EXTINF:-1,Valley Girl - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229600.mkv
-#EXTINF:-1,VariaÃ§Ãµes - 2019
+#EXTINF:-1,Variaa§aµes - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229601.mp4
 #EXTINF:-1,Vault - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229602.mkv
@@ -3267,7 +3257,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229603.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229604.mkv
 #EXTINF:-1,Velocidade Furiosa - 2001
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229605.mkv
-#EXTINF:-1,Velocidade Furiosa - LigaÃ§Ã£o TÃ³quio - 2006
+#EXTINF:-1,Velocidade Furiosa - Ligaa§a£o Toquio - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229606.mkv
 #EXTINF:-1,Velocidade Furiosa 4- 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229607.mkv
@@ -3283,7 +3273,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229611.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229612.mkv
 #EXTINF:-1,Venom - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229613.avi
-#EXTINF:-1,Vera: DoÃ§uras e Travessuras - 2019
+#EXTINF:-1,Vera: Doa§uras e Travessuras - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229614.mp4
 #EXTINF:-1,Verdade Debaixo de Fogo - 2020
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229615.mkv
@@ -3317,7 +3307,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229628.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229629.mkv
 #EXTINF:-1,Vivir dos veces - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229630.mkv
-#EXTINF:-1,ViÃºvas - 2018
+#EXTINF:-1,Viaºvas - 2018
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229631.mkv
 #EXTINF:-1,Voando Alto - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229632.mkv
@@ -3375,11 +3365,11 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229657.avi
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229658.avi
 #EXTINF:-1,X-Men: Dias de um Futuro Esquecido - 2014
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229659.avi
-#EXTINF:-1,X-Men: FÃ©nix Negra - 2019
+#EXTINF:-1,X-Men: Fenix Negra - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229660.mkv
 #EXTINF:-1,X-Men: O Confronto Final - 2006
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229661.avi
-#EXTINF:-1,X-Men: O InÃ­cio - 2011
+#EXTINF:-1,X-Men: O Ina­cio - 2011
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229662.avi
 #EXTINF:-1,Ya no estoy aqui - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229663.mkv
@@ -3389,7 +3379,7 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229664.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229665.mkv
 #EXTINF:-1,Z - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229666.mkv
-#EXTINF:-1,ZambÃ©zia - 2012
+#EXTINF:-1,Zambezia - 2012
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229667.avi
 #EXTINF:-1,Zim: Um Invasor do Outro Mundo - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229668.mp4
@@ -3401,29 +3391,29 @@ http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229670.mkv
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229671.mkv
 #EXTINF:-1,Zombies Party - Uma Noite... de Morte - 2004
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229672.mkv
-#EXTINF:-1,ZootrÃ³polis - 2016
+#EXTINF:-1,Zootropolis - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229673.mkv
-#EXTINF:-1,ZootrÃ³polis - 2016(3D)
+#EXTINF:-1,Zootropolis - 2016(3D)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229674.mkv
-#EXTINF:-1,ZÃ© Colmeia: O Filme - 2010
+#EXTINF:-1,Ze Colmeia: O Filme - 2010
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229675.mp4
 #EXTINF:-1,[REC] - 2007
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229676.mkv
-#EXTINF:-1,[REC] 2 - PossuÃ­dos - 2009
+#EXTINF:-1,[REC] 2 - Possua­dos - 2009
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229677.mkv
-#EXTINF:-1,Ã€ Espera de Um Milagre - 1999
+#EXTINF:-1,a€ Espera de Um Milagre - 1999
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229678.mkv
-#EXTINF:-1,Ã€ Espreita do Mal - 2019
+#EXTINF:-1,a€ Espreita do Mal - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229679.mkv
-#EXTINF:-1,Ã€ Procura de Dory - 2016
+#EXTINF:-1,a€ Procura de Dory - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229680.mkv
-#EXTINF:-1,Ã€ Procura de Izzie - 2016
+#EXTINF:-1,a€ Procura de Izzie - 2016
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229681.mkv
-#EXTINF:-1,Ã€ Procura de Nemo - 2003
+#EXTINF:-1,a€ Procura de Nemo - 2003
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229682.avi
-#EXTINF:-1,Ã€ RÃ©dea Solta: Dia dos Namorados - 2019n (VP)
+#EXTINF:-1,a€ Redea Solta: Dia dos Namorados - 2019n (VP)
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229683.mp4
-#EXTINF:-1,Ãndice MÃ©dio de Felicidade - 2017
+#EXTINF:-1,andice Medio de Felicidade - 2017
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229684.mp4
 #EXTINF:-1,Ð’Ð°Ñ€Ð°Ð²Ð²Ð° - 2019
 http://link.iptvlogin.com:80/movie/xtremretro.ddns.net/YAPzvef0gF/229685.mp4
