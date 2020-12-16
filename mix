@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,MIPRO
-#EXTINF:-1,BTV 1
+#EXTINF:-1,Benfica TV HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95396
 #EXTINF:-1,SPORT TV 1
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95408
@@ -10,21 +10,21 @@ http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95409
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95411
 #EXTINF:-1,SPORT TV 3 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95413
-#EXTINF:-1,SPORT TV 4
+#EXTINF:-1,SPORT TV 4 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95415
-#EXTINF:-1,SPORT TV 5
+#EXTINF:-1,SPORT TV 5 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95416
-#EXTINF:-1,ELEVEN SPORTS 1 HD
+#EXTINF:-1,ELEVEN 1 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95418
-#EXTINF:-1,ELEVEN SPORTS 2 HD
+#EXTINF:-1,ELEVEN 2 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95419
-#EXTINF:-1,ELEVEN SPORTS 3 HD
+#EXTINF:-1,ELEVEN 3 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95420
-#EXTINF:-1,ELEVEN SPORTS 4 HD
+#EXTINF:-1,ELEVEN 4 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95421
-#EXTINF:-1,ELEVEN SPORTS 5 HD
+#EXTINF:-1,ELEVEN 5 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95422
-#EXTINF:-1,ELEVEN SPORTS 6 HD
+#EXTINF:-1,ELEVEN 6 HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95423
 #EXTINF:-1,TVCINE TOP HD
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95339
@@ -39,66 +39,66 @@ http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95352
 #EXTINF:-1,GustJim
 #EXTINF:-1,BENFICA TV 
 http://flytv.club:25461/gustjim/9seaC8nHPy/9351
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,SPORT TV 1 HD 
 http://flytv.club:25461/gustjim/9seaC8nHPy/9364
-#EXTINF:-1,SPORT TV 2 
+#EXTINF:-1,SPORT TV 2 HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9365
-#EXTINF:-1,SPORT TV 3 
+#EXTINF:-1,SPORT TV 3 HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9366
-#EXTINF:-1,SPORT TV 4 
+#EXTINF:-1,SPORT TV 4 HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/42970
-#EXTINF:-1,SPORT TV 5
+#EXTINF:-1,SPORT TV 5 HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9441
-#EXTINF:-1,ELEVEN SPORTS 1 
+#EXTINF:-1,ELEVEN 1 HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/82360
-#EXTINF:-1,ELEVEN SPORTS 2 
+#EXTINF:-1,ELEVEN 2 HD 
 http://flytv.club:25461/gustjim/9seaC8nHPy/82361
-#EXTINF:-1,ELEVEN SPORTS 3 
+#EXTINF:-1,ELEVEN 3 HD 
 http://flytv.club:25461/gustjim/9seaC8nHPy/82362
-#EXTINF:-1,ELEVEN SPORTS 4 
+#EXTINF:-1,ELEVEN 4 HD 
 http://flytv.club:25461/gustjim/9seaC8nHPy/82363
-#EXTINF:-1,ELEVEN SPORTS 5 
+#EXTINF:-1,ELEVEN 5 HD 
 http://flytv.club:25461/gustjim/9seaC8nHPy/82364
-#EXTINF:-1,TVCINE Top
+#EXTINF:-1,TVCINE Top HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9370
-#EXTINF:-1,TVCINE Edition
+#EXTINF:-1,TVCINE Edition HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9371
-#EXTINF:-1,TVCINE Emotion
+#EXTINF:-1,TVCINE Emotion HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9372
-#EXTINF:-1,TVCINE Action
+#EXTINF:-1,TVCINE Action HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9373
 #EXTINF:-1,RENT
-#EXTINF:-1,BTV 1 
+#EXTINF:-1,Benfica TV HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/12521
-#EXTINF:-1,BTV 1 
+#EXTINF:-1,Benfica TV  
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/12524
-#EXTINF:-1,Sport TV 1 
+#EXTINF:-1,Sport TV 1 HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/8818
-#EXTINF:-1,Sport TV 2 
+#EXTINF:-1,Sport TV 2 HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/7481
-#EXTINF:-1,Sport TV 3 
+#EXTINF:-1,Sport TV 3 HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/8817
-#EXTINF:-1,Sport TV 4 
+#EXTINF:-1,Sport TV 4 HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/8816
-#EXTINF:-1,Sport TV 5 
+#EXTINF:-1,Sport TV 5 HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/7478
-#EXTINF:-1,Eleven Sport 1 
+#EXTINF:-1,Eleven 1 HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51927
-#EXTINF:-1,Eleven Sport 2 
+#EXTINF:-1,Eleven 2 HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51926
-#EXTINF:-1,Eleven Sport 3 
+#EXTINF:-1,Eleven 3 HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51925
-#EXTINF:-1,Eleven Sport 4 
+#EXTINF:-1,Eleven 4 HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51924
-#EXTINF:-1,Eleven Sport 5 
+#EXTINF:-1,Eleven 5 HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51923
-#EXTINF:-1,Eleven Sport 6 
+#EXTINF:-1,Eleven 6 HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51922
-#EXTINF:-1,TV Cine Top
+#EXTINF:-1,TV Cine Top HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13104
-#EXTINF:-1,TV Cine Edition
+#EXTINF:-1,TV Cine Edition HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13103
-#EXTINF:-1,TV Cine Emotion
+#EXTINF:-1,TV Cine Emotion HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13101
-#EXTINF:-1,TV Cine 4 Action
+#EXTINF:-1,TV Cine 4 Action HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13099
