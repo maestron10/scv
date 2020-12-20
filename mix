@@ -1,67 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Sky
-#EXTINF:-1,Benfica TV HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2869
-#EXTINF:-1,SPORT TV 1
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15807
-#EXTINF:-1,SPORT TV 1 HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2864
-#EXTINF:-1,SPORT TV 2 HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15808
-#EXTINF:-1,SPORT TV 3 HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15809
-#EXTINF:-1,SPORT TV 4 HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2868
-#EXTINF:-1,SPORT TV 5 HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2867
-#EXTINF:-1,Eleven 1
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15797
-#EXTINF:-1,Eleven 2 
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15798
-#EXTINF:-1,Eleven 3 
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2305
-#EXTINF:-1,Eleven 4 
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2307
-#EXTINF:-1,TVCINE TOP HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15811
-#EXTINF:-1,TVCINE EDITION HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15812
-#EXTINF:-1,TVCINE EMOTION HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15813
-#EXTINF:-1,TVCINE ACTION HD
-http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15814
-
-#EXTINF:-1,GustJim
-#EXTINF:-1,BENFICA TV 
-http://flytv.club:25461/gustjim/9seaC8nHPy/9351
-#EXTINF:-1,SPORT TV 1 HD 
-http://flytv.club:25461/gustjim/9seaC8nHPy/9364
-#EXTINF:-1,SPORT TV 2 HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9365
-#EXTINF:-1,SPORT TV 3 HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9366
-#EXTINF:-1,SPORT TV 4 HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/42970
-#EXTINF:-1,SPORT TV 5 HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9441
-#EXTINF:-1,Eleven 1
-http://flytv.club:25461/gustjim/9seaC8nHPy/82360
-#EXTINF:-1,Eleven 2  
-http://flytv.club:25461/gustjim/9seaC8nHPy/82361
-#EXTINF:-1,Eleven 3  
-http://flytv.club:25461/gustjim/9seaC8nHPy/82362
-#EXTINF:-1,Eleven 4  
-http://flytv.club:25461/gustjim/9seaC8nHPy/82363
-#EXTINF:-1,Eleven 5  
-http://flytv.club:25461/gustjim/9seaC8nHPy/82364
-#EXTINF:-1,TVCINE Top HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9370
-#EXTINF:-1,TVCINE Edition HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9371
-#EXTINF:-1,TVCINE Emotion HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9372
-#EXTINF:-1,TVCINE Action HD
-http://flytv.club:25461/gustjim/9seaC8nHPy/9373
 #EXTINF:-1,RENT
 #EXTINF:-1,Benfica TV HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/12521
@@ -97,3 +34,35 @@ http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13103
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13101
 #EXTINF:-1,TV Cine 4 Action HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13099
+#EXTINF:-1,GustJim
+#EXTINF:-1,BENFICA TV 
+http://flytv.club:25461/gustjim/9seaC8nHPy/9351
+#EXTINF:-1,SPORT TV 1 HD 
+http://flytv.club:25461/gustjim/9seaC8nHPy/9364
+#EXTINF:-1,SPORT TV 2 HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9365
+#EXTINF:-1,SPORT TV 3 HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9366
+#EXTINF:-1,SPORT TV 4 HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/42970
+#EXTINF:-1,SPORT TV 5 HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9441
+#EXTINF:-1,Eleven 1
+http://flytv.club:25461/gustjim/9seaC8nHPy/82360
+#EXTINF:-1,Eleven 2  
+http://flytv.club:25461/gustjim/9seaC8nHPy/82361
+#EXTINF:-1,Eleven 3  
+http://flytv.club:25461/gustjim/9seaC8nHPy/82362
+#EXTINF:-1,Eleven 4  
+http://flytv.club:25461/gustjim/9seaC8nHPy/82363
+#EXTINF:-1,Eleven 5  
+http://flytv.club:25461/gustjim/9seaC8nHPy/82364
+#EXTINF:-1,TVCINE Top HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9370
+#EXTINF:-1,TVCINE Edition HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9371
+#EXTINF:-1,TVCINE Emotion HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9372
+#EXTINF:-1,TVCINE Action HD
+http://flytv.club:25461/gustjim/9seaC8nHPy/9373
+
