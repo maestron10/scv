@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,RENT
+#EXTINF:-1,------- RENT -------
 #EXTINF:-1,Benfica TV HD 
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/12521
 #EXTINF:-1,Benfica TV  
@@ -34,7 +34,7 @@ http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13103
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13101
 #EXTINF:-1,TV Cine 4 Action HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13099
-#EXTINF:-1,GustJim
+#EXTINF:-1,-------GustJim-------
 #EXTINF:-1,BENFICA TV 
 http://flytv.club:25461/gustjim/9seaC8nHPy/9351
 #EXTINF:-1,SPORT TV 1 HD 
@@ -65,4 +65,47 @@ http://flytv.club:25461/gustjim/9seaC8nHPy/9371
 http://flytv.club:25461/gustjim/9seaC8nHPy/9372
 #EXTINF:-1,TVCINE Action HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9373
+#EXTINF:-1,-------Cloud-------
+#EXTINF:-1,Benfica TV HD 
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176748
+#EXTINF:-1,Eleven 1
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192201
+#EXTINF:-1,Eleven 2 
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192202
+#EXTINF:-1,Eleven 3 
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192203
+#EXTINF:-1,Eleven 4 
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192204
+#EXTINF:-1,Eleven 5 
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192205
+#EXTINF:-1,Eleven 6 
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192206
+#EXTINF:-1,SPORT.TV+ HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192217
+#EXTINF:-1,SPORT.TV1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192219
+#EXTINF:-1,SPORT.TV1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192220
+#EXTINF:-1,SPORT.TV 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192221
+#EXTINF:-1,SPORT.TV 2 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192222
+#EXTINF:-1,SPORT.TV 3 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192223
+#EXTINF:-1,SPORT.TV 3 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192224
+#EXTINF:-1,SPORT.TV 4 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192225
+#EXTINF:-1,SPORT.TV 4 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192226
+#EXTINF:-1,SPORT.TV 5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192227
+#EXTINF:-1,SPORT.TV 5 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192228
+#EXTINF:-1,SPORT.TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192229
+#EXTINF:-1,SPORT.TV HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192230
+#EXTINF:-1,SPORT.TV1 HD
+http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192233
 
