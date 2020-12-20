@@ -1,41 +1,36 @@
 #EXTM3U
-#EXTINF:-1,MIPRO
+#EXTINF:-1,Sky
 #EXTINF:-1,Benfica TV HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95396
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2869
 #EXTINF:-1,SPORT TV 1
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95408
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15807
 #EXTINF:-1,SPORT TV 1 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95409
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2864
 #EXTINF:-1,SPORT TV 2 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95411
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15808
 #EXTINF:-1,SPORT TV 3 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95413
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15809
 #EXTINF:-1,SPORT TV 4 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95415
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2868
 #EXTINF:-1,SPORT TV 5 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95416
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2867
 #EXTINF:-1,Eleven 1
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95418
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15797
 #EXTINF:-1,Eleven 2 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95419
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15798
 #EXTINF:-1,Eleven 3 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95420
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2305
 #EXTINF:-1,Eleven 4 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95421
-#EXTINF:-1,Eleven 5 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95422
-#EXTINF:-1,Eleven 6 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95423
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/2307
 #EXTINF:-1,TVCINE TOP HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95339
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15811
 #EXTINF:-1,TVCINE EDITION HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95340
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15812
 #EXTINF:-1,TVCINE EMOTION HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95341
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15813
 #EXTINF:-1,TVCINE ACTION HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95342
-#EXTINF:-1,NOS STUDIOS HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95352
+http://1skytv.com:8889/xWzpQ8Y3BX/fsIFRfBhvG/15814
+
 #EXTINF:-1,GustJim
 #EXTINF:-1,BENFICA TV 
 http://flytv.club:25461/gustjim/9seaC8nHPy/9351
@@ -102,33 +97,3 @@ http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13103
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13101
 #EXTINF:-1,TV Cine 4 Action HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13099
-#EXTINF:-1,Sport.TV 1
-http://185.140.53.177:9981/stream/channelid/1228774014?ticket=646FD2E3E4A6A7439606921E356A665F39268532&profile=pass
-#EXTINF:-1,Sport.TV 2
-http://185.140.53.177:9981/stream/channelid/31669413?ticket=606B4657C065F470F4D6FEE6872D04EC361B554D&profile=pass
-#EXTINF:-1,Sport.TV 3
-http://185.140.53.177:9981/stream/channelid/122147458?ticket=0B19042D34109F3494D439E75AA4DA87F2A59CDB&profile=pass
-#EXTINF:-1,Sport.TV 4
-http://185.140.53.177:9981/stream/channelid/328059087?ticket=799EB970F03A1224C422D38D69D2EF0898D1D799&profile=pass
-#EXTINF:-1,Sport.TV 5
-http://185.140.53.177:9981/stream/channelid/1877356132?ticket=A4B574699041F6012CDBB64561191729C85C6AAE&profile=pass
-#EXTINF:-1,Sport.TV 1 HD
-http://185.140.53.177:9981/stream/channelid/619566341?ticket=57D6DA22645F95CF12D5524509821C5E1FDD317D&profile=pass
-#EXTINF:-1,Sport.TV 2 HD
-http://185.140.53.177:9981/stream/channelid/1571789679?ticket=D85CE26DDAD2FC4B75EF0F32FC0FBDF2DF39712E&profile=pass
-#EXTINF:-1,Sport.TV 3 HD
-http://185.140.53.177:9981/stream/channelid/565498306?ticket=0E65415F2B500F9EF3CC14FD8D846F2C7B304A30&profile=pass
-#EXTINF:-1,Eleven 1 
-http://185.140.53.177:9981/stream/channelid/349574489?ticket=D04118F64BB2222F4A2540B3447A912F01F88968&profile=pass
-#EXTINF:-1,Eleven 2
-http://185.140.53.177:9981/stream/channelid/1228325581?ticket=6703EA85569BF8268903BEBEC7B916114F4EAD4C&profile=pass
-#EXTINF:-1,Eleven 3
-http://185.140.53.177:9981/stream/channelid/425303962?ticket=12E671038F5322246B8EE1177E811605A45DCF1D&profile=pass
-#EXTINF:-1,Eleven 4
-http://185.140.53.177:9981/stream/channelid/823640771?ticket=421039C47A94C6ED55E8D308C5A6FE6803260894&profile=pass
-#EXTINF:-1,Eleven 5
-http://185.140.53.177:9981/stream/channelid/471892851?ticket=BA1ABCABCB21267CFF26FE6180CBC5986ECDFB67&profile=pass
-#EXTINF:-1,Eleven 6
-http://185.140.53.177:9981/stream/channelid/563218341?ticket=B965D5D54B22E59AFDE2DB20DED89D23F405BF3D&profile=pass
-#EXTINF:-1,Benfica TV HD 
-http://185.140.53.177:9981/stream/channelid/995219211?ticket=07F665FAD2C26911F604FE91AEF0A31E95C4FCEF&profile=pass
