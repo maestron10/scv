@@ -102,37 +102,33 @@ http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13103
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13101
 #EXTINF:-1,TV Cine 4 Action HD
 http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13099
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/486" tvg-id="0ad7d3757b20696715d66b246b108d0e",SPORT TV+
-http://185.140.53.177:9981/stream/channelid/1976817418?ticket=096D484E7F89F30F841A51B9EF3F3A7A57553981&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/483" tvg-id="7e9a3d4900e1644d2971b0280098f0d6",Sport TV 1
+#EXTINF:-1,Sport.TV 1
 http://185.140.53.177:9981/stream/channelid/1228774014?ticket=646FD2E3E4A6A7439606921E356A665F39268532&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/504" tvg-id="a53ce3812dfb158bf24d35b143ae0f37",Sport TV 2
+#EXTINF:-1,Sport.TV 2
 http://185.140.53.177:9981/stream/channelid/31669413?ticket=606B4657C065F470F4D6FEE6872D04EC361B554D&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/491" tvg-id="82d247873fdb983639ad8df6d6c97568",Sport TV 3
+#EXTINF:-1,Sport.TV 3
 http://185.140.53.177:9981/stream/channelid/122147458?ticket=0B19042D34109F3494D439E75AA4DA87F2A59CDB&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/505" tvg-id="cfc88d13b14b9a76cd8a3f5d2fbe85b9",Sport TV 4
+#EXTINF:-1,Sport.TV 4
 http://185.140.53.177:9981/stream/channelid/328059087?ticket=799EB970F03A1224C422D38D69D2EF0898D1D799&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/296" tvg-id="642ee66ff2dc99816978cfda5a045ae1",Sport TV 5
+#EXTINF:-1,Sport.TV 5
 http://185.140.53.177:9981/stream/channelid/1877356132?ticket=A4B574699041F6012CDBB64561191729C85C6AAE&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/301" tvg-id="05d5eda4c4f58aa15a816088c3050509",Sport TV 1 HD
+#EXTINF:-1,Sport.TV 1 HD
 http://185.140.53.177:9981/stream/channelid/619566341?ticket=57D6DA22645F95CF12D5524509821C5E1FDD317D&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/496" tvg-id="6f9bafdd8e287f110cfafa35a0eb8b90",Sport TV 2 HD
+#EXTINF:-1,Sport.TV 2 HD
 http://185.140.53.177:9981/stream/channelid/1571789679?ticket=D85CE26DDAD2FC4B75EF0F32FC0FBDF2DF39712E&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/469" tvg-id="c2d1b4a135a176072a62ecc346f6626f",Sport TV 3 HD
+#EXTINF:-1,Sport.TV 3 HD
 http://185.140.53.177:9981/stream/channelid/565498306?ticket=0E65415F2B500F9EF3CC14FD8D846F2C7B304A30&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/263" tvg-id="885cca73ecc8ced8a69250f18594dc5a",Sport TV NBA
-http://185.140.53.177:9981/stream/channelid/1942641800?ticket=BB6FCA6FD325BA3CF1F32178EFB0D9108CF78450&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/158" tvg-id="5915d614ae07692a07a062e46364c4df",Eleven Sports 1
+#EXTINF:-1,Eleven 1 
 http://185.140.53.177:9981/stream/channelid/349574489?ticket=D04118F64BB2222F4A2540B3447A912F01F88968&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/79" tvg-id="cdc23649273f0a87ba89f4708bdddc50",Eleven Sports 2
+#EXTINF:-1,Eleven 2
 http://185.140.53.177:9981/stream/channelid/1228325581?ticket=6703EA85569BF8268903BEBEC7B916114F4EAD4C&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/315" tvg-id="9a9f59995d4bd90ab0d33c0b73106fe2",Eleven Sports 3
+#EXTINF:-1,Eleven 3
 http://185.140.53.177:9981/stream/channelid/425303962?ticket=12E671038F5322246B8EE1177E811605A45DCF1D&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/186" tvg-id="c3c217b1c41905a7c35a886601d0425e",Eleven Sports 4
+#EXTINF:-1,Eleven 4
 http://185.140.53.177:9981/stream/channelid/823640771?ticket=421039C47A94C6ED55E8D308C5A6FE6803260894&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/269" tvg-id="7383209c520874c111e5dcd828d23fe4",Eleven Sports 5
+#EXTINF:-1,Eleven 5
 http://185.140.53.177:9981/stream/channelid/471892851?ticket=BA1ABCABCB21267CFF26FE6180CBC5986ECDFB67&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/291" tvg-id="a5079221e292d9a79b516235712418ff",Eleven Sports 6
+#EXTINF:-1,Eleven 6
 http://185.140.53.177:9981/stream/channelid/563218341?ticket=B965D5D54B22E59AFDE2DB20DED89D23F405BF3D&profile=pass
-#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/298" tvg-id="0bd7513b6193042fcafd989198f023c6",BTV 1 HD
+#EXTINF:-1,Benfica TV HD 
 http://185.140.53.177:9981/stream/channelid/995219211?ticket=07F665FAD2C26911F604FE91AEF0A31E95C4FCEF&profile=pass
