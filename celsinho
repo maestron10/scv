@@ -2,14 +2,14 @@
 #EXTINF:-1,------- Generalistas -------
 #EXTINF:-1,PT : RTP1 HD
 http://bldtv.vip:80/Celsinhooiu/543578657/161144
-#EXTINF:-1,PT : RTP2 HD
+#EXTINF:-1,PT : RTP2
 http://bldtv.vip:80/Celsinhooiu/543578657/161148
 #EXTINF:-1,PT : SIC HD
 http://bldtv.vip:80/Celsinhooiu/543578657/161169
 #EXTINF:-1,PT : TVI HD
 http://bldtv.vip:80/Celsinhooiu/543578657/161294
 #EXTINF:-1,------- Noticias -------
-#EXTINF:-1,PT : RTP3 HD
+#EXTINF:-1,PT : RTP3
 http://bldtv.vip:80/Celsinhooiu/543578657/161151
 #EXTINF:-1,PT : SIC Notícias HD
 http://bldtv.vip:80/Celsinhooiu/543578657/161186
@@ -99,7 +99,7 @@ http://bldtv.vip:80/Celsinhooiu/543578657/161299
 #EXTINF:-1,PT : TVSERIES FHD
 http://bldtv.vip:80/Celsinhooiu/543578657/161310
 #EXTINF:-1,------- Filmes -------
-#EXTINF:-1,PT : CINEMUNDO HD
+#EXTINF:-1,PT : CINEMUNDO
 http://bldtv.vip:80/Celsinhooiu/543578657/160939
 #EXTINF:-1,PT : FOX MOVIES HD
 http://bldtv.vip:80/Celsinhooiu/543578657/161047
