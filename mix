@@ -146,9 +146,9 @@ http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13099
 #EXTINF:-1, TVCine Action
 http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13101
 #EXTINF:-1,-------UAC-------
-#EXTINF:-1,BTV 1 
+#EXTINF:-1,Benfica TV HD 
 http://89.187.191.133:8889/LcdfBv1UAC/E8Lh8az1pL/15784
-#EXTINF:-1,BTV 1 
+#EXTINF:-1,Benfica TV HD
 http://89.187.191.133:8889/LcdfBv1UAC/E8Lh8az1pL/15793
 #EXTINF:-1,Eleven 1 
 http://89.187.191.133:8889/LcdfBv1UAC/E8Lh8az1pL/15797
@@ -175,3 +175,45 @@ http://89.187.191.133:8889/LcdfBv1UAC/E8Lh8az1pL/15812
 http://89.187.191.133:8889/LcdfBv1UAC/E8Lh8az1pL/15813
 #EXTINF:-1,TVCine ACTION HD
 http://89.187.191.133:8889/LcdfBv1UAC/E8Lh8az1pL/15814
+#EXTINF:-1,-------MitvPro-------
+#EXTINF:-1,Benfica TV HD 
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95396
+#EXTINF:-1,Eleven 1 
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95418
+#EXTINF:-1,Eleven 2 
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95419
+#EXTINF:-1,Eleven 3
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95420
+#EXTINF:-1,Sport.TV 1 HD
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95408
+#EXTINF:-1,Sport.TV 2 HD
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95411
+#EXTINF:-1,Sport.TV 3 HD
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95413
+#EXTINF:-1,Sport.TV 4
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95415
+#EXTINF:-1,Sport.TV 5
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95416
+EXTINF:-1,-------Greek-------
+#EXTINF:-1,Eleven 1 
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/485
+#EXTINF:-1,Eleven 2 
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/488
+#EXTINF:-1,Eleven 3
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/490
+#EXTINF:-1,Sport.TV 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/496
+#EXTINF:-1,Sport.TV 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/497
+#EXTINF:-1,Sport.TV 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/499
+#EXTINF:-1,Sport.TV 4
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/502
+#EXTINF:-1,Sport.TV 5
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/514
+EXTINF:-1,RMC Sport 1 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
+#EXTINF:-1,RMC Sport 2 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
+#EXTINF:-1,RMC Sport 3 HD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
