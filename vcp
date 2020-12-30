@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="RTP 1", RTP1 HD
+#EXTINF:-1 tvg-id="RTP 1", RTP1 HD
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/768
 #EXTINF:-1,RTP2
 http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/771
