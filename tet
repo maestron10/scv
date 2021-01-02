@@ -1,62 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="A BOLA TV">
-    <display-name lang="pt">A BOLA TV</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
-    <url>http://www.meo.pt</url>
-  <channel id="CANAL 11">
-    <display-name lang="pt">CANAL 11</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ELEVEN SPORTS 1">
-    <display-name lang="pt">ELEVEN SPORTS 1</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ELEVEN SPORTS 2">
-    <display-name lang="pt">ELEVEN SPORTS 2</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ELEVEN SPORTS 3">
-    <display-name lang="pt">ELEVEN SPORTS 3</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ELEVEN SPORTS 4">
-    <display-name lang="pt">ELEVEN SPORTS 4</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ELEVEN SPORTS 5">
-    <display-name lang="pt">ELEVEN SPORTS 5</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ELEVEN SPORTS 6">
-    <display-name lang="pt">ELEVEN SPORTS 6</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="BENFICA TV">
-    <display-name lang="pt">BENFICA TV</display-name>
-    <url>http://92.246.85.75:4000/play/a040</url>
-  </channel>
-  <channel id="SPORT TV 1">
-    <display-name lang="pt">SPORT TV 1</display-name>
-    <url>http://92.246.85.75:4000/play/a03t</url>
-  </channel>
-  <channel id="SPORT TV 2">
-    <display-name lang="pt">SPORT TV 2</display-name>
-    <url>http://92.246.85.75:4000/play/a03u</url>
-  </channel>
-  <channel id="SPORT TV 3">
-    <display-name lang="pt">SPORT TV 3</display-name>
-    <url>http://92.246.85.75:4000/play/a03v</url>
-  </channel>
-  <channel id="SPORT TV 4">
-    <display-name lang="pt">SPORT TV 4</display-name>
-    <url>http://92.246.85.75:4000/play/a00m</url>
-  </channel>
-  <channel id="SPORT TV 5">
-    <display-name lang="pt">SPORT TV 5</display-name>
-    <url>http://92.246.85.75:4000/play/a06f</url>
-  </channel>
-  <channel id="SPORT TV +">
-    <display-name lang="pt">SPORT TV +</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
+#EXTM3U
+#EXTINF:-1, BENFICA TV
+http://92.246.85.75:4000/play/a040
+#EXTINF:-1, SPORT TV 1
+http://92.246.85.75:4000/play/a03t
+#EXTINF:-1, SPORT TV 2
+http://92.246.85.75:4000/play/a03u
+#EXTINF:-1, SPORT TV 3
+http://92.246.85.75:4000/play/a03v
+#EXTINF:-1, SPORT TV 4
+http://92.246.85.75:4000/play/a00m
+#EXTINF:-1, SPORT TV 5
+http://92.246.85.75:4000/play/a06f
+#EXTINF:-1, ELEVEN SPORTS 1
+http://92.246.85.75:4000/play/a04p
+#EXTINF:-1, ELEVEN SPORTS 2
+http://92.246.85.75:4000/play/a03z
+#EXTINF:-1, ELEVEN SPORTS 3  
+http://92.246.85.75:4000/play/a031
+#EXTINF:-1, ELEVEN SPORTS 4  
+http://92.246.85.75:4000/play/a04q
+#EXTINF:-1, ELEVEN SPORTS 5 
+http://92.246.85.75:4000/play/a04r
+#EXTINF:-1, TVCINE TOP
+http://92.246.85.75:4000/play/a07y
+#EXTINF:-1, TVCINE EDITION
+http://92.246.85.75:4000/play/a00f
+#EXTINF:-1, TVCINE EMOTION
+http://92.246.85.75:4000/play/a013
+#EXTINF:-1, TVCINE ACTION
+http://92.246.85.75:4000/play/a07q
