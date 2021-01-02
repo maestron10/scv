@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1,------- RENT -------
-#EXTINF:-1,Benfica TV HD 
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/12521
-#EXTINF:-1,Benfica TV  
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/12524
-#EXTINF:-1,Sport TV 1 HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/8818
-#EXTINF:-1,Sport TV 2 HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/7481
-#EXTINF:-1,Sport TV 3 HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/8817
-#EXTINF:-1,Sport TV 4 HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/8816
-#EXTINF:-1,Sport TV 5 HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/7478
-#EXTINF:-1,Eleven 1 
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51927
-#EXTINF:-1,Eleven 2  
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51926
-#EXTINF:-1,Eleven 3  
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51925
-#EXTINF:-1,Eleven 4  
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51924
-#EXTINF:-1,Eleven 5  
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51923
-#EXTINF:-1,Eleven 6  
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/51922
-#EXTINF:-1,TV Cine Top HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13104
-#EXTINF:-1,TV Cine Edition HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13103
-#EXTINF:-1,TV Cine Emotion HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13101
-#EXTINF:-1,TV Cine 4 Action HD
-http://iptv.rent:8080/feku2j8oa/olm8d7mjc9/13099
+#EXTINF:-1,------- Mazurek -------
+#EXTINF:-1, Benfica TV HD
+http://clientportal.link:80/mazurek1/QzouRP17/5541
+#EXTINF:-1, SPORT.TV1 HD
+http://clientportal.link:80/mazurek1/QzouRP17/17744
+#EXTINF:-1, SPORT.TV2 HD
+http://clientportal.link:80/mazurek1/QzouRP17/3222
+#EXTINF:-1, SPORT.TV3 HD
+http://clientportal.link:80/mazurek1/QzouRP17/3223
+#EXTINF:-1, SPORT.TV4 HD
+http://clientportal.link:80/mazurek1/QzouRP17/3224
+#EXTINF:-1, SPORT.TV5 HD
+http://clientportal.link:80/mazurek1/QzouRP17/7842
+#EXTINF:-1, Eleven 1
+http://clientportal.link:80/mazurek1/QzouRP17/23325
+#EXTINF:-1, Eleven 2
+http://clientportal.link:80/mazurek1/QzouRP17/23320
+#EXTINF:-1, Eleven 3
+http://clientportal.link:80/mazurek1/QzouRP17/23321
+#EXTINF:-1, Eleven 4
+http://clientportal.link:80/mazurek1/QzouRP17/23322
+#EXTINF:-1, Eleven 5
+http://clientportal.link:80/mazurek1/QzouRP17/23323
+#EXTINF:-1, Ziggo
+http://clientportal.link:80/mazurek1/QzouRP17/12523
+#EXTINF:-1,Premier Sports 1 UK
+http://clientportal.link:80/mazurek1/QzouRP17/3584
+#EXTINF:-1, TVCine Top
+http://clientportal.link:80/mazurek1/QzouRP17/5545
+#EXTINF:-1, TVCine Emotion
+http://clientportal.link:80/mazurek1/QzouRP17/5547
+#EXTINF:-1, TVCine Edition
+http://clientportal.link:80/mazurek1/QzouRP17/5546
+#EXTINF:-1, TVCine Action
+http://clientportal.link:80/mazurek1/QzouRP17/5548
 #EXTINF:-1,-------GustJim-------
 #EXTINF:-1,BENFICA TV 
 http://flytv.club:25461/gustjim/9seaC8nHPy/9351
@@ -217,3 +217,4 @@ http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
 http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
 #EXTINF:-1,RMC Sport 3 HD
 http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
+
