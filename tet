@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1, BENFICA TV
+#EXTINF:-1 tvg-id="BenficaTV.pt",BENFICA TV
 http://92.246.85.75:4000/play/a040
-#EXTINF:-1, SPORT TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt", SPORT TV 1
 http://92.246.85.75:4000/play/a03t
-#EXTINF:-1, SPORT TV 2
+#EXTINF:-1 tvg-id="sporttv2.pt", SPORT TV 2
 http://92.246.85.75:4000/play/a03u
-#EXTINF:-1, SPORT TV 3
+#EXTINF:-1 tvg-id="sporttv3.pt", SPORT TV 3
 http://92.246.85.75:4000/play/a03v
-#EXTINF:-1, SPORT TV 4
+#EXTINF:-1 tvg-id="sporttv4.pt", SPORT TV 4
 http://92.246.85.75:4000/play/a00m
-#EXTINF:-1, SPORT TV 5
+#EXTINF:-1 tvg-id="sporttv5.pt", SPORT TV 5
 http://92.246.85.75:4000/play/a06f
-#EXTINF:-1, ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="elevensports1.pt", ELEVEN SPORTS 1
 http://92.246.85.75:4000/play/a04p
-#EXTINF:-1, ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="elevensports2.pt", ELEVEN SPORTS 2
 http://92.246.85.75:4000/play/a03z
-#EXTINF:-1, ELEVEN SPORTS 3  
+#EXTINF:-1 tvg-id="elevensports3.pt", ELEVEN SPORTS 3  
 http://92.246.85.75:4000/play/a031
-#EXTINF:-1, ELEVEN SPORTS 4  
+#EXTINF:-1 tvg-id="elevensports4.pt", ELEVEN SPORTS 4  
 http://92.246.85.75:4000/play/a04q
-#EXTINF:-1, ELEVEN SPORTS 5 
+#EXTINF:-1 tvg-id="elevensports5.pt", ELEVEN SPORTS 5 
 http://92.246.85.75:4000/play/a04r
-#EXTINF:-1, TVCINE TOP
+#EXTINF:-1 tvg-id="tvc1.pt", TVCINE TOP
 http://92.246.85.75:4000/play/a07y
-#EXTINF:-1, TVCINE EDITION
+#EXTINF:-1 tvg-id="tvc2.pt", TVCINE EDITION
 http://92.246.85.75:4000/play/a00f
-#EXTINF:-1, TVCINE EMOTION
+#EXTINF:-1 tvg-id="tvc3.pt", TVCINE EMOTION
 http://92.246.85.75:4000/play/a013
-#EXTINF:-1, TVCINE ACTION
+#EXTINF:-1 tvg-id="tvc4.pt", TVCINE ACTION
 http://92.246.85.75:4000/play/a07q
