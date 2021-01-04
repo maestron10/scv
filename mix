@@ -1,39 +1,4 @@
 #EXTM3U
-#EXTINF:-1,------- Mazurek -------
-#EXTINF:-1, Benfica TV HD
-http://clientportal.link:80/mazurek1/QzouRP17/5541
-#EXTINF:-1, SPORT.TV1 HD
-http://clientportal.link:80/mazurek1/QzouRP17/17744
-#EXTINF:-1, SPORT.TV2 HD
-http://clientportal.link:80/mazurek1/QzouRP17/3222
-#EXTINF:-1, SPORT.TV3 HD
-http://clientportal.link:80/mazurek1/QzouRP17/3223
-#EXTINF:-1, SPORT.TV4 HD
-http://clientportal.link:80/mazurek1/QzouRP17/3224
-#EXTINF:-1, SPORT.TV5 HD
-http://clientportal.link:80/mazurek1/QzouRP17/7842
-#EXTINF:-1, Eleven 1
-http://clientportal.link:80/mazurek1/QzouRP17/23325
-#EXTINF:-1, Eleven 2
-http://clientportal.link:80/mazurek1/QzouRP17/23320
-#EXTINF:-1, Eleven 3
-http://clientportal.link:80/mazurek1/QzouRP17/23321
-#EXTINF:-1, Eleven 4
-http://clientportal.link:80/mazurek1/QzouRP17/23322
-#EXTINF:-1, Eleven 5
-http://clientportal.link:80/mazurek1/QzouRP17/23323
-#EXTINF:-1, Ziggo
-http://clientportal.link:80/mazurek1/QzouRP17/12523
-#EXTINF:-1,Premier Sports 1 UK
-http://clientportal.link:80/mazurek1/QzouRP17/3584
-#EXTINF:-1, TVCine Top
-http://clientportal.link:80/mazurek1/QzouRP17/5545
-#EXTINF:-1, TVCine Emotion
-http://clientportal.link:80/mazurek1/QzouRP17/5547
-#EXTINF:-1, TVCine Edition
-http://clientportal.link:80/mazurek1/QzouRP17/5546
-#EXTINF:-1, TVCine Action
-http://clientportal.link:80/mazurek1/QzouRP17/5548
 #EXTINF:-1,-------GustJim-------
 #EXTINF:-1,BENFICA TV 
 http://flytv.club:25461/gustjim/9seaC8nHPy/9351
@@ -65,49 +30,6 @@ http://flytv.club:25461/gustjim/9seaC8nHPy/9371
 http://flytv.club:25461/gustjim/9seaC8nHPy/9372
 #EXTINF:-1,TVCINE Action HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9373
-#EXTINF:-1,-------Cloud-------
-#EXTINF:-1,Benfica TV HD 
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/176748
-#EXTINF:-1,Eleven 1
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192201
-#EXTINF:-1,Eleven 2 
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192202
-#EXTINF:-1,Eleven 3 
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192203
-#EXTINF:-1,Eleven 4 
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192204
-#EXTINF:-1,Eleven 5 
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192205
-#EXTINF:-1,Eleven 6 
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192206
-#EXTINF:-1,SPORT.TV+ HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192217
-#EXTINF:-1,SPORT.TV1 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192219
-#EXTINF:-1,SPORT.TV1 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192220
-#EXTINF:-1,SPORT.TV 2 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192221
-#EXTINF:-1,SPORT.TV 2 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192222
-#EXTINF:-1,SPORT.TV 3 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192223
-#EXTINF:-1,SPORT.TV 3 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192224
-#EXTINF:-1,SPORT.TV 4 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192225
-#EXTINF:-1,SPORT.TV 4 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192226
-#EXTINF:-1,SPORT.TV 5 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192227
-#EXTINF:-1,SPORT.TV 5 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192228
-#EXTINF:-1,SPORT.TV HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192229
-#EXTINF:-1,SPORT.TV HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192230
-#EXTINF:-1,SPORT.TV1 HD
-http://cloud.nicefhd.xyz:80/v51704/0ADa0wXRhQ/192233
 #EXTINF:-1,-------i90-------
 #EXTINF:-1, Benfica TV HD
 http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/12521
@@ -194,26 +116,3 @@ http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95413
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95415
 #EXTINF:-1,Sport.TV 5
 http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95416
-EXTINF:-1,-------Greek-------
-#EXTINF:-1,Eleven 1 
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/485
-#EXTINF:-1,Eleven 2 
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/488
-#EXTINF:-1,Eleven 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/490
-#EXTINF:-1,Sport.TV 1 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/496
-#EXTINF:-1,Sport.TV 2 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/497
-#EXTINF:-1,Sport.TV 3 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/499
-#EXTINF:-1,Sport.TV 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/502
-#EXTINF:-1,Sport.TV 5
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/514
-EXTINF:-1,RMC Sport 1 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
-#EXTINF:-1,RMC Sport 2 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
-#EXTINF:-1,RMC Sport 3 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
