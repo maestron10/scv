@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:0, ------Geral-----
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/001
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Geral",PT: RTP 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26564
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Geral",PT: RTP 2 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26563
+#EXTINF:0 tvg-id="sic.pt" group-title="Geral",PT: SIC
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26558
+#EXTINF:0 tvg-id="TVI.pt" group-title="Geral",PT: TVI HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13278
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Geral",PT: TVI REALITY
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13276
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Geral",PT: SIC RADICAL HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26624
+#EXTINF:0, ------Noticias-----
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/001
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Noticias",PT: RTP 3 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13268
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Noticias",PT: SIC NOTICIAS
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26623
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Noticias",PT: TVI 24
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13277
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Noticias",PT: PORTO CANAL
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26565
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Noticias",PT: CM TV
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26590
+#EXTINF:0, ------Desporto-----
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/001
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Desporto",PT: A BOLA TV .
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26604
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto",PT: BENFICA TV 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26599
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto",PT: BTV 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26578
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Desporto",PT: SPORT TV+ HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/185025
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Desporto",PT: SPORT TV HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26626
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Desporto",PT: SPORT TV 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26627
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Desporto",PT: SPORT TV 2 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26628
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Desporto",PT: SPORT TV 3 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26629
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Desporto",PT: SPORT TV 4 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26630
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Desporto",PT: SPORT TV 5 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26631
+#EXTINF:0 tvg-id="ext" group-title="Desporto",PT: SPORT TV NBA HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/152464
+#EXTINF:-1, tvg-id="elevensports1.pt" group-title="Desporto", PT: Eleven 1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/14155
+#EXTINF:-1, tvg-id="elevensports2.pt" group-title="Desporto", PT: Eleven 2
+
+#EXTINF:-1, tvg-id="elevensports3.pt" group-title="Desporto", PT: Eleven 3
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/15199
+#EXTINF:-1, tvg-id="ZiggoSportVoetbal.nl" group-title="Desporto", NL: Ziggo
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11287
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Desporto",PT: EUROSPORT 1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26615
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Desporto",PT: EUROSPORT 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26617
+#EXTINF:0, ------Cinema-----
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/001
+#EXTINF:0 tvg-id="tvc1.pt" group-title="Cinema",PT: TV CINE 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13285
+#EXTINF:0 tvg-id="tvc2.pt" group-title="Cinema",PT: TV CINE 2 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13283
+#EXTINF:0 tvg-id="tvc3.pt" group-title="Cinema",PT: TV CINE 3 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13282
+#EXTINF:0 tvg-id="tvc4.pt" group-title="Cinema",PT: TV CINE 4 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13281
+#EXTINF:0 tvg-id="axn.pt" group-title="Cinema",PT: AXN HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26612
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN BLACK
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26611
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Cinema",PT: AXN WHITE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26613
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="Cinema",PT: TV SERIES HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13279
+#EXTINF:0 tvg-id="AMC.pt" group-title="Cinema",PT: AMC HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26610
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Cinema",PT: SYFY HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/13288
+#EXTINF:0 tvg-id="ext" group-title="Cinema",PT: CANAL NOS
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26596
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26618
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Cinema",PT: FOX CRIME HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26619
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Cinema",PT: FOX LIFE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26621
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Cinema",PT: FOX MOVIES
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26582
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Cinema",PT: CINE MUNDO
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26591
