@@ -29,11 +29,11 @@ http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26590
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/001
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Desporto",A BOLA TV .
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26604
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto",BENFICA TV 1 HD
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto",BENFICA TV 1
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26599
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto",BTV 1 HD
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto",BENFICA TV 1 HD
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26578
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Desporto",SPORT TV+ HD
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Desporto",SPORT.TV+ HD
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/185025
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Desporto",SPORT TV HD
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26626
@@ -47,7 +47,7 @@ http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26629
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26630
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Desporto",SPORT TV 5 HD
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/26631
-#EXTINF:0 tvg-id="ext" group-title="Desporto",SPORT TV NBA HD
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SPORT.TV NBA HD
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/152464
 #EXTINF:-1 tvg-id="elevensports1.pt" group-title="Desporto", Eleven 1
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/14155
@@ -56,7 +56,7 @@ http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/14155
 
 #EXTINF:-1 tvg-id="elevensports3.pt" group-title="Desporto", Eleven 3
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/15199
-#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" group-title="Desporto", NL: Ziggo
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" group-title="Desporto", Ziggo Sport Select
 http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11287
 
 
