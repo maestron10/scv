@@ -42,17 +42,17 @@ http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159099
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159105
 #EXTINF:-1,SPORT.TV 5
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159111
-#EXTINF:-1,Eleven 1 HD
+#EXTINF:-1,Eleven 1
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159123
-#EXTINF:-1,Eleven 2 HD
+#EXTINF:-1,Eleven 2
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159127
-#EXTINF:-1,Eleven 3 HD
+#EXTINF:-1,Eleven 3
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159131
-#EXTINF:-1,Eleven 4 HD
+#EXTINF:-1,Eleven 4
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159135
-#EXTINF:-1,Eleven 5 HD
+#EXTINF:-1,Eleven 5
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159139
-#EXTINF:-1,Eleven 6 HD
+#EXTINF:-1,Eleven 6
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159143
 #EXTINF:-1,CANAL 11
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159147
@@ -89,10 +89,8 @@ http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159249
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159252
 #EXTINF:-1,SYFY
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159231
-#EXTINF:-1,NOS STUDIO HD
+#EXTINF:-1,NOS Studios
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/159258
-#EXTINF:-1,NOS STUDIOS HD
-http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/
 #EXTINF:-1,===== INTERNACIONAL ===== 
 #EXTINF:-1,Sportdigital HD 
 http://dmtn.tv:8080/brother-iptv/sSsoZ9CVH9/30344
