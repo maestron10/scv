@@ -30,43 +30,7 @@ http://flytv.club:25461/gustjim/9seaC8nHPy/9371
 http://flytv.club:25461/gustjim/9seaC8nHPy/9372
 #EXTINF:-1,TVCINE Action HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9373
-#EXTINF:-1,-------i90-------
-#EXTINF:-1, Benfica TV HD
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/12521
-#EXTINF:-1, SPORT.TV1 HD
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8818
-#EXTINF:-1, SPORT.TV2 HD
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8814
-#EXTINF:-1, SPORT.TV3 HD
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8813
-#EXTINF:-1, SPORT.TV4 HD
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/7479
-#EXTINF:-1, SPORT.TV5 HD
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8812
-#EXTINF:-1, Eleven Sports 1
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51927
-#EXTINF:-1, Eleven Sports 2
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51926
-#EXTINF:-1, Eleven Sports 3
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51925
-#EXTINF:-1, Eleven Sports 4
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51924
-#EXTINF:-1, Eleven Sports 5
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51923
-#EXTINF:-1, RMC Sport 1 
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/625226
-#EXTINF:-1, RMC Sport 2
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/682957
-#EXTINF:-1, RMC Sport 3
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/682958
-#EXTINF:-1, TVCine Top
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13105
-#EXTINF:-1, TVCine Emotion
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13103
-#EXTINF:-1, TVCine Edition
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13099
-#EXTINF:-1, TVCine Action
-http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13101
+
 #EXTINF:-1,-------365cx-------
 #EXTINF:-1,BenficaTV 1 HD
 http://ip365.cx:80/196939298871739/889632991912229/165526
@@ -150,4 +114,57 @@ http://92.246.85.75:4000/play/a06f
 http://46.127.160.33:8080/play/a014/index.m3u8
 #EXTINF:-1,Eleven 2  
 http://46.127.160.33:8080/play/a00d/index.m3u8
-
+#EXTINF:-1,-------Premium-------
+#EXTINF:-1,Sport.TV 1 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1567
+#EXTINF:-1,Sport.TV 2 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1581
+#EXTINF:-1,Sport.TV 3 HD
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1585
+#EXTINF:-1,Sport.TV 4
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1584
+#EXTINF:-1,Sport.TV 5
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3788
+#EXTINF:-1,Eleven 1 
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1615
+#EXTINF:-1,Eleven 2 
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1614
+#EXTINF:-1,Eleven 3
+http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1613
+#EXTINF:-1,-------i90-------
+#EXTINF:-1, Benfica TV HD
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/12521
+#EXTINF:-1, SPORT.TV1 HD
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8818
+#EXTINF:-1, SPORT.TV2 HD
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8814
+#EXTINF:-1, SPORT.TV3 HD
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8813
+#EXTINF:-1, SPORT.TV4 HD
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/7479
+#EXTINF:-1, SPORT.TV5 HD
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/8812
+#EXTINF:-1, Eleven Sports 1
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51927
+#EXTINF:-1, Eleven Sports 2
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51926
+#EXTINF:-1, Eleven Sports 3
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51925
+#EXTINF:-1, Eleven Sports 4
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51924
+#EXTINF:-1, Eleven Sports 5
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/51923
+#EXTINF:-1, RMC Sport 1 
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/625226
+#EXTINF:-1, RMC Sport 2
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/682957
+#EXTINF:-1, RMC Sport 3
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/682958
+#EXTINF:-1, TVCine Top
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13105
+#EXTINF:-1, TVCine Emotion
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13103
+#EXTINF:-1, TVCine Edition
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13099
+#EXTINF:-1, TVCine Action
+http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13101
