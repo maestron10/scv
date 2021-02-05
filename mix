@@ -30,7 +30,6 @@ http://flytv.club:25461/gustjim/9seaC8nHPy/9371
 http://flytv.club:25461/gustjim/9seaC8nHPy/9372
 #EXTINF:-1,TVCINE Action HD
 http://flytv.club:25461/gustjim/9seaC8nHPy/9373
-
 #EXTINF:-1,-------365cx-------
 #EXTINF:-1,BenficaTV 1 HD
 http://ip365.cx:80/196939298871739/889632991912229/165526
@@ -41,15 +40,15 @@ http://ip365.cx:80/196939298871739/889632991912229/165775
 #EXTINF:-1,SPORT.TV
 http://ip365.cx:80/196939298871739/889632991912229/165779
 #EXTINF:-1,SPORT.TV 1 HD
-http://ip365.cx:80/196939298871739/889632991912229/161493
+http://ip365.cx:80/196939298871739/889632991912229/165493
 #EXTINF:-1,SPORT.TV 2 HD
-http://ip365.cx:80/196939298871739/889632991912229/161494
+http://ip365.cx:80/196939298871739/889632991912229/165494
 #EXTINF:-1,SPORT.TV 3 HD
-http://ip365.cx:80/196939298871739/889632991912229/161495
+http://ip365.cx:80/196939298871739/889632991912229/165495
 #EXTINF:-1,SPORT.TV 4
-http://ip365.cx:80/196939298871739/889632991912229/161496
+http://ip365.cx:80/196939298871739/889632991912229/165496
 #EXTINF:-1,SPORT.TV 5
-http://ip365.cx:80/196939298871739/889632991912229/161497
+http://ip365.cx:80/196939298871739/889632991912229/165497
 #EXTINF:-1,Eleven 1
 http://ip365.cx:80/196939298871739/889632991912229/165781
 #EXTINF:-1,Eleven 2
@@ -78,25 +77,27 @@ http://ip365.cx:80/196939298871739/889632991912229/165753
 http://ip365.cx:80/196939298871739/889632991912229/165754
 #EXTINF:-1,TVCINE ACTION HD
 http://ip365.cx:80/196939298871739/889632991912229/165755
-#EXTINF:-1,-------MitvPro-------
-#EXTINF:-1,Benfica TV HD 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95396
-#EXTINF:-1,Eleven 1 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95418
-#EXTINF:-1,Eleven 2 
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95419
-#EXTINF:-1,Eleven 3
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95420
+#EXTINF:-1,-------Domino-------
 #EXTINF:-1,Sport.TV 1 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95408
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/917
 #EXTINF:-1,Sport.TV 2 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95411
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/918
 #EXTINF:-1,Sport.TV 3 HD
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95413
-#EXTINF:-1,Sport.TV 4
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95415
-#EXTINF:-1,Sport.TV 5
-http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95416
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/919
+#EXTINF:-1,Sport.TV 4 HD
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/920
+#EXTINF:-1,Sport.TV 5 HD
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/921
+#EXTINF:-1,Eleven 1
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1468
+#EXTINF:-1,Eleven 2
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1469
+#EXTINF:-1,Eleven 3
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1470
+#EXTINF:-1,Eleven 4
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1471
+#EXTINF:-1,Eleven 5
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1472
 #EXTINF:-1,-------Play-------
 #EXTINF:-1,Benfica TV HD 
 http://77.54.145.209:81/play/a032
@@ -137,6 +138,28 @@ http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1615
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1614
 #EXTINF:-1,Eleven 3
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1613
+#EXTINF:-1,-------Domino-------
+#EXTINF:-1,Sport.TV 1
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/917
+#EXTINF:-1,Sport.TV 2
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/918
+#EXTINF:-1,Sport.TV 3
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/919
+#EXTINF:-1,Sport.TV 4
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/920
+#EXTINF:-1,Sport.TV 5
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/921
+#EXTINF:-1,Eleven 1
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1468
+#EXTINF:-1,Eleven 2
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1469
+#EXTINF:-1,Eleven 3
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1470
+#EXTINF:-1,Eleven 4
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1471
+#EXTINF:-1,Eleven 5
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1472
+
 #EXTINF:-1,-------i90-------
 #EXTINF:-1, Benfica TV HD
 http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/12521
@@ -174,3 +197,24 @@ http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13103
 http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13099
 #EXTINF:-1, TVCine Action
 http://mytv.fun:8080/l090upt7dp/eiyg3s8lyv/13101
+#EXTINF:-1,-------MitvPro-------
+#EXTINF:-1,Benfica TV HD 
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95396
+#EXTINF:-1,Eleven 1 
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95418
+#EXTINF:-1,Eleven 2 
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95419
+#EXTINF:-1,Eleven 3
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95420
+#EXTINF:-1,Sport.TV 1 HD
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95408
+#EXTINF:-1,Sport.TV 2 HD
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95411
+#EXTINF:-1,Sport.TV 3 HD
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95413
+#EXTINF:-1,Sport.TV 4
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95415
+#EXTINF:-1,Sport.TV 5
+http://mitvpro.live:25461/pvsiv1hSyZeZ0Tu/RpCbxrAbCKzfCJM/95416
+
+
