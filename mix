@@ -159,6 +159,12 @@ http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1470
 http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1471
 #EXTINF:-1,Eleven 5
 http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/1472
+#EXTINF:-1, RMC Sport 1
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/798
+#EXTINF:-1, RMC Sport 2
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/799
+#EXTINF:-1, RMC Sport 3
+http://localiptv.ddns.net:25461/DominoSolkatDiscourd/Domino2020iptv/800
 
 #EXTINF:-1,-------i90-------
 #EXTINF:-1, Benfica TV HD
