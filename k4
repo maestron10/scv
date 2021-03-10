@@ -1,80 +1,146 @@
 #EXTM3U
-#EXTINF:-1,===== DESPORTO ===== 
-#EXTINF:-1,BTV 1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95396
-#EXTINF:-1,A BOLA TV HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95397
-#EXTINF:-1,Canal 11 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95426
-#EXTINF:-1,SPORT.TV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95407
-#EXTINF:-1,SPORT.TV 1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95408
-#EXTINF:-1,SPORT.TV 2 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95411
-#EXTINF:-1,SPORT.TV 3 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95413
-#EXTINF:-1,SPORT.TV 4 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95415
-#EXTINF:-1,SPORT.TV 5 
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95416
-#EXTINF:-1,Eleven 1
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95418
-#EXTINF:-1,Eleven 2
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95419
-#EXTINF:-1,Eleven 3 
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95420
-#EXTINF:-1,Eleven 4
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95421
-#EXTINF:-1,Eleven 5
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95422
-#EXTINF:-1,===== FILMES ===== 
-#EXTINF:-1,TVCINE TOP HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95339
-#EXTINF:-1,TVCINE EDITION HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95340
-#EXTINF:-1,TVCINE EMOTION HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95341
-#EXTINF:-1,TVCINE ACTION HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95342
 #EXTINF:-1,RTP 1 HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95292
-#EXTINF:-1,RTP 3
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95296
-#EXTINF:-1,SIC
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95302
-#EXTINF:-1,SIC NOTICIAS
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95304
-#EXTINF:-1,PORTO CANAL
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95309
-#EXTINF:-1,TVI
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95312
-#EXTINF:-1,TVI 24
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95313
+http://diretogo.com:80/andre2201/09494562/10053130
+#EXTINF:-1,RTP 2 HD
+http://diretogo.com:80/andre2201/09494562/10053127
+#EXTINF:-1,SIC HD
+http://diretogo.com:80/andre2201/09494562/10053124
+#EXTINF:-1,TVI HD
+http://diretogo.com:80/andre2201/09494562/10053122
 #EXTINF:-1,CMTV
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95405
-#EXTINF:-1,TVI REALITY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95316
-#EXTINF:-1,AMC HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95334
-#EXTINF:-1,AXN HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95336
-#EXTINF:-1,AXN WHITE HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95337
-#EXTINF:-1,AXN MOVIES HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95338
-#EXTINF:-1,FOX HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95345
-#EXTINF:-1,FOX MOVIES
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95346
-#EXTINF:-1,FOX COMEDY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95347
-#EXTINF:-1,SYFY
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95350
+http://diretogo.com:80/andre2201/09494562/10053119
+#EXTINF:-1,RTP 3
+http://diretogo.com:80/andre2201/09494562/10053117
+#EXTINF:-1,TVI 24 
+http://diretogo.com:80/andre2201/09494562/10053115
+#EXTINF:-1,SIC NOTICIAS
+http://diretogo.com:80/andre2201/09494562/10053113
+#EXTINF:-1,SIC RADICAL 
+http://diretogo.com:80/andre2201/09494562/10053108
+#EXTINF:-1,PORTO CANAL 
+http://diretogo.com:80/andre2201/09494562/10053105
+#EXTINF:-1,TVI REALITY 
+http://diretogo.com:80/andre2201/09494562/10053094
+#EXTINF:-1,**************DESPORTO******************
+#EXTINF:-1,CANAL 11 HD
+http://diretogo.com:80/andre2201/09494562/10052997
+#EXTINF:-1,SPORT TV + HD
+http://diretogo.com:80/andre2201/09494562/10040701
+#EXTINF:-1,SPORT TV 1 HD
+http://diretogo.com:80/andre2201/09494562/10052992
+#EXTINF:-1,SPORT TV 2 HD
+http://diretogo.com:80/andre2201/09494562/10052989
+#EXTINF:-1,SPORT TV 3 HD
+http://diretogo.com:80/andre2201/09494562/10052986
+#EXTINF:-1,SPORT TV 4 HD
+http://diretogo.com:80/andre2201/09494562/10052983
+#EXTINF:-1,SPORT TV 5 HD
+http://diretogo.com:80/andre2201/09494562/10052981
+#EXTINF:-1,Eleven 1 
+http://diretogo.com:80/andre2201/09494562/10052978
+#EXTINF:-1,Eleven 2 
+http://diretogo.com:80/andre2201/09494562/10052975
+#EXTINF:-1,Eleven 3 
+http://diretogo.com:80/andre2201/09494562/10052972
+#EXTINF:-1,Eleven 4 
+http://diretogo.com:80/andre2201/09494562/10052969
+#EXTINF:-1,Eleven 5 
+http://diretogo.com:80/andre2201/09494562/10052966
+#EXTINF:-1,BenficaTV 1 HD
+http://diretogo.com:80/andre2201/09494562/10052960
+#EXTINF:-1,BenficaTV 1 
+http://diretogo.com:80/andre2201/09494562/10052959
+#EXTINF:-1,SPORTING TV HD
+http://diretogo.com:80/andre2201/09494562/10052957
+#EXTINF:-1,A BOLA TV
+http://diretogo.com:80/andre2201/09494562/10052956
+#EXTINF:-1,EUROSPORT 1 
+http://diretogo.com:80/andre2201/09494562/10052953
+#EXTINF:-1,EUROSPORT 2
+http://diretogo.com:80/andre2201/09494562/10052952
+#EXTINF:-1,******* PT EXCLUSIVO **********
+http://diretogo.com:80/andre2201/09494562/10053089
+#EXTINF:-1,NETFLIX (EX)
+http://diretogo.com:80/andre2201/09494562/10053084
+#EXTINF:-1,DISNEY (EX)
+http://diretogo.com:80/andre2201/09494562/10053082
+#EXTINF:-1,NETFLIX KIDS (EX)
+http://diretogo.com:80/andre2201/09494562/10053081
+#EXTINF:-1,CINEMA EM CASA (EX)
+http://diretogo.com:80/andre2201/09494562/10053075
+#EXTINF:-1,CINEMA AÇAO (EX)
+http://diretogo.com:80/andre2201/09494562/10053074
+#EXTINF:-1,RIR ATE CAIR (EX)
+http://diretogo.com:80/andre2201/09494562/10053073
+#EXTINF:-1, CAFE CONCERTO (EX)
+http://diretogo.com:80/andre2201/09494562/10053066
+#EXTINF:-1,STAND UP (EX)
+http://diretogo.com:80/andre2201/09494562/10053064
+#EXTINF:-1,APAIXONADOS POR SERIES (EX)
+http://diretogo.com:80/andre2201/09494562/10053059
+#EXTINF:-1,CINEMA GUERRA (EX)
+http://diretogo.com:80/andre2201/09494562/10053057
+#EXTINF:-1,Ficçao CientÃ­fica (EX)
+http://diretogo.com:80/andre2201/09494562/10053056
+#EXTINF:-1,RALLYE (EX)
+http://diretogo.com:80/andre2201/09494562/10053055
+#EXTINF:-1,MOTO GP (EX)
+http://diretogo.com:80/andre2201/09494562/10053053
+#EXTINF:-1,TERROR (EX)
+http://diretogo.com:80/andre2201/09494562/10053048
+#EXTINF:-1,TV CINE TOP HD
+http://diretogo.com:80/andre2201/09494562/10053045
+#EXTINF:-1,TV CINE EDITION HD
+http://diretogo.com:80/andre2201/09494562/10053042
+#EXTINF:-1,TV CINE EMOTION HD
+http://diretogo.com:80/andre2201/09494562/10053039
+#EXTINF:-1,TV CINE ACTION HD
+http://diretogo.com:80/andre2201/09494562/10053036
 #EXTINF:-1,NOS STUDIO HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95351
+http://diretogo.com:80/andre2201/09494562/10053033
+#EXTINF:-1,AMC HD
+http://diretogo.com:80/andre2201/09494562/10053030
 #EXTINF:-1,HOLLYWOOD HD
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95379
+http://diretogo.com:80/andre2201/09494562/10053027
 #EXTINF:-1,CINEMUNDO
-http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/7viPhu7EWQ/95381
-
+http://diretogo.com:80/andre2201/09494562/10053025
+#EXTINF:-1,SYFY FHD
+http://diretogo.com:80/andre2201/09494562/10053022
+#EXTINF:-1,AXN HD
+http://diretogo.com:80/andre2201/09494562/10053020
+#EXTINF:-1,AXN WHITE HD
+http://diretogo.com:80/andre2201/09494562/10053017
+#EXTINF:-1,AXN MOVIES HD
+http://diretogo.com:80/andre2201/09494562/10053014
+#EXTINF:-1,FOX HD
+http://diretogo.com:80/andre2201/09494562/10053011
+#EXTINF:-1,FOX MOVIES HD
+http://diretogo.com:80/andre2201/09494562/10053008
+#EXTINF:-1,FOX LIFE HD
+http://diretogo.com:80/andre2201/09494562/10053006
+#EXTINF:-1,FOX CRIME HD
+http://diretogo.com:80/andre2201/09494562/10053004
+#EXTINF:-1,FOX COMEDY
+http://diretogo.com:80/andre2201/09494562/10053002
+#EXTINF:-1,************* CULTURA ************
+http://diretogo.com:80/andre2201/09494562/10052943
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://diretogo.com:80/andre2201/09494562/10052942
+#EXTINF:-1,NAT GEO WILD
+http://diretogo.com:80/andre2201/09494562/10052941
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://diretogo.com:80/andre2201/09494562/10052939
+#EXTINF:-1,ID INVESTIGATION DISCOVERY FHD
+http://diretogo.com:80/andre2201/09494562/10052937
+#EXTINF:-1,TRAVEL CHANNEL FHD
+http://diretogo.com:80/andre2201/09494562/10052936
+#EXTINF:-1,CRIME   INVESTIGATION
+http://diretogo.com:80/andre2201/09494562/10052935
+#EXTINF:-1,ODISSEIA FHD
+http://diretogo.com:80/andre2201/09494562/10052933
+#EXTINF:-1,BLAZE TV FHD
+http://diretogo.com:80/andre2201/09494562/10052931
+#EXTINF:-1,HISTORIA
+http://diretogo.com:80/andre2201/09494562/10052930
+#EXTINF:-1,TLC
+http://diretogo.com:80/andre2201/09494562/10052925
