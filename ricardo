@@ -35,22 +35,14 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/15578
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15577
 #EXTINF:-1,SPORT TV 5 HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15576
+#EXTINF:-1,Sky Sports F1
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/19605
 #EXTINF:-1,SPORTING TV
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15572
 #EXTINF:-1,EUROSPORT 1 HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15575
 #EXTINF:-1,Eurosport 2
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15574
-#EXTINF:-1,RTP ACORES
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15644
-#EXTINF:-1,RTP Africa
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15544
-#EXTINF:-1,RTP MADEIRA
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15643
-#EXTINF:-1,RTP MEMORIA
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15642
-#EXTINF:-1,RTPi
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15648
 #EXTINF:-1,TVC 1 HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15600
 #EXTINF:-1,TVC 2 HD
@@ -61,24 +53,16 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/15598
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15597
 #EXTINF:-1, AMC HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15616
-#EXTINF:-1,AXN Black HD
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15620
 #EXTINF:-1,AXN HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15621
+#EXTINF:-1,AXN Black HD
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15620
 #EXTINF:-1,AXN White HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15619
-#EXTINF:-1,Canal Odisseia
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15551
-#EXTINF:-1,Cinemundo
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15604
 #EXTINF:-1,CINEMUNDO HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15603
-#EXTINF:-1,Crime  Investigation TV
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15585
-#EXTINF:-1,DISCOVERY CHANNEL
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15589
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15588
+#EXTINF:-1,Hollywood HD
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15601
 #EXTINF:-1,FOX Comedy
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15622
 #EXTINF:-1,Fox Crime
@@ -99,16 +83,32 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/15625
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15623
 #EXTINF:-1,HISTORIA
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15582
-#EXTINF:-1,Hollywood HD
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/15601
 #EXTINF:-1,NAT GEO WILD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15590
 #EXTINF:-1,Nat Geo Wild HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15591
 #EXTINF:-1,National Geographic HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15592
+#EXTINF:-1,Canal Odisseia
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15551
+#EXTINF:-1,Crime  Investigation TV
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15585
+#EXTINF:-1,DISCOVERY CHANNEL
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15589
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15588
 #EXTINF:-1,NBA TV
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15568
+#EXTINF:-1,RTP ACORES
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15644
+#EXTINF:-1,RTP Africa
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15544
+#EXTINF:-1,RTP MADEIRA
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15643
+#EXTINF:-1,RTP MEMORIA
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15642
+#EXTINF:-1,RTPi
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/15648
 #EXTINF:-1,SIC Caras
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/15636
 #EXTINF:-1,SIC K
