@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1, ----Moon----
+#EXTINF:-1,BenficaTV 1 HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15570
+#EXTINF:-1,A BOLA TV HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15612
+#EXTINF:-1,Canal 11 HD
+#EXTINF:-1,SPORT.TV
+#EXTINF:-1,SPORT.TV 1 HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15580
+#EXTINF:-1,SPORT.TV 2 HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15579
+#EXTINF:-1,SPORT.TV 3 HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15578
+#EXTINF:-1,SPORT.TV 4
+http://moontools.me:8080/majochamb/zsKN66d9cA/15577
+#EXTINF:-1,SPORT.TV 5
+http://moontools.me:8080/majochamb/zsKN66d9cA/15576
+#EXTINF:-1,Sky Sports F1
+http://moontools.me:8080/majochamb/zsKN66d9cA/19606 
+#EXTINF:-1,===== FILMES ===== 
+#EXTINF:-1,TVCINE TOP HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15600
+#EXTINF:-1,TVCINE EDITION HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15599
+#EXTINF:-1,TVCINE EMOTION HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15598
+#EXTINF:-1,TVCINE ACTION HD
+http://moontools.me:8080/majochamb/zsKN66d9cA/15597
 #EXTINF:-1, ----Aetorando----
 #EXTINF:-1,A BOLA TV
 http://dimapro.cz:8080/D4:CF:F9:0A:ec:9f/GtvsuptvO00aetorando/59204
