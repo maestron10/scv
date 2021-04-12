@@ -1,4 +1,84 @@
 #EXTM3U
+#EXTINF:-1, ========Ky===========
+#EXTINF:-1,A BOLA TV
+http://ky-iptv.com:25461/matty/181818/399221
+#EXTINF:-1,BenficaTV 1 HD
+http://ky-iptv.com:25461/matty/181818/219188
+#EXTINF:-1,BenficaTV 1 HD
+http://ky-iptv.com:25461/matty/181818/399240
+#EXTINF:-1,Canal 11 HD
+http://ky-iptv.com:25461/matty/181818/219175
+#EXTINF:-1,SPORT.TV
+http://ky-iptv.com:25461/matty/181818/399389
+#EXTINF:-1,SPORT.TV 1 HD
+http://ky-iptv.com:25461/matty/181818/399398
+#EXTINF:-1,SPORT.TV 2 HD
+http://ky-iptv.com:25461/matty/181818/399401
+#EXTINF:-1,SPORT.TV 3 HD
+http://ky-iptv.com:25461/matty/181818/399404
+#EXTINF:-1,SPORT.TV 4
+http://ky-iptv.com:25461/matty/181818/399407
+#EXTINF:-1,SPORT.TV 5
+http://ky-iptv.com:25461/matty/181818/399410
+#EXTINF:-1,Eleven 1
+http://ky-iptv.com:25461/matty/181818/399286
+#EXTINF:-1,Eleven 2
+http://ky-iptv.com:25461/matty/181818/399289
+#EXTINF:-1,Eleven 3 
+http://ky-iptv.com:25461/matty/181818/399292
+#EXTINF:-1,Eleven 4
+http://ky-iptv.com:25461/matty/181818/399295
+#EXTINF:-1,Eleven 5
+http://ky-iptv.com:25461/matty/181818/399298
+#EXTINF:-1,EuroSport 1
+http://ky-iptv.com:25461/matty/181818/399306
+#EXTINF:-1,Sky Sports F1 
+http://ky-iptv.com:25461/matty/181818/174259
+#EXTINF:-1,MOVISTAR F1 FHD
+http://ky-iptv.com:25461/matty/181818/388228
+#EXTINF:-1,TVCINE TOP HD
+http://ky-iptv.com:25461/matty/181818/399447
+#EXTINF:-1,TVCINE EDITION HD
+http://ky-iptv.com:25461/matty/181818/399442
+#EXTINF:-1,TVCINE EMOTION HD
+http://ky-iptv.com:25461/matty/181818/399445
+#EXTINF:-1,TVCINE ACTION HD
+http://ky-iptv.com:25461/matty/181818/399439
+#EXTINF:-1,Cinemundo
+http://ky-iptv.com:25461/matty/181818/399265
+#EXTINF:-1,HOLLYWOOD HD
+http://ky-iptv.com:25461/matty/181818/399342
+#EXTINF:-1,AMC
+http://ky-iptv.com:25461/matty/181818/399225
+#EXTINF:-1,AXN HD
+http://ky-iptv.com:25461/matty/181818/399229
+#EXTINF:-1,AXN Movies HD
+http://ky-iptv.com:25461/matty/181818/399231
+#EXTINF:-1,AXN WHITE 
+http://ky-iptv.com:25461/matty/181818/399234
+#EXTINF:-1,FOX HD
+http://ky-iptv.com:25461/matty/181818/399316
+#EXTINF:-1,NETFLIX HD
+http://ky-iptv.com:25461/matty/181818/399373
+#EXTINF:-1,NOS Studios HD
+http://ky-iptv.com:25461/matty/181818/219253
+#EXTINF:-1,RTP 1 HD
+http://ky-iptv.com:25461/matty/181818/399194
+#EXTINF:-1,SIC
+http://ky-iptv.com:25461/matty/181818/219270
+#EXTINF:-1,TVI
+http://ky-iptv.com:25461/matty/181818/399453
+#EXTINF:-1,RTP 3
+http://ky-iptv.com:25461/matty/181818/399201
+#EXTINF:-1,CMTV
+http://ky-iptv.com:25461/matty/181818/399268
+#EXTINF:-1,SIC NOTICIAS
+http://ky-iptv.com:25461/matty/181818/219274
+#EXTINF:-1,TVI 24
+http://ky-iptv.com:25461/matty/181818/219304
+#EXTINF:-1,PORTO CANAL
+http://ky-iptv.com:25461/matty/181818/399386
+#EXTINF:-1, ========Jlw Media===========
 #EXTINF:-1,RTP 1 HD
 http://jlwmedia.xyz:2052/aahzdahd/k7hF3mNU/1109275
 #EXTINF:-1,SIC
@@ -83,3 +163,4 @@ http://jlwmedia.xyz:2052/aahzdahd/k7hF3mNU/1109159
 http://jlwmedia.xyz:2052/aahzdahd/k7hF3mNU/1116472
 #EXTINF:-1,NOS Studios HD
 http://jlwmedia.xyz:2052/aahzdahd/k7hF3mNU/1109174
+
