@@ -1,164 +1,252 @@
 #EXTM3U
+#EXTINF:-1, ========IPStream===========
+#EXTINF:-1,A BOLA TV
+http://iptvstream.xyz:8080/test-d846e2/323e/1420
+#EXTINF:-1,BenficaTV 1 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1497
+#EXTINF:-1,BenficaTV 1 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/8042
+#EXTINF:-1,Canal 11 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/278549
+#EXTINF:-1,SPORT.TV
+http://iptvstream.xyz:8080/test-d846e2/323e/220178
+#EXTINF:-1,SPORT.TV 1 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/37186
+#EXTINF:-1,SPORT.TV 2 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/37187
+#EXTINF:-1,SPORT.TV 3 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/37188
+#EXTINF:-1,SPORT.TV 4
+http://iptvstream.xyz:8080/test-d846e2/323e/37189
+#EXTINF:-1,SPORT.TV 5
+http://iptvstream.xyz:8080/test-d846e2/323e/220183
+#EXTINF:-1,Eleven 1
+http://iptvstream.xyz:8080/test-d846e2/323e/37196
+#EXTINF:-1,Eleven 2
+http://iptvstream.xyz:8080/test-d846e2/323e/37197
+#EXTINF:-1,Eleven 3 
+http://iptvstream.xyz:8080/test-d846e2/323e/37198
+#EXTINF:-1,Eleven 4
+http://iptvstream.xyz:8080/test-d846e2/323e/37199
+#EXTINF:-1,Eleven 5
+http://iptvstream.xyz:8080/test-d846e2/323e/37200
+#EXTINF:-1,EuroSport 1
+http://iptvstream.xyz:8080/test-d846e2/323e/1517
+#EXTINF:-1,Sky Sports F1 
+http://iptvstream.xyz:8080/test-d846e2/323e/265
+#EXTINF:-1,MOVISTAR F1 FHD
+http://iptvstream.xyz:8080/test-d846e2/323e/1672
+#EXTINF:-1,TVCINE TOP HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1446
+#EXTINF:-1,TVCINE EDITION HD
+http://iptvstream.xyz:8080/test-d846e2/323e/82254
+#EXTINF:-1,TVCINE EMOTION HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1448
+#EXTINF:-1,TVCINE ACTION HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1452
+#EXTINF:-1,TVCine+ HD
+http://iptvstream.xyz:8080/test-d846e2/323e/278686
+#EXTINF:-1,Cinemundo
+http://iptvstream.xyz:8080/test-d846e2/323e/1477
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1455
+#EXTINF:-1,AMC
+http://iptvstream.xyz:8080/test-d846e2/323e/1473
+#EXTINF:-1,AXN HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1469
+#EXTINF:-1,AXN Movies HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1471
+#EXTINF:-1,AXN WHITE 
+http://iptvstream.xyz:8080/test-d846e2/323e/1467
+#EXTINF:-1,FOX HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1461
+#EXTINF:-1,NETFLIX HD
+http://iptvstream.xyz:8080/test-d846e2/323e/24517
+#EXTINF:-1,NOS Studios HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1454
+#EXTINF:-1,RTP 1 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/1404
+#EXTINF:-1,SIC
+http://iptvstream.xyz:8080/test-d846e2/323e/1408
+#EXTINF:-1,TVI
+http://iptvstream.xyz:8080/test-d846e2/323e/1410
+#EXTINF:-1,RTP 3
+http://iptvstream.xyz:8080/test-d846e2/323e/1418
+#EXTINF:-1,CMTV
+http://iptvstream.xyz:8080/test-d846e2/323e/1412
+#EXTINF:-1,SIC NOTICIAS
+http://iptvstream.xyz:8080/test-d846e2/323e/1416
+#EXTINF:-1,TVI 24
+http://iptvstream.xyz:8080/test-d846e2/323e/1414
+#EXTINF:-1,PORTO CANAL
+http://iptvstream.xyz:8080/test-d846e2/323e/1419
+#EXTINF:-1,CINEMA PORTUGAL HD
+http://iptvstream.xyz:8080/test-d846e2/323e/201048
+#EXTINF:-1,GATO FEDORENTO HD
+http://iptvstream.xyz:8080/test-d846e2/323e/201046
+#EXTINF:-1,INSIDE FORMULA 1 HD
+http://iptvstream.xyz:8080/test-d846e2/323e/201047
 #EXTINF:-1, ========Ky===========
 #EXTINF:-1,A BOLA TV
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399221
+http://ky-iptv.com:25461/nonoman/999888/399221
 #EXTINF:-1,BenficaTV 1 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/219188
+http://ky-iptv.com:25461/nonoman/999888/219188
 #EXTINF:-1,BenficaTV 1 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399240
+http://ky-iptv.com:25461/nonoman/999888/399240
 #EXTINF:-1,Canal 11 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/219175
+http://ky-iptv.com:25461/nonoman/999888/219175
 #EXTINF:-1,SPORT.TV
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399389
+http://ky-iptv.com:25461/nonoman/999888/399389
 #EXTINF:-1,SPORT.TV 1 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399398
+http://ky-iptv.com:25461/nonoman/999888/399398
 #EXTINF:-1,SPORT.TV 2 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399401
+http://ky-iptv.com:25461/nonoman/999888/399401
 #EXTINF:-1,SPORT.TV 3 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399404
+http://ky-iptv.com:25461/nonoman/999888/399404
 #EXTINF:-1,SPORT.TV 4
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399407
+http://ky-iptv.com:25461/nonoman/999888/399407
 #EXTINF:-1,SPORT.TV 5
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399410
+http://ky-iptv.com:25461/nonoman/999888/399410
 #EXTINF:-1,Eleven 1
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399286
+http://ky-iptv.com:25461/nonoman/999888/399286
 #EXTINF:-1,Eleven 2
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399289
+http://ky-iptv.com:25461/nonoman/999888/399289
 #EXTINF:-1,Eleven 3 
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399292
+http://ky-iptv.com:25461/nonoman/999888/399292
 #EXTINF:-1,Eleven 4
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399295
+http://ky-iptv.com:25461/nonoman/999888/399295
 #EXTINF:-1,Eleven 5
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399298#EXTINF:-1,EuroSport 1
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399306
+http://ky-iptv.com:25461/nonoman/999888/399298
+#EXTINF:-1,EuroSport 1
+http://ky-iptv.com:25461/nonoman/999888/399306
 #EXTINF:-1,Sky Sports F1 
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/174259
+http://ky-iptv.com:25461/nonoman/999888/174259
 #EXTINF:-1,MOVISTAR F1 FHD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/388228
+http://ky-iptv.com:25461/nonoman/999888/388228
 #EXTINF:-1,TVCINE TOP HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399447
+http://ky-iptv.com:25461/nonoman/999888/399447
 #EXTINF:-1,TVCINE EDITION HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399442
+http://ky-iptv.com:25461/nonoman/999888/399442
 #EXTINF:-1,TVCINE EMOTION HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399445
+http://ky-iptv.com:25461/nonoman/999888/399445
 #EXTINF:-1,TVCINE ACTION HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399439
+http://ky-iptv.com:25461/nonoman/999888/399439
 #EXTINF:-1,Cinemundo
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399265#EXTINF:-1,HOLLYWOOD HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399342
+http://ky-iptv.com:25461/nonoman/999888/399265
+#EXTINF:-1,HOLLYWOOD HD
+http://ky-iptv.com:25461/nonoman/999888/399342
 #EXTINF:-1,AMC
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399225
+http://ky-iptv.com:25461/nonoman/999888/399225
 #EXTINF:-1,AXN HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399229
+http://ky-iptv.com:25461/nonoman/999888/399229
 #EXTINF:-1,AXN Movies HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399231
+http://ky-iptv.com:25461/nonoman/999888/399231
 #EXTINF:-1,AXN WHITE 
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399234
+http://ky-iptv.com:25461/nonoman/999888/399234
 #EXTINF:-1,FOX HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399316
+http://ky-iptv.com:25461/nonoman/999888/399316
 #EXTINF:-1,NETFLIX HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399373
+http://ky-iptv.com:25461/nonoman/999888/399373
 #EXTINF:-1,NOS Studios HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/219253
+http://ky-iptv.com:25461/nonoman/999888/219253
 #EXTINF:-1,RTP 1 HD
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399194
+http://ky-iptv.com:25461/nonoman/999888/399194
 #EXTINF:-1,SIC
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/219270
+http://ky-iptv.com:25461/nonoman/999888/219270
 #EXTINF:-1,TVI
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399453
+http://ky-iptv.com:25461/nonoman/999888/399453
 #EXTINF:-1,RTP 3
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399201
+http://ky-iptv.com:25461/nonoman/999888/399201
 #EXTINF:-1,CMTV
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399268
+http://ky-iptv.com:25461/nonoman/999888/399268
 #EXTINF:-1,SIC NOTICIAS
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/219274
+http://ky-iptv.com:25461/nonoman/999888/219274
 #EXTINF:-1,TVI 24
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/219304
+http://ky-iptv.com:25461/nonoman/999888/219304
 #EXTINF:-1,PORTO CANAL
-http://ky-iptv.com:25461/mBYpXJLZzc/rfMvvQDP7g/399386
+http://ky-iptv.com:25461/nonoman/999888/399386
 #EXTINF:-1, ========Jlw Media===========
 #EXTINF:-1,RTP 1 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109275
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109275
 #EXTINF:-1,SIC
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109284
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109284
 #EXTINF:-1,TVI
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109334
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109334
 #EXTINF:-1,TVI REALITY
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109323
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109323
 #EXTINF:-1,A BOLA TV
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109152
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109152
 #EXTINF:-1,BenficaTV 1 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109164
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109164
 #EXTINF:-1,BenficaTV 1 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1116423
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1116423
 #EXTINF:-1,Canal 11 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109269
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109269
 #EXTINF:-1,SPORT.TV
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109294
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109294
 #EXTINF:-1,SPORT.TV 1 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109295
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109295
 #EXTINF:-1,SPORT.TV 2 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109297
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109297
 #EXTINF:-1,SPORT.TV 3 HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109298
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109298
 #EXTINF:-1,SPORT.TV 4
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109300
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109300
 #EXTINF:-1,SPORT.TV 5
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109303
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109303
 #EXTINF:-1,Eleven 1
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109206
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109206
 #EXTINF:-1,Eleven 2
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109210
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109210
 #EXTINF:-1,Eleven 3 
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109213
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109213
 #EXTINF:-1,Eleven 4
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109216
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109216
 #EXTINF:-1,Eleven 5
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109220
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109220
 #EXTINF:-1,EuroSport 1
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109225
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109225
 #EXTINF:-1,RMC Sport 1
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1485927
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1485927
 #EXTINF:-1,RMC Sport 2
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1485928
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1485928
 #EXTINF:-1,RMC Sport 3
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1485929
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1485929
 #EXTINF:-1,Sky Sports F1 
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/2485229
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/2485229
 #EXTINF:-1,Sky Sports F1 
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/2485214
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/2485214
 #EXTINF:-1,RTP 3
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109278
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109278
 #EXTINF:-1,CMTV
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109189
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109189
 #EXTINF:-1,SIC NOTICIAS
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1116381
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1116381
 #EXTINF:-1,TVI 24
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109336
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109336
 #EXTINF:-1,PORTO CANAL
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109274
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109274
 #EXTINF:-1,TVCINE TOP HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109328
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109328
 #EXTINF:-1,TVCINE EDITION HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109330
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109330
 #EXTINF:-1,TVCINE EMOTION HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109332
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109332
 #EXTINF:-1,TVCINE ACTION HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109333
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109333
 #EXTINF:-1,AXN Movies HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1116438
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1116438
 #EXTINF:-1,Cinemundo
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109208
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109208
 #EXTINF:-1,HOLLYWOOD HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109244
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109244
 #EXTINF:-1,AMC
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1116436
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1116436
 #EXTINF:-1,AXN HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109156
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109156
 #EXTINF:-1,AXN WHITE 
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109159
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109159
 #EXTINF:-1,FOX HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1116472
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1116472
 #EXTINF:-1,NOS Studios HD
-http://jlwmedia.xyz:2052/phrxldzt/hwRtD5ph/1109174
-
+http://jlwmedia.xyz:2052/sldlwcwr/hxCnRnzJ/1109174
