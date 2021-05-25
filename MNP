@@ -1,61 +1,4 @@
 #EXTM3U
-#EXTINF:-1,===== 2021xtree =====
-#EXTINF:-1,BenficaTV 1 HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14557
-#EXTINF:-1,A BOLA TV HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14436
-#EXTINF:-1,Canal 11 HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14513
-#EXTINF:-1,SPORT.TV 1 HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14550
-#EXTINF:-1,SPORT.TV 2 HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14551
-#EXTINF:-1,SPORT.TV 3 HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14552
-#EXTINF:-1,SPORT.TV 4
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14553
-#EXTINF:-1,SPORT.TV 5
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14554
-#EXTINF:-1,Eleven 1
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14548
-#EXTINF:-1,Eleven 2
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14544
-#EXTINF:-1,Eleven 3
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14537
-#EXTINF:-1,Sky Sports F1
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13896
-#EXTINF:-1,===== FILMES ===== 
-#EXTINF:-1,TVCINE TOP HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14500
-#EXTINF:-1,TVCINE EDITION HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14502
-#EXTINF:-1,TVCINE EMOTION HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14504
-#EXTINF:-1,TVCINE ACTION HD
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14505
-#EXTINF:-1,AXN
-http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14486
-#EXTINF:-1,===== 163163 =====
-#EXTINF:-1,BenficaTV 1 HD
-http://163.172.103.202:8880/287994003710/287994003710/31242
-#EXTINF:-1,SPORT.TV
-http://163.172.103.202:8880/287994003710/287994003710/31251
-#EXTINF:-1,SPORT.TV 1 HD
-http://163.172.103.202:8880/287994003710/287994003710/31252
-#EXTINF:-1,SPORT.TV 2 HD
-http://163.172.103.202:8880/287994003710/287994003710/31253
-#EXTINF:-1,SPORT.TV 3 HD
-http://163.172.103.202:8880/287994003710/287994003710/31254
-#EXTINF:-1,SPORT.TV 4
-http://163.172.103.202:8880/287994003710/287994003710/31255
-#EXTINF:-1,SPORT.TV 5
-http://163.172.103.202:8880/287994003710/287994003710/31256
-#EXTINF:-1,Eleven 1
-http://163.172.103.202:8880/287994003710/287994003710/31243
-#EXTINF:-1,Eleven 2
-http://163.172.103.202:8880/287994003710/287994003710/31244
-#EXTINF:-1,Eleven 3 
-http://163.172.103.202:8880/287994003710/287994003710/31245
 #EXTINF:-1,===== MOONIPT =====
 #EXTINF:-1,BenficaTV 1 HD
 http://ip.mooniptv.cz:80/691672171663533/691672171663533/81786
@@ -91,45 +34,6 @@ http://ip.mooniptv.cz:80/691672171663533/691672171663533/81716
 http://ip.mooniptv.cz:80/691672171663533/691672171663533/81718
 #EXTINF:-1,TVCINE ACTION HD
 http://ip.mooniptv.cz:80/691672171663533/691672171663533/81715
-#EXTINF:-1,===== CONGA ===== 
-#EXTINF:-1,BenficaTV 1 HD
-http://gooserace.xyz:2052/Conga/Conga/1116423
-#EXTINF:-1,A BOLA TV HD
-http://gooserace.xyz:2052/Conga/Conga/1116393
-#EXTINF:-1,Canal 11 HD
-http://gooserace.xyz:2052/Conga/Conga/1109269
-#EXTINF:-1,SPORT.TV
-http://gooserace.xyz:2052/Conga/Conga/1116553
-#EXTINF:-1,SPORT.TV 1 HD
-http://gooserace.xyz:2052/Conga/Conga/1116411
-#EXTINF:-1,SPORT.TV 2 HD
-http://gooserace.xyz:2052/Conga/Conga/1116507
-#EXTINF:-1,SPORT.TV 3 HD
-http://gooserace.xyz:2052/Conga/Conga/1116509
-#EXTINF:-1,SPORT.TV 4
-http://gooserace.xyz:2052/Conga/Conga/1116511
-#EXTINF:-1,SPORT.TV 5
-http://gooserace.xyz:2052/Conga/Conga/1116513
-#EXTINF:-1,Eleven 1
-http://gooserace.xyz:2052/Conga/Conga/1109206
-#EXTINF:-1,Eleven 2
-http://gooserace.xyz:2052/Conga/Conga/1109210
-#EXTINF:-1,Eleven 3 
-http://gooserace.xyz:2052/Conga/Conga/1109213
-#EXTINF:-1,Eleven 4
-http://gooserace.xyz:2052/Conga/Conga/1109216
-#EXTINF:-1,Sky Sports F1
-http://gooserace.xyz:2052/Conga/Conga/2485214
-#EXTINF:-1,TVCINE TOP HD
-http://gooserace.xyz:2052/Conga/Conga/1116521
-#EXTINF:-1,TVCINE EDITION HD
-http://gooserace.xyz:2052/Conga/Conga/1116522
-#EXTINF:-1,TVCINE EMOTION HD
-http://gooserace.xyz:2052/Conga/Conga/1116524
-#EXTINF:-1,TVCINE ACTION HD
-http://gooserace.xyz:2052/Conga/Conga/1116526
-#EXTINF:-1,AXN
-http://gooserace.xyz:2052/Conga/Conga/1109156
 ======= JRODAS ==========
 #EXTINF:-1,BenficaTV 1 HD
 http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75258
