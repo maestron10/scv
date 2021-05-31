@@ -1,117 +1,47 @@
 #EXTM3U
-#EXTINF:-1,===== Elegant =====
+#EXTINF:-1,===== Cloud =====
 #EXTINF:-1,BenficaTV 1 HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174729
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/5541
 #EXTINF:-1,A BOLA TV HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76821
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/5540
 #EXTINF:-1,Canal 11 HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174714
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/28181
 #EXTINF:-1,SPORT.TV
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76886
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/19589
 #EXTINF:-1,SPORT.TV 1 HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76889
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/17744
 #EXTINF:-1,SPORT.TV 2 HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76892
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/3222
 #EXTINF:-1,SPORT.TV 3 HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76895
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/3223
 #EXTINF:-1,SPORT.TV 4
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76897
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/3224
 #EXTINF:-1,SPORT.TV 5
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76899
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/7842
 #EXTINF:-1,Eleven 1
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174748
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/23325
 #EXTINF:-1,Eleven 2
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174749
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/23320
 #EXTINF:-1,Eleven 3
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174750
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/23321
 #EXTINF:-1,Eleven 4
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174751
-#EXTINF:-1,Eurosport
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174756
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/23322
+#EXTINF:-1,Eleven 5
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/23323
 #EXTINF:-1,Sky Sports F1
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/159817
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/14656
+#EXTINF:-1,Movistar Formula 1 HD 
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/12701
 #EXTINF:-1,TVCINE TOP HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174840
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/5545
 #EXTINF:-1,TVCINE EDITION HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174834
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/5546
 #EXTINF:-1,TVCINE EMOTION HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174839
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/5547
 #EXTINF:-1,TVCINE ACTION HD
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/174831
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/5548
 #EXTINF:-1,AXN
-http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/76863
-#EXTINF:-1,===== MOONIPT =====
-#EXTINF:-1,BenficaTV 1 HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81786
-#EXTINF:-1,A BOLA TV HD1
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81785
-#EXTINF:-1,Canal 11 HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81770
-#EXTINF:-1,SPORT.TV
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81782
-#EXTINF:-1,SPORT.TV 1 HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81781
-#EXTINF:-1,SPORT.TV 2 HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81780
-#EXTINF:-1,SPORT.TV 3 HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81779
-#EXTINF:-1,SPORT.TV 4
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81645
-#EXTINF:-1,SPORT.TV 5
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81644
-#EXTINF:-1,Eleven 1
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81777
-#EXTINF:-1,Eleven 2
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81776
-#EXTINF:-1,Eleven 3
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81775
-#EXTINF:-1,EUROSPORT 1
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81783
-#EXTINF:-1,TVCINE TOP HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81720
-#EXTINF:-1,TVCINE EDITION HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81716
-#EXTINF:-1,TVCINE EMOTION HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81718
-#EXTINF:-1,TVCINE ACTION HD
-http://ip.mooniptv.cz:80/691672171663533/691672171663533/81715
-#EXTINF:-1, ======= JRODAS ==========
-#EXTINF:-1,BenficaTV 1 HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75258
-#EXTINF:-1,A BOLA TV HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75242
-#EXTINF:-1,Canal 11 HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75243
-#EXTINF:-1,SPORT.TV +
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75245
-#EXTINF:-1,SPORT.TV 1 HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75246
-#EXTINF:-1,SPORT.TV 2 HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75247
-#EXTINF:-1,SPORT.TV 3 HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/
-#EXTINF:-1,SPORT.TV 4
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75248
-#EXTINF:-1,SPORT.TV 5
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75250
-#EXTINF:-1,Eleven 1
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75265
-#EXTINF:-1,Eleven 2
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75271
-#EXTINF:-1,Eleven 3
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75275
-#EXTINF:-1,Sky Sports F1
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/67152
-#EXTINF:-1,TVCINE TOP HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75305
-#EXTINF:-1,TVCINE EDITION HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75309
-#EXTINF:-1,TVCINE EMOTION HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75313
-#EXTINF:-1,TVCINE ACTION HD
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75316
-#EXTINF:-1,AXN
-http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75333
+http://cloudcdn.tk:80/PetersonBR/7GA0c708/3255
 #EXTINF:-1, ==== Aetorando ========
 #EXTINF:-1,RTP 1 HD
 http://dimapro.cz:8080/D4:CF:F9:0A:ec:9f/GtvsuptvO00aetorando/59258
@@ -157,5 +87,43 @@ http://dimapro.cz:8080/D4:CF:F9:0A:ec:9f/GtvsuptvO00aetorando/59287
 http://dimapro.cz:8080/D4:CF:F9:0A:ec:9f/GtvsuptvO00aetorando/59288
 #EXTINF:-1,TV Cine Action
 http://dimapro.cz:8080/D4:CF:F9:0A:ec:9f/GtvsuptvO00aetorando/59289
+
+#EXTINF:-1, ======= JRODAS ==========
+#EXTINF:-1,BenficaTV 1 HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75258
+#EXTINF:-1,A BOLA TV HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75242
+#EXTINF:-1,Canal 11 HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75243
+#EXTINF:-1,SPORT.TV +
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75245
+#EXTINF:-1,SPORT.TV 1 HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75246
+#EXTINF:-1,SPORT.TV 2 HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75247
+#EXTINF:-1,SPORT.TV 3 HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/
+#EXTINF:-1,SPORT.TV 4
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75248
+#EXTINF:-1,SPORT.TV 5
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75250
+#EXTINF:-1,Eleven 1
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75265
+#EXTINF:-1,Eleven 2
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75271
+#EXTINF:-1,Eleven 3
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75275
+#EXTINF:-1,Sky Sports F1
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/67152
+#EXTINF:-1,TVCINE TOP HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75305
+#EXTINF:-1,TVCINE EDITION HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75309
+#EXTINF:-1,TVCINE EMOTION HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75313
+#EXTINF:-1,TVCINE ACTION HD
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75316
+#EXTINF:-1,AXN
+http://serviciosvisuales.ga:8000/JRODAS/FYYGS/75333
 
 
