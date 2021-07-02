@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,====== 777 =====
+#EXTINF:-1,==== 777 =====
 #EXTINF:-1,BenficaTV 1 HD
 https://c.livedirect8.com:8443/live777/aavqhab/70
 #EXTINF:-1,A BOLA TV HD
@@ -38,7 +38,48 @@ https://c.livedirect8.com:8443/live777/aavqhab/96
 https://c.livedirect8.com:8443/live777/aavqhab/98
 #EXTINF:-1,AXN
 https://c.livedirect8.com:8443/live777/aavqhab/99
-#EXTINF:-1,====== AMarques =====
+#EXTINF:-1,==== Amigo =====
+#EXTINF:-1,BenficaTV 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12451
+#EXTINF:-1,A BOLA TV HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12422
+#EXTINF:-1,Canal 11 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2842
+#EXTINF:-1,SPORT.TV
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12447
+#EXTINF:-1,SPORT.TV 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/12449
+#EXTINF:-1,SPORT.TV 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2819
+#EXTINF:-1,SPORT.TV 3 HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2821
+#EXTINF:-1,SPORT.TV 4
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2822
+#EXTINF:-1,SPORT.TV 5
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2825
+#EXTINF:-1,Eleven 1
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2827
+#EXTINF:-1,Eleven 2
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2829
+#EXTINF:-1,Eleven 3 
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2831
+#EXTINF:-1,Eleven 4
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2833
+#EXTINF:-1,Sky Sports F1 
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/5999
+#EXTINF:-1,Eurosport
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2847
+#EXTINF:-1,TVCINE TOP HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2855
+#EXTINF:-1,TVCINE EDITION HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2857
+#EXTINF:-1,TVCINE EMOTION HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2859
+#EXTINF:-1,TVCINE ACTION HD
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2860
+#EXTINF:-1,AXN
+http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/2883
+#EXTINF:-1,==== AMarques =====
 #EXTM3U
 #EXTINF:-1,BenficaTV 1 HD
 https://c.webapps.tv:8443/vgaantoniomarques/mzbFebGefH/70
