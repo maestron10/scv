@@ -1,9 +1,126 @@
 #EXTM3U
-#EXTINF:-1,===== DESPORTO ===== 
+#EXTINF:-1,===== SFL61884 ===== 
+#EXTINF:-1,RTP 1
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3199
+#EXTINF:-1,RTP 2
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3198
+#EXTINF:-1,Sic
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3196
+#EXTINF:-1,TVI
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3173
+#EXTINF:-1,SIC Noticias
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3194
+#EXTINF:-1,RTP 3
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3197
+#EXTINF:-1,TVI 24
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3172
+#EXTINF:-1,CMTV FHD
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/29377
+#EXTINF:-1,Porto Canal
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3200
+#EXTINF:-1,A BOLA TV HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/3248
 #EXTINF:-1,BenficaTV 1 HD
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3239
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/3239
+#EXTINF:-1,Canal 11 HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29378
+#EXTINF:-1,SPORT.TV
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/3187
+#EXTINF:-1,SPORT.TV 1 HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29392
+#EXTINF:-1,SPORT.TV 2 HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29391
+#EXTINF:-1,SPORT.TV 3 HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29390
+#EXTINF:-1,SPORT.TV 4
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29389
+#EXTINF:-1,SPORT.TV 5
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/49958
+#EXTINF:-1,Eleven 1
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29371
+#EXTINF:-1,Eleven 2
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29370
+#EXTINF:-1,Eleven 3
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29369
+#EXTINF:-1,Eleven 4
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29368
+#EXTINF:-1,Sky Sports F1
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/2876
+#EXTINF:-1,Euro Sport 1
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3225
+#EXTINF:-1,Euro Sport 2
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3224
+#EXTINF:-1,TVCINE TOP HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29359
+#EXTINF:-1,TVCINE EDITION HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/3180
+#EXTINF:-1,TVCINE EMOTION HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/3179
+#EXTINF:-1,TVCINE ACTION HD
+http://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/29335
+#EXTINF:-1,AMC
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3246
+#EXTINF:-1,AXN
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3244
+#EXTINF:-1,AXN Black
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3243
+#EXTINF:-1,AXN White
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3242
+#EXTINF:-1,Cine Mundo
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3231
+#EXTINF:-1,Fox Comedy
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3222
+#EXTINF:-1,Fox Crime
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3221
+#EXTINF:-1,Fox
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3220
+#EXTINF:-1,Fox Movies
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3218
+#EXTINF:-1,Fox Life
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3219
+#EXTINF:-1,Hollywood
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3214
+#EXTINF:-1,MOV
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3211
+#EXTINF:-1,NOS Studios
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/29398
+#EXTINF:-1,SYFY
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3185
+#EXTINF:-1,TVI Reality HD
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/29406
+#EXTINF:-1,Blaze
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/29384
+#EXTINF:-1,A&E
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3249
+#EXTINF:-1,SIC Mulher
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3195
+#EXTINF:-1,SIC Radical
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3193
+#EXTINF:-1,TLC
+http://mla03.wanicelife.com:8880/SFL61884/E8G96F74/3184
+#EXTINF:-1,===== YALM ===== 
+#EXTINF:-1,RTP 1
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3199
+#EXTINF:-1,RTP 2
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3198
+#EXTINF:-1,Sic
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3196
+#EXTINF:-1,TVI
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3173
+#EXTINF:-1,SIC Noticias
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3194
+#EXTINF:-1,RTP 3
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3197
+#EXTINF:-1,TVI 24
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3172
+#EXTINF:-1,CMTV FHD
+http://mla03.wanicelife.com:8880/YALM4654/89076352/29377
+#EXTINF:-1,Porto Canal
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3200
 #EXTINF:-1,A BOLA TV HD
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3248
+#EXTINF:-1,BenficaTV 1 HD
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3239
 #EXTINF:-1,Canal 11 HD
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29378
 #EXTINF:-1,SPORT.TV
@@ -28,7 +145,10 @@ http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29369
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29368
 #EXTINF:-1,Sky Sports F1
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2876
-#EXTINF:-1,===== FILMES ===== 
+#EXTINF:-1,Euro Sport 1
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3225
+#EXTINF:-1,Euro Sport 2
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3224
 #EXTINF:-1,TVCINE TOP HD
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29359
 #EXTINF:-1,TVCINE EDITION HD
@@ -37,12 +157,69 @@ http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3180
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3179
 #EXTINF:-1,TVCINE ACTION HD
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29335
-#EXTINF:-1,AXN HD PT
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3244
-EXTINF:-1,BenficaTV 1 HD
-http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/3239
+#EXTINF:-1,AMC
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3246
+#EXTINF:-1,AXN
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3244
+#EXTINF:-1,AXN Black
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3243
+#EXTINF:-1,AXN White
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3242
+#EXTINF:-1,Cine Mundo
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3231
+#EXTINF:-1,Fox Comedy
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3222
+#EXTINF:-1,Fox Crime
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3221
+#EXTINF:-1,Fox
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3220
+#EXTINF:-1,Fox Movies
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3218
+#EXTINF:-1,Fox Life
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3219
+#EXTINF:-1,Hollywood
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3214
+#EXTINF:-1,MOV
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3211
+#EXTINF:-1,NOS Studios
+http://mla03.wanicelife.com:8880/YALM4654/89076352/29398
+#EXTINF:-1,SYFY
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3185
+#EXTINF:-1,TVI Reality HD
+http://mla03.wanicelife.com:8880/YALM4654/89076352/29406
+#EXTINF:-1,Blaze
+http://mla03.wanicelife.com:8880/YALM4654/89076352/29384
+#EXTINF:-1,A&E
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3249
+#EXTINF:-1,SIC Mulher
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3195
+#EXTINF:-1,SIC Radical
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3193
+#EXTINF:-1,TLC
+http://mla03.wanicelife.com:8880/YALM4654/89076352/3184
+#EXTINF:-1,===== SFL2 ===== 
+#EXTINF:-1,RTP 1
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3199
+#EXTINF:-1,RTP 2
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3198
+#EXTINF:-1,Sic
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3196
+#EXTINF:-1,TVI
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3173
+#EXTINF:-1,SIC Noticias
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3194
+#EXTINF:-1,RTP 3
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3197
+#EXTINF:-1,TVI 24
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3172
+#EXTINF:-1,CMTV FHD
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/29377
+#EXTINF:-1,Porto Canal
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3200
 #EXTINF:-1,A BOLA TV HD
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/3248
+#EXTINF:-1,BenficaTV 1 HD
+http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/3239
 #EXTINF:-1,Canal 11 HD
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/29378
 #EXTINF:-1,SPORT.TV
@@ -67,7 +244,10 @@ http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/29369
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/29368
 #EXTINF:-1,Sky Sports F1
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/2876
-#EXTINF:-1,===== FILMES ===== 
+#EXTINF:-1,Euro Sport 1
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3225
+#EXTINF:-1,Euro Sport 2
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3224
 #EXTINF:-1,TVCINE TOP HD
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/29359
 #EXTINF:-1,TVCINE EDITION HD
@@ -76,6 +256,43 @@ http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/3180
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/3179
 #EXTINF:-1,TVCINE ACTION HD
 http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/29335
-#EXTINF:-1,AXN HD PT
-http://mu03ye.wanicelife.com:8880/SFL121597/VGDV2DNAE/3244
-
+#EXTINF:-1,AMC
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3246
+#EXTINF:-1,AXN
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3244
+#EXTINF:-1,AXN Black
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3243
+#EXTINF:-1,AXN White
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3242
+#EXTINF:-1,Cine Mundo
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3231
+#EXTINF:-1,Fox Comedy
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3222
+#EXTINF:-1,Fox Crime
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3221
+#EXTINF:-1,Fox
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3220
+#EXTINF:-1,Fox Movies
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3218
+#EXTINF:-1,Fox Life
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3219
+#EXTINF:-1,Hollywood
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3214
+#EXTINF:-1,MOV
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3211
+#EXTINF:-1,NOS Studios
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/29398
+#EXTINF:-1,SYFY
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3185
+#EXTINF:-1,TVI Reality HD
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/29406
+#EXTINF:-1,Blaze
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/29384
+#EXTINF:-1,A&E
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3249
+#EXTINF:-1,SIC Mulher
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3195
+#EXTINF:-1,SIC Radical
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3193
+#EXTINF:-1,TLC
+http://mla03.wanicelife.com:8880/SFL121597/VGDV2DNAE/3184
