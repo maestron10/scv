@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BenficaTV 1 HD
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/40949
+#EXTINF:-1,BenficaTV 1 
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/2241
 #EXTINF:-1,A BOLA TV HD
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/1002
 #EXTINF:-1,Canal 11 HD
@@ -37,5 +39,27 @@ http://viriatos.nhlfan.net:8080/MAGalvite/76663498/1255
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/1254
 #EXTINF:-1,TVCINE ACTION HD
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/1253
+#EXTINF:-1,NOS STUDIOS HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/28291
+#EXTINF:-1,NETFLIX
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/76025
+#EXTINF:-1,HBO PORTUGAL
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/76743
+#EXTINF:-1,HOLLYWOOD HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/94
+#EXTINF:-1,Cinemundo HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/25673
+#EXTINF:-1,AMC HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/4157
 #EXTINF:-1,AXN
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/4685
+#EXTINF:-1,AXN MOVIES 
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/100
+#EXTINF:-1,SyFy HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/4684
+#EXTINF:-1,FOX HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/98
+#EXTINF:-1,FOX MOVIES HD
+http://viriatos.nhlfan.net:8080/MAGalvite/76663498/5394
+
+
