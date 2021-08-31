@@ -1,28 +1,184 @@
 #EXTM3U
-#EXTINF:-1,BenficaTV 1 HD
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/126145
-#EXTINF:-1,SPORT.TV
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7495
-#EXTINF:-1,SPORT.TV 1 HD
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7500
-#EXTINF:-1,SPORT.TV 2 HD
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7503
-#EXTINF:-1,SPORT.TV 3 HD
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7506
-#EXTINF:-1,SPORT.TV 4
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7508
-#EXTINF:-1,SPORT.TV 5
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7512
-#EXTINF:-1,Eleven 1
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7518
-#EXTINF:-1,Eleven 2
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7521
-#EXTINF:-1,Eleven 3 
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7523
-#EXTINF:-1,Eleven 4
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7525
-#EXTINF:-1,Sky Sports F1 
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/127620
-#EXTINF:-1,Eurosport
-http://tvgolatino.com:8080/sebasf/uVgZtKyuyn/7534
-
+#EXTINF:-1,==== fawkes =====
+#EXTINF:-1,PT: RTP 1 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1404
+#EXTINF:-1,PT: RTP 2 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1406
+#EXTINF:-1,PT: RTP 3 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1418
+#EXTINF:-1,PT: RTP ACORES HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2055
+#EXTINF:-1,PT: RTP Africa HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1424
+#EXTINF:-1,PT: RTP Madeira HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/278558
+#EXTINF:-1,PT: RTP Memoria HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1425
+#EXTINF:-1,PT: SIC FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1408
+#EXTINF:-1,PT: SIC Noticias FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1416
+#EXTINF:-1,PT: TVI FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1410
+#EXTINF:-1,PT: TVI 24 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1414
+#EXTINF:-1,PT: CM TV FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1412
+#EXTINF:-1,PT: A Bola TV FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1420
+#EXTINF:-1,PT: Benfica TV FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1497
+#EXTINF:-1,PT: Canal 11 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1480
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1506
+#EXTINF:-1,PT: Porto Canal FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1419
+#EXTINF:-1,PT: Sport TV+ FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1481
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1483
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1486
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1489
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1492
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1495
+#EXTINF:-1,PT: Sporting TV FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1519
+#EXTINF:-1,PT: TVCine Action FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1452
+#EXTINF:-1,PT: TVCine Edition FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/82254
+#EXTINF:-1,PT: TVCine Emotion FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1448
+#EXTINF:-1,PT: TVCine Top FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1446
+#EXTINF:-1,PT: AMC FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1473
+#EXTINF:-1,PT: Apanhados HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/201059
+#EXTINF:-1,PT: AXN FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1469
+#EXTINF:-1,PT: AXN Movies FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1471
+#EXTINF:-1,PT: AXN White FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1467
+#EXTINF:-1,PT: Blaze HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3996
+#EXTINF:-1,PT: Canal Hollywood FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1455
+#EXTINF:-1,PT: FOX FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1461
+#EXTINF:-1,PT: Fox Life FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1459
+#EXTINF:-1,PT: FOX Movies FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1457
+#EXTINF:-1,PT: S+ FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/198681
+#EXTINF:-1,PT: SIC Caras HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/5910
+#EXTINF:-1,PT: SIC K FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/4021
+#EXTINF:-1,PT: SIC Mulher FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1427
+#EXTINF:-1,PT: SIC Radical FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1429
+#EXTINF:-1,PT: SYFY FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1475
+#EXTINF:-1,PT: TVI Ficcao FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1421
+#EXTINF:-1,PT: TVI Reality FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1423
+#EXTINF:-1,==== redhatunion =====
+#EXTINF:-1,A Bola TV
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112414
+#EXTINF:-1,Canal 11 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112387
+#EXTINF:-1,SPORT.TV+ 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112277
+#EXTINF:-1,SPORT.TV1 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112273
+#EXTINF:-1,SPORT.TV2 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112269
+#EXTINF:-1,SPORT.TV3 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112267
+#EXTINF:-1,SPORT.TV4 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112265
+#EXTINF:-1,SPORT.TV5 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112262
+#EXTINF:-1,Benfica TV 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112392
+#EXTINF:-1,Benfica TV 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112393
+#EXTINF:-1,Eleven Sports 1 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112361
+#EXTINF:-1,Eleven Sports 2 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112358
+#EXTINF:-1,Eleven Sports 3
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112355
+#EXTINF:-1,Eleven Sports 4
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112352
+#EXTINF:-1,Eleven Sports 5
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112350
+#EXTINF:-1,Eleven Sports 6
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112348
+#EXTINF:-1,TVCine TOP 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112440
+#EXTINF:-1,TVCine EDITION 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112438
+#EXTINF:-1,TVCine EMOTION 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112436
+#EXTINF:-1,TVCine ACTION 
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112434
+#EXTINF:-1,NOS STUDIOS FHD
+http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112301
+#EXTINF:-1,==== alemanha =====
+#EXTINF:-1,A Bola TV
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1400
+#EXTINF:-1,Canal 11 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1343
+#EXTINF:-1,SPORT.TV+ 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1347
+#EXTINF:-1,SPORT.TV1 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1351
+#EXTINF:-1,SPORT.TV2 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1357
+#EXTINF:-1,SPORT.TV3 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1363
+#EXTINF:-1,SPORT.TV4 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1368
+#EXTINF:-1,SPORT.TV5 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1372
+#EXTINF:-1,Benfica TV 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1397
+#EXTINF:-1,Benfica TV 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1399
+#EXTINF:-1,Eleven Sports 1 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1378
+#EXTINF:-1,Eleven Sports 2 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1381
+#EXTINF:-1,Eleven Sports 3
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1384
+#EXTINF:-1,Eleven Sports 4
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1387
+#EXTINF:-1,Eleven Sports 5
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1390
+#EXTINF:-1,Eleven Sports 6
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1393
+#EXTINF:-1,TVCine TOP 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1414
+#EXTINF:-1,TVCine EDITION 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1416
+#EXTINF:-1,TVCine EMOTION 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1418
+#EXTINF:-1,TVCine ACTION 
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1420
+#EXTINF:-1,NOS STUDIOS FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1435
