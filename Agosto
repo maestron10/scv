@@ -1,100 +1,100 @@
 #EXTM3U
 #EXTINF:-1,==== fawkes =====
-#EXTINF:-1,PT: RTP 1 FHD
+#EXTINF:-1,RTP 1 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1404
-#EXTINF:-1,PT: RTP 2 FHD
+#EXTINF:-1,RTP 2 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1406
-#EXTINF:-1,PT: RTP 3 FHD
+#EXTINF:-1,RTP 3
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1418
-#EXTINF:-1,PT: RTP ACORES HD
+#EXTINF:-1,RTP ACORES 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2055
-#EXTINF:-1,PT: RTP Africa HD
+#EXTINF:-1,RTP Africa 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1424
-#EXTINF:-1,PT: RTP Madeira HD
+#EXTINF:-1,RTP Madeira 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/278558
-#EXTINF:-1,PT: RTP Memoria HD
+#EXTINF:-1,RTP Memoria 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1425
-#EXTINF:-1,PT: SIC FHD
+#EXTINF:-1,SIC
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1408
-#EXTINF:-1,PT: SIC Noticias FHD
+#EXTINF:-1,SIC Noticias
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1416
-#EXTINF:-1,PT: TVI FHD
+#EXTINF:-1,TVI 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1410
-#EXTINF:-1,PT: TVI 24 FHD
+#EXTINF:-1,TVI 24 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1414
-#EXTINF:-1,PT: CM TV FHD
+#EXTINF:-1,CMTV 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1412
-#EXTINF:-1,PT: A Bola TV FHD
+#EXTINF:-1,A Bola TV 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1420
-#EXTINF:-1,PT: Benfica TV FHD
+#EXTINF:-1,Benfica TV
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1497
-#EXTINF:-1,PT: Canal 11 FHD
+#EXTINF:-1,Canal 11 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1480
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+#EXTINF:-1,Eleven Sports 1 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+#EXTINF:-1,Eleven Sports 2 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+#EXTINF:-1,Eleven Sports 3 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1506
-#EXTINF:-1,PT: Porto Canal FHD
+#EXTINF:-1,Porto Canal 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1419
-#EXTINF:-1,PT: Sport TV+ FHD
+#EXTINF:-1,Sport.TV+ 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1481
-#EXTINF:-1,PT: SPORT TV 1 FHD
+#EXTINF:-1,SPORT.TV 1
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1483
-#EXTINF:-1,PT: SPORT TV 2 FHD
+#EXTINF:-1,SPORT.TV 2
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1486
-#EXTINF:-1,PT: SPORT TV 3 FHD
+#EXTINF:-1,SPORT.TV 3
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1489
-#EXTINF:-1,PT: SPORT TV 4 FHD
+#EXTINF:-1,SPORT.TV 4
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1492
-#EXTINF:-1,PT: SPORT TV 5 FHD
+#EXTINF:-1,SPORT.TV 5
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1495
-#EXTINF:-1,PT: Sporting TV FHD
+#EXTINF:-1,Sporting TV
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1519
-#EXTINF:-1,PT: TVCine Action FHD
+#EXTINF:-1,TVCine Action 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1452
-#EXTINF:-1,PT: TVCine Edition FHD
+#EXTINF:-1,TVCine Edition
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/82254
-#EXTINF:-1,PT: TVCine Emotion FHD
+#EXTINF:-1,TVCine Emotion
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1448
-#EXTINF:-1,PT: TVCine Top FHD
+#EXTINF:-1,TVCine Top 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1446
-#EXTINF:-1,PT: AMC FHD
+#EXTINF:-1,AMC 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1473
-#EXTINF:-1,PT: Apanhados HD
+#EXTINF:-1,Apanhados HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/201059
-#EXTINF:-1,PT: AXN FHD
+#EXTINF:-1,AXN 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1469
-#EXTINF:-1,PT: AXN Movies FHD
+#EXTINF:-1,AXN Movies
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1471
-#EXTINF:-1,PT: AXN White FHD
+#EXTINF:-1,AXN White 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1467
-#EXTINF:-1,PT: Blaze HD
+#EXTINF:-1,Blaze 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3996
-#EXTINF:-1,PT: Canal Hollywood FHD
+#EXTINF:-1,Canal Hollywood
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1455
-#EXTINF:-1,PT: FOX FHD
+#EXTINF:-1,FOX 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1461
-#EXTINF:-1,PT: Fox Life FHD
+#EXTINF:-1,Fox Life
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1459
-#EXTINF:-1,PT: FOX Movies FHD
+#EXTINF:-1,FOX Movies
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1457
-#EXTINF:-1,PT: S+ FHD
+#EXTINF:-1,S+ 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/198681
-#EXTINF:-1,PT: SIC Caras HD
+#EXTINF:-1,SIC Caras
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/5910
-#EXTINF:-1,PT: SIC K FHD
+#EXTINF:-1,SIC K 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/4021
-#EXTINF:-1,PT: SIC Mulher FHD
+#EXTINF:-1,SIC Mulher
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1427
-#EXTINF:-1,PT: SIC Radical FHD
+#EXTINF:-1,SIC Radical 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1429
-#EXTINF:-1,PT: SYFY FHD
+#EXTINF:-1,SYFY 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1475
-#EXTINF:-1,PT: TVI Ficcao FHD
+#EXTINF:-1,TVI Ficcao 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1421
-#EXTINF:-1,PT: TVI Reality FHD
+#EXTINF:-1,TVI Reality
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1423
 #EXTINF:-1,==== redhatunion =====
 #EXTINF:-1,A Bola TV
