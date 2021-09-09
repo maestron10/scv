@@ -1,29 +1,5 @@
 #EXTM3U
 #EXTINF:-1,==== fawkes =====
-#EXTINF:-1,RTP 1 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1404
-#EXTINF:-1,RTP 2 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1406
-#EXTINF:-1,RTP 3
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1418
-#EXTINF:-1,RTP ACORES 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2055
-#EXTINF:-1,RTP Africa 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1424
-#EXTINF:-1,RTP Madeira 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/278558
-#EXTINF:-1,RTP Memoria 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1425
-#EXTINF:-1,SIC
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1408
-#EXTINF:-1,SIC Noticias
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1416
-#EXTINF:-1,TVI 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1410
-#EXTINF:-1,TVI 24 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1414
-#EXTINF:-1,CMTV 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1412
 #EXTINF:-1,A Bola TV 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1420
 #EXTINF:-1,Benfica TV
@@ -60,232 +36,43 @@ http://iptvtree.net:8080/fawkes32/adaa5870d5c0/82254
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1448
 #EXTINF:-1,TVCine Top 
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1446
-#EXTINF:-1,AMC 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1473
-#EXTINF:-1,Apanhados HD
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/201059
-#EXTINF:-1,AXN 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1469
-#EXTINF:-1,AXN Movies
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1471
-#EXTINF:-1,AXN White 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1467
-#EXTINF:-1,Blaze 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3996
-#EXTINF:-1,Canal Hollywood
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1455
-#EXTINF:-1,FOX 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1461
-#EXTINF:-1,Fox Life
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1459
-#EXTINF:-1,FOX Movies
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1457
-#EXTINF:-1,S+ 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/198681
-#EXTINF:-1,SIC Caras
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/5910
-#EXTINF:-1,SIC K 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/4021
-#EXTINF:-1,SIC Mulher
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1427
-#EXTINF:-1,SIC Radical 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1429
-#EXTINF:-1,SYFY 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1475
-#EXTINF:-1,TVI Ficcao 
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1421
-#EXTINF:-1,TVI Reality
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1423
-#EXTINF:-1,==== redhatunion =====
-#EXTINF:-1,A Bola TV
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112414
-#EXTINF:-1,Canal 11 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112387
-#EXTINF:-1,SPORT.TV+ 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112277
-#EXTINF:-1,SPORT.TV1 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112273
-#EXTINF:-1,SPORT.TV2 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112269
-#EXTINF:-1,SPORT.TV3 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112267
-#EXTINF:-1,SPORT.TV4 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112265
-#EXTINF:-1,SPORT.TV5 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112262
-#EXTINF:-1,Benfica TV 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112392
-#EXTINF:-1,Benfica TV 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112393
-#EXTINF:-1,Eleven Sports 1 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112361
-#EXTINF:-1,Eleven Sports 2 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112358
-#EXTINF:-1,Eleven Sports 3
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112355
-#EXTINF:-1,Eleven Sports 4
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112352
-#EXTINF:-1,Eleven Sports 5
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112350
-#EXTINF:-1,Eleven Sports 6
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112348
-#EXTINF:-1,TVCine TOP 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112440
-#EXTINF:-1,TVCine EDITION 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112438
-#EXTINF:-1,TVCine EMOTION 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112436
-#EXTINF:-1,TVCine ACTION 
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112434
-#EXTINF:-1,NOS STUDIOS FHD
-http://redhatunion.com:25461/e2ghaneh/e2ghaneh/112301
-#EXTINF:-1,==== alemanha =====
-#EXTINF:-1,A Bola TV
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1400
-#EXTINF:-1,Canal 11 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1343
-#EXTINF:-1,SPORT.TV+ 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1347
-#EXTINF:-1,SPORT.TV1 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1351
-#EXTINF:-1,SPORT.TV2 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1357
-#EXTINF:-1,SPORT.TV3 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1363
-#EXTINF:-1,SPORT.TV4 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1368
-#EXTINF:-1,SPORT.TV5 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1372
-#EXTINF:-1,Benfica TV 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1397
-#EXTINF:-1,Benfica TV 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1399
-#EXTINF:-1,Eleven Sports 1 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1378
-#EXTINF:-1,Eleven Sports 2 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1381
-#EXTINF:-1,Eleven Sports 3
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1384
-#EXTINF:-1,Eleven Sports 4
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1387
-#EXTINF:-1,Eleven Sports 5
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1390
-#EXTINF:-1,Eleven Sports 6
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1393
-#EXTINF:-1,TVCine TOP 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1414
-#EXTINF:-1,TVCine EDITION 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1416
-#EXTINF:-1,TVCine EMOTION 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1418
-#EXTINF:-1,TVCine ACTION 
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1420
-#EXTINF:-1,NOS STUDIOS FHD
-http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/1435
+#EXTINF:-1,==== WAG =====
+#EXTINF:-1,BenficaTV 1 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7678
+#EXTINF:-1,A BOLA TV HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7680
+#EXTINF:-1,Canal 11 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7669
+#EXTINF:-1,SPORT.TV
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7654
+#EXTINF:-1,SPORT.TV 1 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7656
+#EXTINF:-1,SPORT.TV 2 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7658
+#EXTINF:-1,SPORT.TV 3 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7660
+#EXTINF:-1,SPORT.TV 4
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7662
+#EXTINF:-1,SPORT.TV 5
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7663
+#EXTINF:-1,Eleven 1
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7639
+#EXTINF:-1,Eleven 2
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7640
+#EXTINF:-1,Eleven 3 
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7635
+#EXTINF:-1,Eleven 4
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7642
+#EXTINF:-1,Sky Sports F1
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/5757
+#EXTINF:-1,Eurosport
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7666
+#EXTINF:-1,TVCINE TOP HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7712
+#EXTINF:-1,TVCINE EDITION HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7713
+#EXTINF:-1,TVCINE EMOTION HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7714
+#EXTINF:-1,TVCINE ACTION HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7715
 #EXTINF:-1,===vPROTV===
-#EXTINF:-1,RTP1 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58778
-#EXTINF:-1,RTP2 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58780
-#EXTINF:-1,SIC 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58796
-#EXTINF:-1,TVI 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58788
-#EXTINF:-1,RTP 3
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58782
-#EXTINF:-1,SIC Notícias 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58798
-#EXTINF:-1,TVI 24 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58790
-#EXTINF:-1,CMTV 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58806
-#EXTINF:-1,TVI Ficção 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58787
-#EXTINF:-1,TVI Reality 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,SIC Mulher 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58804
-#EXTINF:-1,SIC Radical 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58802
-#EXTINF:-1,Sic Caras	
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58800
-#EXTINF:-1,A Bola TV
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58869
-#EXTINF:-1,Canal 11 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/48564
-#EXTINF:-1,SPORT.TV+ 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58878
-#EXTINF:-1,SPORT.TV1 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/31368
-#EXTINF:-1,SPORT.TV2 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58880
-#EXTINF:-1,SPORT.TV3 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58882
-#EXTINF:-1,SPORT.TV4 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58884
-#EXTINF:-1,SPORT.TV5 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58886
-#EXTINF:-1,Benfica TV 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58876
-#EXTINF:-1,Benfica TV
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/95819
-#EXTINF:-1,Eleven Sports 1 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58888
-#EXTINF:-1,Eleven Sports 2 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58889
-#EXTINF:-1,Eleven Sports 3
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58890
-#EXTINF:-1,Eleven Sports 4
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58891
-#EXTINF:-1,Eleven Sports 5
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58892
-#EXTINF:-1,Eleven Sports 6
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58893
-#EXTINF:-1,Eurosport 1
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58871
-#EXTINF:-1,Eurosport 2
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58872
-#EXTINF:-1,Sky Sports F1 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/30967
-#EXTINF:-1,Porto Canal
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58868
-#EXTINF:-1,Sporting TV 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58875
-#EXTINF:-1,=== Filmes ===
-#EXTINF:-1,Netflix
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,NOS Studios 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,TVCine TOP 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,TVCine EDITION 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,TVCine EMOTION 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,TVCine ACTION 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/
-#EXTINF:-1,Hollywood 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58820
-#EXTINF:-1,Cinemundo 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58818
-#EXTINF:-1,FOX Movies 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58823
-#EXTINF:-1,AXN Movies 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58836
-#EXTINF:-1,SyFy 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58832
-#EXTINF:-1,AMC 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58834
-#EXTINF:-1,AXN 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58836
-#EXTINF:-1,AXN White 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58838
-#EXTINF:-1,FOX 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58829
-#EXTINF:-1,FOX CRIME 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58821
-#EXTINF:-1,FOX Comedy 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58825
-#EXTINF:-1,FOX LIFE 
-http://vip.vprotv.com:25443/VGaP9nfsvBU/X4THygijnT/58827
-
