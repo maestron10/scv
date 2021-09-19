@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,===== MAG =====
+#EXTINF:-1,BenficaTV 1 
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116232
 #EXTINF:-1,BenficaTV 1 HD
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116235
 #EXTINF:-1,A BOLA TV HD
