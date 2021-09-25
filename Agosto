@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1,===== WordlHell =====
+#EXTINF:-1,BenficaTV 1 HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3238
+#EXTINF:-1,A BOLA TV HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/29357
+#EXTINF:-1,Canal 11 HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/29378
+#EXTINF:-1,SPORT.TV
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/7654
+#EXTINF:-1,SPORT.TV 1 HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3192
+#EXTINF:-1,SPORT.TV 2 HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3191
+#EXTINF:-1,SPORT.TV 3 HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3190
+#EXTINF:-1,SPORT.TV 4
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3189
+#EXTINF:-1,SPORT.TV 5
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3188
+#EXTINF:-1,Eleven 1
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/29371
+#EXTINF:-1,Eleven 2
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/29370
+#EXTINF:-1,Eleven 3 
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/29369
+#EXTINF:-1,Eleven 4
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/29368
+#EXTINF:-1,Eleven 6
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/49032
+#EXTINF:-1,Sky Sports F1
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/2876
+#EXTINF:-1,TVCINE TOP HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3181
+#EXTINF:-1,TVCINE EDITION HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3180
+#EXTINF:-1,TVCINE EMOTION HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3179
+#EXTINF:-1,TVCINE ACTION HD
+http://ae1.worldhell.club:8880/AA6M0373/2828898743/3178
 #EXTINF:-1,===== MAG =====
 #EXTINF:-1,BenficaTV 1 
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116232
@@ -134,42 +173,3 @@ http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193590
 http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193593
 #EXTINF:-1,NOS STUDIO 
 http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193579
-#EXTINF:-1,===== WordlHell =====
-#EXTINF:-1,BenficaTV 1 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3238
-#EXTINF:-1,A BOLA TV HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29357
-#EXTINF:-1,Canal 11 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29378
-#EXTINF:-1,SPORT.TV
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/7654
-#EXTINF:-1,SPORT.TV 1 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3192
-#EXTINF:-1,SPORT.TV 2 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3191
-#EXTINF:-1,SPORT.TV 3 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3190
-#EXTINF:-1,SPORT.TV 4
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3189
-#EXTINF:-1,SPORT.TV 5
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3188
-#EXTINF:-1,Eleven 1
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29371
-#EXTINF:-1,Eleven 2
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29370
-#EXTINF:-1,Eleven 3 
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29369
-#EXTINF:-1,Eleven 4
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29368
-#EXTINF:-1,Eleven 6
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/49032
-#EXTINF:-1,Sky Sports F1
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/2876
-#EXTINF:-1,TVCINE TOP HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3181
-#EXTINF:-1,TVCINE EDITION HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3180
-#EXTINF:-1,TVCINE EMOTION HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3179
-#EXTINF:-1,TVCINE ACTION HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3178
