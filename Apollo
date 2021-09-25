@@ -1,0 +1,391 @@
+#EXTM3U
+#EXTINF:-1 xui-id="3601" tvg-id="" tvg-name="|PT| SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV+  HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFeZ7ZL4gGKiB9suyQc0lbYfUwjTo9NJukXFjO_rFdCT/ts
+#EXTINF:-1 xui-id="4705" tvg-id="" tvg-name="|PT| SPORT TV 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 1 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWmTfXtC1DgWklTdDMSA-BN5/ts
+#EXTINF:-1 xui-id="29979" tvg-id="sporttv1.pt" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 1 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ6TzoWFPM5Qk5MtCsUeMgoTp72M5Slz7t6Ko8xatrDC/ts
+#EXTINF:-1 xui-id="4703" tvg-id="SPTV_2" tvg-name="|PT| SPORT TV 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv2.light.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 2 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWmT1zS_a76e4YydSITRGrFE/ts
+#EXTINF:-1 xui-id="322" tvg-id="" tvg-name="|PT| SPORT TV 2 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 2 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKAAHU7QHH5xjz9nBXCRzM6I/ts
+#EXTINF:-1 xui-id="4701" tvg-id="" tvg-name="|PT| SPORT TV 3 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 3 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWnR5ZEKVthHik0vlEjnbwGO/ts
+#EXTINF:-1 xui-id="4702" tvg-id="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 3 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWl1rsrvN0UT8aBxJ33GXvox/ts
+#EXTINF:-1 xui-id="76153" tvg-id="" tvg-name="|PT| SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 4 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjzMwkegLsc5OmfcdE20yMx/ts
+#EXTINF:-1 xui-id="323" tvg-id="" tvg-name="|PT| SPORT TV 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv4.light.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 4 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKCiwjfKvnLQiHTiJSmkl1YO/ts
+#EXTINF:-1 xui-id="76154" tvg-id="" tvg-name="|PT| SPORT TV 5 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 5 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthgIlTAtANV_xztuObzfKRj/ts
+#EXTINF:-1 xui-id="4699" tvg-id="" tvg-name="|PT| SPORT TV 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/4d2d68072c25d4240ce28385c1676f92.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 5 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXfyP7f8rWsGU7KckhHbiIl/ts
+#EXTINF:-1 xui-id="21530" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/600a61494736d5bfac4dcfd6b88ccabe.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 1 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjdYyPuTXLmiUxvQbYsQ3-v/ts
+#EXTINF:-1 xui-id="14024" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/79b8997c026d95b019edaad52b0dd4ca.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 1 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMBkxIwQjhFbZws6n_HL-97f/ts
+#EXTINF:-1 xui-id="21529" tvg-id="elevensports2.pt" tvg-name="|PT| ELEVEN SPORTS 2 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/2e51031d98cc248ffb411acc2fadb766.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 2 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHgXC-RYl6GBN9cO3c7hzE6T/ts
+#EXTINF:-1 xui-id="14023" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 2 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCD_iGrpTVMUNN_J8-aCsHQ/ts
+#EXTINF:-1 xui-id="21528" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 3 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHhgL_3qkO8ZzNJh0lEAaQjq/ts
+#EXTINF:-1 xui-id="14022" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/c52f6feb11b9bdea532c36b6eb376497.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 3 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMBUK1yHIeIbVqaVCG5GWdct/ts
+#EXTINF:-1 xui-id="21527" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/568989f4c74c1f5b12a7ea323519fa59.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 4 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjIbASEsy-FrmG_rwqefv87/ts
+#EXTINF:-1 xui-id="14021" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 4 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMDAVXTQC2EzYHMNJYU8WSQq/ts
+#EXTINF:-1 xui-id="21526" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 5 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHgZxazfEU1YyNn_osBtOl_k/ts
+#EXTINF:-1 xui-id="14020" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HD" tvg-logo="http://apollo.golemflixer.com:8080/images/8e79fb311f7f2f3422b98ea13ce222b1.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 5 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCzd_2Qp_6HaVi-QLB3RkYb/ts
+#EXTINF:-1 xui-id="21525" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 6 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjXyPDY6CjQUi1Un1ZmeA6B/ts
+#EXTINF:-1 xui-id="14019" tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png" group-title="PORTUGAL - DESPORTO",|PT| ELEVEN SPORTS 6 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCBSK7YFy9k8Kkp4VmjYSBH/ts
+#EXTINF:-1 xui-id="326" tvg-id="BENFC" tvg-name="|PT| BENFICA TV 1 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| BENFICA TV 1 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
+#EXTINF:-1 xui-id="76106" tvg-id="BENFC" tvg-name="|PT| BENFICA TV 1 HD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| BENFICA TV 1 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgwTHTb74VGjepTaM0ymzPy/ts
+#EXTINF:-1 xui-id="4957" tvg-id="" tvg-name="|PT| SPORTING TV FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/5c7e233bd44f94ad3b17a9e285fe587a.png" group-title="PORTUGAL - DESPORTO",|PT| SPORTING TV FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSiNPGIbr7MOzk4PY5q7SaVQ/ts
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="|PT| EUROSPORT" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport.light.png" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7PSDUnKkymu4YHhV7aHdZ8E/ts
+#EXTINF:-1 xui-id="4698" tvg-id="" tvg-name="|PT| EUROSPORT 1 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport1.white.png" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT 1 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUo9sU3IrXDrqXHekN8_Rq6/ts
+#EXTINF:-1 xui-id="1729" tvg-id="" tvg-name="|PT| EUROSPORT 1" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport1.white.png" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT 1
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEworwrXwohYFVJ6mVOT1SGCy/ts
+#EXTINF:-1 xui-id="76103" tvg-id="" tvg-name="|PT| EUROSPORT 2 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT 2 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgvQZIp2TDM8K5RCMNOu_fr/ts
+#EXTINF:-1 xui-id="1730" tvg-id="" tvg-name="|PT| EUROSPORT 2" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport2.light.png" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT 2
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwox_59eKxvJyz0tk7pXaFsW/ts
+#EXTINF:-1 xui-id="76143" tvg-id="" tvg-name="|PT| Canal 11 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Canal 11 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthIo2RNXm7R1rbRZyaZd48U/ts
+#EXTINF:-1 xui-id="76144" tvg-id="ABOLATV" tvg-name="|PT| A Bola TV FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| A Bola TV FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItitrndcnYXX3GisYawT2Cfd/ts
+#EXTINF:-1 xui-id="4962" tvg-id="ABolaTV.pt" tvg-name="|PT| A Bola TV" tvg-logo="http://static.golemflixer.com:8080/logos/abolatv.default.png" group-title="PORTUGAL - MUSICA",|PT| A Bola TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSgf9nmAUg3UFQWzl9G_ueI4/ts
+#EXTINF:-1 xui-id="76155" tvg-id="" tvg-name="|PT| Fight Network FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Fight Network FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itg3m_ICG1M1XsylBlgUV4qi/ts
+#EXTINF:-1 xui-id="4690" tvg-id="" tvg-name="|PT| Kombat SPORT" tvg-logo="http://static.golemflixer.com:8080/logos/kombatsport.default.png" group-title="PORTUGAL - DESPORTO",|PT| Kombat SPORT
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntVnH_LP9IX1F-AUQgxhN2eb/ts
+#EXTINF:-1 xui-id="4686" tvg-id="" tvg-name="|PT| Motorsport.tv" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Motorsport.tv
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXhj1O0kiqdP6F8fhHURpND/ts
+#EXTINF:-1 xui-id="76104" tvg-id="" tvg-name="|PT| Motorvision FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Motorvision FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ith-n6fLQ7_qmquOJyfYyDi0/ts
+#EXTINF:-1 xui-id="4685" tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Motorvision
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXG4y0NrO4CgqWIR4xVZsIv/ts
+#EXTINF:-1 xui-id="76105" tvg-id="" tvg-name="|PT| NBA FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| NBA FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgPWLP7jWeKdXchcP5uMqPl/ts
+#EXTINF:-1 xui-id="4697" tvg-id="" tvg-name="|PT| NBA TV" tvg-logo="http://static.golemflixer.com:8080/logos/nbatv.default.png" group-title="PORTUGAL - DESPORTO",|PT| NBA TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntU7VSXqdsZ6QkxxHPcKPKaI/ts
+#EXTINF:-1 xui-id="4956" tvg-id="pfc.pt" tvg-name="|PT| PFC HD" tvg-logo="http://static.golemflixer.com:8080/logos/pfc.default.png" group-title="PORTUGAL - DESPORTO",|PT| PFC HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSju-DHAsB1iIKb5qRyJkXAP/ts
+#EXTINF:-1 xui-id="4954" tvg-id="RMAD" tvg-name="|PT| Real Madrid TV" tvg-logo="http://static.golemflixer.com:8080/logos/realmadridtv.default.png" group-title="PORTUGAL - DESPORTO",|PT| Real Madrid TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSg4Y-m2bwXUJpJL-_O3sH3F/ts
+#EXTINF:-1 xui-id="4676" tvg-id="" tvg-name="|PT| Toros TV" tvg-logo="http://static.golemflixer.com:8080/logos/torostv.light.png" group-title="PORTUGAL - DESPORTO",|PT| Toros TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXMfdNz9szmbp2OtBLfO-Sb/ts
+#EXTINF:-1 xui-id="76107" tvg-id="" tvg-name="|PT| Toros TV FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Toros TV FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ithjuw3WSQjPRzl6olYsXDoQ/ts
+#EXTINF:-1 xui-id="76108" tvg-id="" tvg-name="|PT| Fuel TV FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Fuel TV FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgVrVSLt2h87N5YROySODD1/ts
+#EXTINF:-1 xui-id="63311" tvg-id="" tvg-name="|PT| Fuel TV" tvg-logo="http://static.golemflixer.com:8080/logos/fueltv.default.png" group-title="PORTUGAL - DESPORTO",|PT| Fuel TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdXBt28dtyJlaBE72dnVXm7r/ts
+#EXTINF:-1 xui-id="5940" tvg-id="" tvg-name="•----• GENERALISTAS •----•" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",•----• GENERALISTAS •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89AJXloAzofm1yCqej8P2Tf8/ts
+#EXTINF:-1 xui-id="4679" tvg-id="" tvg-name="|PT| Canal Q" tvg-logo="http://static.golemflixer.com:8080/logos/canalq.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| Canal Q
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUvn-Lc255PWRJxnu_aM7lf/ts
+#EXTINF:-1 xui-id="76086" tvg-id="" tvg-name="|PT| Porto Canal FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| Porto Canal FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ithwa-oF74KwFGhrWE82xyKL/ts
+#EXTINF:-1 xui-id="4955" tvg-id="" tvg-name="|PT| Porto Canal" tvg-logo="http://static.golemflixer.com:8080/logos/portocanal.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| Porto Canal
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNShvupmvrFvD-i1UOH44V63f/ts
+#EXTINF:-1 xui-id="76087" tvg-id="SICCAB" tvg-name="|PT| SIC" tvg-logo="http://apollo.golemflixer.com:8080/images/63f8c34e3340b02718f2cf3e37603051.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjQlYjlvFCeJDO70gj2AfNS/ts
+#EXTINF:-1 xui-id="905" tvg-id="SICCAB" tvg-name="|PT| Sic HD" tvg-logo="http://apollo.golemflixer.com:8080/images/63f8c34e3340b02718f2cf3e37603051.png" group-title="PORTUGAL - GENERALISTAS",|PT| Sic HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9hvZ0jzWfhrT4e2gZB0LPxD/ts
+#EXTINF:-1 xui-id="76089" tvg-id="" tvg-name="|PT| SIC Mulher FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Mulher FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjA8W7Mf43uWJ_UIKX3BAh8/ts
+#EXTINF:-1 xui-id="392" tvg-id="" tvg-name="|PT| SIC Mulher" tvg-logo="http://static.golemflixer.com:8080/logos/sicmulher.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Mulher
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7N9eyLL6Lt08ovzOD1VvnEm/ts
+#EXTINF:-1 xui-id="76090" tvg-id="" tvg-name="|PT| SIC Radical FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Radical FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjUlHkQBTBSiTtXOWoXjkMx/ts
+#EXTINF:-1 xui-id="390" tvg-id="" tvg-name="|PT| SIC Radical" tvg-logo="http://static.golemflixer.com:8080/logos/sicradical.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Radical
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7MpwpkhO8GtmZgz2293i49e/ts
+#EXTINF:-1 xui-id="63304" tvg-id="SicCaras.pt" tvg-name="|PT| SIC CARAS FHD" tvg-logo="http://static.golemflixer.com:8080/logos/siccaras.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC CARAS FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdUQ1dIE7nTIgXCpKnQ39Olw/ts
+#EXTINF:-1 xui-id="76088" tvg-id="" tvg-name="|PT| SIC Caras" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Caras
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itiga4LYAC8Te5JcgznRnfp2/ts
+#EXTINF:-1 xui-id="63305" tvg-id="" tvg-name="|PT| SIC K HD" tvg-logo="http://static.golemflixer.com:8080/logos/sick.default.png" group-title="PORTUGAL - INFANTIL",|PT| SIC K HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdXM5Rw44hfumGXkGZmvqhCf/ts
+#EXTINF:-1 xui-id="63306" tvg-id="" tvg-name="|PT| SIC KIDS FHD" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| SIC KIDS FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdV7CYGH9AoyoKlbARVL3K1P/ts
+#EXTINF:-1 xui-id="1807" tvg-id="TVIP" tvg-name="|PT| TVI" tvg-logo="http://apollo.golemflixer.com:8080/images/ef7610936594ace142d46912b5fc145a.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVD8cZ4Ye6vLWDKhu8QGP1NkIFuh2D-JM5Gj3VliiYbVY/ts
+#EXTINF:-1 xui-id="14010" tvg-id="TVIP" tvg-name="|PT| TVI FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/ef7610936594ace142d46912b5fc145a.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMA6KYtP73BYo1GaIZCMhIoO/ts
+#EXTINF:-1 xui-id="4666" tvg-id="" tvg-name="|PT| TVI Reality" tvg-logo="http://static.golemflixer.com:8080/logos/tvireality.light.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntWHp9Der7b8uwmZ6TTcRGWA/ts
+#EXTINF:-1 xui-id="76091" tvg-id="TVIReal.pt" tvg-name="|PT| TVI Reality - CÐmara 1" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 1
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthDcZCmD2ei2greE2FiNpsY/ts
+#EXTINF:-1 xui-id="76092" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 2" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 2
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthT_7NG2XQf2E1zlAieZfHx/ts
+#EXTINF:-1 xui-id="76093" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 3" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 3
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgGBqx0DlzHoJyCarP7Inzo/ts
+#EXTINF:-1 xui-id="76094" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 4" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 4
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiNMg5oWkJH6w6Tlr2M3ndu/ts
+#EXTINF:-1 xui-id="76095" tvg-id="" tvg-name="|PT| TVI Reality - Mosaico" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - Mosaico
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthVb9pxQD0PIrX-1UmNR00W/ts
+#EXTINF:-1 xui-id="76096" tvg-id="tvireality.pt" tvg-name="|PT| TVI Reality FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgTcg0rZcH7R08mlXLCKZ9V/ts
+#EXTINF:-1 xui-id="904" tvg-id="" tvg-name="|PT| RTP Acores" tvg-logo="http://static.golemflixer.com:8080/logos/rtpacores.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Acores
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9gt3JH3LTHG1rpGDOCUBPu8/ts
+#EXTINF:-1 xui-id="63300" tvg-id="TVIFiccao.pt" tvg-name="|PT| TVI FICCAO FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvificcao.light.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI FICCAO FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdX_4rxCCJJW3wTBUuO7dQWu/ts
+#EXTINF:-1 xui-id="63301" tvg-id="" tvg-name="|PT| TVI Ficqo tv" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Ficqo tv
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdXmIrcXsUUkMm4KwQiOUbV-/ts
+#EXTINF:-1 xui-id="63302" tvg-id="" tvg-name="|PT| TVI Fic" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Fic
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdVretsHjIuSPFzT9-mUeyic/ts
+#EXTINF:-1 xui-id="898" tvg-id="rtpHD" tvg-name="|PT| RTP 1" tvg-logo="http://static.golemflixer.com:8080/logos/rtp1.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 1
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCxT9lkCSRLYVQE1-_9A_JN_iwyCIE3jVWux5gldw1EC/ts
+#EXTINF:-1 xui-id="76098" tvg-id="RTPIBR" tvg-name="|PT| RTP 1 FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/8d83c8d19ecec89e9d96fe77645b4d16.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 1 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgJ4Sh875T9hCMAPNZwS0p9/ts
+#EXTINF:-1 xui-id="899" tvg-id="" tvg-name="|PT| RTP 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/rtp2.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 2 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCxT9lkCSRLYVQE1-_9A_JPzKTMIBGITIrZhip9RgNQ5/ts
+#EXTINF:-1 xui-id="76097" tvg-id="" tvg-name="|PT| RTP 2" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 2
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgFvm-3SiB_0-4t0b9tkZYk/ts
+#EXTINF:-1 xui-id="903" tvg-id="" tvg-name="|PT| RTP Africa" tvg-logo="http://static.golemflixer.com:8080/logos/rtpafrica.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Africa
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9gW-r0f2l4He5ZzDpPwzPJp/ts
+#EXTINF:-1 xui-id="902" tvg-id="" tvg-name="|PT| RTP Madeira" tvg-logo="http://static.golemflixer.com:8080/logos/rtpmadeira.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Madeira
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9jufZsyB1Nq80eSxv931J47/ts
+#EXTINF:-1 xui-id="901" tvg-id="" tvg-name="|PT| RTP Memoria" tvg-logo="http://static.golemflixer.com:8080/logos/rtpmemoria.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Memoria
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9h6gsmC95VFPpUEMPIyze6U/ts
+#EXTINF:-1 xui-id="4678" tvg-id="" tvg-name="|PT| Cancao Nova" tvg-logo="http://static.golemflixer.com:8080/logos/cancaonova.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| Cancao Nova
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXQ6-B0RKeka2_jLV2zrT1n/ts
+#EXTINF:-1 xui-id="76099" tvg-id="" tvg-name="|PT| Cancao Nova FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| Cancao Nova FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjgT25dedRZjZCPO0WAETTb/ts
+#EXTINF:-1 xui-id="4664" tvg-id="" tvg-name="|PT| TV FAtima" tvg-logo="http://static.golemflixer.com:8080/logos/tvfatima.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| TV FAtima
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntX3yZqdY_5xnnm8fyl7N_BI/ts
+#EXTINF:-1 xui-id="5939" tvg-id="" tvg-name="•----• Noticias •----•" tvg-logo="" group-title="PORTUGAL - NOTICIAS",•----• Noticias •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89BDkLdvkCBkiR0P7TMW3qm5/ts
+#EXTINF:-1 xui-id="76100" tvg-id="SICNOTI" tvg-name="|PT| SIC Noticias FHD" tvg-logo="" group-title="PORTUGAL - NOTICIAS",|PT| SIC Noticias FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiIdEaOlBpQWsCs8ia27zqm/ts
+#EXTINF:-1 xui-id="391" tvg-id="sicnoticias.pt" tvg-name="|PT| SIC NOTICIAS" tvg-logo="http://static.golemflixer.com:8080/logos/sicnoticias.light.png" group-title="PORTUGAL - NOTICIAS",|PT| SIC NOTICIAS
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7M36DNTbi17eoll8Icuqmrb/ts
+#EXTINF:-1 xui-id="900" tvg-id="RTP3.pt" tvg-name="|PT| RTP 3" tvg-logo="http://static.golemflixer.com:8080/logos/rtp3.white.png" group-title="PORTUGAL - NOTICIAS",|PT| RTP 3
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9ik19RQ0kPj5kLK5zgZtV7s/ts
+#EXTINF:-1 xui-id="906" tvg-id="" tvg-name="|PT| TVi 24 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvi24.light.png" group-title="PORTUGAL - NOTICIAS",|PT| TVi 24 FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9g-2hTTPxFLc33MXoOI9D_F/ts
+#EXTINF:-1 xui-id="76101" tvg-id="TVI24.pt" tvg-name="|PT| TVI 24" tvg-logo="" group-title="PORTUGAL - NOTICIAS",|PT| TVI 24
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthpA_Mej8UJyXYnnWa6ZHT0/ts
+#EXTINF:-1 xui-id="329" tvg-id="CMTVPOR" tvg-name="|PT| CMTV FHD" tvg-logo="http://apollo.golemflixer.com:8080/images/8168ec75c000488d671edf000a9d181a.png" group-title="PORTUGAL - NOTICIAS",|PT| CMTV FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKClAvidN8_2tX1QMd3yOHk-/ts
+#EXTINF:-1 xui-id="76102" tvg-id="CMTVPOR" tvg-name="|PT| CMTV" tvg-logo="http://apollo.golemflixer.com:8080/images/8168ec75c000488d671edf000a9d181a.png" group-title="PORTUGAL - NOTICIAS",|PT| CMTV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgACenmOCPrK2JbBQk6Wwye/ts
+#EXTINF:-1 xui-id="5937" tvg-id="" tvg-name="•----• Series & Movies •----•" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",•----• Series & Movies •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89Db9RIQv2Wui1Budo8mZSO7/ts
+#EXTINF:-1 xui-id="76146" tvg-id="" tvg-name="|PT| AMC FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AMC FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjuQSp5_FLcsij8jiT1Xygk/ts
+#EXTINF:-1 xui-id="76147" tvg-id="" tvg-name="|PT| AMC" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AMC
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgiTrHtYsV4SroId4NJqEO_/ts
+#EXTINF:-1 xui-id="396" tvg-id="" tvg-name="|PT| AXN Movies FHD" tvg-logo="http://static.golemflixer.com:8080/logos/axnblack.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN Movies FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7P-BamgBnXr60nDW69Pfpi1/ts
+#EXTINF:-1 xui-id="76109" tvg-id="" tvg-name="|PT| AXN Movies" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN Movies
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiShKf7ZnaYdXz_0TboV06J/ts
+#EXTINF:-1 xui-id="319" tvg-id="" tvg-name="|PT| AXN FHD" tvg-logo="http://static.golemflixer.com:8080/logos/axn.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVEKPlU9REZzLv_oYC_ddYfSKGIf4O4M97DfKg-Z88tIc/ts
+#EXTINF:-1 xui-id="76110" tvg-id="" tvg-name="|PT| AXN" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itgr0p9hg9RUyV8yvChun8Lt/ts
+#EXTINF:-1 xui-id="320" tvg-id="" tvg-name="|PT| AXN WHITE FHD" tvg-logo="http://static.golemflixer.com:8080/logos/axnwhite.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN WHITE FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKBd23VjWrf58HPULDQrrvhi/ts
+#EXTINF:-1 xui-id="76111" tvg-id="" tvg-name="|PT| AXN White" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN White
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthjKS6N2lmP0J4R1B4Y7CHK/ts
+#EXTINF:-1 xui-id="76113" tvg-id="111ANZ" tvg-name="|PT| FOX Comedy FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Comedy FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgKiDURR_YcsGzVWVIuShRJ/ts
+#EXTINF:-1 xui-id="1727" tvg-id="111ANZ" tvg-name="|PT| FOX COMEDY" tvg-logo="http://static.golemflixer.com:8080/logos/foxcomedy.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX COMEDY
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwpXnhxQtgE2FpImGIAH-kNm/ts
+#EXTINF:-1 xui-id="76114" tvg-id="TVHTANZ" tvg-name="|PT| FOX Crime FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Crime FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itg2-YQcqZUfzUmalYez3hE1/ts
+#EXTINF:-1 xui-id="317" tvg-id="foxcrime.pt" tvg-name="|PT| FOX CRIME" tvg-logo="http://static.golemflixer.com:8080/logos/foxcrime.default.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX CRIME
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVEKPlU9REZzLv_oYC_ddYfTe0_Ls7pzcyDo314iWT1pz/ts
+#EXTINF:-1 xui-id="909" tvg-id="FOXLBHD" tvg-name="|PT| Fox Life FHD" tvg-logo="http://static.golemflixer.com:8080/logos/foxlife.default.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| Fox Life FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9imbO08y0vZfeIlAuWjZRFK/ts
+#EXTINF:-1 xui-id="76115" tvg-id="FXLARGE" tvg-name="|PT| FOX Life" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Life
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjwHdbjVsJHlxs_o9ipAF3C/ts
+#EXTINF:-1 xui-id="318" tvg-id="" tvg-name="|PT| FOX FHD" tvg-logo="http://static.golemflixer.com:8080/logos/fox.default.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVEKPlU9REZzLv_oYC_ddYfTpBkJtz2mSwHMpPpPEcvef/ts
+#EXTINF:-1 xui-id="76116" tvg-id="" tvg-name="|PT| FOX" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjY64836AHsj6yxdPMwelHm/ts
+#EXTINF:-1 xui-id="76112" tvg-id="" tvg-name="|PT| FOX Movies FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Movies FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Iti5aGrEdTH30dI5bMZDop48/ts
+#EXTINF:-1 xui-id="1726" tvg-id="FoxMovies.pt" tvg-name="|PT| FOX MOVIES" tvg-logo="http://static.golemflixer.com:8080/logos/foxmovies.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX MOVIES
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwp1dzn-qQUZgjkipfZIwBLj/ts
+#EXTINF:-1 xui-id="76118" tvg-id="" tvg-name="|PT| syfy FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| syfy FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itj6Cvrn8FXtoVDU0JI9QvKi/ts
+#EXTINF:-1 xui-id="389" tvg-id="SYFYBHD" tvg-name="|PT| SYFY" tvg-logo="http://static.golemflixer.com:8080/logos/syfy.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| SYFY
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVIixNmUXg6S7HE2VUQKCsa2Olu-pD6TNJfZcErdAPTsu/ts
+#EXTINF:-1 xui-id="4665" tvg-id="" tvg-name="|PT| TV Series FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvseries.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TV Series FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntV4A_G0mou-sdwapNs5UFXH/ts
+#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="|PT| TV Series HD" tvg-logo="http://static.golemflixer.com:8080/logos/tvseries.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TV Series HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKCHGnyv-hmxQ2EeFVyZ6mXm/ts
+#EXTINF:-1 xui-id="4673" tvg-id="" tvg-name="|PT| TVCine Edition FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine1.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Edition FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUqsh06duMZIc2ikMZG1Ssb/ts
+#EXTINF:-1 xui-id="4672" tvg-id="tvc2.pt" tvg-name="|PT| TVCine Emotion" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine2.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Emotion
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUWA0kuPwESK_Dy_LT3hS5r/ts
+#EXTINF:-1 xui-id="4671" tvg-id="tvc3.pt" tvg-name="|PT| TVCine Emotion FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine2.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Emotion FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUujHsP3dY_I3HLn78IostO/ts
+#EXTINF:-1 xui-id="4670" tvg-id="tvc1.pt" tvg-name="|PT| TVCine Top FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine3.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Top FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUmDU15RAtYPIhNanTGKMq5/ts
+#EXTINF:-1 xui-id="4669" tvg-id="tvc4.pt" tvg-name="|PT| TVCine Action FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine4.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Action FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntX9odjItyZm5dkrNKg_N0u7/ts
+#EXTINF:-1 xui-id="4709" tvg-id="" tvg-name="|PT| TVCine Action SD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine4.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Action SD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWnQxVybcMLBnAyVZNWvzgqd/ts
+#EXTINF:-1 xui-id="76119" tvg-id="" tvg-name="|PT| E! ENTERTAINMENT FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| E! ENTERTAINMENT FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ith31nWKsnvO1O7GLb_VHVQz/ts
+#EXTINF:-1 xui-id="1734" tvg-id="" tvg-name="|PT| E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| E! ENTERTAINMENT
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwpcX2glbjl8bUcErzZHsNxD/ts
+#EXTINF:-1 xui-id="4680" tvg-id="" tvg-name="|PT| Nos Studio FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| Nos Studio FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntU_uoDr-tt2o9n7LWxL8BPk/ts
+#EXTINF:-1 xui-id="76120" tvg-id="" tvg-name="|PT| NOS Studios" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| NOS Studios
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ithhn0W4w-4kLRtfzeH6p_rS/ts
+#EXTINF:-1 xui-id="4693" tvg-id="" tvg-name="|PT| Hollywood FHD" tvg-logo="http://static.golemflixer.com:8080/logos/hollywood.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| Hollywood FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntWrpLVbUcjA5YkchDTt4pwN/ts
+#EXTINF:-1 xui-id="76117" tvg-id="" tvg-name="|PT| Hollywood" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| Hollywood
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiVU5ELIsm_fjiYSO2J1hhz/ts
+#EXTINF:-1 xui-id="4677" tvg-id="" tvg-name="|PT| TLC" tvg-logo="http://static.golemflixer.com:8080/logos/tlc.white.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TLC
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXDT1Y0OFhPncmmH1hKtGnq/ts
+#EXTINF:-1 xui-id="76141" tvg-id="" tvg-name="|PT| Cinemundo FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| Cinemundo FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Iti-UEwhNwZqbzR5g9hjqiu7/ts
+#EXTINF:-1 xui-id="328" tvg-id="" tvg-name="|PT| CINE MUNDO" tvg-logo="http://static.golemflixer.com:8080/logos/cinemundo.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| CINE MUNDO
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKCnX9u_UmbfFPmRYf3IYQlw/ts
+#EXTINF:-1 xui-id="5936" tvg-id="" tvg-name="•----• Infantil •----•" tvg-logo="" group-title="PORTUGAL - INFANTIL",•----• Infantil •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89BLdVtKUUog2lhkSONaXe3h/ts
+#EXTINF:-1 xui-id="63303" tvg-id="BabyTV.pt" tvg-name="|PT| BABY TV" tvg-logo="http://static.golemflixer.com:8080/logos/babytv.default.png" group-title="PORTUGAL - INFANTIL",|PT| BABY TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdVTb5IjOG9JGXRVWH_ER5-2/ts
+#EXTINF:-1 xui-id="63308" tvg-id="" tvg-name="|PT| BIGGS" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| BIGGS
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdXrkSTQQCV9uo_xMHlg-p2U/ts
+#EXTINF:-1 xui-id="63309" tvg-id="" tvg-name="|PT| PANDA" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| PANDA
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdXS2pPOyrlc_8XrKs5CwWYa/ts
+#EXTINF:-1 xui-id="63310" tvg-id="NickJr.pt" tvg-name="|PT| Nick Junior" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| Nick Junior
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdX6wVwS3CuXX2VSzDpZBTZ1/ts
+#EXTINF:-1 xui-id="915" tvg-id="" tvg-name="|PT| Canal Panda" tvg-logo="http://static.golemflixer.com:8080/logos/canalpanda.light.png" group-title="PORTUGAL - INFANTIL",|PT| Canal Panda
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDnalylt-xd46WPEkE_eqKMYMmjK8j2Q-8qlgFKKzDyp/ts
+#EXTINF:-1 xui-id="912" tvg-id="" tvg-name="|PT| Cartoon Network" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| Cartoon Network
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDnalylt-xd46WPEkE_eqKOgCr5ES8xbzRwzKW4ME7Hp/ts
+#EXTINF:-1 xui-id="913" tvg-id="" tvg-name="|PT| Disney Channel" tvg-logo="http://static.golemflixer.com:8080/logos/disneychannel.white.png" group-title="PORTUGAL - INFANTIL",|PT| Disney Channel
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDnalylt-xd46WPEkE_eqKMIYrl4faE9UlhV-zzLJn4w/ts
+#EXTINF:-1 xui-id="914" tvg-id="" tvg-name="|PT| Disney Junior" tvg-logo="http://static.golemflixer.com:8080/logos/disneyjunior.light.png" group-title="PORTUGAL - INFANTIL",|PT| Disney Junior
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDnalylt-xd46WPEkE_eqKMbnMpKd759-pCr6ltb8F0y/ts
+#EXTINF:-1 xui-id="395" tvg-id="" tvg-name="|PT| NICKELODEON" tvg-logo="http://static.golemflixer.com:8080/logos/nickelodeon.white.png" group-title="PORTUGAL - INFANTIL",|PT| NICKELODEON
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7OWi7TlcWn6kyLPkxs6rzpU/ts
+#EXTINF:-1 xui-id="4691" tvg-id="" tvg-name="|PT| Jim Jam" tvg-logo="http://static.golemflixer.com:8080/logos/jimjam.default.png" group-title="PORTUGAL - INFANTIL",|PT| Jim Jam
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXTpXcxyeKVA5FXhXUc_rq1/ts
+#EXTINF:-1 xui-id="5935" tvg-id="" tvg-name="•----• Cultura •----•" tvg-logo="" group-title="PORTUGAL - CULTURA",•----• Cultura •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89CpbmOYQqSwi3lI-auYDLBs/ts
+#EXTINF:-1 xui-id="4660" tvg-id="24Kitchen.pt" tvg-name="|PT| 24 Kitchen FHD" tvg-logo="http://static.golemflixer.com:8080/logos/24kitchen.default.png" group-title="PORTUGAL - CULTURA",|PT| 24 Kitchen FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntX6j-A5yFls7XzdIVGQBh9i/ts
+#EXTINF:-1 xui-id="76121" tvg-id="" tvg-name="|PT| Caça e Pesca FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Caça e Pesca FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjIPElvqJNHifAS6oydgc_i/ts
+#EXTINF:-1 xui-id="5044" tvg-id="cazaepesca.pt" tvg-name="|PT| Caça e Pesca" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Caça e Pesca
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVBbU2hgl_8bMQFS_U3kHgJjfu0DMLeUE3JHq79rHE25Z/ts
+#EXTINF:-1 xui-id="5043" tvg-id="Cubavision.pt" tvg-name="|PT| Caçavision" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Caçavision
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVBbU2hgl_8bMQFS_U3kHgJijBJDlsBgPMRmPq-Xue3Vt/ts
+#EXTINF:-1 xui-id="76158" tvg-id="" tvg-name="|PT| Casa e Cozinha FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Casa e Cozinha FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiLbnXu_HDem2dw0qvMcWiL/ts
+#EXTINF:-1 xui-id="76122" tvg-id="" tvg-name="|PT| Discovery FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Discovery FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgEvtHtr2uYU0l-VV8KIo9h/ts
+#EXTINF:-1 xui-id="1733" tvg-id="" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="http://static.golemflixer.com:8080/logos/discoverychannel.light.png" group-title="PORTUGAL - CULTURA",|PT| DISCOVERY CHANNEL
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwqAvUjGeZfCwwwTbgLm46y_/ts
+#EXTINF:-1 xui-id="76157" tvg-id="DOGTVB" tvg-name="|PT| DogTV" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| DogTV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ith8Ir1ctHuQLTna9Yz_u0Ht/ts
+#EXTINF:-1 xui-id="76123" tvg-id="" tvg-name="|PT| Historia FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Historia FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthBrGBXbxGvJcA2uWdjryGt/ts
+#EXTINF:-1 xui-id="908" tvg-id="HistoryChannel.pt" tvg-name="|PT| Historia" tvg-logo="http://static.golemflixer.com:8080/logos/historia.light.png" group-title="PORTUGAL - CULTURA",|PT| Historia
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9hSBAyK1RInNNUXawinZLuc/ts
+#EXTINF:-1 xui-id="1732" tvg-id="" tvg-name="|PT| NAT GEO HD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| NAT GEO HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwr45ecZwISx_7RW54-lQVDE/ts
+#EXTINF:-1 xui-id="76124" tvg-id="" tvg-name="|PT| National Geographic" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| National Geographic
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthewTyx09y5Hurb1I3k-nkz/ts
+#EXTINF:-1 xui-id="76142" tvg-id="" tvg-name="|PT| National Geographic WILD FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| National Geographic WILD FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itjeaf6poy2LB3Fr7WbKdq1b/ts
+#EXTINF:-1 xui-id="910" tvg-id="NGWANZ" tvg-name="|PT| Nat Geo Wild" tvg-logo="http://static.golemflixer.com:8080/logos/natgeowild.light.png" group-title="PORTUGAL - CULTURA",|PT| Nat Geo Wild
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDnalylt-xd46WPEkE_eqKMnP7S4ODeBZWF04hgRdD0_/ts
+#EXTINF:-1 xui-id="76125" tvg-id="" tvg-name="|PT| Odisseia FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Odisseia FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ithw3RSf8Lee7ncYxgB5ZD-M/ts
+#EXTINF:-1 xui-id="394" tvg-id="odisseia.pt" tvg-name="|PT| ODISSEIA" tvg-logo="http://static.golemflixer.com:8080/logos/odisseia.white.png" group-title="PORTUGAL - CULTURA",|PT| ODISSEIA
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVByPERyr0GuYNBqQvHduY7NkrW_1SBWtU1-OFFHAb8EY/ts
+#EXTINF:-1 xui-id="76156" tvg-id="" tvg-name="|PT| S+ FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| S+ FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgSjJKhVcafXPjkCCRtHrfw/ts
+#EXTINF:-1 xui-id="4674" tvg-id="" tvg-name="|PT| Travel Channel FHD" tvg-logo="http://static.golemflixer.com:8080/logos/travelchannel.default.png" group-title="PORTUGAL - CULTURA",|PT| Travel Channel FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntWQUL5iKZYH1RqND6_FP0Za/ts
+#EXTINF:-1 xui-id="76126" tvg-id="TRACHMC" tvg-name="|PT| Travel Channel" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Travel Channel
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itiuy1dLSr5IwZIhSfzI7o-c/ts
+#EXTINF:-1 xui-id="5934" tvg-id="" tvg-name="•----• Musica •----•" tvg-logo="" group-title="PORTUGAL - MUSICA",•----• Musica •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89Dmr9LbvAvUR96nYIonG1P4/ts
+#EXTINF:-1 xui-id="4958" tvg-id="" tvg-name="|PT| Afro Music" tvg-logo="http://static.golemflixer.com:8080/logos/afromusic.default.png" group-title="PORTUGAL - MUSICA",|PT| Afro Music
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSi2wIjVICB-vpkW0j2HnLqf/ts
+#EXTINF:-1 xui-id="76130" tvg-id="MCMTOP" tvg-name="|PT| MCM Top" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MCM Top
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itj-Hpg7VwJdlaIRWH-ERYia/ts
+#EXTINF:-1 xui-id="4688" tvg-id="" tvg-name="|PT| MCM Pop" tvg-logo="http://static.golemflixer.com:8080/logos/mcmpop.default.png" group-title="PORTUGAL - MUSICA",|PT| MCM Pop
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntV6J4dxqfJN8qowuhFUJCn2/ts
+#EXTINF:-1 xui-id="4687" tvg-id="" tvg-name="|PT| Mezzo" tvg-logo="http://static.golemflixer.com:8080/logos/mezzo.default.png" group-title="PORTUGAL - MUSICA",|PT| Mezzo
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXaz7mVt98h79xwfmNghKpK/ts
+#EXTINF:-1 xui-id="4675" tvg-id="" tvg-name="|PT| Trace Urban" tvg-logo="http://static.golemflixer.com:8080/logos/traceurban.default.png" group-title="PORTUGAL - MUSICA",|PT| Trace Urban
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntW8h6EY_coYMyvtepHYqK4O/ts
+#EXTINF:-1 xui-id="4662" tvg-id="" tvg-name="|PT| VH1" tvg-logo="http://static.golemflixer.com:8080/logos/vh1.default.png" group-title="PORTUGAL - MUSICA",|PT| VH1
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXT8pQfgoUTijMXJEO9U6Wv/ts
+#EXTINF:-1 xui-id="4661" tvg-id="VH1CLAS" tvg-name="|PT| VH1 Classic" tvg-logo="http://static.golemflixer.com:8080/logos/vh1classic.light.png" group-title="PORTUGAL - MUSICA",|PT| VH1 Classic
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntVS31FEvy5Grnadlmw1pP9R/ts
+#EXTINF:-1 xui-id="76128" tvg-id="" tvg-name="|PT| MTV Portugal FHD" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MTV Portugal FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjGz-WYoTkV9mn-Qydv_Mz-/ts
+#EXTINF:-1 xui-id="911" tvg-id="" tvg-name="|PT| MTV Portugal" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MTV Portugal
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDnalylt-xd46WPEkE_eqKNuxJPnezoDgAvuOIXkk7w6/ts
+#EXTINF:-1 xui-id="76127" tvg-id="MTVLVHS" tvg-name="|PT| MTV Live FHD" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MTV Live FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ith6qefFQPrfRmNQ8KXP-F0h/ts
+#EXTINF:-1 xui-id="76129" tvg-id="" tvg-name="|PT| Trace Toca" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| Trace Toca
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Ithuxei0pSMNTHFcJg4CIsBO/ts
+#EXTINF:-1 xui-id="5933" tvg-id="" tvg-name="•----• Internacionais •----•" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",•----• Internacionais •----•
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDxbHJrFoZo5IM7gsIZB89AlG5dT11OthST1ZrEKZm3q/ts
+#EXTINF:-1 xui-id="4683" tvg-id="BLMBRHD" tvg-name="|PT| Bloomberg" tvg-logo="http://static.golemflixer.com:8080/logos/bloomberg.light.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| Bloomberg
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUmcLTfiJkLMyyUHnLflAa_/ts
+#EXTINF:-1 xui-id="907" tvg-id="EUROPOR" tvg-name="|PT| Euronews" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| Euronews
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVCge8vzPKwyEsvxj4BgMw9irIovCi3U43XD8GEjtF8Nf/ts
+#EXTINF:-1 xui-id="4961" tvg-id="" tvg-name="|PT| TV Globo FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvglobo.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| TV Globo FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSg4cFSpEO0pqtHZKsHVgFnZ/ts
+#EXTINF:-1 xui-id="4960" tvg-id="" tvg-name="|PT| TV Globo" tvg-logo="http://static.golemflixer.com:8080/logos/tvglobo.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| TV Globo
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNShzyLWsWTz3JSnzYLQKIuCU/ts
+#EXTINF:-1 xui-id="1728" tvg-id="" tvg-name="|PT| TV RECORD" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TV RECORD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ1kFijVOsN8H-fD92pJEwqvnjj_KjZfrxJG54FdGsBM/ts
+#EXTINF:-1 xui-id="4668" tvg-id="" tvg-name="|PT| TVE 24h" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TVE 24h
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntWV8GH98ZHuqLyr9Lnn3lFd/ts
+#EXTINF:-1 xui-id="4667" tvg-id="TVEINTH" tvg-name="|PT| TVE Internacional" tvg-logo="http://static.golemflixer.com:8080/logos/tveinternacional.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| TVE Internacional
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXCTgAn4X6s4s0ApswXpGSv/ts
+#EXTINF:-1 xui-id="4959" tvg-id="GloboNow.pt" tvg-name="|PT|TV Globo now" tvg-logo="http://static.golemflixer.com:8080/logos/globopremium.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT|TV Globo now
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFDNlWizrcwXDZHspnCPNSgWJMDiZMm5DpzfVEXM7f5y/ts
+#EXTINF:-1 xui-id="63307" tvg-id="" tvg-name="|PT| CBS REALITY FHD" tvg-logo="http://static.golemflixer.com:8080/logos/cbsreality.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| CBS REALITY FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVP6WS2nU0NSv5mdPFno1KdXi2Vgxu7eihjhG8SfYQlr7/ts
+#EXTINF:-1 xui-id="64508" tvg-id="" tvg-name="|PT| TCV CABO VERDE AFRICA" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TCV CABO VERDE AFRICA
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVMsHbWRmBOGt3HKQvotg-uZPUXea7QKmCOiEyQ2pwrQw/ts
+#EXTINF:-1 xui-id="26085" tvg-id="" tvg-name="|PT| TCV CABO VERDE" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TCV CABO VERDE
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVN0uIVKXWBdC4XfwZ_Q_B19YrmRaMEa2qLRrAnL5U2NB/ts
+#EXTINF:-1 xui-id="76131" tvg-id="FR24ANZ" tvg-name="|PT| France 24 (I)" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| France 24 (I)
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itj6LjJwx-CjwD7suFOuNIgn/ts
+#EXTINF:-1 xui-id="76132" tvg-id="CUBAINT" tvg-name="|PT| Cubavision Internacional" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| Cubavision Internacional
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjvJCXOZHNwlTblbD8sdkgI/ts
+#EXTINF:-1 xui-id="76133" tvg-id="" tvg-name="|PT| KBS World (1080p)" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| KBS World (1080p)
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiYu40Zy3y2HJatvgBSG7_T/ts
+#EXTINF:-1 xui-id="76134" tvg-id="NHKWRLD" tvg-name="|PT| NHK World TV" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| NHK World TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthfoUrxNmPOtUjIHbtpLTva/ts
+#EXTINF:-1 xui-id="76135" tvg-id="" tvg-name="|PT| ZAP Viva FHD" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| ZAP Viva FHD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5Itjl0Jv7HsTQFNggaXtt9js6/ts
+#EXTINF:-1 xui-id="76136" tvg-id="BBCETEU" tvg-name="|PT| BBC Entertainment" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| BBC Entertainment
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgQ5iXM8Tv2WkPBOawllKqa/ts
+#EXTINF:-1 xui-id="76137" tvg-id="BBCWANZ" tvg-name="|PT| BBC World News" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| BBC World News
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItiCzGxQ5WVq8ZbmTvXqBFnG/ts
+#EXTINF:-1 xui-id="76138" tvg-id="" tvg-name="|PT| Channel 1 Russia" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| Channel 1 Russia
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItglX-gn5xcFX9xzAWZcKpqD/ts
+#EXTINF:-1 xui-id="76139" tvg-id="CNBC" tvg-name="|PT| CNBC" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| CNBC
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjnTOMITTfZwyp9H_8p-EKF/ts
+#EXTINF:-1 xui-id="76140" tvg-id="" tvg-name="|PT| CNBC Europe" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| CNBC Europe
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjL3zLOXo7mxP7xnS3LKevL/ts#EXTM3U
