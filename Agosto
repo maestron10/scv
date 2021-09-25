@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1,==== Apollo =====
+#EXTINF:-1,BenficaTV 1 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
+#EXTINF:-1,BenficaTV 1
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgwTHTb74VGjepTaM0ymzPy/ts
+#EXTINF:-1,A BOLA TV HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItitrndcnYXX3GisYawT2Cfd/ts
+#EXTINF:-1,Canal 11 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthIo2RNXm7R1rbRZyaZd48U/ts
+#EXTINF:-1,SPORT.TV
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFeZ7ZL4gGKiB9suyQc0lbYfUwjTo9NJukXFjO_rFdCT/ts
+#EXTINF:-1,SPORT.TV 1 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ6TzoWFPM5Qk5MtCsUeMgoTp72M5Slz7t6Ko8xatrDC/ts
+#EXTINF:-1,SPORT.TV 2 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKAAHU7QHH5xjz9nBXCRzM6I/ts
+#EXTINF:-1,SPORT.TV 3 HD
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWl1rsrvN0UT8aBxJ33GXvox/ts
+#EXTINF:-1,SPORT.TV 4
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKCiwjfKvnLQiHTiJSmkl1YO/ts
+#EXTINF:-1,SPORT.TV 5
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntXfyP7f8rWsGU7KckhHbiIl/ts
+#EXTINF:-1,Eleven 1
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMBkxIwQjhFbZws6n_HL-97f/ts
+#EXTINF:-1,Eleven 2
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCD_iGrpTVMUNN_J8-aCsHQ/ts
+#EXTINF:-1,Eleven 3 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMBUK1yHIeIbVqaVCG5GWdct/ts
+#EXTINF:-1,Eleven 4
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMDAVXTQC2EzYHMNJYU8WSQq/ts
+#EXTINF:-1,Eurosport
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUo9sU3IrXDrqXHekN8_Rq6/ts
+#EXTINF:-1,TVCine TOP 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUmDU15RAtYPIhNanTGKMq5/ts
+#EXTINF:-1,TVCine EDITION 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUujHsP3dY_I3HLn78IostO/ts
+#EXTINF:-1,TVCine EMOTION 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUmDU15RAtYPIhNanTGKMq5/ts
+#EXTINF:-1,TVCine ACTION 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntX9odjItyZm5dkrNKg_N0u7/ts
 #EXTINF:-1,===== WordlHell =====
 #EXTINF:-1,BenficaTV 1 HD
 http://ae1.worldhell.club:8880/AA6M0373/2828898743/3238
@@ -38,138 +77,44 @@ http://ae1.worldhell.club:8880/AA6M0373/2828898743/3180
 http://ae1.worldhell.club:8880/AA6M0373/2828898743/3179
 #EXTINF:-1,TVCINE ACTION HD
 http://ae1.worldhell.club:8880/AA6M0373/2828898743/3178
-#EXTINF:-1,===== MAG =====
-#EXTINF:-1,BenficaTV 1 
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116232
+#EXTINF:-1,==== B5 =====
 #EXTINF:-1,BenficaTV 1 HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116235
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74823
+#EXTINF:-1,BenficaTV 1 HD
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74822
 #EXTINF:-1,A BOLA TV HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116310
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74801
 #EXTINF:-1,Canal 11 HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116227
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74828
 #EXTINF:-1,SPORT.TV
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116196
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74980
 #EXTINF:-1,SPORT.TV 1 HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116199
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74960
 #EXTINF:-1,SPORT.TV 2 HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116203
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74965
 #EXTINF:-1,SPORT.TV 3 HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116206
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74969
 #EXTINF:-1,SPORT.TV 4
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116208
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74973
 #EXTINF:-1,SPORT.TV 5
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116210
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74976
 #EXTINF:-1,Eleven 1
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116214
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74855
 #EXTINF:-1,Eleven 2
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116216
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74859
 #EXTINF:-1,Eleven 3 
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116218
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74861
 #EXTINF:-1,Eleven 4
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116220
-#EXTINF:-1,RMC Sport 1
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3532
-#EXTINF:-1,RMC Sport 2
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3533
-#EXTINF:-1,RMC Sport 3
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3534
-#EXTINF:-1,Sky Sports F1
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/5707
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74865
 #EXTINF:-1,Eurosport
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116230
+http://b5.vc:80/Qtv4AT6FC7/1607740720/74872
 #EXTINF:-1,TVCINE TOP HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116300
+http://b5.vc:80/Qtv4AT6FC7/1607740720/75012
 #EXTINF:-1,TVCINE EDITION HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116298
+http://b5.vc:80/Qtv4AT6FC7/1607740720/75006
 #EXTINF:-1,TVCINE EMOTION HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116305
+http://b5.vc:80/Qtv4AT6FC7/1607740720/75009
 #EXTINF:-1,TVCINE ACTION HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/116295
-#EXTINF:-1,===== Lucky =====
-#EXTINF:-1,BenficaTV 1 HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/9642
-#EXTINF:-1,A BOLA TV HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/4482
-#EXTINF:-1,Canal 11 HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/30725
-#EXTINF:-1,SPORT.TV
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/42099
-#EXTINF:-1,SPORT.TV 1 HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/6494
-#EXTINF:-1,SPORT.TV 2 HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/6495
-#EXTINF:-1,SPORT.TV 3 HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/6496
-#EXTINF:-1,SPORT.TV 4
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/6497
-#EXTINF:-1,SPORT.TV 5
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/6498
-#EXTINF:-1,Eleven 1
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/30988
-#EXTINF:-1,Eleven 2
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/30986
-#EXTINF:-1,Eleven 3 
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/18820
-#EXTINF:-1,Eleven 4
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/30983
-#EXTINF:-1,RMC Sport 1
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/7285
-#EXTINF:-1,RMC Sport 2
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/7286
-#EXTINF:-1,RMC Sport 3
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/7427
-#EXTINF:-1,Sky Sports F1
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/30345
-#EXTINF:-1,Eurosport
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/9641
-#EXTINF:-1,TVCINE TOP HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/16051
-#EXTINF:-1,TVCINE EDITION HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/16050
-#EXTINF:-1,TVCINE EMOTION HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/16049
-#EXTINF:-1,TVCINE ACTION HD
-http://luckytvpro.com:8080/Q1mx8W2D0S/EcXmUgktqM/16048
-#EXTINF:-1,===== SubTv =====
-#EXTINF:-1,BenficaTV 1 HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193631
-#EXTINF:-1,A BOLA TV HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193716
-#EXTINF:-1,SPORT.TV
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193607
-#EXTINF:-1,SPORT.TV 1 HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193608
-#EXTINF:-1,SPORT.TV 2 HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193612
-#EXTINF:-1,SPORT.TV 3 HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193615
-#EXTINF:-1,SPORT.TV 4
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193618
-#EXTINF:-1,SPORT.TV 5
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193619
-#EXTINF:-1,Eleven 1
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193620
-#EXTINF:-1,Eleven 2
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193622
-#EXTINF:-1,Eleven 3 
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193624
-#EXTINF:-1,Eleven 4
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193626
-#EXTINF:-1,RMC Sport 1
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/26562
-#EXTINF:-1,RMC Sport 2
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/26561
-#EXTINF:-1,RMC Sport 3
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/26560
-#EXTINF:-1,Sky Sports F1
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/194721
-#EXTINF:-1,TVCINE TOP HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193584
-#EXTINF:-1,TVCINE EDITION HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193587
-#EXTINF:-1,TVCINE EMOTION HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193590
-#EXTINF:-1,TVCINE ACTION HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193593
-#EXTINF:-1,NOS STUDIO 
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/193579
+http://b5.vc:80/Qtv4AT6FC7/1607740720/75003
+
+
