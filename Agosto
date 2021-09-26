@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1,==== George =====
+#EXTINF:-1,SPORT.TV1
+http://185.134.22.131:8080/george123/george123/24040
+#EXTINF:-1,SPORT.TV2
+http://185.134.22.131:8080/george123/george123/24041
+#EXTINF:-1,SPORT.TV3 
+http://185.134.22.131:8080/george123/george123/24042
+#EXTINF:-1,SPORT.TV4 
+http://185.134.22.131:8080/george123/george123/24043
+#EXTINF:-1,SPORT.TV5 
+http://185.134.22.131:8080/george123/george123/1457
+#EXTINF:-1,Benfica TV 
+http://185.134.22.131:8080/george123/george123/26350
+#EXTINF:-1,Eleven Sports 1 
+http://185.134.22.131:8080/george123/george123/1583
+#EXTINF:-1,Eleven Sports 2 
+http://185.134.22.131:8080/george123/george123/1577
+#EXTINF:-1,Eleven Sports 3
+http://185.134.22.131:8080/george123/george123/1573
+#EXTINF:-1,Sky Sports F1 
+http://185.134.22.131:8080/george123/george123/45349
+#EXTINF:-1,RMC Sports 1
+http://185.134.22.131:8080/george123/george123/56604
+#EXTINF:-1,RMC Sports 2
+http://185.134.22.131:8080/george123/george123/56605
+#EXTINF:-1,RMC Sports 3
+http://185.134.22.131:8080/george123/george123/56606
+#EXTINF:-1,===PLAY====
+#EXTINF:-1,Sport.TV 1
+http://185.236.229.21:9981/play/a072
+#EXTINF:-1,Sport.TV 3
+http://185.236.229.21:9981/play/a06i
+#EXTINF:-1,Sport.TV 4
+http://185.236.229.21:9981/play/a06j
+#EXTINF:-1,Sport.TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1,Eleven 1
+http://185.236.229.21:9981/play/a05v
 #EXTINF:-1,==== Apollo =====
 #EXTINF:-1,BenficaTV 1 HD
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
@@ -38,6 +76,27 @@ http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntUmDU15RAtYPIhNanTGKMq5/ts
 #EXTINF:-1,TVCine ACTION 
 http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFcJlHvGbfyK1nzrFHL3ntX9odjItyZm5dkrNKg_N0u7/ts
+#EXTINF:-1,==== Qqtv =====
+#EXTINF:0,BENFICA TV 1
+http://qqtv.nl:8080/shah/shah123/26599
+#EXTINF:0,BENFICA TV 1
+http://qqtv.nl:8080/shah/shah123/26578
+#EXTINF:0,SPORT TV HD
+http://qqtv.nl:8080/shah/shah123/26626
+#EXTINF:0,SPORT TV 1 HD
+http://qqtv.nl:8080/shah/shah123/26627
+#EXTINF:0,SPORT TV 2 HD
+http://qqtv.nl:8080/shah/shah123/26628
+#EXTINF:0,SPORT TV 3 HD
+http://qqtv.nl:8080/shah/shah123/26629
+#EXTINF:0,SPORT TV 4 HD
+http://qqtv.nl:8080/shah/shah123/26630
+#EXTINF:0,SPORT TV 5 HD
+http://qqtv.nl:8080/shah/shah123/26631
+#EXTINF:0, Eleven 1
+http://qqtv.nl:8080/shah/shah123/14155
+#EXTINF:0, Eleven 3
+http://qqtv.nl:8080/shah/shah123/15199
 #EXTINF:-1, ==== Client Portal ====
 #EXTINF:-1,SPORT.TV1 
 http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/3221
