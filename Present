@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,***FireTv***
+#EXTINF:-1,Benfica TV 
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95396
 #EXTINF:-1,SPORT.TV+ 
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95407
 #EXTINF:-1,SPORT.TV1 
@@ -12,8 +14,6 @@ http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95413
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95415
 #EXTINF:-1,SPORT.TV5 
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95416
-#EXTINF:-1,Benfica TV 
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95396
 #EXTINF:-1,Eleven Sports 1 
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/95418
 #EXTINF:-1,Eleven Sports 2 
