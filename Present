@@ -89,4 +89,38 @@ http://maveniptv.tv:2095/s9hbox/shikos9hboxshiko/58346
 http://maveniptv.tv:2095/s9hbox/shikos9hboxshiko/58344
 #EXTINF:-1,TVCine ACTION 
 http://maveniptv.tv:2095/s9hbox/shikos9hboxshiko/58340
+#EXTINF:-1,=== TyciTV ===
+#EXTINF:-1,SPORT.TV1 
+http://tyciptv.site:8080/test-e78555/cf00/37186
+#EXTINF:-1,SPORT.TV2 
+http://tyciptv.site:8080/test-e78555/cf00/37187
+#EXTINF:-1,SPORT.TV3 
+http://tyciptv.site:8080/test-e78555/cf00/37188
+#EXTINF:-1,SPORT.TV4 
+http://tyciptv.site:8080/test-e78555/cf00/37189
+#EXTINF:-1,SPORT.TV5 
+http://tyciptv.site:8080/test-e78555/cf00/1495
+#EXTINF:-1,Benfica TV 
+http://tyciptv.site:8080/test-e78555/cf00/1497
+#EXTINF:-1,Eleven Sports 1 
+http://tyciptv.site:8080/test-e78555/cf00/1499
+#EXTINF:-1,Eleven Sports 2 
+http://tyciptv.site:8080/test-e78555/cf00/1503
+#EXTINF:-1,Eleven Sports 3
+http://tyciptv.site:8080/test-e78555/cf00/1506
+#EXTINF:-1,Eleven Sports 4
+http://tyciptv.site:8080/test-e78555/cf00/1509
+#EXTINF:-1,Eleven Sports 5
+http://tyciptv.site:8080/test-e78555/cf00/1512
+#EXTINF:-1,Sky Sports F1 
+http://tyciptv.site:8080/test-e78555/cf00/265
+#EXTINF:-1,TVCine TOP 
+http://tyciptv.site:8080/test-e78555/cf00/1446
+#EXTINF:-1,TVCine EDITION 
+http://tyciptv.site:8080/test-e78555/cf00/1448
+#EXTINF:-1,TVCine EMOTION 
+http://tyciptv.site:8080/test-e78555/cf00/82254
+#EXTINF:-1,TVCine ACTION 
+http://tyciptv.site:8080/test-e78555/cf00/1452
+
 
