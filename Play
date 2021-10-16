@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Canal 11 
+http://161.230.155.157:8000/play/a045
+#EXTINF:-1,SPORT.TV1 
+http://161.230.155.157:8000/play/a01e
+#EXTINF:-1,SPORT.TV2 
+http://161.230.155.157:8000/play/a01f
+#EXTINF:-1,SPORT.TV3 
+http://161.230.155.157:8000/play/a01g
+#EXTINF:-1,SPORT.TV4 
+http://161.230.155.157:8000/play/a01q
+#EXTINF:-1,SPORT.TV5 
+http://161.230.155.157:8000/play/a02a
+#EXTINF:-1,Benfica TV 
+http://161.230.155.157:8000/play/a01l
+#EXTINF:-1,Benfica TV HD
+http://161.230.155.157:8000/play/a035
+#EXTINF:-1,Eleven Sports 1 
+http://161.230.155.157:8000/play/a02u
+#EXTINF:-1,Eleven Sports 2 
+http://161.230.155.157:8000/play/a01k
+#EXTINF:-1,Eleven Sports 3
+http://161.230.155.157:8000/play/a01o
+#EXTINF:-1,Eleven Sports 4
+http://161.230.155.157:8000/play/a02v
+#EXTINF:-1,Eleven Sports 5
+http://161.230.155.157:8000/play/a02w
+#EXTINF:-1,NOS Studios 
+http://161.230.155.157:8000/play/a047
+#EXTINF:-1,TVCine TOP 
+http://161.230.155.157:8000/play/a040
+#EXTINF:-1,TVCine EDITION 
+http://161.230.155.157:8000/play/a02z
+#EXTINF:-1,TVCine EMOTION 
+http://161.230.155.157:8000/play/a02x
+#EXTINF:-1,TVCine ACTION 
+http://161.230.155.157:8000/play/a03r
+#EXTINF:-1,AXN 
+http://161.230.155.157:8000/play/a01i
