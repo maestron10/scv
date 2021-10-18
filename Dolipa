@@ -1,112 +1,51 @@
 #EXTM3U
-#EXTINF:-1,===Generalistas===
-#EXTINF:-1,RTP1 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1203
-#EXTINF:-1,RTP2 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/639
-#EXTINF:-1,SIC 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1215
-#EXTINF:-1,TVI 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1211
-#EXTINF:-1,RTP 3
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/8940
-#EXTINF:-1,SIC Notícias 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1226
-#EXTINF:-1,TVI 24 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1224
-#EXTINF:-1,CMTV 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/4217
-#EXTINF:-1,TVI Reality 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1213
-#EXTINF:-1,SIC Mulher 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1217
-#EXTINF:-1,SIC Radical 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/8939
-#EXTINF:-1,===Desporto===
+#EXTM3U
 #EXTINF:-1,A Bola TV
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1257
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/7541
 #EXTINF:-1,Canal 11 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/13057
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/670849
 #EXTINF:-1,SPORT.TV+ 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1333
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/7477
 #EXTINF:-1,SPORT.TV1 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1235
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/8818
 #EXTINF:-1,SPORT.TV2 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1237
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/8814
 #EXTINF:-1,SPORT.TV3 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1239
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/8813
 #EXTINF:-1,SPORT.TV4 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1241
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/8816
 #EXTINF:-1,SPORT.TV5 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1243
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/8812
 #EXTINF:-1,Benfica TV 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1245
-#EXTINF:-1,Benfica TV HD
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3955
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/7534
+#EXTINF:-1,Benfica TV 
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/12520
 #EXTINF:-1,Eleven Sports 1 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/6703
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13774
 #EXTINF:-1,Eleven Sports 2 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/6701
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13773
 #EXTINF:-1,Eleven Sports 3
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/6700
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13772
 #EXTINF:-1,Eleven Sports 4
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/6699
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13771
 #EXTINF:-1,Eleven Sports 5
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/6698
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13770
 #EXTINF:-1,Eurosport 1
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1250
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/7519
 #EXTINF:-1,Eurosport 2
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1251
-#EXTINF:-1,Porto Canal
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1256
-#EXTINF:-1,Sporting TV 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1260
-#EXTINF:-1,=== Filmes ===
-#EXTINF:-1,Netflix
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/21428
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/7518
+#EXTINF:-1,Sky Sports F1
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/683752
 #EXTINF:-1,NOS Studios 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/13046
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/658469
 #EXTINF:-1,TVCine TOP 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3954
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13104
 #EXTINF:-1,TVCine EDITION 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3953
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13098
 #EXTINF:-1,TVCine EMOTION 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3952
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13102
 #EXTINF:-1,TVCine ACTION 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3951
-#EXTINF:-1,Hollywood 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3949
-#EXTINF:-1,Cinemundo 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1272
-#EXTINF:-1,FOX Movies 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/11074
-#EXTINF:-1,AXN Movies 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3947
-#EXTINF:-1,SyFy 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/4219
-#EXTINF:-1,AMC 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/4215
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/13100
 #EXTINF:-1,AXN 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1280
-#EXTINF:-1,AXN White 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1281
-#EXTINF:-1,FOX 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1275
-#EXTINF:-1,FOX CRIME 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/8941
-#EXTINF:-1,FOX Comedy 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/11073
-#EXTINF:-1,FOX LIFE 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1276
-#EXTINF:-1,Discovery Channel 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3942
-#EXTINF:-1,ID Investigation Discovery
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1290
-#EXTINF:-1,Nat Geo Wild 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1289
-#EXTINF:-1,National Geographic 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1288
-#EXTINF:-1,History Channel 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/3946
-#EXTINF:-1,Blaze 
-http://op.dolipa.com:8080/nohknanw/6fI8Gi4rk9/1273
+http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/7538
+
