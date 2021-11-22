@@ -1,106 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1,***Pandar***
-#EXTINF:-1,RTP1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95292
-#EXTINF:-1,RTP2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95293
-#EXTINF:-1,SIC 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95302
-#EXTINF:-1,TVI 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95312
-#EXTINF:-1,RTP 3
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95296
-#EXTINF:-1,SIC Notícias 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95304
-#EXTINF:-1,TVI 24 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95313
-#EXTINF:-1,CMTV 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95405
-#EXTINF:-1,TVI Reality 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95316
-#EXTINF:-1,SIC Mulher 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95303
-#EXTINF:-1,SIC Radical 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95305
-#EXTINF:-1,Sic Caras	
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95306
-#EXTINF:-1,===Desporto===
-#EXTINF:-1,A Bola TV
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95397
-#EXTINF:-1,Canal 11 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95426
-#EXTINF:-1,SPORT.TV+ 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95407
-#EXTINF:-1,SPORT.TV1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95408
-#EXTINF:-1,SPORT.TV2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95412
-#EXTINF:-1,SPORT.TV3 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95413
-#EXTINF:-1,SPORT.TV4 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95415
-#EXTINF:-1,SPORT.TV5 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95416
-#EXTINF:-1,Benfica TV 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95396
-#EXTINF:-1,Eleven Sports 1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95418
-#EXTINF:-1,Eleven Sports 2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95419
-#EXTINF:-1,Eleven Sports 3
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95420
-#EXTINF:-1,Eleven Sports 4
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95421
-#EXTINF:-1,Eleven Sports 5
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95422
-#EXTINF:-1,Eurosport 1
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95401
-#EXTINF:-1,Eurosport 2
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95403
-#EXTINF:-1,Sky Sports F1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/102252
-#EXTINF:-1,RMC Sport 1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126919
-#EXTINF:-1, RMC Sport 2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126920
-#EXTINF:-1, RMC Sport 3 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126921
-#EXTINF:-1,=== Filmes ===
-#EXTINF:-1,NOS Studios 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95351
-#EXTINF:-1,TVCine TOP 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95339
-#EXTINF:-1,TVCine EDITION 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95340
-#EXTINF:-1,TVCine EMOTION 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95341
-#EXTINF:-1,TVCine ACTION 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95342
-#EXTINF:-1,Hollywood 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95379
-#EXTINF:-1,Cinemundo 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95381
-#EXTINF:-1,FOX Movies 
-http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95346
-#EXTINF:-1,AXN Movies 
-http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95338
-#EXTINF:-1,SyFy 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95350
-#EXTINF:-1,AMC 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95334
-#EXTINF:-1,AXN 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95336
-#EXTINF:-1,AXN White 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95337
-#EXTINF:-1,FOX 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95345
-#EXTINF:-1,FOX CRIME 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95348
-#EXTINF:-1,FOX LIFE 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95349
 #EXTINF:-1,***Cularu***
-#EXTM3U
 #EXTINF:-1,SPORT.TV+ 
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3187
 #EXTINF:-1,SPORT.TV1 
@@ -145,7 +44,6 @@ http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3179
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3178
 #EXTINF:-1,TVI Reality 
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29406
-
 #EXTINF:-1,***Coralsat***
 #EXTINF:-1,SPORT.TV+
 http://coralsat.com:8000/293800716494609/890488410133364/67034
