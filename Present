@@ -1,4 +1,45 @@
 #EXTM3U
+#EXTINF:-1,SPORT.TV+ 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90252
+#EXTINF:-1,SPORT.TV1 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90253
+#EXTINF:-1,SPORT.TV2 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90254
+#EXTINF:-1,SPORT.TV3 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90255
+#EXTINF:-1,SPORT.TV4 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90256
+#EXTINF:-1,SPORT.TV5 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90257
+#EXTINF:-1,Benfica TV 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/91205
+#EXTINF:-1,Benfica TV 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90285
+#EXTINF:-1,Eleven Sports 1 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90242
+#EXTINF:-1,Eleven Sports 2 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90243
+#EXTINF:-1,Eleven Sports 3
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90297
+#EXTINF:-1,Eleven Sports 4
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90298
+#EXTINF:-1,Eleven Sports 5
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90299
+#EXTINF:-1,=== Filmes ===
+#EXTINF:-1,Netflix
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90413
+#EXTINF:-1,NOS Studios 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/91246
+#EXTINF:-1,TVCine TOP 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90261
+#EXTINF:-1,TVCine EDITION 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90259
+#EXTINF:-1,TVCine EMOTION 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90260
+#EXTINF:-1,TVCine ACTION 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90258
+#EXTINF:-1,TVI Reality 
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90280
 #EXTINF:-1,***Cularu***
 #EXTINF:-1,SPORT.TV+ 
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3187
