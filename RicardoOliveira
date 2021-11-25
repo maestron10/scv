@@ -1,185 +1,103 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",RTP 1 HEVC PT
+#EXTINF:-1,RTP 1
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94887
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",RTP 2 HEVC PT
+#EXTINF:-1,RTP 2 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94886
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC HEVC PT
+#EXTINF:-1,SIC 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94885
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVI HEVC PT
+#EXTINF:-1,TVI 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94884
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVI 24 HEVC PT
+#EXTINF:-1,TVI 24 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94883
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVI FICÇAO HEVC PT
+#EXTINF:-1,TVI FICÇAO
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94882
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",RTP 3 HEVC PT
+#EXTINF:-1,RTP 3 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94881
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC NOTICIAS HEVC PT
+#EXTINF:-1,SIC NOTICIAS 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94880
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC RADICAL HEVC PT
+#EXTINF:-1,SIC RADICAL 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94879
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC CARAS HEVC PT
+#EXTINF:-1,SIC CARAS 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94878
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC MULHER HEVC PT
+#EXTINF:-1,SIC MULHER 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94877
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CMTV HEVC PT
+#EXTINF:-1,CMTV 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94876
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ZAP VIVA HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94875
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CASA E COZINHA HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94874
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",24 KITCHEN HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94873
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",E! HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94872
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE TOP  HEVC PT
+#EXTINF:-1,TVCINE TOP
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94868
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE EDITION HEVC PT
+#EXTINF:-1,TVCINE EDITION
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94867
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE EMOTION HEVC PT
+#EXTINF:-1,TVCINE EMOTION
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94866
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE ACTION HEVC PT
+#EXTINF:-1,TVCINE ACTION 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94865
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",NOS STUDIOS HEVC PT
+#EXTINF:-1,NOS STUDIOS 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94864
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AXN HEVC PT
+#EXTINF:-1,AXN 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94863
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AXN WHITE HEVC PT
+#EXTINF:-1,AXN WHITE 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94862
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AXN MOVIES HEVC PT
+#EXTINF:-1,AXN MOVIES 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94861
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AMC HEVC PT
+#EXTINF:-1,AMC 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94860
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",HOLLYWOOD HEVC PT
+#EXTINF:-1,HOLLYWOOD
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94859
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SYFY HEVC PT
+#EXTINF:-1,SYFY 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94858
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX HEVC PT
+#EXTINF:-1,FOX 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94857
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX CRIME HEVC PT
+#EXTINF:-1,FOX CRIME 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94856
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX LIFE HEVC PT
+#EXTINF:-1,FOX LIFE 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94855
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX MOVIES HEVC PT
+#EXTINF:-1,FOX MOVIES 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94854
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CINEMUNDO HEVC PT
+#EXTINF:-1,CINEMUNDO
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94853
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CANAL 11 HEVC PT
+#EXTINF:-1,CANAL 11 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94852
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV + HEVC PT
+#EXTINF:-1,SPORT.TV + 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94851
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 1 HEVC PT
+#EXTINF:-1,SPORT.TV 1 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94850
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 2 HEVC PT
+#EXTINF:-1,SPORT.TV 2 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94849
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 3 HEVC PT
+#EXTINF:-1,SPORT.TV 3 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94848
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 4 HEVC PT
+#EXTINF:-1,SPORT.TV 4 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94847
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 5 HEVC PT
+#EXTINF:-1,SPORT.TV 5 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94846
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV NBA HEVC PT
+#EXTINF:-1,SPORT.TV NBA 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94845
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",BTV HEVC PT
+#EXTINF:-1,Benfica TV 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94844
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ELEVEN SPORT 1 HEVC PT
+#EXTINF:-1,Eleven 1 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94843
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ELEVEN SPORTS 2 HEVC PT
+#EXTINF:-1,Eleven 2 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94842
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ELEVEN SPORTS 3 HEVC PT
+#EXTINF:-1,Eleven 3 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94841
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",EUROSPORT 1 HEVC PT
+#EXTINF:-1,EUROSPORT 1 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94840
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",A BOLA TV HEVC PT
+#EXTINF:-1,A BOLA TV 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94839
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",NATIONAL GEO HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94838
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",NAT GEO WILD HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94837
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ID INVESTIGATION HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94836
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TRAVEL CHANNEL HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94835
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",HISTORIA HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94833
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",BLAZE HEVC PT
+#EXTINF:-1,BLAZE 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94832
-#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ODISSEIA HEVC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/94831
-#EXTINF:0 tvg-id="ext" group-title="Portugal",##########   Portugal   ##########
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2782
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP 1 PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2710
-#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 1 ( Mobile ) PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/75454
-#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 1 HD PT
+#EXTINF:-1,RTP 1 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/42409
-#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 1 FHD PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2714
-#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP Arena FHD PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/102494
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal",RTP 2 PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2709
-#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 2 FHD PT
+#EXTINF:-1,RTP 2 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2713
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal",RTP Memória PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2706
-#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/5622
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal",RTP África PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2711
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal",RTP Madeira PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2707
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal",RTP Açores PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2712
-#EXTINF:0 tvg-id="sic.pt" group-title="Portugal",SIC PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2703
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC ( Baixa Internet ) PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/75440
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC ( Mobile ) PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/75455
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC FHD PT
+#EXTINF:-1,SIC 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2696
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Internacional PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/103109
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Portugal",SIC Radical PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2700
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Radical FHD PT
+#EXTINF:-1,SIC Radical 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2699
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Portugal",SIC Mulher PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2702
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Mulher FHD PT
+#EXTINF:-1,SIC Mulher 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/78328
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Portugal",SIC Caras PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2705
-#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Caras HD PT
+#EXTINF:-1,SIC Caras 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/2697
-#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/3845
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI (Baixa Internet) PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/75439
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI ( Mobile ) PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/75456
-#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI FHD PT
+#EXTINF:-1,TVI 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/3840
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Internacional PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/103108
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Portugal",TVI Ficção PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/3846
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Ficção ( Mobile ) PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/75457
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Ficção FHD PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/78293
-#EXTINF:0 tvg-id="TVIdirect.pt" group-title="Portugal",TVI Reality PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/3842
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality HD PT
+#EXTINF:-1,TVI Reality 
 http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/78294
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Mosaico PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/83594
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 1 PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/84359
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 2 PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/84360
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 3 PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/84361
-#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 4 PT
-http://letmein.fun:8080/ricardorooliveira3/iZRJ2nkEd9/84362
