@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, ***MAGALVITE***
-#EXTINF:-1,BenficaTV 1 HD
+#EXTINF:-1,Benfica TV 1 HD
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/40949
-#EXTINF:-1,BenficaTV 1 
+#EXTINF:-1,Benfica TV 1 
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/2241
 #EXTINF:-1,A BOLA TV HD
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/1002
@@ -63,8 +63,10 @@ http://viriatos.nhlfan.net:8080/MAGalvite/76663498/98
 #EXTINF:-1,FOX MOVIES HD
 http://viriatos.nhlfan.net:8080/MAGalvite/76663498/5394
 #EXTINF:-1,****Wanice***
-#EXTINF:-1,BenficaTV 1 HD
+#EXTINF:-1,Benfica TV 1 HD
 http://mu03ye.wanicelife.com:8880/SFL1212902/E20E0N1G/3239
+#EXTINF:-1,Benfica TV 1 
+hhttp://mu03ye.wanicelife.com:8880/SFL61884/E8G96F74/3238
 #EXTINF:-1,A BOLA TV HD
 http://mu03ye.wanicelife.com:8880/SFL1212902/E20E0N1G/3248
 #EXTINF:-1,Canal 11 HD
@@ -102,3 +104,6 @@ http://mu03ye.wanicelife.com:8880/SFL1212902/E20E0N1G/3179
 http://mu03ye.wanicelife.com:8880/SFL1212902/E20E0N1G/29335
 #EXTINF:-1,AXN HD PT
 http://mu03ye.wanicelife.com:8880/SFL1212902/E20E0N1G/3244
+#EXTINF:-1,TVI REALITY
+http://mu03ye.wanicelife.com:8880//SFL1212902/E20E0N1G/29409
+
