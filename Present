@@ -1,127 +1,78 @@
 #EXTM3U
-#EXTINF:-1,=== Wingues ===
+#EXTINF:-1,=== Ip354 ===
+#EXTINF:-1,SPORT.TV+
+http://ip354.cx:900/BB457BC6/DBB76ACC/165516
 #EXTINF:-1,SPORT.TV1 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14550
+http://ip354.cx:900/BB457BC6/DBB76ACC/165511
 #EXTINF:-1,SPORT.TV2 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14551
+http://ip354.cx:900/BB457BC6/DBB76ACC/165512
 #EXTINF:-1,SPORT.TV3 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14552
+http://ip354.cx:900/BB457BC6/DBB76ACC/165513
 #EXTINF:-1,SPORT.TV4 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14553
+http://ip354.cx:900/BB457BC6/DBB76ACC/165514
 #EXTINF:-1,SPORT.TV5
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14554
+http://ip354.cx:900/BB457BC6/DBB76ACC/165515
 #EXTINF:-1,Benfica TV 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14557
+http://ip354.cx:900/BB457BC6/DBB76ACC/165526
 #EXTINF:-1,Eleven 1 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14548
+http://ip354.cx:900/BB457BC6/DBB76ACC/165518
 #EXTINF:-1,Eleven 2 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14544
+http://ip354.cx:900/BB457BC6/DBB76ACC/165519
 #EXTINF:-1,Eleven 3
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14537
+http://ip354.cx:900/BB457BC6/DBB76ACC/165520
 #EXTINF:-1,Eleven 4
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14535
+http://ip354.cx:900/BB457BC6/DBB76ACC/165521
 #EXTINF:-1,Eleven 5
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14532
+http://ip354.cx:900/BB457BC6/DBB76ACC/165522
 #EXTINF:-1,Sky Sports F1 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/13896
+http://ip354.cx:900/BB457BC6/DBB76ACC/191464
 #EXTINF:-1,TVCine TOP 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14500
+http://ip354.cx:900/BB457BC6/DBB76ACC/165484
 #EXTINF:-1,TVCine EDITION 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14502
+http://ip354.cx:900/BB457BC6/DBB76ACC/165485
 #EXTINF:-1,TVCine EMOTION 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14504
+http://ip354.cx:900/BB457BC6/DBB76ACC/165486
 #EXTINF:-1,TVCine ACTION 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14505
+http://ip354.cx:900/BB457BC6/DBB76ACC/165487
 #EXTINF:-1,TVI Reality 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14424
-#EXTINF:-1,A Bola TV
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14436
-#EXTINF:-1,Canal 11 
-http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14513
-#EXTINF:-1,===Daniel ===
+http://ip354.cx:900/BB457BC6/DBB76ACC/165546
+#EXTINF:-1,=== Ndasat ===
 #EXTINF:-1,SPORT.TV+ 
-http://4tv.site:2082/daniel7805/8494017805/169687
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2509
 #EXTINF:-1,SPORT.TV1 
-http://4tv.site:2082/daniel7805/8494017805/169841
+http://iptv.ndasat.com:88/224535547339016/224535547339016/7001
 #EXTINF:-1,SPORT.TV2 
-http://4tv.site:2082/daniel7805/8494017805/169836
+http://iptv.ndasat.com:88/224535547339016/224535547339016/7002
 #EXTINF:-1,SPORT.TV3 
-http://4tv.site:2082/daniel7805/8494017805/169832
+http://iptv.ndasat.com:88/224535547339016/224535547339016/7003
 #EXTINF:-1,SPORT.TV4 
-http://4tv.site:2082/daniel7805/8494017805/169829
+http://iptv.ndasat.com:88/224535547339016/224535547339016/7004
 #EXTINF:-1,SPORT.TV5
-http://4tv.site:2082/daniel7805/8494017805/169826
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2062
 #EXTINF:-1,Benfica TV 
-http://4tv.site:2082/daniel7805/8494017805/169760
-#EXTINF:-1,Benfica TV 
-http://4tv.site:2082/daniel7805/8494017805/170550
+http://iptv.ndasat.com:88/224535547339016/224535547339016/86
 #EXTINF:-1,Eleven 1 
-http://4tv.site:2082/daniel7805/8494017805/169740
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2932
 #EXTINF:-1,Eleven 2 
-http://4tv.site:2082/daniel7805/8494017805/169738
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2933
 #EXTINF:-1,Eleven 3
-http://4tv.site:2082/daniel7805/8494017805/169736
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2931
 #EXTINF:-1,Eleven 4
-http://4tv.site:2082/daniel7805/8494017805/169734
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2937
 #EXTINF:-1,Eleven 5
-http://4tv.site:2082/daniel7805/8494017805/169733
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2936
 #EXTINF:-1,Sky Sports F1 
-http://4tv.site:2082/daniel7805/8494017805/170982
+http://iptv.ndasat.com:88/224535547339016/224535547339016/14
 #EXTINF:-1,TVCine TOP 
-http://4tv.site:2082/daniel7805/8494017805/169793
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2055
 #EXTINF:-1,TVCine EDITION 
-http://4tv.site:2082/daniel7805/8494017805/169799
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2058
 #EXTINF:-1,TVCine EMOTION 
-http://4tv.site:2082/daniel7805/8494017805/169796
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2056
 #EXTINF:-1,TVCine ACTION 
-http://4tv.site:2082/daniel7805/8494017805/169802
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2057
 #EXTINF:-1,TVI Reality 
-http://4tv.site:2082/daniel7805/8494017805/169783
-#EXTINF:-1,A Bola TV
-http://4tv.site:2082/daniel7805/8494017805/170567
-#EXTINF:-1,Canal 11 
-http://4tv.site:2082/daniel7805/8494017805/170541
-#EXTINF:-1,===eamonbrady===
-#EXTINF:-1,SPORT.TV+ 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59641
-#EXTINF:-1,SPORT.TV1 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59974
-#EXTINF:-1,SPORT.TV2 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59635
-#EXTINF:-1,SPORT.TV3 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59636
-#EXTINF:-1,SPORT.TV4 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59637
-#EXTINF:-1,SPORT.TV5
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59638
-#EXTINF:-1,Benfica TV 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59630
-#EXTINF:-1,Eleven Sports 1 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/61543
-#EXTINF:-1,Eleven Sports 2 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/61544
-#EXTINF:-1,Eleven Sports 3
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/61545
-#EXTINF:-1,Eleven Sports 4
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/61546
-#EXTINF:-1,Eleven Sports 5
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/61547
-#EXTINF:-1,Eurosport 1
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59639
-#EXTINF:-1,Eurosport 2
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59640
-#EXTINF:-1,Sky Sports F1 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/86298
-#EXTINF:-1,TVCine TOP 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59612
-#EXTINF:-1,TVCine EDITION 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59613
-#EXTINF:-1,TVCine EMOTION 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59614
-#EXTINF:-1,TVCine ACTION 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/59615
-#EXTINF:-1,TVI Reality 
-http://privatesystem.co.uk:2086/eamonbrady@gmail.com/sC1i5g82bQ/116963
+http://iptv.ndasat.com:88/224535547339016/224535547339016/2048
 #EXTINF:-1,=== Discord ===
 #EXTINF:-1,SPORT.TV1 
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/314
