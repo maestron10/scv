@@ -73,6 +73,41 @@ http://iptv.ndasat.com:88/224535547339016/224535547339016/2056
 http://iptv.ndasat.com:88/224535547339016/224535547339016/2057
 #EXTINF:-1,TVI Reality 
 http://iptv.ndasat.com:88/224535547339016/224535547339016/2048
+#EXTINF:-1,=== Flycany ===
+#EXTINF:-1,SPORT.TV1 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29392
+#EXTINF:-1,SPORT.TV2 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29391
+#EXTINF:-1,SPORT.TV3 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29390
+#EXTINF:-1,SPORT.TV4 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29389
+#EXTINF:-1,SPORT.TV5
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/49958
+#EXTINF:-1,Benfica TV 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3238
+#EXTINF:-1,Eleven 1 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29371
+#EXTINF:-1,Eleven 2 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29370
+#EXTINF:-1,Eleven 3
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29369
+#EXTINF:-1,Eleven 4
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29368
+#EXTINF:-1,Eleven 5
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29334
+#EXTINF:-1,Sky Sports F1 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2876
+#EXTINF:-1,TVCine TOP 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29359
+#EXTINF:-1,TVCine EDITION 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3178
+#EXTINF:-1,TVCine EMOTION 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3180
+#EXTINF:-1,TVCine ACTION 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29335
+#EXTINF:-1,TVI Reality 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29409
 #EXTINF:-1,=== Discord ===
 #EXTINF:-1,SPORT.TV1 
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/314
