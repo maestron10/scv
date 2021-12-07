@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTINF:-1,=== Ip354 ===
-#EXTINF:-1,SPORT.TV+
-http://ip354.cx:900/BB457BC6/DBB76ACC/165516
-#EXTINF:-1,SPORT.TV1 
-http://ip354.cx:900/BB457BC6/DBB76ACC/165511
-#EXTINF:-1,SPORT.TV2 
-http://ip354.cx:900/BB457BC6/DBB76ACC/165512
-#EXTINF:-1,SPORT.TV3 
-http://ip354.cx:900/BB457BC6/DBB76ACC/165513
-#EXTINF:-1,SPORT.TV4 
-http://ip354.cx:900/BB457BC6/DBB76ACC/165514
-#EXTINF:-1,SPORT.TV5
-http://ip354.cx:900/BB457BC6/DBB76ACC/165515
 #EXTINF:-1,Benfica TV 
 http://ip354.cx:900/BB457BC6/DBB76ACC/165526
 #EXTINF:-1,Eleven 1 
@@ -24,6 +12,18 @@ http://ip354.cx:900/BB457BC6/DBB76ACC/165520
 http://ip354.cx:900/BB457BC6/DBB76ACC/165521
 #EXTINF:-1,Eleven 5
 http://ip354.cx:900/BB457BC6/DBB76ACC/165522
+#EXTINF:-1,SPORT.TV+
+http://ip354.cx:900/BB457BC6/DBB76ACC/165516
+#EXTINF:-1,SPORT.TV1 
+http://ip354.cx:900/BB457BC6/DBB76ACC/165511
+#EXTINF:-1,SPORT.TV2 
+http://ip354.cx:900/BB457BC6/DBB76ACC/165512
+#EXTINF:-1,SPORT.TV3 
+http://ip354.cx:900/BB457BC6/DBB76ACC/165513
+#EXTINF:-1,SPORT.TV4 
+http://ip354.cx:900/BB457BC6/DBB76ACC/165514
+#EXTINF:-1,SPORT.TV5
+http://ip354.cx:900/BB457BC6/DBB76ACC/165515
 #EXTINF:-1,Sky Sports F1 
 http://ip354.cx:900/BB457BC6/DBB76ACC/191464
 #EXTINF:-1,TVCine TOP 
@@ -73,17 +73,44 @@ http://iptv.ndasat.com:88/224535547339016/224535547339016/2056
 http://iptv.ndasat.com:88/224535547339016/224535547339016/2057
 #EXTINF:-1,TVI Reality 
 http://iptv.ndasat.com:88/224535547339016/224535547339016/2048
-#EXTINF:-1,=== Flycany ===
+#EXTINF:-1,=== Tahar ===
+#EXTINF:-1,Benfica TV 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159120
+#EXTINF:-1,Eleven 1 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159124
+#EXTINF:-1,Eleven 2 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159127
+#EXTINF:-1,Eleven 3
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159131
+#EXTINF:-1,Eleven 4
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159135
+#EXTINF:-1,Eleven 5
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159139
 #EXTINF:-1,SPORT.TV1 
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29392
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159086
 #EXTINF:-1,SPORT.TV2 
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29391
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159091
 #EXTINF:-1,SPORT.TV3 
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29390
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276677
 #EXTINF:-1,SPORT.TV4 
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29389
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276678
 #EXTINF:-1,SPORT.TV5
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/49958
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276679
+#EXTINF:-1,Sky Sports F1 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/158253
+#EXTINF:-1,TVCine TOP 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276706
+#EXTINF:-1,TVCine EDITION 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276707
+#EXTINF:-1,TVCine EMOTION 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276708
+#EXTINF:-1,TVCine ACTION 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159227
+#EXTINF:-1,TVI Reality 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276742
+#EXTINF:-1, Nos Studios 
+http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276751
+#EXTINF:-1,=== Flycany ===
 #EXTINF:-1,Benfica TV 
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3238
 #EXTINF:-1,Eleven 1 
@@ -96,6 +123,16 @@ http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29369
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29368
 #EXTINF:-1,Eleven 5
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29334
+#EXTINF:-1,SPORT.TV1 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29392
+#EXTINF:-1,SPORT.TV2 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29391
+#EXTINF:-1,SPORT.TV3 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29390
+#EXTINF:-1,SPORT.TV4 
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29389
+#EXTINF:-1,SPORT.TV5
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/49958
 #EXTINF:-1,Sky Sports F1 
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2876
 #EXTINF:-1,TVCine TOP 
@@ -109,6 +146,12 @@ http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29335
 #EXTINF:-1,TVI Reality 
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29409
 #EXTINF:-1,=== Discord ===
+#EXTINF:-1,Eleven 1 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/327
+#EXTINF:-1,Eleven 2 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/328
+#EXTINF:-1,Eleven 3
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/329
 #EXTINF:-1,SPORT.TV1 
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/314
 #EXTINF:-1,SPORT.TV2 
@@ -119,12 +162,6 @@ http://starshare.live:8080/cOrldiscord/6aihXYFqTX/316
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/317
 #EXTINF:-1,SPORT.TV5
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/318
-#EXTINF:-1,Eleven Sports 1 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/327
-#EXTINF:-1,Eleven Sports 2 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/328
-#EXTINF:-1,Eleven Sports 3
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/329
 #EXTINF:-1,TVCine TOP 
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/313
 #EXTINF:-1,TVCine EDITION 
