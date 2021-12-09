@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1,=== Discord ===
+#EXTINF:-1,Eleven 1 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1646
+#EXTINF:-1,Eleven 2 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1645
+#EXTINF:-1,Eleven 3
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1644
+#EXTINF:-1,SPORT.TV1 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/314
+#EXTINF:-1,SPORT.TV2 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/315
+#EXTINF:-1,SPORT.TV3 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/316
+#EXTINF:-1,SPORT.TV4 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/317
+#EXTINF:-1,SPORT.TV5
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/318
+#EXTINF:-1,TVCine TOP 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/313
+#EXTINF:-1,TVCine EDITION 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1659
+#EXTINF:-1,TVCine EMOTION 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1658
+#EXTINF:-1,TVCine ACTION 
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1657
+
+
 #EXTINF:-1,=== Ip354 ===
 #EXTINF:-1,Benfica TV 
 http://ip354.cx:900/BB457BC6/DBB76ACC/165526
@@ -36,80 +63,7 @@ http://ip354.cx:900/BB457BC6/DBB76ACC/165486
 http://ip354.cx:900/BB457BC6/DBB76ACC/165487
 #EXTINF:-1,TVI Reality 
 http://ip354.cx:900/BB457BC6/DBB76ACC/165546
-#EXTINF:-1,=== Ndasat ===
-#EXTINF:-1,SPORT.TV+ 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2509
-#EXTINF:-1,SPORT.TV1 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/7001
-#EXTINF:-1,SPORT.TV2 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/7002
-#EXTINF:-1,SPORT.TV3 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/7003
-#EXTINF:-1,SPORT.TV4 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/7004
-#EXTINF:-1,SPORT.TV5
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2062
-#EXTINF:-1,Benfica TV 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/86
-#EXTINF:-1,Eleven 1 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2932
-#EXTINF:-1,Eleven 2 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2933
-#EXTINF:-1,Eleven 3
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2931
-#EXTINF:-1,Eleven 4
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2937
-#EXTINF:-1,Eleven 5
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2936
-#EXTINF:-1,Sky Sports F1 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/14
-#EXTINF:-1,TVCine TOP 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2055
-#EXTINF:-1,TVCine EDITION 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2058
-#EXTINF:-1,TVCine EMOTION 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2056
-#EXTINF:-1,TVCine ACTION 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2057
-#EXTINF:-1,TVI Reality 
-http://iptv.ndasat.com:88/224535547339016/224535547339016/2048
-#EXTINF:-1,=== Tahar ===
-#EXTINF:-1,Benfica TV 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159120
-#EXTINF:-1,Eleven 1 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159124
-#EXTINF:-1,Eleven 2 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159127
-#EXTINF:-1,Eleven 3
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159131
-#EXTINF:-1,Eleven 4
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159135
-#EXTINF:-1,Eleven 5
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159139
-#EXTINF:-1,SPORT.TV1 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159086
-#EXTINF:-1,SPORT.TV2 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159091
-#EXTINF:-1,SPORT.TV3 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276677
-#EXTINF:-1,SPORT.TV4 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276678
-#EXTINF:-1,SPORT.TV5
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276679
-#EXTINF:-1,Sky Sports F1 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/158253
-#EXTINF:-1,TVCine TOP 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276706
-#EXTINF:-1,TVCine EDITION 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276707
-#EXTINF:-1,TVCine EMOTION 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276708
-#EXTINF:-1,TVCine ACTION 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/159227
-#EXTINF:-1,TVI Reality 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276742
-#EXTINF:-1, Nos Studios 
-http://dmtn.tv:8080/taha1987inter13/taha1987inter2c3/276751
+
 #EXTINF:-1,=== Flycany ===
 #EXTINF:-1,Benfica TV 
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3238
@@ -145,28 +99,4 @@ http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3180
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29335
 #EXTINF:-1,TVI Reality 
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/29409
-#EXTINF:-1,=== Discord ===
-#EXTINF:-1,Eleven 1 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/327
-#EXTINF:-1,Eleven 2 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/328
-#EXTINF:-1,Eleven 3
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/329
-#EXTINF:-1,SPORT.TV1 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/314
-#EXTINF:-1,SPORT.TV2 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/315
-#EXTINF:-1,SPORT.TV3 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/316
-#EXTINF:-1,SPORT.TV4 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/317
-#EXTINF:-1,SPORT.TV5
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/318
-#EXTINF:-1,TVCine TOP 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/313
-#EXTINF:-1,TVCine EDITION 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1659
-#EXTINF:-1,TVCine EMOTION 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1658
-#EXTINF:-1,TVCine ACTION 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/1657
+
