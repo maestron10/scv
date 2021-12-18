@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1,***Pfvs***
+#EXTINF:-1,Eleven 1 
+http://pfsv.io:80/dx6PVjx2/29993/58162
+#EXTINF:-1,Eleven 2 
+http://pfsv.io:80/dx6PVjx2/29993/58163
+#EXTINF:-1,Eleven 3
+http://pfsv.io:80/dx6PVjx2/29993/58164
+#EXTINF:-1,Eleven 4
+http://pfsv.io:80/dx6PVjx2/29993/58165
+#EXTINF:-1,Eleven 5
+http://pfsv.io:80/dx6PVjx2/29993/58166
+#EXTINF:-1,SPORT.TV1 
+http://pfsv.io:80/dx6PVjx2/29993/65153
+#EXTINF:-1,SPORT.TV2 
+http://pfsv.io:80/dx6PVjx2/29993/65154
+#EXTINF:-1,SPORT.TV3 
+http://pfsv.io:80/dx6PVjx2/29993/65155
+#EXTINF:-1,SPORT.TV4 
+http://pfsv.io:80/dx6PVjx2/29993/65156
+#EXTINF:-1,SPORT.TV5
+http://pfsv.io:80/dx6PVjx2/29993/65240
+#EXTINF:-1,***Flicker***
+#EXTINF:-1, Benfica TV 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1497
+#EXTINF:-1, Eleven 1 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1499
+#EXTINF:-1, Eleven 1 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282821
+#EXTINF:-1, Eleven 2 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1503
+#EXTINF:-1, Eleven 2 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282822
+#EXTINF:-1, Eleven 3 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1506
+#EXTINF:-1, Eleven 3 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282823
+#EXTINF:-1, Eleven 4 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1509
+#EXTINF:-1, Eleven 4 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282824
+#EXTINF:-1, SPORT.TV 1 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1483
+#EXTINF:-1, SPORT.TV 1 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/37186
+#EXTINF:-1, SPORT.TV 2 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1486
+#EXTINF:-1, SPORT.TV 2 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/37187
+#EXTINF:-1, SPORT.TV 3 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1489
+#EXTINF:-1, SPORT.TV 3 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/37188
+#EXTINF:-1, SPORT.TV 4 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1492
+#EXTINF:-1, SPORT.TV 4 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/37189
+#EXTINF:-1, SPORT.TV 5 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1495
+#EXTINF:-1, SPORT.TV 5 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/273474
 #EXTINF:-1,***IPTVmedia***
 #EXTINF:-1,Benfica TV
 http://iptvmedia.live:8080/12810/7f788911/1497
@@ -30,31 +90,6 @@ http://iptvmedia.live:8080/12810/7f788911/1492
 http://iptvmedia.live:8080/12810/7f788911/1495
 #EXTINF:-1,Sky Sports F1 
 http://iptvmedia.live:8080/12810/7f788911/37177
-#EXTINF:-1,***Pandar***
-#EXTINF:-1,Benfica TV 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95396
-#EXTINF:-1,Eleven 1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95418
-#EXTINF:-1,Eleven 2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95419
-#EXTINF:-1,Eleven 3
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95420
-#EXTINF:-1,Eleven 4
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95421
-#EXTINF:-1,Eleven 5
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95422
-#EXTINF:-1,SPORT.TV1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95408
-#EXTINF:-1,SPORT.TV2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95412
-#EXTINF:-1,SPORT.TV3 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95413
-#EXTINF:-1,SPORT.TV4 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95415
-#EXTINF:-1,SPORT.TV5 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95416
-#EXTINF:-1,Sky Sports F1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/102252
 #EXTINF:-1,***MaxPrime***
 #EXTINF:-1,Benfica TV 
 http://maxprime.ddnsking.com:8080/Kik5262729/Kik5262729/714413
@@ -107,32 +142,38 @@ http://ae1.worldhell.club:8880/AA6M0373/2828898743/3189
 http://ae1.worldhell.club:8880/AA6M0373/2828898743/3188
 #EXTINF:-1,Sky Sports F1
 http://ae1.worldhell.club:8880/AA6M0373/2828898743/2876
-#EXTINF:-1,***Yunini***
-#EXTINF:-1,Benfica TV 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/3238
-#EXTINF:-1,Eleven 1 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/29371
-#EXTINF:-1,Eleven 2 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/29370
-#EXTINF:-1,Eleven 3
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/29369
-#EXTINF:-1,Eleven 4
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/29368
-#EXTINF:-1,Eleven 5
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/29334
-#EXTINF:-1,SPORT.TV1 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/3192
-#EXTINF:-1,SPORT.TV2 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/3191
-#EXTINF:-1,SPORT.TV3 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/3190
-#EXTINF:-1,SPORT.TV4 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/3189
-#EXTINF:-1,SPORT.TV5 
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/3188
-#EXTINF:-1,Sky Sports F1 HD
-http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/2876
-
-
+#EXTINF:-1, ===Flicker===
+#EXTINF:-1, TVCine Top 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1446
+#EXTINF:-1, TVCine Edition 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/82254
+#EXTINF:-1, TVCine Emotion 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1448
+#EXTINF:-1, TVCine Action 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1452
+#EXTINF:-1, TVI Reality 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1423
+#EXTINF:-1, ===Pfsv===
+#EXTINF:-1,TVCine TOP 
+http://pfsv.io:80/dx6PVjx2/29993/101337
+#EXTINF:-1,TVCine EDITION 
+http://pfsv.io:80/dx6PVjx2/29993/101335
+#EXTINF:-1,TVCine EMOTION 
+http://pfsv.io:80/dx6PVjx2/29993/101336
+#EXTINF:-1,TVCine ACTION 
+http://pfsv.io:80/dx6PVjx2/29993/101334
+#EXTINF:-1,TVI Reality 
+http://pfsv.io:80/dx6PVjx2/29993/101325
+#EXTINF:-1, ===IPTVMedia===
+#EXTINF:-1,TVCine Action
+http://iptvmedia.live:8080/12810/7f788911/1452
+#EXTINF:-1,TVCine Edition
+http://iptvmedia.live:8080/12810/7f788911/82254
+#EXTINF:-1,TVCine Emotion
+http://iptvmedia.live:8080/12810/7f788911/1448
+#EXTINF:-1,TVCine Top
+http://iptvmedia.live:8080/12810/7f788911/1446
+#EXTINF:-1,TVI Reality
+http://iptvmedia.live:8080/12810/7f788911/1423
 
 
