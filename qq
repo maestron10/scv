@@ -1,25 +1,33 @@
 #EXTM3U
 #EXTINF:0,BENFICA TV 1
-http://qqtv.nl:8080/shah/shah123/26599
+http://qqtv.nl:8080/norma/12345/26599
 #EXTINF:0,BENFICA TV 1
-http://qqtv.nl:8080/shah/shah123/26578
+http://qqtv.nl:8080/norma/12345/26578
 #EXTINF:0,SPORT TV HD
-http://qqtv.nl:8080/shah/shah123/26626
+http://qqtv.nl:8080/norma/12345/26626
 #EXTINF:0,SPORT TV 1 HD
-http://qqtv.nl:8080/shah/shah123/26627
+http://qqtv.nl:8080/norma/12345/26627
 #EXTINF:0,SPORT TV 2 HD
-http://qqtv.nl:8080/shah/shah123/26628
+http://qqtv.nl:8080/norma/12345/26628
 #EXTINF:0,SPORT TV 3 HD
-http://qqtv.nl:8080/shah/shah123/26629
+http://qqtv.nl:8080/norma/12345/26629
 #EXTINF:0,SPORT TV 4 HD
-http://qqtv.nl:8080/shah/shah123/26630
+http://qqtv.nl:8080/norma/12345/26630
 #EXTINF:0,SPORT TV 5 HD
-http://qqtv.nl:8080/shah/shah123/26631
+http://qqtv.nl:8080/norma/12345/26631
 #EXTINF:0, Eleven 1
-http://qqtv.nl:8080/shah/shah123/14155
+http://qqtv.nl:8080/norma/12345/148450
 #EXTINF:0, Eleven 2
-
+http://qqtv.nl:8080/norma/12345/148449
 #EXTINF:0, Eleven 3
-http://qqtv.nl:8080/shah/shah123/15199
+http://qqtv.nl:8080/norma/12345/148448
+#EXTINF:-1,TVCINE TOP
+http://qqtv.nl:8080/norma/12345/13285
+#EXTINF:-1,TVCINE EDITION
+http://qqtv.nl:8080/norma/12345/13283
+#EXTINF:-1,TVCINE EMOTION
+http://qqtv.nl:8080/norma/12345/13282
+#EXTINF:-1,TVCINE ACTION
+http://qqtv.nl:8080/norma/12345/13281
 
 
