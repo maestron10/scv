@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1,=== WINGUES ===
+#EXTINF:-1,Benfica TV 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14557
+#EXTINF:-1,Eleven 1 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14548
+#EXTINF:-1,Eleven 2 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14544
+#EXTINF:-1,Eleven 3
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14537
+#EXTINF:-1,Eleven 4
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14535
+#EXTINF:-1,Eleven 5
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14532
+#EXTINF:-1,SPORT.TV1 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14550
+#EXTINF:-1,SPORT.TV2 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14551
+#EXTINF:-1,SPORT.TV3 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14552
+#EXTINF:-1,SPORT.TV4 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14553
+#EXTINF:-1,SPORT.TV5
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14554
+#EXTINF:-1,Sky Sports F1 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/13896
+#EXTINF:-1,TVCine TOP 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14500
+#EXTINF:-1,TVCine EDITION 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14502
+#EXTINF:-1,TVCine EMOTION 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14504
+#EXTINF:-1,TVCine ACTION 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14500
+#EXTINF:-1,TVI Reality 
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14424
+#EXTINF:-1, NOS STUDIOS HD
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14373
+#EXTINF:-1,=== NullPress ===
+#EXTINF:-1,SPORT.TV 1
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86873.ts
+#EXTINF:-1,SPORT.TV 2
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86874.ts
+#EXTINF:-1,SPORT.TV 3
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86875.ts
+#EXTINF:-1,SPORT.TV 4
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86876.ts
+#EXTINF:-1,SPORT.TV 5
+https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86877.ts
 #EXTINF:-1,=== Cobra ===
 #EXTINF:-1,Benfica TV 
 http://cobraa.in:8000/597840804791/6073055b95341.94684/109119
@@ -16,15 +64,12 @@ http://cobraa.in:8000/597840804791/6073055b95341.94684/109155
 http://cobraa.in:8000/597840804791/6073055b95341.94684/109156
 #EXTINF:-1,TVCine TOP 
 http://cobraa.in:8000/597840804791/6073055b95341.94684/109109
-#EXTINF:-1,TVCine EDITION 
-
 #EXTINF:-1,TVCine EMOTION 
 http://cobraa.in:8000/597840804791/6073055b95341.94684/109149
 #EXTINF:-1,TVCine ACTION 
 http://cobraa.in:8000/597840804791/6073055b95341.94684/109150
 #EXTINF:-1,TVI Reality 
 http://cobraa.in:8000/597840804791/6073055b95341.94684/109152
-
 #EXTINF:-1,===star7arab===
 #EXTINF:-1,Benfica TV 
 http://tv1.live:25461/star7arab/WtnJQObFQO/6430
@@ -56,11 +101,9 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6377
 #EXTINF:-1,TVCine EDITION 
 http://tv1.live:25461/star7arab/WtnJQObFQO/6376
 #EXTINF:-1,TVCine EMOTION 
-http://4tv.site:2082/9939dd/4891349939/169670
+http://tv1.live:25461/star7arab/WtnJQObFQO/6375
 #EXTINF:-1,TVCine ACTION 
-http://4tv.site:2082/9939dd/4891349939/169669
-
-
+http://tv1.live:25461/star7arab/WtnJQObFQO/6374
 #EXTINF:-1,===4TV===
 #EXTINF:-1,Benfica TV 
 http://4tv.site:2082/9939dd/4891349939/169760
@@ -112,14 +155,4 @@ http://4tv.site:2082/9939dd/4891349939/169670
 http://4tv.site:2082/9939dd/4891349939/169669
 #EXTINF:-1,TVI Reality 
 http://4tv.site:2082/9939dd/4891349939/171134
-#EXTINF:-1,=== NullPress ===
-#EXTINF:-1,SPORT.TV 1
-https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86873.ts
-#EXTINF:-1,SPORT.TV 2
-https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86874.ts
-#EXTINF:-1,SPORT.TV 3
-https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86875.ts
-#EXTINF:-1,SPORT.TV 4
-https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86876.ts
-#EXTINF:-1,SPORT.TV 5
-https://iptv.nullpress.xyz:8443/live/Zkl76/6688/86877.ts
+
