@@ -1,4 +1,837 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal VIP",PT: RTP 1 FHD	
+http://256379961308263976.niceyes.xyz:80/L11031/4699863/263976	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal VIP",PT: RTP 2 FHD	
+http://256379961308263977.niceyes.xyz:80/L11031/4699863/263977	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC SD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="Portugal VIP",PT: SIC SD	
+http://256379961308277493.niceyes.xyz:80/L11031/4699863/277493	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal VIP",PT: SIC FHD	
+http://256379961308265931.niceyes.xyz:80/L11031/4699863/265931	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC LOW H264 HD	
+http://256379961308270819.niceyes.xyz:80/L11031/4699863/270819	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal VIP",PT: TVI FHD	
+http://256379961308265934.niceyes.xyz:80/L11031/4699863/265934	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI SD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="Portugal VIP",PT: TVI SD	
+http://256379961308265936.niceyes.xyz:80/L11031/4699863/265936	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal VIP",PT: TVI REALITY FHD	
+http://256379961308266030.niceyes.xyz:80/L11031/4699863/266030	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal VIP",PT: SIC CARAS HD	
+http://256379961308266015.niceyes.xyz:80/L11031/4699863/266015	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC MULHER LOW H264 HD	
+http://256379961308273062.niceyes.xyz:80/L11031/4699863/273062	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal VIP",PT: SIC MULHER FHD	
+http://256379961308275178.niceyes.xyz:80/L11031/4699863/275178	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER SD" tvg-logo="https://2.bp.blogspot.com/-__5Rvo5_kN0/TyVcFKeNgaI/AAAAAAAABTI/a6YpSAM4GTQ/s1600/SIC+Mulher+logo.png" group-title="Portugal VIP",PT: SIC MULHER SD	
+http://256379961308275179.niceyes.xyz:80/L11031/4699863/275179	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal VIP",PT: SIC NOTICIAS FHD	
+http://256379961308263986.niceyes.xyz:80/L11031/4699863/263986	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal VIP",PT: SIC RADICAL FHD	
+http://256379961308263987.niceyes.xyz:80/L11031/4699863/263987	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV 1 SD" tvg-logo="" group-title="Portugal VIP",PT: BENFICA TV 1 SD	
+http://256379961308264027.niceyes.xyz:80/L11031/4699863/264027	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV HQ H264 HD	
+http://256379961308270791.niceyes.xyz:80/L11031/4699863/270791	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV LOW H264 HD	
+http://256379961308270792.niceyes.xyz:80/L11031/4699863/270792	
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal VIP",PT: BENFICA TV FHD	
+http://256379961308265956.niceyes.xyz:80/L11031/4699863/265956	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ABOLA TV FHD" tvg-logo="https://3.bp.blogspot.com/-dC8DE7f4qws/T1Fbbo22HgI/AAAAAAAAB1c/mqmtecgK0dk/s1600/A+Bola+TV+logo.png" group-title="Portugal VIP",PT: ABOLA TV FHD	
+http://256379961308264020.niceyes.xyz:80/L11031/4699863/264020	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal VIP",PT: CANAL 11 FHD	
+http://256379961308265962.niceyes.xyz:80/L11031/4699863/265962	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal VIP",PT: SPORT TV+ HD	
+http://256379961308266019.niceyes.xyz:80/L11031/4699863/266019	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal Sport",PT: SPORT TV+ HD	
+http://256379961308266943.niceyes.xyz:80/L11031/4699863/266943	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 FHD	
+http://256379961308266944.niceyes.xyz:80/L11031/4699863/266944	
+EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 HD	
+http://256379961308243283.niceyes.xyz:80/L11031/4699863/243283	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal VIP",PT: SPORT TV 1 FHD	
+http://256379961308254158.niceyes.xyz:80/L11031/4699863/254158	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal Sport",PT: SPORT TV 2 HD	
+http://256379961308243285.niceyes.xyz:80/L11031/4699863/243285	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal VIP",PT: SPORT TV 2 FHD	
+http://256379961308254159.niceyes.xyz:80/L11031/4699863/254159	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal Sport",PT: SPORT TV 2 FHD	
+http://256379961308266945.niceyes.xyz:80/L11031/4699863/266945	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal Sport",PT: SPORT TV 3 HD	
+http://256379961308243287.niceyes.xyz:80/L11031/4699863/243287	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal VIP",PT: SPORT TV 3 FHD	
+http://256379961308254160.niceyes.xyz:80/L11031/4699863/254160	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal Sport",PT: SPORT TV 3 FHD	
+http://256379961308266946.niceyes.xyz:80/L11031/4699863/266946	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal VIP",PT: SPORT TV 4 FHD	
+http://256379961308254161.niceyes.xyz:80/L11031/4699863/254161	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal VIP",PT: SPORT TV 4 SD	
+http://256379961308254198.niceyes.xyz:80/L11031/4699863/254198	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal Sport",PT: SPORT TV 4 FHD	
+http://256379961308266947.niceyes.xyz:80/L11031/4699863/266947	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal Sport",PT: SPORT TV 5 FHD	
+http://256379961308266948.niceyes.xyz:80/L11031/4699863/266948	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal VIP",PT: SPORT TV 5 FHD	
+http://256379961308266020.niceyes.xyz:80/L11031/4699863/266020	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="Portugal VIP",PT: SPORT TV NBA HD	
+http://256379961308254163.niceyes.xyz:80/L11031/4699863/254163	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV NBA HD	
+http://256379961308266949.niceyes.xyz:80/L11031/4699863/266949	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal VIP",PT: EUROSPORT 1 FHD	
+http://256379961308254183.niceyes.xyz:80/L11031/4699863/254183	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal Sport",PT: EUROSPORT 1 HD	
+http://256379961308243292.niceyes.xyz:80/L11031/4699863/243292	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal VIP",PT: EUROSPORT 1 FHD	
+http://256379961308265982.niceyes.xyz:80/L11031/4699863/265982	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal VIP",PT: EUROSPORT 2 HD	
+http://256379961308265983.niceyes.xyz:80/L11031/4699863/265983	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal Sport",PT: EUROSPORT 1 FHD	
+http://256379961308266941.niceyes.xyz:80/L11031/4699863/266941	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal Sport",PT: EUROSPORT 2 HD	
+http://256379961308243295.niceyes.xyz:80/L11031/4699863/243295	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 5 HD	
+http://256379961308243300.niceyes.xyz:80/L11031/4699863/243300	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 6 FHD	
+http://256379961308243301.niceyes.xyz:80/L11031/4699863/243301	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 1 FHD	
+http://256379961308254115.niceyes.xyz:80/L11031/4699863/254115	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 HD	
+http://256379961308266937.niceyes.xyz:80/L11031/4699863/266937	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 2 FHD	
+http://256379961308266938.niceyes.xyz:80/L11031/4699863/266938	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 3 HD	
+http://256379961308266939.niceyes.xyz:80/L11031/4699863/266939	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 3 HD	
+http://256379961308254117.niceyes.xyz:80/L11031/4699863/254117	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 3 HD	
+http://256379961308267335.niceyes.xyz:80/L11031/4699863/267335	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 4 HD	
+http://256379961308267336.niceyes.xyz:80/L11031/4699863/267336	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 4 HD	
+http://256379961308266940.niceyes.xyz:80/L11031/4699863/266940	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 4 FHD	
+http://256379961308254118.niceyes.xyz:80/L11031/4699863/254118	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal Sport",PT: SPORTING TV FHD	
+http://256379961308266950.niceyes.xyz:80/L11031/4699863/266950	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal VIP",PT: SPORTING TV FHD	
+http://256379961308266021.niceyes.xyz:80/L11031/4699863/266021	
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Portugal VIP",PT: 24 KITCHEN FHD	
+http://256379961308263900.niceyes.xyz:80/L11031/4699863/263900	
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="Portugal VIP",PT: FOX MOVIES FHD	
+http://256379961308263908.niceyes.xyz:80/L11031/4699863/263908	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="Portugal VIP",PT: FOX CRIME FHD	
+http://256379961308263945.niceyes.xyz:80/L11031/4699863/263945	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="Portugal VIP",PT: FOX LIFE FHD	
+http://256379961308263947.niceyes.xyz:80/L11031/4699863/263947	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="Portugal VIP",PT: FUEL TV FHD	
+http://256379961308263951.niceyes.xyz:80/L11031/4699863/263951	
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="Portugal VIP",PT: KURIAKOS TV FHD	
+http://256379961308263958.niceyes.xyz:80/L11031/4699863/263958	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="Portugal VIP",PT: NOS STUDIOS FHD	
+http://256379961308263971.niceyes.xyz:80/L11031/4699863/263971	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="Portugal VIP",PT: ODISSEIA FHD	
+http://256379961308263972.niceyes.xyz:80/L11031/4699863/263972	
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="Portugal VIP",PT: PORTO CANAL FHD	
+http://256379961308263975.niceyes.xyz:80/L11031/4699863/263975	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="Portugal VIP",PT: TRAVEL CHANNEL FHD	
+http://256379961308263994.niceyes.xyz:80/L11031/4699863/263994	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal VIP",PT: TVCINE ACTION FHD	
+http://256379961308263997.niceyes.xyz:80/L11031/4699863/263997	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="Portugal VIP",PT: TVCINE EMOTION FHD	
+http://256379961308263999.niceyes.xyz:80/L11031/4699863/263999	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal VIP",PT: TVCINE TOP FHD	
+http://256379961308264000.niceyes.xyz:80/L11031/4699863/264000	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="Portugal VIP",PT: TVI FICCAO FHD	
+http://256379961308264003.niceyes.xyz:80/L11031/4699863/264003	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="Portugal VIP",PT: RTP ACORES SD	
+http://256379961308264011.niceyes.xyz:80/L11031/4699863/264011	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA SD" tvg-logo="https://3.bp.blogspot.com/-vFgPhPLP_Q0/WEcxgtXsi3I/AAAAAAAAFmI/O4VBAfCzcwQIlrHFRi7L9MnoWhjHPo7xgCLcB/s1600/RTP%2B%25C3%2581frica%2Blogo.png" group-title="Portugal VIP",PT: RTP AFRICA SD	
+http://256379961308264012.niceyes.xyz:80/L11031/4699863/264012	
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Portugal VIP",PT: 24 KITCHEN SD	
+http://256379961308264018.niceyes.xyz:80/L11031/4699863/264018	
+#EXTINF:-1 tvg-id="" tvg-name="PT: A & E FHD" tvg-logo="" group-title="Portugal VIP",PT: A & E FHD	
+http://256379961308264019.niceyes.xyz:80/L11031/4699863/264019	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="Portugal VIP",PT: AXN WHITE SD	
+http://256379961308264024.niceyes.xyz:80/L11031/4699863/264024	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal VIP",PT: CANAL Q SD	
+http://256379961308264031.niceyes.xyz:80/L11031/4699863/264031	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO SD" tvg-logo="" group-title="Portugal VIP",PT: CINEMUNDO SD	
+http://256379961308264036.niceyes.xyz:80/L11031/4699863/264036	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Portugal VIP",PT: DISCOVERY CHANNEL FHD	
+http://256379961308264039.niceyes.xyz:80/L11031/4699863/264039	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Portugal VIP",PT: DISCOVERY CHANNEL SD	
+http://256379961308264040.niceyes.xyz:80/L11031/4699863/264040	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY HD" tvg-logo="" group-title="Portugal VIP",PT: DISCOVERY HD	
+http://256379961308264041.niceyes.xyz:80/L11031/4699863/264041	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="Portugal VIP",PT: DISNEY JUNIOR SD	
+http://256379961308264043.niceyes.xyz:80/L11031/4699863/264043	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="Portugal VIP",PT: FOX COMEDY SD	
+http://256379961308264048.niceyes.xyz:80/L11031/4699863/264048	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="Portugal VIP",PT: FOX CRIME SD	
+http://256379961308264049.niceyes.xyz:80/L11031/4699863/264049	
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM SD" tvg-logo="" group-title="Portugal VIP",PT: JIM JAM SD	
+http://256379961308264057.niceyes.xyz:80/L11031/4699863/264057	
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS CINE FHD" tvg-logo="http://tegustalatele.vip:8000/images/2c6296b9a32fad09bfe5e4867b8d35bd.png" group-title="Portugal VIP",PT: KURIAKOS CINE FHD	
+http://256379961308264058.niceyes.xyz:80/L11031/4699863/264058	
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS KIDS FHD" tvg-logo="http://tegustalatele.vip:8000/images/96077fa40301e8d2e8ea343e4a18a9af.png" group-title="Portugal VIP",PT: KURIAKOS KIDS FHD	
+http://256379961308264059.niceyes.xyz:80/L11031/4699863/264059	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL FHD" tvg-logo="" group-title="Portugal VIP",PT: MTV PORTUGAL FHD	
+http://256379961308264063.niceyes.xyz:80/L11031/4699863/264063	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal VIP",PT: NAT GEO WILD HD	
+http://256379961308264064.niceyes.xyz:80/L11031/4699863/264064	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR SD" tvg-logo="" group-title="Portugal VIP",PT: NICK JR SD	
+http://256379961308264068.niceyes.xyz:80/L11031/4699863/264068	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SOBRENATURAL TV FHD" tvg-logo="http://tegustalatele.vip:8000/images/7c048b537f17bd37305a560b90e381ed.png" group-title="Portugal VIP",PT: SOBRENATURAL TV FHD	
+http://256379961308264079.niceyes.xyz:80/L11031/4699863/264079	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TOCA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b996adac9268539a530f91dacc05978.png" group-title="Portugal VIP",PT: TRACE TOCA HD	
+http://256379961308264086.niceyes.xyz:80/L11031/4699863/264086	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV FATIMA FHD" tvg-logo="http://tegustalatele.vip:8000/images/0fff1003d5989ff038e2ae32546f7bc7.jpg" group-title="Portugal VIP",PT: TV FATIMA FHD	
+http://256379961308264091.niceyes.xyz:80/L11031/4699863/264091	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/735dbda706788d6d111673ea03f37cdb.png" group-title="Portugal VIP",PT: TV GLOBO SD	
+http://256379961308264092.niceyes.xyz:80/L11031/4699863/264092	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD FHD" tvg-logo="" group-title="Portugal VIP",PT: TV RECORD FHD	
+http://256379961308264096.niceyes.xyz:80/L11031/4699863/264096	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV SERIES SD" tvg-logo="" group-title="Portugal VIP",PT: TV SERIES SD	
+http://256379961308264098.niceyes.xyz:80/L11031/4699863/264098	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO SD" tvg-logo="https://3.bp.blogspot.com/-BJpwkp5F5Js/WB3MMLpyelI/AAAAAAAAFSc/EboXo-xSwQEQmxgZGXDpYEwiwsLt4BaygCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o%2Blogo.png" group-title="Portugal VIP",PT: TVI FICCAO SD	
+http://256379961308264107.niceyes.xyz:80/L11031/4699863/264107	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="Portugal VIP",PT: AMC FHD	
+http://256379961308265924.niceyes.xyz:80/L11031/4699863/265924	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal VIP",PT: FOX FHD	
+http://256379961308265929.niceyes.xyz:80/L11031/4699863/265929	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal VIP",PT: FOX SD	
+http://256379961308265940.niceyes.xyz:80/L11031/4699863/265940	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOV FHD" tvg-logo="" group-title="Portugal VIP",PT: MOV FHD	
+http://256379961308265941.niceyes.xyz:80/L11031/4699863/265941	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RCI SD" tvg-logo="http://tegustalatele.vip:8000/images/b85c8af5353f8300346237639ef93cc8.png" group-title="Portugal VIP",PT: RCI SD	
+http://256379961308265942.niceyes.xyz:80/L11031/4699863/265942	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="Portugal VIP",PT: TLC SD	
+http://256379961308265943.niceyes.xyz:80/L11031/4699863/265943	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ALMA LUSA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: ALMA LUSA FHD	
+http://256379961308265946.niceyes.xyz:80/L11031/4699863/265946	
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="Portugal VIP",PT: AXN FHD	
+http://256379961308265949.niceyes.xyz:80/L11031/4699863/265949	
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="Portugal VIP",PT: AXN MOVIES FHD	
+http://256379961308265950.niceyes.xyz:80/L11031/4699863/265950	
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="Portugal VIP",PT: AXN WHITE FHD	
+http://256379961308265951.niceyes.xyz:80/L11031/4699863/265951	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="Portugal VIP",PT: BABY TV HD	
+http://256379961308265953.niceyes.xyz:80/L11031/4699863/265953	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BBC ENTERTAINMENT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21535916dd6cde396f32dd7c80171a00.png" group-title="Portugal VIP",PT: BBC ENTERTAINMENT HD	
+http://256379961308265954.niceyes.xyz:80/L11031/4699863/265954	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="Portugal VIP",PT: BIGGS HD	
+http://256379961308265957.niceyes.xyz:80/L11031/4699863/265957	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="Portugal VIP",PT: BLAZE HD	
+http://256379961308265958.niceyes.xyz:80/L11031/4699863/265958	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48735d59be1fb5f7b553176ef45a23b4.png" group-title="Portugal VIP",PT: BLOOMBERG TV HD	
+http://256379961308265959.niceyes.xyz:80/L11031/4699863/265959	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: CAMPO PEQUENO HD	
+http://256379961308265961.niceyes.xyz:80/L11031/4699863/265961	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal VIP",PT: CANAL PANDA HD	
+http://256379961308265964.niceyes.xyz:80/L11031/4699863/265964	
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal VIP",PT: CANAL Q HD	
+http://256379961308265965.niceyes.xyz:80/L11031/4699863/265965	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="Portugal VIP",PT: CARTOON NETWORK HD	
+http://256379961308265966.niceyes.xyz:80/L11031/4699863/265966	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="Portugal VIP",PT: CASA E COZINHA FHD	
+http://256379961308265967.niceyes.xyz:80/L11031/4699863/265967	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINE MUNDO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="Portugal VIP",PT: CINE MUNDO FHD	
+http://256379961308265969.niceyes.xyz:80/L11031/4699863/265969	
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CM TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="Portugal VIP",PT: CM TV FHD	
+http://256379961308265970.niceyes.xyz:80/L11031/4699863/265970	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b8bb17a9cb61223b2380552b0c786d0.png" group-title="Portugal VIP",PT: CNBC HD	
+http://256379961308265971.niceyes.xyz:80/L11031/4699863/265971	
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY WORLD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07637d4b1d8cc5b2784ec078bbb23f2b.png" group-title="Portugal VIP",PT: DISCOVERY WORLD FHD	
+http://256379961308265974.niceyes.xyz:80/L11031/4699863/265974	
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="Portugal VIP",PT: DISNEY CHANNEL HD	
+http://256379961308265975.niceyes.xyz:80/L11031/4699863/265975	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="Portugal VIP",PT: DISNEY JUNIOR HD	
+http://256379961308265976.niceyes.xyz:80/L11031/4699863/265976	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/873e7bf90507edd1036f9b0550ac66e7.png" group-title="Portugal VIP",PT: DOG TV FHD	
+http://256379961308265977.niceyes.xyz:80/L11031/4699863/265977	
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="Portugal VIP",PT: E! FHD	
+http://256379961308265979.niceyes.xyz:80/L11031/4699863/265979	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="Portugal VIP",PT: EURONEWS HD	
+http://256379961308265981.niceyes.xyz:80/L11031/4699863/265981	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b32e9c8c8aa8974c9a9bd7655d97463.png" group-title="Portugal VIP",PT: FASHION TV HD	
+http://256379961308265984.niceyes.xyz:80/L11031/4699863/265984	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: FATIMA FHD	
+http://256379961308265985.niceyes.xyz:80/L11031/4699863/265985	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="Portugal VIP",PT: FOX COMEDY FHD	
+http://256379961308265987.niceyes.xyz:80/L11031/4699863/265987	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FRANCE 24 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/37ec67a7032aadb19786b4f4f27ccb8c.png" group-title="Portugal VIP",PT: FRANCE 24 FHD	
+http://256379961308265989.niceyes.xyz:80/L11031/4699863/265989	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GALICIA TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54a56741dd12e4b8c912c30e5c10282b.png" group-title="Portugal VIP",PT: GALICIA TV HD	
+http://256379961308265990.niceyes.xyz:80/L11031/4699863/265990	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="Portugal VIP",PT: HISTORY FHD	
+http://256379961308265994.niceyes.xyz:80/L11031/4699863/265994	
+#EXTINF:-1 tvg-id="" tvg-name="PT: INVESTIGATION DISCOVERY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="Portugal VIP",PT: INVESTIGATION DISCOVERY FHD	
+http://256379961308265995.niceyes.xyz:80/L11031/4699863/265995	
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIMJAM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="Portugal VIP",PT: JIMJAM HD	
+http://256379961308265996.niceyes.xyz:80/L11031/4699863/265996	
+#EXTINF:-1 tvg-id="" tvg-name="PT: LOCAL VISAO TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: LOCAL VISAO TV HD	
+http://256379961308265997.niceyes.xyz:80/L11031/4699863/265997	
+#EXTINF:-1 tvg-id="" tvg-name="PT: LOLLY KIDS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" group-title="Portugal VIP",PT: LOLLY KIDS FHD	
+http://256379961308265998.niceyes.xyz:80/L11031/4699863/265998	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4b2006ffab949bf97b89ec370478aaa.png" group-title="Portugal VIP",PT: MCM POP HD	
+http://256379961308266000.niceyes.xyz:80/L11031/4699863/266000	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4777c3f2a97f96d38a1df21bfb82d6c2.png" group-title="Portugal VIP",PT: MCM TOP HD	
+http://256379961308266001.niceyes.xyz:80/L11031/4699863/266001	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/698be67c78ec5698bbeb975cdf415b6e.png" group-title="Portugal VIP",PT: MEZZO HD	
+http://256379961308266002.niceyes.xyz:80/L11031/4699863/266002	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="Portugal VIP",PT: MOTORVISION TV HD	
+http://256379961308266003.niceyes.xyz:80/L11031/4699863/266003	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="Portugal VIP",PT: NAT GEO FHD	
+http://256379961308266005.niceyes.xyz:80/L11031/4699863/266005	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal VIP",PT: NAT GEO WILD FHD	
+http://256379961308266006.niceyes.xyz:80/L11031/4699863/266006	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="Portugal VIP",PT: NICKELODEON HD	
+http://256379961308266008.niceyes.xyz:80/L11031/4699863/266008	
+#EXTINF:-1 tvg-id="" tvg-name="PT: OUTDOOR CHANNEL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6559abb088aaae76893f68d0531c353c.png" group-title="Portugal VIP",PT: OUTDOOR CHANNEL HD	
+http://256379961308266009.niceyes.xyz:80/L11031/4699863/266009	
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12330eb8fd52df4e35e1721c02e2a802.png" group-title="Portugal VIP",PT: PANDA BIGGS HD	
+http://256379961308266010.niceyes.xyz:80/L11031/4699863/266010	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal VIP",PT: RTP 3 FHD	
+http://256379961308266011.niceyes.xyz:80/L11031/4699863/266011	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal VIP",PT: RTP MADEIRA HD	
+http://256379961308266012.niceyes.xyz:80/L11031/4699863/266012	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="Portugal VIP",PT: RTP MEMORIA HD	
+http://256379961308266013.niceyes.xyz:80/L11031/4699863/266013	
+#EXTINF:-1 tvg-id="" tvg-name="PT: S+ FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: S+ FHD	
+http://256379961308266014.niceyes.xyz:80/L11031/4699863/266014	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal VIP",PT: SIC K FHD	
+http://256379961308266016.niceyes.xyz:80/L11031/4699863/266016	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TIJI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e31e8e23b53f337053717b6b8168df18.png" group-title="Portugal VIP",PT: TIJI FHD	
+http://256379961308266023.niceyes.xyz:80/L11031/4699863/266023	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="Portugal VIP",PT: TLC HD	
+http://256379961308266024.niceyes.xyz:80/L11031/4699863/266024	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b19036f8c4a28f580397a6de3bfdc641.png" group-title="Portugal VIP",PT: TOROS TV HD	
+http://256379961308266025.niceyes.xyz:80/L11031/4699863/266025	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3c7353e281a0f304777f37ec58a6b22a.png" group-title="Portugal VIP",PT: CNN PORTUGAL FHD	
+http://256379961308266029.niceyes.xyz:80/L11031/4699863/266029	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: AMC LOW H264 HD	
+http://256379961308270787.niceyes.xyz:80/L11031/4699863/270787	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BIGGS LOW H264 HD	
+http://256379961308270789.niceyes.xyz:80/L11031/4699863/270789	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: BLAZE LOW H264 HD	
+http://256379961308270790.niceyes.xyz:80/L11031/4699863/270790	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CACAVISION LOW H264 HD	
+http://256379961308270793.niceyes.xyz:80/L11031/4699863/270793	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: CANAL 11 HQ H264 HD	
+http://256379961308270794.niceyes.xyz:80/L11031/4699863/270794	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CANAL 11 LOW H264 HD	
+http://256379961308270795.niceyes.xyz:80/L11031/4699863/270795	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CANAL Q LOW H264 HD	
+http://256379961308270796.niceyes.xyz:80/L11031/4699863/270796	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CARTOON NETWORK LOW H264 HD	
+http://256379961308270797.niceyes.xyz:80/L11031/4699863/270797	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: CASA E COZINHA HQ H264 HD	
+http://256379961308270798.niceyes.xyz:80/L11031/4699863/270798	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CINEMUNDO LOW H264 HD	
+http://256379961308270799.niceyes.xyz:80/L11031/4699863/270799	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME+INVESTIGATION LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CRIME+INVESTIGATION LOW H264 HD	
+http://256379961308270800.niceyes.xyz:80/L11031/4699863/270800	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: DISNEY CHANNEL LOW H264 HD	
+http://256379961308270801.niceyes.xyz:80/L11031/4699863/270801	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 2 720P TRANSCODE H264 HD	
+http://256379961308270803.niceyes.xyz:80/L11031/4699863/270803	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 3 720P TRANSCODE H264 HD	
+http://256379961308270804.niceyes.xyz:80/L11031/4699863/270804	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOT LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: HOT LOW H264 HD	
+http://256379961308270805.niceyes.xyz:80/L11031/4699863/270805	
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: JIM JAM LOW H264 HD	
+http://256379961308270807.niceyes.xyz:80/L11031/4699863/270807	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: MOTORVISION LOW H264 HD	
+http://256379961308270808.niceyes.xyz:80/L11031/4699863/270808	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: NOS STUDIOS HQ H264 HD	
+http://256379961308270809.niceyes.xyz:80/L11031/4699863/270809	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: NOS STUDIOS LOW H264 HD	
+http://256379961308270810.niceyes.xyz:80/L11031/4699863/270810	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: ODISSEIA LOW H264 HD	
+http://256379961308270811.niceyes.xyz:80/L11031/4699863/270811	
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: PFC LOW H264 HD	
+http://256379961308270812.niceyes.xyz:80/L11031/4699863/270812	
+#EXTINF:-1 tvg-id="" tvg-name="PT: PLAYBOY LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: PLAYBOY LOW H264 HD	
+http://256379961308270813.niceyes.xyz:80/L11031/4699863/270813	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP 1 LOW H264 HD	
+http://256379961308270814.niceyes.xyz:80/L11031/4699863/270814	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP ACORES LOW H264 HD	
+http://256379961308270815.niceyes.xyz:80/L11031/4699863/270815	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP AFRICA LOW H264 HD	
+http://256379961308270816.niceyes.xyz:80/L11031/4699863/270816	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP MADEIRA LOW H264 HD	
+http://256379961308270817.niceyes.xyz:80/L11031/4699863/270817	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL H264 LOW HD" tvg-logo="" group-title="Portugal Low",PT: SIC RADICAL H264 LOW HD	
+http://256379961308270820.niceyes.xyz:80/L11031/4699863/270820	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 1 LOW H264 HD	
+http://256379961308270821.niceyes.xyz:80/L11031/4699863/270821	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV NBA HQ H264 HD	
+http://256379961308270823.niceyes.xyz:80/L11031/4699863/270823	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORTING TV LOW H264 HD	
+http://256379961308270824.niceyes.xyz:80/L11031/4699863/270824	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPTV 1 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPTV 1 720P TRANSCODE H264 HD	
+http://256379961308270825.niceyes.xyz:80/L11031/4699863/270825	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPTV 3 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPTV 3 720P TRANSCODE H264 HD	
+http://256379961308270827.niceyes.xyz:80/L11031/4699863/270827	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPTV 5 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPTV 5 720P TRANSCODE H264 HD	
+http://256379961308270829.niceyes.xyz:80/L11031/4699863/270829	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPTV 6 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPTV 6 720P TRANSCODE H264 HD	
+http://256379961308270830.niceyes.xyz:80/L11031/4699863/270830	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TLC LOW H264 HD	
+http://256379961308270831.niceyes.xyz:80/L11031/4699863/270831	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TPA LOW H264 HD	
+http://256379961308270832.niceyes.xyz:80/L11031/4699863/270832	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TRAVEL CHANNEL LOW H264 HD	
+http://256379961308270833.niceyes.xyz:80/L11031/4699863/270833	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TVCINE EDITION LOW H264 HD	
+http://256379961308270834.niceyes.xyz:80/L11031/4699863/270834	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TVCINE TOP LOW H264 HD	
+http://256379961308270835.niceyes.xyz:80/L11031/4699863/270835	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TVI 24 LOW H264 HD	
+http://256379961308270836.niceyes.xyz:80/L11031/4699863/270836	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TVI FICCAO LOW H264 HD	
+http://256379961308270837.niceyes.xyz:80/L11031/4699863/270837	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TVI LOW H264 HD	
+http://256379961308270838.niceyes.xyz:80/L11031/4699863/270838	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: ZAP VIVA HQ H264 HD	
+http://256379961308270840.niceyes.xyz:80/L11031/4699863/270840	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GINX ESPORTS TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="Portugal Sport",PT: GINX ESPORTS TV HD	
+http://256379961308270841.niceyes.xyz:80/L11031/4699863/270841	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal Sport",PT: SPORT TV 3 SD	
+http://256379961308270842.niceyes.xyz:80/L11031/4699863/270842	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal Sport",PT: SPORT TV 4 HD	
+http://256379961308270843.niceyes.xyz:80/L11031/4699863/270843	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal Sport",PT: SPORTING TV HD	
+http://256379961308270846.niceyes.xyz:80/L11031/4699863/270846	
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="Portugal VIP",PT: AR TV HD	
+http://256379961308270847.niceyes.xyz:80/L11031/4699863/270847	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AZORES TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: AZORES TV HD	
+http://256379961308270848.niceyes.xyz:80/L11031/4699863/270848	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png" group-title="Portugal VIP",PT: BOOMERANG HD	
+http://256379961308270850.niceyes.xyz:80/L11031/4699863/270850	
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS REALITY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="Portugal VIP",PT: CBS REALITY HD	
+http://256379961308270851.niceyes.xyz:80/L11031/4699863/270851	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6229119ced63980d446e91988a8cd526.png" group-title="Portugal VIP",PT: CNN HD	
+http://256379961308270852.niceyes.xyz:80/L11031/4699863/270852	
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: CRIME+ INVESTIGATION HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be299b5887efb6ac2ef139e7219f3af9.png" group-title="Portugal VIP",PT: CRIME+ INVESTIGATION HD	
+http://256379961308270853.niceyes.xyz:80/L11031/4699863/270853	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DW HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb59427f09464bdf86802ccf28cbfa24.png" group-title="Portugal VIP",PT: DW HD	
+http://256379961308270854.niceyes.xyz:80/L11031/4699863/270854	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX NEWS CHANNEL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7baf267b179581cbcbfa594bc23e9aa.png" group-title="Portugal VIP",PT: FOX NEWS CHANNEL HD	
+http://256379961308270856.niceyes.xyz:80/L11031/4699863/270856	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GAMETOON HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b695e5079eaa46c1ed47f040bd9f9eb.png" group-title="Portugal VIP",PT: GAMETOON HD	
+http://256379961308270857.niceyes.xyz:80/L11031/4699863/270857	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GINX ESPORTS TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="Portugal VIP",PT: GINX ESPORTS TV HD	
+http://256379961308270858.niceyes.xyz:80/L11031/4699863/270858	
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC INTERNACIONAL HD" tvg-logo="" group-title="Portugal VIP",PT: PFC INTERNACIONAL HD	
+http://256379961308270861.niceyes.xyz:80/L11031/4699863/270861	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6585dcf4b1636d8cec5aeb3f209de415.png" group-title="Portugal VIP",PT: SKY NEWS HD	
+http://256379961308270862.niceyes.xyz:80/L11031/4699863/270862	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal VIP",PT: SPORTING TV HD	
+http://256379961308270863.niceyes.xyz:80/L11031/4699863/270863	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV INTERNACIONAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c5c693efeeb0a938109134e100fd73.png" group-title="Portugal VIP",PT: TCV INTERNACIONAL HD	
+http://256379961308270864.niceyes.xyz:80/L11031/4699863/270864	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV5MONDE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f46f73caa11f8703f4da93504d93f55b.png" group-title="Portugal VIP",PT: TV5MONDE HD	
+http://256379961308270866.niceyes.xyz:80/L11031/4699863/270866	
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: A BOLA TV LOW H264 HD	
+http://256379961308273041.niceyes.xyz:80/L11031/4699863/273041	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: AXN LOW H264 HD	
+http://256379961308273042.niceyes.xyz:80/L11031/4699863/273042	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: AXN MOVIES LOW H264 HD	
+http://256379961308273043.niceyes.xyz:80/L11031/4699863/273043	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: BTV 720P TRANSCODE H264 HD	
+http://256379961308273044.niceyes.xyz:80/L11031/4699863/273044	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CANAL PANDA LOW H264 HD	
+http://256379961308273045.niceyes.xyz:80/L11031/4699863/273045	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: CM TV LOW H264 HD	
+http://256379961308273046.niceyes.xyz:80/L11031/4699863/273046	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: DISNEY JUNIOR LOW H264 HD	
+http://256379961308273047.niceyes.xyz:80/L11031/4699863/273047	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 3 LOW H264 HD	
+http://256379961308273052.niceyes.xyz:80/L11031/4699863/273052	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: FOX COMEDY LOW H264 HD	
+http://256379961308273053.niceyes.xyz:80/L11031/4699863/273053	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: FOX LIFE LOW H264 HD	
+http://256379961308273055.niceyes.xyz:80/L11031/4699863/273055	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: FOX LOW H264 HD	
+http://256379961308273056.niceyes.xyz:80/L11031/4699863/273056	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: FOX MOVIES LOW H264 HD	
+http://256379961308273057.niceyes.xyz:80/L11031/4699863/273057	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: GLOBO LOW H264 HD	
+http://256379961308273058.niceyes.xyz:80/L11031/4699863/273058	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: HOLLYWOOD LOW H264 HD	
+http://256379961308273059.niceyes.xyz:80/L11031/4699863/273059	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP 2 LOW H264 HD	
+http://256379961308273060.niceyes.xyz:80/L11031/4699863/273060	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: RTP 3 LOW H264 HD	
+http://256379961308273061.niceyes.xyz:80/L11031/4699863/273061	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC NOTICIAS LOW H264 HD	
+http://256379961308273063.niceyes.xyz:80/L11031/4699863/273063	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 2 LOW H264 HD	
+http://256379961308273064.niceyes.xyz:80/L11031/4699863/273064	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 3 LOW H264 HD	
+http://256379961308273065.niceyes.xyz:80/L11031/4699863/273065	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 4 LOW H264 HD	
+http://256379961308273066.niceyes.xyz:80/L11031/4699863/273066	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV+ LOW H264 HD	
+http://256379961308273067.niceyes.xyz:80/L11031/4699863/273067	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SYFY LOW H264 HD	
+http://256379961308273068.niceyes.xyz:80/L11031/4699863/273068	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TOROS LOW H264 HD	
+http://256379961308273069.niceyes.xyz:80/L11031/4699863/273069	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: TVI REALITY LOW H264 HD	
+http://256379961308273070.niceyes.xyz:80/L11031/4699863/273070	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC CHANNEL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f1920ec25bee676934bd32813123f2a.png" group-title="Portugal VIP",PT: AFRO MUSIC CHANNEL HD	
+http://256379961308273072.niceyes.xyz:80/L11031/4699863/273072	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV SD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="Portugal VIP",PT: CMTV SD	
+http://256379961308273073.niceyes.xyz:80/L11031/4699863/273073	
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS MUSIC FHD" tvg-logo="http://tegustalatele.vip:8000/images/d12cf3b6642db746d9c6be2a8b7439bf.png" group-title="Portugal VIP",PT: KURIAKOS MUSIC FHD	
+http://256379961308273074.niceyes.xyz:80/L11031/4699863/273074	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal VIP",PT: NAT GEO WILD SD	
+http://256379961308273075.niceyes.xyz:80/L11031/4699863/273075	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal VIP",PT: SPORT TV 5 SD	
+http://256379961308273077.niceyes.xyz:80/L11031/4699863/273077	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 SD" tvg-logo="https://3.bp.blogspot.com/-lB_jjcWiaT0/WB3MLhyulgI/AAAAAAAAFSQ/uFgEgtm5XjMgVZOpEePrb7f46y8cbvGpACLcB/s1600/TVI%2B24%2Blogo.png" group-title="Portugal VIP",PT: TVI 24 SD	
+http://256379961308273078.niceyes.xyz:80/L11031/4699863/273078	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal Sport",PT: SPORT TV 2 SD	
+http://256379961308273628.niceyes.xyz:80/L11031/4699863/273628	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOOD NETWORK FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24ab44b55e4bf2de5ad55ba14be2554a.png" group-title="Portugal VIP",PT: FOOD NETWORK FHD	
+http://256379961308273632.niceyes.xyz:80/L11031/4699863/273632	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/78046ef51a64f775784f5d8d49476189.png" group-title="Portugal VIP",PT: GLOBO NEWS HD	
+http://256379961308273633.niceyes.xyz:80/L11031/4699863/273633	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MAS CHIC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0a5e2834db5e2f94c1056a63bc389b4.png" group-title="Portugal VIP",PT: MAS CHIC HD	
+http://256379961308273634.niceyes.xyz:80/L11031/4699863/273634	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb16db3f705768cdb9266a9c7de0730.png" group-title="Portugal VIP",PT: MTV FHD	
+http://256379961308273635.niceyes.xyz:80/L11031/4699863/273635	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JUNIOR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="Portugal VIP",PT: NICK JUNIOR HD	
+http://256379961308273636.niceyes.xyz:80/L11031/4699863/273636	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="Portugal VIP",PT: TVCINE EDITION FHD	
+http://256379961308273642.niceyes.xyz:80/L11031/4699863/273642	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVDS SD" tvg-logo="http://tegustalatele.vip:8000/images/fc9855b6d45e77093f3df4468a7bbc61.png" group-title="Portugal VIP",PT: TVDS SD	
+http://256379961308273643.niceyes.xyz:80/L11031/4699863/273643	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal Sport",PT: SPORT TV 1 SD	
+http://256379961308274614.niceyes.xyz:80/L11031/4699863/274614	
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="PT: BBC WORLD NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35fe48fe9f77f5a5dac204b8ccff1e68.png" group-title="Portugal VIP",PT: BBC WORLD NEWS HD	
+http://256379961308274617.niceyes.xyz:80/L11031/4699863/274617	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL HOLLYWOOD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="Portugal VIP",PT: CANAL HOLLYWOOD FHD	
+http://256379961308274618.niceyes.xyz:80/L11031/4699863/274618	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 2 FHD	
+http://256379961308274620.niceyes.xyz:80/L11031/4699863/274620	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD SD" tvg-logo="" group-title="Portugal VIP",PT: HOLLYWOOD SD	
+http://256379961308274621.niceyes.xyz:80/L11031/4699863/274621	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION SD" tvg-logo="" group-title="Portugal VIP",PT: MOTORVISION SD	
+http://256379961308274622.niceyes.xyz:80/L11031/4699863/274622	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: AXN WHITE LOW H264 HD	
+http://256379961308275164.niceyes.xyz:80/L11031/4699863/275164	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: FOX CRIME LOW H264 HD	
+http://256379961308275165.niceyes.xyz:80/L11031/4699863/275165	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: ID INVESTIGATION DISCOVERY HQ H264 HD	
+http://256379961308275166.niceyes.xyz:80/L11031/4699863/275166	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SIC K LOW H264 HD	
+http://256379961308275167.niceyes.xyz:80/L11031/4699863/275167	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 6 LOW H264 HD	
+http://256379961308275168.niceyes.xyz:80/L11031/4699863/275168	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPTV 2 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPTV 2 720P TRANSCODE H264 HD	
+http://256379961308275169.niceyes.xyz:80/L11031/4699863/275169	
+#EXTINF:-1 tvg-id="" tvg-name="PT: VENUS LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: VENUS LOW H264 HD	
+http://256379961308275170.niceyes.xyz:80/L11031/4699863/275170	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal Sport",PT: SPORT TV+ HD	
+http://256379961308275171.niceyes.xyz:80/L11031/4699863/275171	
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="Portugal VIP",PT: A BOLA TV FHD	
+http://256379961308275172.niceyes.xyz:80/L11031/4699863/275172	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="Portugal VIP",PT: CBS REALITY SD	
+http://256379961308275173.niceyes.xyz:80/L11031/4699863/275173	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC KIDS SD" tvg-logo="" group-title="Portugal VIP",PT: SIC KIDS SD	
+http://256379961308275177.niceyes.xyz:80/L11031/4699863/275177	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="Portugal VIP",PT: SYFY FHD	
+http://256379961308275181.niceyes.xyz:80/L11031/4699863/275181	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal VIP",PT: CANAL PANDA SD	
+http://256379961308275699.niceyes.xyz:80/L11031/4699863/275699	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/735dbda706788d6d111673ea03f37cdb.png" group-title="Portugal VIP",PT: TV GLOBO FHD	
+http://256379961308275700.niceyes.xyz:80/L11031/4699863/275700	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal Sport",PT: SPORT TV 5 HD	
+http://256379961308275799.niceyes.xyz:80/L11031/4699863/275799	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 1 720P TRANSCODE H264 HD	
+http://256379961308276080.niceyes.xyz:80/L11031/4699863/276080	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="Portugal VIP",PT: CARTOON NETWORK SD	
+http://256379961308276253.niceyes.xyz:80/L11031/4699863/276253	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="Portugal VIP",PT: DISNEY CHANNEL SD	
+http://256379961308276254.niceyes.xyz:80/L11031/4699863/276254	
+#EXTINF:-1 tvg-id="" tvg-name="PT: REDE SUPER SD" tvg-logo="http://tegustalatele.vip:8000/images/c2bb391c92213e2511dc13ec4e45336e.png" group-title="Portugal VIP",PT: REDE SUPER SD	
+http://256379961308276255.niceyes.xyz:80/L11031/4699863/276255	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal VIP",PT: SPORT TV 3 HD	
+http://256379961308276256.niceyes.xyz:80/L11031/4699863/276256	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TELEVISÃO DE MOÇAMBIQUE SD" tvg-logo="" group-title="Portugal VIP",PT: TELEVISÃO DE MOÇAMBIQUE SD	
+http://256379961308276257.niceyes.xyz:80/L11031/4699863/276257	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV DIGITAL BIRIGUI SD" tvg-logo="http://tegustalatele.vip:8000/images/51fa14c59fff5376a8484459e0ec3353.png" group-title="Portugal VIP",PT: TV DIGITAL BIRIGUI SD	
+http://256379961308276258.niceyes.xyz:80/L11031/4699863/276258	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV MANA MOÇAMBIQUE SD" tvg-logo="http://tegustalatele.vip:8000/images/61f6cacf9cc27bc4f25533c498483007.png" group-title="Portugal VIP",PT: TV MANA MOÇAMBIQUE SD	
+http://256379961308276259.niceyes.xyz:80/L11031/4699863/276259	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 HD" tvg-logo="https://3.bp.blogspot.com/-lB_jjcWiaT0/WB3MLhyulgI/AAAAAAAAFSQ/uFgEgtm5XjMgVZOpEePrb7f46y8cbvGpACLcB/s1600/TVI%2B24%2Blogo.png" group-title="Portugal VIP",PT: TVI 24 HD	
+http://256379961308276260.niceyes.xyz:80/L11031/4699863/276260	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 1 HQ H264 HD	
+http://256379961308276452.niceyes.xyz:80/L11031/4699863/276452	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 1 LOW H264 HD	
+http://256379961308276453.niceyes.xyz:80/L11031/4699863/276453	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cad848e48d89ca82a1f1497f700aa14a.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 HD	
+http://256379961308276515.niceyes.xyz:80/L11031/4699863/276515	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 1 FHD	
+http://256379961308288719.niceyes.xyz:80/L11031/4699863/288719	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 2 HD	
+http://256379961308276516.niceyes.xyz:80/L11031/4699863/276516	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK FHD" tvg-logo="" group-title="Portugal VIP",PT: AXN BLACK FHD	
+http://256379961308277487.niceyes.xyz:80/L11031/4699863/277487	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="Portugal VIP",PT: AXN SD	
+http://256379961308277488.niceyes.xyz:80/L11031/4699863/277488	
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT: CAZA Y PESCA FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/32f92f782ad8da74b3ba7ddacdcf5af4.png" group-title="Portugal VIP",PT: CAZA Y PESCA FHD	
+http://256379961308277489.niceyes.xyz:80/L11031/4699863/277489	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="Portugal VIP",PT: CMTV FHD	
+http://256379961308277490.niceyes.xyz:80/L11031/4699863/277490	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA SD" tvg-logo="" group-title="Portugal VIP",PT: HISTORIA SD	
+http://256379961308277491.niceyes.xyz:80/L11031/4699863/277491	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal VIP",PT: RTP MADEIRA SD	
+http://256379961308277492.niceyes.xyz:80/L11031/4699863/277492	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal VIP",PT: SPORT TV 2 SD	
+http://256379961308277494.niceyes.xyz:80/L11031/4699863/277494	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal VIP",PT: SPORT TV 3 SD	
+http://256379961308277495.niceyes.xyz:80/L11031/4699863/277495	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HQ H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 2 HQ H264 HD	
+http://256379961308277646.niceyes.xyz:80/L11031/4699863/277646	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: ELEVEN SPORTS 2 LOW H264 HD	
+http://256379961308277647.niceyes.xyz:80/L11031/4699863/277647	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 LOW H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPORT TV 5 LOW H264 HD	
+http://256379961308277680.niceyes.xyz:80/L11031/4699863/277680	
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b34346f2d94d16e97f40441515e48cbf.png" group-title="Portugal VIP",PT: A&E FHD	
+http://256379961308277800.niceyes.xyz:80/L11031/4699863/277800	
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT SD" tvg-logo="" group-title="Portugal VIP",PT: E! ENTERTAINMENT SD	
+http://256379961308277801.niceyes.xyz:80/L11031/4699863/277801	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROCHANNEL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6c5151ba341d71b17ef61beae4baca93.png" group-title="Portugal VIP",PT: EUROCHANNEL FHD	
+http://256379961308277802.niceyes.xyz:80/L11031/4699863/277802	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2ea93fce6348d0f73c8113528004f85e.png" group-title="Portugal VIP",PT: GLOBO NOW HD	
+http://256379961308277803.niceyes.xyz:80/L11031/4699863/277803	
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO PREMIUM HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: GLOBO PREMIUM HD	
+http://256379961308277804.niceyes.xyz:80/L11031/4699863/277804	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00S HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/09cc4c6c30d46d10fc0f05137b9203ed.png" group-title="Portugal VIP",PT: MTV 00S HD	
+http://256379961308277805.niceyes.xyz:80/L11031/4699863/277805	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 SD" tvg-logo="https://4.bp.blogspot.com/-8eqWCHiV1W0/WB3MLTgYdQI/AAAAAAAAFR8/wIeUHRr5eWU4UteiYhuy5KPnn55_jl0AwCLcB/s1600/RTP%2B3%2Blogo.png" group-title="Portugal VIP",PT: RTP 3 SD	
+http://256379961308277806.niceyes.xyz:80/L11031/4699863/277806	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="Portugal VIP",PT: RTP ACORES HD	
+http://256379961308277807.niceyes.xyz:80/L11031/4699863/277807	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="Portugal VIP",PT: RTP AFRICA HD	
+http://256379961308277808.niceyes.xyz:80/L11031/4699863/277808	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SOBRENATURAL TV HD" tvg-logo="http://tegustalatele.vip:8000/images/feeecfd3868cd11bcbc991df14423c1a.png" group-title="Portugal VIP",PT: SOBRENATURAL TV HD	
+http://256379961308277809.niceyes.xyz:80/L11031/4699863/277809	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="Portugal VIP",PT: SYFY SD	
+http://256379961308277810.niceyes.xyz:80/L11031/4699863/277810	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV MANA CORDOBA SD" tvg-logo="http://tegustalatele.vip:8000/images/beb8abc64117febae08ae0545df82ecb.jpg" group-title="Portugal VIP",PT: TV MANA CORDOBA SD	
+http://256379961308277811.niceyes.xyz:80/L11031/4699863/277811	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: ZAP VIVA HD	
+http://256379961308277812.niceyes.xyz:80/L11031/4699863/277812	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCI SD" tvg-logo="http://tegustalatele.vip:8000/images/f99335eb44fa5067a117801ac9f2454e.png" group-title="Portugal VIP",PT: TVCI SD	
+http://256379961308277950.niceyes.xyz:80/L11031/4699863/277950	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVM INTERNACIONAL SD" tvg-logo="http://tegustalatele.vip:8000/images/c80f6402f468c584c50e4db22a441dad.jpg" group-title="Portugal VIP",PT: TVM INTERNACIONAL SD	
+http://256379961308278209.niceyes.xyz:80/L11031/4699863/278209	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPTV 4 720P TRANSCODE H264 HD" tvg-logo="" group-title="Portugal Low",PT: SPTV 4 720P TRANSCODE H264 HD	
+http://256379961308278219.niceyes.xyz:80/L11031/4699863/278219	
+#EXTINF:-1 tvg-id="" tvg-name="PT: APANHADOS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: APANHADOS HD	
+http://256379961308278228.niceyes.xyz:80/L11031/4699863/278228	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV BNO SD" tvg-logo="http://tegustalatele.vip:8000/images/e089383e58fa72e42b6c07cd3b968f32.png" group-title="Portugal VIP",PT: TV BNO SD	
+http://256379961308278378.niceyes.xyz:80/L11031/4699863/278378	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV DESTAK SD" tvg-logo="http://tegustalatele.vip:8000/images/49cbcf3ce3de36f9e3e67fb9ce9d2c67.png" group-title="Portugal VIP",PT: TV DESTAK SD	
+http://256379961308278379.niceyes.xyz:80/L11031/4699863/278379	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV NBA FHD	
+http://256379961308278990.niceyes.xyz:80/L11031/4699863/278990	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: SPORT TV NBA FHD	
+http://256379961308279027.niceyes.xyz:80/L11031/4699863/279027	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 1 HD	
+http://256379961308279233.niceyes.xyz:80/L11031/4699863/279233	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal VIP",PT: ELEVEN SPORTS 4 HD	
+http://256379961308279234.niceyes.xyz:80/L11031/4699863/279234	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION HD" tvg-logo="" group-title="Portugal VIP",PT: CACAVISION HD	
+http://256379961308279380.niceyes.xyz:80/L11031/4699863/279380	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NOS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/114f6e6869a36118459e2f676012e5bc.png" group-title="Portugal VIP",PT: CANAL NOS FHD	
+http://256379961308279381.niceyes.xyz:80/L11031/4699863/279381	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 5 HD	
+http://256379961308279382.niceyes.xyz:80/L11031/4699863/279382	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 6 FHD	
+http://256379961308279383.niceyes.xyz:80/L11031/4699863/279383	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2c80b360867968ead8f260c359dbd7f.png" group-title="Portugal VIP",PT: TRACE URBAN HD	
+http://256379961308279384.niceyes.xyz:80/L11031/4699863/279384	
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATE SPORT HD" tvg-logo="" group-title="Portugal Sport",PT: COMBATE SPORT HD	
+http://256379961308279609.niceyes.xyz:80/L11031/4699863/279609	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ESPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/695f9b4c5df5b1e1d61724c7ec6dce7f.png" group-title="Portugal Sport",PT: ESPORTS 1 HD	
+http://256379961308279610.niceyes.xyz:80/L11031/4699863/279610	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV + HD	
+http://256379961308279611.niceyes.xyz:80/L11031/4699863/279611	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV HD	
+http://256379961308279612.niceyes.xyz:80/L11031/4699863/279612	
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/85e4b11ef9dd59e9df9a91ec5083e3c0.png" group-title="Portugal VIP",PT: COMBATE HD	
+http://256379961308279817.niceyes.xyz:80/L11031/4699863/279817	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/dceced52f8867b30f07db88bdc509605.jpg" group-title="Portugal VIP",PT: ZAP VIVA FHD	
+http://256379961308279818.niceyes.xyz:80/L11031/4699863/279818	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ESPORTS 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/695f9b4c5df5b1e1d61724c7ec6dce7f.png" group-title="Portugal VIP",PT: ESPORTS 1 HD	
+http://256379961308282290.niceyes.xyz:80/L11031/4699863/282290	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROCHANNEL HD" tvg-logo="" group-title="Portugal VIP",PT: EUROCHANNEL HD	
+http://256379961308282291.niceyes.xyz:80/L11031/4699863/282291	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RECORD NEWS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d47ee9913351a3a3daacf11c7c38cc7b.png" group-title="Portugal VIP",PT: RECORD NEWS HD	
+http://256379961308282292.niceyes.xyz:80/L11031/4699863/282292	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: SPORT TV HD	
+http://256379961308282293.niceyes.xyz:80/L11031/4699863/282293	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: TVCINE 1 HD	
+http://256379961308282294.niceyes.xyz:80/L11031/4699863/282294	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: TVCINE 2 HD	
+http://256379961308282295.niceyes.xyz:80/L11031/4699863/282295	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: TVCINE 3 HD	
+http://256379961308282296.niceyes.xyz:80/L11031/4699863/282296	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: TVCINE 4 HD	
+http://256379961308282297.niceyes.xyz:80/L11031/4699863/282297	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: SPORT TV + HD	
+http://256379961308282345.niceyes.xyz:80/L11031/4699863/282345	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 5 FHD	
+http://256379961308282492.niceyes.xyz:80/L11031/4699863/282492	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="Portugal Sport",PT: FOX SPORTS HD	
+http://256379961308282584.niceyes.xyz:80/L11031/4699863/282584	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal Sport",PT: SPORT TV 6 FHD	
+http://256379961308282585.niceyes.xyz:80/L11031/4699863/282585	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA Y PESCA HD" tvg-logo="" group-title="Portugal VIP",PT: CAÇA Y PESCA HD	
+http://256379961308282649.niceyes.xyz:80/L11031/4699863/282649	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION HD" tvg-logo="" group-title="Portugal VIP",PT: CACAVISION HD	
+http://256379961308282650.niceyes.xyz:80/L11031/4699863/282650	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="Portugal VIP",PT: FOX SPORTS HD	
+http://256379961308282651.niceyes.xyz:80/L11031/4699863/282651	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HBO PORTUGAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04813691decb2e3153bd762ef9cedc44.png" group-title="Portugal VIP",PT: HBO PORTUGAL HD	
+http://256379961308282652.niceyes.xyz:80/L11031/4699863/282652	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal VIP",PT: SPORT TV 6 FHD	
+http://256379961308282653.niceyes.xyz:80/L11031/4699863/282653	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal Sport",PT: ELEVEN SPORTS 6 HD	
+http://256379961308282831.niceyes.xyz:80/L11031/4699863/282831	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV PARANA FHD" tvg-logo="http://tegustalatele.vip:8000/images/27642dae6b8f2996d434269a03a5ae53.jpg" group-title="Portugal VIP",PT: TV PARANA FHD	
+http://256379961308282832.niceyes.xyz:80/L11031/4699863/282832	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ITÚ TV SD" tvg-logo="http://tegustalatele.vip:8000/images/061f24b5295f9172becd92d06e4be438.png" group-title="Portugal VIP",PT: ITÚ TV SD	
+http://256379961308283728.niceyes.xyz:80/L11031/4699863/283728	
+#EXTINF:-1 tvg-id="" tvg-name="PT: S FHD" tvg-logo="" group-title="Portugal VIP",PT: S FHD	
+http://256379961308283729.niceyes.xyz:80/L11031/4699863/283729	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNATIONAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4ef2d6d12aed15db3868d994c8ca43f8.jpg" group-title="Portugal VIP",PT: TPA INTERNATIONAL HD	
+http://256379961308283730.niceyes.xyz:80/L11031/4699863/283730	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal Sport",PT: SPORT TV FHD	
+http://256379961308283758.niceyes.xyz:80/L11031/4699863/283758	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN NOW FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: AXN NOW FHD	
+http://256379961308283870.niceyes.xyz:80/L11031/4699863/283870	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CORONA VIRUS FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: CORONA VIRUS FHD	
+http://256379961308283871.niceyes.xyz:80/L11031/4699863/283871	
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY TURBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5885561c1796a37f130fac8d4f7a6fcf.png" group-title="Portugal VIP",PT: DISCOVERY TURBO HD	
+http://256379961308283872.niceyes.xyz:80/L11031/4699863/283872	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FITE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: FITE HD	
+http://256379961308283873.niceyes.xyz:80/L11031/4699863/283873	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 80S HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/db26115736a88d0d006ebb086b62ae26.png" group-title="Portugal VIP",PT: MTV 80S HD	
+http://256379961308283874.niceyes.xyz:80/L11031/4699863/283874	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: SPORT TV FHD	
+http://256379961308283875.niceyes.xyz:80/L11031/4699863/283875	
+#EXTINF:-1 tvg-id="" tvg-name="PT: STINGRAY ICONCERTS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/167e5c522474cd165de21adbf4e32218.png" group-title="Portugal VIP",PT: STINGRAY ICONCERTS FHD	
+http://256379961308283876.niceyes.xyz:80/L11031/4699863/283876	
+#EXTINF:-1 tvg-id="" tvg-name="PT: 1001 NOITES SD" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Portugal VIP",PT: 1001 NOITES SD	
+http://256379961308284191.niceyes.xyz:80/L11031/4699863/284191	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOVO TEMPO HD" tvg-logo="http://tegustalatele.vip:8000/images/d85770fab4da1e17dd46df2856d8e96b.png" group-title="Portugal VIP",PT: NOVO TEMPO HD	
+http://256379961308284192.niceyes.xyz:80/L11031/4699863/284192	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SUMMER TV HD" tvg-logo="http://tegustalatele.vip:8000/images/8acc217ebe89134e961ade35a51b80ac.png" group-title="Portugal VIP",PT: SUMMER TV HD	
+http://256379961308284193.niceyes.xyz:80/L11031/4699863/284193	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV EDUCATIVA DE PORTO ALEGRE HD" tvg-logo="http://tegustalatele.vip:8000/images/0ea89cbbddce70e116b43f9683f6c462.png" group-title="Portugal VIP",PT: TV EDUCATIVA DE PORTO ALEGRE HD	
+http://256379961308284194.niceyes.xyz:80/L11031/4699863/284194	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV VERDES CAMPOS SD" tvg-logo="http://tegustalatele.vip:8000/images/95b8401f373efd78e2e9bdc38119dbff.png" group-title="Portugal VIP",PT: TV VERDES CAMPOS SD	
+http://256379961308284195.niceyes.xyz:80/L11031/4699863/284195	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVM SD" tvg-logo="http://tegustalatele.vip:8000/images/378402e300e542d3d9329f945598a186.png" group-title="Portugal VIP",PT: TVM SD	
+http://256379961308284196.niceyes.xyz:80/L11031/4699863/284196	
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="Portugal VIP",PT: AMC SD	
+http://256379961308284613.niceyes.xyz:80/L11031/4699863/284613	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACA VISION HD" tvg-logo="http://tv-vip.ddns.net:8000/images/d034a5bcf51e6f4190ce5038ca437e65.png" group-title="Portugal VIP",PT: CACA VISION HD	
+http://256379961308284614.niceyes.xyz:80/L11031/4699863/284614	
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT HD" tvg-logo="" group-title="Portugal VIP",PT: E! ENTERTAINMENT HD	
+http://256379961308284615.niceyes.xyz:80/L11031/4699863/284615	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 2 FHD	
+http://256379961308284616.niceyes.xyz:80/L11031/4699863/284616	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal VIP",PT: EUROSPORT 2 FHD	
+http://256379961308284617.niceyes.xyz:80/L11031/4699863/284617	
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="Portugal VIP",PT: HOLLYWOOD FHD	
+http://256379961308284618.niceyes.xyz:80/L11031/4699863/284618	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Portugal VIP",PT: NATIONAL GEOGRAPHIC FHD	
+http://256379961308284619.niceyes.xyz:80/L11031/4699863/284619	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="Portugal VIP",PT: NICKELODEON SD	
+http://256379961308284620.niceyes.xyz:80/L11031/4699863/284620	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="" group-title="Portugal VIP",PT: SPORT TV + FHD	
+http://256379961308284621.niceyes.xyz:80/L11031/4699863/284621	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal VIP",PT: SPORT TV 1 SD	
+http://256379961308284622.niceyes.xyz:80/L11031/4699863/284622	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal VIP",PT: TVCINE ACTION SD	
+http://256379961308284623.niceyes.xyz:80/L11031/4699863/284623	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="Portugal VIP",PT: TVCINE EDITION SD	
+http://256379961308284624.niceyes.xyz:80/L11031/4699863/284624	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="Portugal VIP",PT: TVCINE EMOTION SD	
+http://256379961308284625.niceyes.xyz:80/L11031/4699863/284625	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal VIP",PT: TVCINE TOP SD	
+http://256379961308284626.niceyes.xyz:80/L11031/4699863/284626	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY SD" tvg-logo="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png" group-title="Portugal VIP",PT: TVI REALITY SD	
+http://256379961308284627.niceyes.xyz:80/L11031/4699863/284627	
+#EXTINF:-1 tvg-id="" tvg-name="PT: STV NOTICIAS HD" tvg-logo="" group-title="Portugal VIP",PT: STV NOTICIAS HD	
+http://256379961308285671.niceyes.xyz:80/L11031/4699863/285671	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV MAN HD" tvg-logo="" group-title="Portugal VIP",PT: TV MAN HD	
+http://256379961308285672.niceyes.xyz:80/L11031/4699863/285672	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ALAZEERA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/59ef46ea0ff35cba85cd97e9f6c3c97a.png" group-title="Portugal VIP",PT: ALAZEERA HD	
+http://256379961308285952.niceyes.xyz:80/L11031/4699863/285952	
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/baa4cd418221792a9984247344767aa5.png" group-title="Portugal VIP",PT: NBA TV FHD	
+http://256379961308285953.niceyes.xyz:80/L11031/4699863/285953	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV ZIMBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6bacc048953a89b6efdc4e3b405b6999.png" group-title="Portugal VIP",PT: TV ZIMBO HD	
+http://256379961308285954.niceyes.xyz:80/L11031/4699863/285954	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFIKA TV HD" tvg-logo="" group-title="Portugal VIP",PT: BENFIKA TV HD	
+http://256379961308286154.niceyes.xyz:80/L11031/4699863/286154	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL DE HISTORIA HD" tvg-logo="" group-title="Portugal VIP",PT: CANAL DE HISTORIA HD	
+http://256379961308286155.niceyes.xyz:80/L11031/4699863/286155	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL HOLLYWOOD HD" tvg-logo="" group-title="Portugal VIP",PT: CANAL HOLLYWOOD HD	
+http://256379961308286156.niceyes.xyz:80/L11031/4699863/286156	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 3 FHD	
+http://256379961308286205.niceyes.xyz:80/L11031/4699863/286205	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 24 HORAS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/97505ce76cd0a48312723a0e7df3dda5.jpg" group-title="Portugal VIP",PT: CANAL 24 HORAS HD	
+http://256379961308286206.niceyes.xyz:80/L11031/4699863/286206	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVE INTERNATIONAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0ebe1c7bc68636847c43fbb1131e01a9.jpg" group-title="Portugal VIP",PT: TVE INTERNATIONAL HD	
+http://256379961308286212.niceyes.xyz:80/L11031/4699863/286212	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 5 FHD	
+http://256379961308286908.niceyes.xyz:80/L11031/4699863/286908	
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal VIP",PT: ELEVEN SPORTS 4 FHD	
+http://256379961308287064.niceyes.xyz:80/L11031/4699863/287064	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TALKING TOM & FRIENDS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: TALKING TOM & FRIENDS HD	
+http://256379961308287120.niceyes.xyz:80/L11031/4699863/287120	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FRANCE 24 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/37ec67a7032aadb19786b4f4f27ccb8c.png" group-title="Portugal VIP",PT: FRANCE 24 HD	
+http://256379961308287134.niceyes.xyz:80/L11031/4699863/287134	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOM CRUISE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: TOM CRUISE HD	
+http://256379961308287135.niceyes.xyz:80/L11031/4699863/287135	
+#EXTINF:-1 tvg-id="" tvg-name="PT: RALLY MANIA FHD" tvg-logo="" group-title="Portugal VIP",PT: RALLY MANIA FHD	
+http://256379961308287246.niceyes.xyz:80/L11031/4699863/287246	
+#EXTINF:-1 tvg-id="" tvg-name="PT: STRONG BY ZUMBA FHD" tvg-logo="" group-title="Portugal VIP",PT: STRONG BY ZUMBA FHD	
+http://256379961308287247.niceyes.xyz:80/L11031/4699863/287247	
+#EXTINF:-1 tvg-id="" tvg-name="PT: TREINE EM CASA HD" tvg-logo="" group-title="Portugal VIP",PT: TREINE EM CASA HD	
+http://256379961308287248.niceyes.xyz:80/L11031/4699863/287248	
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOBA TV HD" tvg-logo="" group-title="Portugal VIP",PT: BOOBA TV HD	
+http://256379961308287284.niceyes.xyz:80/L11031/4699863/287284	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL LUCAS NETO TV FHD" tvg-logo="" group-title="Portugal VIP",PT: CANAL LUCAS NETO TV FHD	
+http://256379961308287285.niceyes.xyz:80/L11031/4699863/287285	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA ARTES MARCIAIS HD" tvg-logo="" group-title="Portugal VIP",PT: CINEMA ARTES MARCIAIS HD	
+http://256379961308287286.niceyes.xyz:80/L11031/4699863/287286	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA EM CASA HD" tvg-logo="" group-title="Portugal VIP",PT: CINEMA EM CASA HD	
+http://256379961308287287.niceyes.xyz:80/L11031/4699863/287287	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA PORTUGUES FHD" tvg-logo="" group-title="Portugal VIP",PT: CINEMA PORTUGUES FHD	
+http://256379961308287288.niceyes.xyz:80/L11031/4699863/287288	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA STEVEN SEAGAL HD" tvg-logo="" group-title="Portugal VIP",PT: CINEMA STEVEN SEAGAL HD	
+http://256379961308287289.niceyes.xyz:80/L11031/4699863/287289	
+#EXTINF:-1 tvg-id="" tvg-name="PT: JOAO KLEBER SHOW HD" tvg-logo="" group-title="Portugal VIP",PT: JOAO KLEBER SHOW HD	
+http://256379961308287290.niceyes.xyz:80/L11031/4699863/287290	
+#EXTINF:-1 tvg-id="" tvg-name="PT: MARRADAS HD" tvg-logo="" group-title="Portugal VIP",PT: MARRADAS HD	
+http://256379961308287291.niceyes.xyz:80/L11031/4699863/287291	
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA BUD SPENCER HD" tvg-logo="" group-title="Portugal VIP",PT: CINEMA BUD SPENCER HD	
+http://256379961308287308.niceyes.xyz:80/L11031/4699863/287308	
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal VIP",PT: SPORT TV 6 SD	
+http://256379961308288303.niceyes.xyz:80/L11031/4699863/288303	
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS PORTUGUES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: EURONEWS PORTUGUES HD	
+http://256379961308288434.niceyes.xyz:80/L11031/4699863/288434	
+#EXTINF:-1 tvg-id="" tvg-name="PT: FICTION MOVIES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal VIP",PT: FICTION MOVIES HD	
+http://256379961308288737.niceyes.xyz:80/L11031/4699863/288737	
+
 #EXTINF:-1,===Generalistas===
 #EXTINF:-1,RTP1 
 http://premiumtop.top:8080/paulo_fernandes/paulo/57
