@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== aatvbox ===
-#EXTINF:-1,Benfica TV 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3238
-#EXTINF:-1,Eleven 1 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29371
-#EXTINF:-1,Eleven 2 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29370
-#EXTINF:-1,Eleven 3
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29369
-#EXTINF:-1,Eleven 4
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29368
-#EXTINF:-1,Eleven 5
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29334
-#EXTINF:-1,SPORT.TV1 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3192
-#EXTINF:-1,SPORT.TV2
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3191
-#EXTINF:-1,SPORT.TV3 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3190
-#EXTINF:-1,SPORT.TV4 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3189
-#EXTINF:-1,SPORT.TV5
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3188
-#EXTINF:-1,TVCine TOP 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29359
-#EXTINF:-1,TVCine EDITION 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3178
-#EXTINF:-1,TVCine EMOTION 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/3180
-#EXTINF:-1,TVCine ACTION 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29335
-#EXTINF:-1,TVI Reality 
-http://ay32.aatvbox.club:8880/wh12m10643/w5CeUmFnyZ/29409
 #EXTINF:-1,=== Mypanel ===
 #EXTINF:-1,Benfica TV 
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/12520
