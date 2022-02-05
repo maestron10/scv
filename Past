@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1,***IPTVmedia***
-#EXTINF:-1,Benfica TV
-http://iptvmedia.live:8080/12810/7f788911/1497
-#EXTINF:-1,Benfica TV
-http://iptvmedia.live:8080/12810/7f788911/284525
-#EXTINF:-1,Eleven 1
-http://iptvmedia.live:8080/12810/7f788911/282821
-#EXTINF:-1,Eleven 2
-http://iptvmedia.live:8080/12810/7f788911/1503
-#EXTINF:-1,Eleven 3
-http://iptvmedia.live:8080/12810/7f788911/1506
-#EXTINF:-1,Eleven 4
-http://iptvmedia.live:8080/12810/7f788911/1509
-#EXTINF:-1,Eleven 5
-http://iptvmedia.live:8080/12810/7f788911/1512
-#EXTINF:-1,SPORT.TV 1
-http://iptvmedia.live:8080/12810/7f788911/37186
-#EXTINF:-1,SPORT.TV 1
-http://iptvmedia.live:8080/12810/7f788911/1483
-#EXTINF:-1,SPORT.TV 2
-http://iptvmedia.live:8080/12810/7f788911/37187
-#EXTINF:-1,SPORT.TV 3
-http://iptvmedia.live:8080/12810/7f788911/1489
-#EXTINF:-1,SPORT.TV 4
-http://iptvmedia.live:8080/12810/7f788911/1492
-#EXTINF:-1,SPORT.TV 5
-http://iptvmedia.live:8080/12810/7f788911/1495
 #EXTINF:-1,=== Mypanel ===
 #EXTINF:-1,Benfica TV 
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/12520
