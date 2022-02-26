@@ -1,76 +1,116 @@
 #EXTM3U
-#EXTINF:-1,=== Mypanel ===
-#EXTINF:-1,Benfica TV 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/12520
-#EXTINF:-1,Benfica TV 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/7534
-#EXTINF:-1,Eleven 1 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/51927
-#EXTINF:-1,Eleven 2 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/51926
-#EXTINF:-1,Eleven 3
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/691332
-#EXTINF:-1,Eleven 4
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/51924
-#EXTINF:-1,Eleven 5
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/51923
+#EXTINF:-1, ===Apolo===
+#EXTINF:-1,SPORT.TV+ 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVFeZ7ZL4gGKiB9suyQc0lbYfUwjTo9NJukXFjO_rFdCT/ts
 #EXTINF:-1,SPORT.TV1 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13096
-#EXTINF:-1,SPORT.TV2
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8814
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVJ6TzoWFPM5Qk5MtCsUeMgoTp72M5Slz7t6Ko8xatrDC/ts
+#EXTINF:-1,SPORT.TV2 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWmT1zS_a76e4YydSITRGrFE/ts
 #EXTINF:-1,SPORT.TV3 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8813
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVNt0KKIAdrqDxSEumpwrjWnR5ZEKVthHik0vlEjnbwGO/ts
 #EXTINF:-1,SPORT.TV4 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/7479
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItjzMwkegLsc5OmfcdE20yMx/ts
 #EXTINF:-1,SPORT.TV5
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8812
-#EXTINF:-1,TVCine TOP 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13104
-#EXTINF:-1,TVCine EDITION 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13098
-#EXTINF:-1,TVCine EMOTION 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13102
-#EXTINF:-1,TVCine ACTION 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13100
-#EXTINF:-1,TVI Reality 
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/7462
-#EXTINF:-1,===== WordlHell =====
-#EXTINF:-1,BenficaTV 1 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3238
-#EXTINF:-1,A BOLA TV HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29357
-#EXTINF:-1,Canal 11 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29378
-#EXTINF:-1,SPORT.TV
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/7654
-#EXTINF:-1,SPORT.TV 1 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3192
-#EXTINF:-1,SPORT.TV 2 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3191
-#EXTINF:-1,SPORT.TV 3 HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3190
-#EXTINF:-1,SPORT.TV 4
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3189
-#EXTINF:-1,SPORT.TV 5
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3188
-#EXTINF:-1,Eleven 1
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29371
-#EXTINF:-1,Eleven 2
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29370
-#EXTINF:-1,Eleven 3 
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29369
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5IthgIlTAtANV_xztuObzfKRj/ts
+#EXTINF:-1,Benfica TV 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVDAINMsk8V-CmML8GkEnxKDVLUP3i87SKfjTsvC1aAuN/ts
+#EXTINF:-1,Benfica TV 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVLbR2gBzhGivgUaZZlD5ItgwTHTb74VGjepTaM0ymzPy/ts
+#EXTINF:-1,Eleven 1 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHjdYyPuTXLmiUxvQbYsQ3-v/ts
+#EXTINF:-1,Eleven 2 
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHgXC-RYl6GBN9cO3c7hzE6T/ts
+#EXTINF:-1,Eleven 3
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVAOY6CMdX3SXrZVrEU8vzHhgL_3qkO8ZzNJh0lEAaQjq/ts
 #EXTINF:-1,Eleven 4
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/29368
-#EXTINF:-1,Eleven 6
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/49032
-#EXTINF:-1,Sky Sports F1
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/2876
-#EXTINF:-1,TVCINE TOP HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3181
-#EXTINF:-1,TVCINE EDITION HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3180
-#EXTINF:-1,TVCINE EMOTION HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3179
-#EXTINF:-1,TVCINE ACTION HD
-http://ae1.worldhell.club:8880/AA6M0373/2828898743/3178
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMDAVXTQC2EzYHMNJYU8WSQq/ts
+#EXTINF:-1,Eleven 5
+http://apollo.golemflixer.com:8080/play/4KK_ZRpkRHw5m8nbgDACVKqDYo63NS-j14yxE-hcEMCzd_2Qp_6HaVi-QLB3RkYb/ts
+#EXTINF:-1, ===Pandar===
+#EXTINF:-1,A Bola TV
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95397
+#EXTINF:-1,Canal 11 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95426
+#EXTINF:-1,SPORT.TV+ 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95407
+#EXTINF:-1,SPORT.TV1 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95408
+#EXTINF:-1,SPORT.TV2 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95412
+#EXTINF:-1,SPORT.TV3 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95413
+#EXTINF:-1,SPORT.TV4 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95415
+#EXTINF:-1,SPORT.TV5 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95416
+#EXTINF:-1,Benfica TV 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95396
+#EXTINF:-1,Eleven Sports 1 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95418
+#EXTINF:-1,Eleven Sports 2 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95419
+#EXTINF:-1,Eleven Sports 3
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95420
+#EXTINF:-1,Eleven Sports 4
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95421
+#EXTINF:-1,Eleven Sports 5
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95422
+#EXTINF:-1,Eurosport 1
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95401
+#EXTINF:-1,Eurosport 2
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95403
+#EXTINF:-1,Sky Sports F1 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/102252
+#EXTINF:-1,RMC Sport 1 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126919
+#EXTINF:-1, RMC Sport 2 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126920
+#EXTINF:-1, RMC Sport 3 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126921
+#EXTINF:-1,NOS Studios 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95351
+#EXTINF:-1,TVCine TOP 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95339
+#EXTINF:-1,TVCine EDITION 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95340
+#EXTINF:-1,TVCine EMOTION 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95341
+#EXTINF:-1,TVCine ACTION 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95342
+#EXTINF:-1,=== SPandaTV ===
+#EXTINF:-1,Benfica TV 
+http://s2.pandatv.tn:8000/131495913257/04003169/5913
+#EXTINF:-1,Benfica TV 
+http://s2.pandatv.tn:8000/131495913257/04003169/5914
+#EXTINF:-1,Eleven 1 
+http://s2.pandatv.tn:8000/131495913257/04003169/5894
+#EXTINF:-1,Eleven 2 
+http://s2.pandatv.tn:8000/131495913257/04003169/5899
+#EXTINF:-1,Eleven 3
+http://s2.pandatv.tn:8000/131495913257/04003169/5901
+#EXTINF:-1,Eleven 4
+http://s2.pandatv.tn:8000/131495913257/04003169/5910
+#EXTINF:-1,Eleven 5
+http://s2.pandatv.tn:8000/131495913257/04003169/5911
+#EXTINF:-1,SPORT.TV1 
+http://s2.pandatv.tn:8000/131495913257/04003169/5881
+#EXTINF:-1,SPORT.TV2
+http://s2.pandatv.tn:8000/131495913257/04003169/5884
+#EXTINF:-1,SPORT.TV3 
+http://s2.pandatv.tn:8000/131495913257/04003169/5886
+#EXTINF:-1,SPORT.TV4 
+http://s2.pandatv.tn:8000/131495913257/04003169/5888
+#EXTINF:-1,SPORT.TV5
+http://s2.pandatv.tn:8000/131495913257/04003169/5890
+#EXTINF:-1,TVCine TOP 
+http://s2.pandatv.tn:8000/131495913257/04003169/5860
+#EXTINF:-1,TVCine EDITION 
+http://s2.pandatv.tn:8000/131495913257/04003169/5861
+#EXTINF:-1,TVCine EMOTION 
+http://s2.pandatv.tn:8000/131495913257/04003169/5862
+#EXTINF:-1,TVCine ACTION 
+http://s2.pandatv.tn:8000/131495913257/04003169/5863
+#EXTINF:-1,TVI Reality 
+http://s2.pandatv.tn:8000/131495913257/04003169/5931
+
 
