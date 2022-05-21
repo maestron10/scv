@@ -1,4 +1,137 @@
 #EXTM3U
+#EXTINF:-1,======Restream======
+#EXTINF:-1,RTP1 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/870
+#EXTINF:-1,RTP2 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/867
+#EXTINF:-1,SIC 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/857
+#EXTINF:-1,TVI 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/808
+#EXTINF:-1,RTP 3
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/866
+#EXTINF:-1,SIC Notícias 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/853
+#EXTINF:-1,TVI 24 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/815
+#EXTINF:-1,CMTV 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/934
+#EXTINF:-1,TVI Ficção 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/809
+#EXTINF:-1,TVI Reality 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/807
+#EXTINF:-1,SIC Mulher 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/855
+#EXTINF:-1,SIC Radical 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/852
+#EXTINF:-1,Sic Caras
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/858
+#EXTINF:-1,===Desporto===
+#EXTINF:-1,A Bola TV
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/965
+#EXTINF:-1,Canal 11 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/946
+#EXTINF:-1,Benfica TV 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/952
+#EXTINF:-1,Benfica TV 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/953
+#EXTINF:-1,Eleven Sports 1 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/925
+#EXTINF:-1,Eleven Sports 1 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/926
+#EXTINF:-1,Eleven Sports 2 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/923
+#EXTINF:-1,Eleven Sports 2 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/924
+#EXTINF:-1,Eleven Sports 3
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/921
+#EXTINF:-1,Eleven Sports 3
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/922
+#EXTINF:-1,Eleven Sports 4
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/919
+#EXTINF:-1,Eleven Sports 5
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/917
+#EXTINF:-1,SPORT.TV+ 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/51139
+#EXTINF:-1,SPORT.TV1 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/848
+#EXTINF:-1,SPORT.TV1 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/849
+#EXTINF:-1,SPORT.TV2 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/846
+#EXTINF:-1,SPORT.TV2 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/847
+#EXTINF:-1,SPORT.TV3 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/844
+#EXTINF:-1,SPORT.TV3 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/845
+#EXTINF:-1,SPORT.TV4
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/842
+#EXTINF:-1,SPORT.TV4
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/843
+#EXTINF:-1,SPORT.TV5 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/839
+#EXTINF:-1,Eurosport 1
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/911
+#EXTINF:-1,Eurosport 2
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/910
+#EXTINF:-1,Porto Canal
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/872
+#EXTINF:-1,Sporting TV 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/838
+#EXTINF:-1,Sky Sports F1 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2189
+#EXTINF:-1,=== Filmes ===
+#EXTINF:-1,NOS Studios 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/876
+#EXTINF:-1,TVCine TOP 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/823
+#EXTINF:-1,TVCine EDITION 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/821
+#EXTINF:-1,TVCine EMOTION 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/819
+#EXTINF:-1,TVCine ACTION 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/817
+#EXTINF:-1,Hollywood 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/894
+#EXTINF:-1,Cinemundo 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/936
+#EXTINF:-1,FOX Movies 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/899
+#EXTINF:-1,AXN Movies 
+
+#EXTINF:-1,SyFy 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/836
+#EXTINF:-1,AMC 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/962
+#EXTINF:-1,AXN 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/957
+#EXTINF:-1,AXN White 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/955
+#EXTINF:-1,AXN Black
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/958
+#EXTINF:-1,FOX 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/902
+#EXTINF:-1,FOX CRIME 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/903
+#EXTINF:-1,FOX Comedy 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/905
+#EXTINF:-1,FOX LIFE 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/901
+#EXTINF:-1,Discovery Channel 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/930
+#EXTINF:-1,Nat Geo Wild 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/880
+#EXTINF:-1,National Geographic 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/879
+#EXTINF:-1,History Channel 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/895
+#EXTINF:-1,Odisseia 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/875
+#EXTINF:-1,Blaze 
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/951
+
+
 #EXTINF:-1,======4Dream======
 #EXTINF:-1,RTP1 
 http://dream4k.co:8080/nipep39596/0c4bqefx55/439351
@@ -121,523 +254,4 @@ http://dream4k.co:8080/nipep39596/0c4bqefx55/240233
 #EXTINF:-1,TV Boxoffice 9
 http://dream4k.co:8080/nipep39596/0c4bqefx55/240234
 #EXTINF:-1,TV Boxoffice 10
-#EXTINF:-1,======Sinfull======
-#EXTINF:-1,PT: A BOLA TV
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/2080
-#EXTINF:-1,PT: AMC
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/2088
-#EXTINF:-1,PT: AXN FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/288
-#EXTINF:-1,PT: AXN Movies FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49966
-#EXTINF:-1,PT: AXN WHITE FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/289
-#EXTINF:-1,BENFICA TV
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/286
-#EXTINF:-1,Benfica TV 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49967
-#EXTINF:-1,PT: CM TV
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1619
-#EXTINF:-1,PT: CINEMUNDO FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/46621
-#EXTINF:-1,Eleven 1 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/50901
-#EXTINF:-1,Eleven 2 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/50902
-#EXTINF:-1,Eleven 3 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/53509
-#EXTINF:-1,Eleven 4 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/53510
-#EXTINF:-1,Eleven 5 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/53511
-#EXTINF:-1,Eleven 6 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/53512
-#EXTINF:-1,PT: EUROSPORT 1
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/46628
-#EXTINF:-1,PT: Eurosport 2
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49971
-#EXTINF:-1,PT: FOX TV FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/740
-#EXTINF:-1,PT: FOX MOVIES HD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/46632
-#EXTINF:-1,PT: FOX CRIME
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/879
-#EXTINF:-1,PT: FOX LIFE
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/46631
-#EXTINF:-1,PT: Fox Comedy FullHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1517
-#EXTINF:-1,PT: ODISSEIA FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1859
-#EXTINF:-1,PT: MOV HD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/272
-#EXTINF:-1,PT: Nat Geo Wild
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/738
-#EXTINF:-1,PT: MOTORVISION TV
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/2081
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/2089
-#EXTINF:-1,PT: NBA HD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49979
-#EXTINF:-1,PT: RTP 1
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1512
-#EXTINF:-1,PT: RTP 2
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1513
-#EXTINF:-1,PT: RTP 3 FullHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1514
-#EXTINF:-1,PT: Real Madrid TV
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49982
-#EXTINF:-1,PT: RTP AÃ‡ORES
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/2062
-#EXTINF:-1,PT: RTP MEMÃ“RIA
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1857
-#EXTINF:-1,PT: RTP ÃFRICA
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1519
-#EXTINF:-1,PT: PORTO CANAL
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1515
-#EXTINF:-1,PT: SPORTING TV
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/285
-#EXTINF:-1,SPORT.TV 1 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/280
-#EXTINF:-1,SPORT.TV 2 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/281
-#EXTINF:-1,SPORT.TV 3 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/282
-#EXTINF:-1,SPORT.TV 4 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/283
-#EXTINF:-1,SPORT.TV 5 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/284
-#EXTINF:-1,PT: SYFY FullHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/279
-#EXTINF:-1,PT: SIC RADICAL HD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/733
-#EXTINF:-1,PT: SIC MULHER
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1520
-#EXTINF:-1,PT: SIC NOTICIAS
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/275
-#EXTINF:-1,PT: Sic FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/1953
-#EXTINF:-1,PT: SIC Caras FullHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49983
-#EXTINF:-1,PT: SIC Kids FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/49984
-#EXTINF:-1,PT: TVI REALITY
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/731
-#EXTINF:-1,TVCINE ACTION 
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/270
-#EXTINF:-1,TVCINE EDITION
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/269
-#EXTINF:-1,TVCINE Emotion
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/268
-#EXTINF:-1,TVCINE TOP
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/267
-#EXTINF:-1,PT: TVI
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/266
-#EXTINF:-1,PT: TVI 24
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/265
-#EXTINF:-1,PT: NOS STUDIOS FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/52186
-#EXTINF:-1,PT: HOLLYWOOD FHD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/52187
-#EXTINF:-1,PT: TVI FICCAO
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/52207
-#EXTINF:-1,PT: CANAL 11 HD
-http://server.sibfungold.info:8080/argoni2012/oOeJPklv4r/52208
-#EXTINF:-1,======SmartIptv======
-#EXTINF:-1,PT| RTP 1 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/16091
-#EXTINF:-1,PT| RTP 2 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165626
-#EXTINF:-1,PT| RTP 3 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165590
-#EXTINF:-1,PT| SIC HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/272507
-#EXTINF:-1,PT| CMTV HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165668
-#EXTINF:-1,PT| TVI HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165630
-#EXTINF:-1,PT| TVI 24 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165686
-#EXTINF:-1,PT| TVI REALITY-BIG BROTHER HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165669
-#EXTINF:-1,PT| TVI FICLAO
-http://test.thesmartiptv.com:900/9795803908/8947457935/165592
-#EXTINF:-1,PT| SIC NOTICIAS HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165689
-#EXTINF:-1,PT| CANAL 11 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165618
-#EXTINF:-1,PT| TV RECORD HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165636
-#EXTINF:-1,PT| RTP AÃ‡ORES HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/400365293
-#EXTINF:-1,PT| RTP MADEIRA HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165635
-#EXTINF:-1,PT| RTP MEMORIA HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165633
-#EXTINF:-1,PT| ARTV HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165700
-#EXTINF:-1,PT| CANAL NOS HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165591
-#EXTINF:-1,PT| PORTO CANAL HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165632
-#EXTINF:-1,PT| AMC HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165611
-#EXTINF:-1,PT| BLAZE HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165662
-#EXTINF:-1,PT| SIC MULHER
-http://test.thesmartiptv.com:900/9795803908/8947457935/165627
-#EXTINF:-1,PT| SIC RADICAL
-http://test.thesmartiptv.com:900/9795803908/8947457935/165628
-#EXTINF:-1,PT| SYFY HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165599
-#EXTINF:-1,âœ¦â—âœ¦ FILMES HD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165609
-#EXTINF:-1,PT| AXN HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165612
-#EXTINF:-1,PT| AXN MOVIES HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165641
-#EXTINF:-1,PT| AXN WHITE HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165596
-#EXTINF:-1,PT| FOX HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165613
-#EXTINF:-1,PT| FOX COMEDY
-http://test.thesmartiptv.com:900/9795803908/8947457935/165614
-#EXTINF:-1,PT| FOX CRIME HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165597
-#EXTINF:-1,PT| FOX LIFE HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165642
-#EXTINF:-1,PT| FOX MOVIES
-http://test.thesmartiptv.com:900/9795803908/8947457935/165643
-#EXTINF:-1,PT| NOS STUDIO HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165600
-#EXTINF:-1,PT| TVCINE TOP HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/170830
-#EXTINF:-1,PT| TVCINE ACTION HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/170833
-#EXTINF:-1,PT| TVCINE EDITION HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165593
-#EXTINF:-1,PT| TVCINE EMOTION HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165610
-#EXTINF:-1,âœ¦â—âœ¦ SERIES HD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165595
-#EXTINF:-1,PT| CINEMUNDO HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165645
-#EXTINF:-1,PT| HOLLYWOOD HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165594
-#EXTINF:-1,PT| CRIME+INVESTIGATION HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165664
-#EXTINF:-1,PT| DISCOVERY HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165659
-#EXTINF:-1,PT| HISTORIA
-http://test.thesmartiptv.com:900/9795803908/8947457935/165661
-#EXTINF:-1,PT| ID INVESTIGATION DISCOVERY HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165608
-#EXTINF:-1,PT| NAT GEO HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165607
-#EXTINF:-1,PT| NAT GEO WILD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165624
-#EXTINF:-1,PT| ODISSEIA HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165660
-#EXTINF:-1,âœ¦â—âœ¦ DESPORTO  HD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/171805
-#EXTINF:-1,PT| BTV 1 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165605
-#EXTINF:-1,PT| ELEVEN SPORT 1 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165619
-#EXTINF:-1,PT| ELEVEN SPORT 2 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165654
-#EXTINF:-1,PT| ELEVEN SPORT 3 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165603
-#EXTINF:-1,PT| ELEVEN SPORT 4 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165620
-#EXTINF:-1,PT| ELEVEN SPORT 5 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165655
-#EXTINF:-1,PT| ELEVEN SPORT 6 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165604
-#EXTINF:-1,PT| SPORT TV+ HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165652
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165647
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165648
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165649
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165650
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165651
-#EXTINF:-1,PT| SPORT TV 6 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/400229659
-#EXTINF:-1,PT| A BOLA TV HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165637
-#EXTINF:-1,PT| SPORT TV NBA HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165653
-#EXTINF:-1,PT| EUROSPORT 1 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165621
-#EXTINF:-1,PT| EUROSPORT 2 HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165656
-#EXTINF:-1,PT| SPORTING TV HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165623
-#EXTINF:-1,PT| EEC SECUNDÃ†RIO HD
-http://test.thesmartiptv.com:900/9795803908/8947457935/7830
-#EXTINF:-1,âœ¦â—âœ¦ PORTUGAL FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/171824
-#EXTINF:-1,PT| RTP 1 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165465
-#EXTINF:-1,PT| RTP 2 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165466
-#EXTINF:-1,PT| RTP 3 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165467
-#EXTINF:-1,PT| RTP AFRICA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165476
-#EXTINF:-1,PT| RTP AÃ‡ORES FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165562
-#EXTINF:-1,PT| RTP MADEIRA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165477
-#EXTINF:-1,PT| RTP MEMORIA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165475
-#EXTINF:-1,PT| NHK WORLD FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165580
-#EXTINF:-1,PT| CANAL 11 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165510
-#EXTINF:-1,PT| CANAL NOS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165479
-#EXTINF:-1,PT| SIC FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165468
-#EXTINF:-1,PT| SIC K FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165556
-#EXTINF:-1,PT| SIC NOTICIAS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165566
-#EXTINF:-1,PT| TVI 24 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165563
-#EXTINF:-1,PT| TVI FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165472
-#EXTINF:-1,PT| TVI FICCAO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165482
-#EXTINF:-1,PT| TVI REALITY-BIG BROTHER FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165546
-#EXTINF:-1,PT| TVE 24 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165565
-#EXTINF:-1,PT| TVE INTERNATIONAL FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165564
-#EXTINF:-1,PT| CMTV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165545
-#EXTINF:-1,PT| PORTO CANAL FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165474
-#EXTINF:-1,PT| ARTV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165577
-#EXTINF:-1,PT| KURIAKOS TV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165549
-#EXTINF:-1,PT| CANCAO NOVA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165502
-#EXTINF:-1,PT| PFC INTERNACIONAL FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165527
-#EXTINF:-1,PT| CHANNEL 1 RUSSIA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165581
-#EXTINF:-1,PT| BIGGS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165555
-#EXTINF:-1,PT| FTV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/170829
-#EXTINF:-1,âœ¦â—âœ¦ INTRETENIMENTO  FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/171826
-#EXTINF:-1,PT| BBC ENTERTAINEMENT FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165571
-#EXTINF:-1,PT| E! ENTERTAINMENT FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165501
-#EXTINF:-1,PT| BLAZE FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165539
-#EXTINF:-1,PT| CNBC EUROPE FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165579
-#EXTINF:-1,PT| 24 KITCHEN FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165543
-#EXTINF:-1,PT| AMC FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165489
-#EXTINF:-1,PT| BLOOMBREG EUROPE FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165578
-#EXTINF:-1,PT| SIC CARAS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165471
-#EXTINF:-1,PT| SIC MULHER FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165469
-#EXTINF:-1,PT| SIC RADICAL FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165470
-#EXTINF:-1,PT| SYFY FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165503
-#EXTINF:-1,PT| TV GALICIA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165567
-#EXTINF:-1,PT| CANAL Q FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165473
-#EXTINF:-1,PT| TOROS TV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165544
-#EXTINF:-1,PT| CBS REALITY FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/7833
-#EXTINF:-1,PT| EEC SECUNDÃ†RIO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/7831
-#EXTINF:-1,âœ¦â—âœ¦ DESPORTO FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165509
-#EXTINF:-1,PT| SPORT TV NBA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165517
-#EXTINF:-1,PT| SPORT TV+ FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165516
-#EXTINF:-1,PT| SPORT TV 1 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165511
-#EXTINF:-1,PT| SPORT TV 2 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165512
-#EXTINF:-1,PT| SPORT TV 3 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165513
-#EXTINF:-1,PT| SPORT TV 4 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165514
-#EXTINF:-1,PT| SPORT TV 5 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165515
-#EXTINF:-1,PT| SPORT TV 6 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/400229658
-#EXTINF:-1,PT| SPORTING TV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165530
-#EXTINF:-1,PT| ELEVEN SPORT 1 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165518
-#EXTINF:-1,PT| ELEVEN SPORT 2 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165519
-#EXTINF:-1,PT| ELEVEN SPORT 3 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165520
-#EXTINF:-1,PT| ELEVEN SPORT 4 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165521
-#EXTINF:-1,PT| ELEVEN SPORT 5 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165522
-#EXTINF:-1,PT| ELEVEN SPORT 6 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165523
-#EXTINF:-1,PT| EUROSPORT 1 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165524
-#EXTINF:-1,PT| EUROSPORT 2 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165525
-#EXTINF:-1,PT| A BOLA TV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165481
-#EXTINF:-1,PT| BTV 1 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165526
-#EXTINF:-1,PT| FUEL TV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165548
-#EXTINF:-1,PT| MOTORVISION FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165528
-#EXTINF:-1,PT| TV GLOBO NOW FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165508
-#EXTINF:-1,âœ¦â—âœ¦ INFANTIL FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/171825
-#EXTINF:-1,PT| BABY TV FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165557
-#EXTINF:-1,PT| CANAL PANDA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165554
-#EXTINF:-1,PT| CARTOON NETWORK FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165553
-#EXTINF:-1,PT| DISNEY CHANNEL FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165551
-#EXTINF:-1,PT| DISNEY JUNIOR FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165552
-#EXTINF:-1,PT| JIM JAM FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165558
-#EXTINF:-1,PT| NICKELODEON FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165559
-#EXTINF:-1,PT| NICK JR FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165560
-#EXTINF:-1,PT| KURIAKOS KIDS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/320675
-#EXTINF:-1,PT| LOLLY KIDS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/15959
-#EXTINF:-1,PT| PANDA KIDS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/7828
-#EXTINF:-1,âœ¦â—âœ¦ FILMES FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165483
-#EXTINF:-1,PT| AXN FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165492
-#EXTINF:-1,PT| AXN MOVIES FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165493
-#EXTINF:-1,PT| AXN WHITE FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165494
-#EXTINF:-1,PT| FOX COMEDY FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165498
-#EXTINF:-1,PT| FOX CRIME FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165497
-#EXTINF:-1,PT| FOX FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165495
-#EXTINF:-1,PT| FOX LIFE FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165496
-#EXTINF:-1,PT| FOX MOVIES FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165499
-#EXTINF:-1,PT| NOS STUDIO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165506
-#EXTINF:-1,PT| KURIAKOS CINE FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/400163656
-#EXTINF:-1,PT| TV RECORD FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165478
-#EXTINF:-1,PT| TVCINE ACTION FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165487
-#EXTINF:-1,PT| TVCINE EMOTION FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165486
-#EXTINF:-1,PT| TVCINE EDITION FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165485
-#EXTINF:-1,PT| TVCINE TOP FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165484
-#EXTINF:-1,âœ¦â—âœ¦ INTERNACIONAIS FHDâœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165561
-#EXTINF:-1,PT| BBC WORLD NEWS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165572
-#EXTINF:-1,PT| CNN FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165576
-#EXTINF:-1,PT| EURONEWS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165569
-#EXTINF:-1,PT| SKY NEWS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165570
-#EXTINF:-1,PT| TV GLOBO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165507
-#EXTINF:-1,PT| FRANCE 24 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165574
-#EXTINF:-1,PT| FOX NEWS FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165568
-#EXTINF:-1,âœ¦â—âœ¦ MUSICA  FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/212687
-#EXTINF:-1,PT| MTV PORTUGAL FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165583
-#EXTINF:-1,PT| TRACE TOCA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165585
-#EXTINF:-1,PT| TRACE URBAN FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165584
-#EXTINF:-1,PT| AFRO MUSIC FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/378287
-#EXTINF:-1,PT| TRAVEL CH FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165536
-#EXTINF:-1,PT| KURIAKOS MUSIC FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/400163672
-#EXTINF:-1,PT| ZAP VIVA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165504
-#EXTINF:-1,PT| MEZZO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165588
-#EXTINF:-1,PT| VH1 FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165587
-#EXTINF:-1,PT| MCM POP FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165586
-#EXTINF:-1,âœ¦â—âœ¦ SERIES FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165491
-#EXTINF:-1,PT| CINEMUNDO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165505
-#EXTINF:-1,PT| HOLLYWOOD FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165488
-#EXTINF:-1,âœ¦â—âœ¦ CULTURA FHD âœ¦â—âœ¦ 
-http://test.thesmartiptv.com:900/9795803908/8947457935/165531
-#EXTINF:-1,PT| CAZA E PESCA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165540
-#EXTINF:-1,PT| CASA E COZINHA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165542
-#EXTINF:-1,PT| DISCOVERY FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165534
-#EXTINF:-1,PT| HISTORIA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165538
-#EXTINF:-1,PT| ID INVESTIGATION DISCOVERY FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165535
-#EXTINF:-1,PT| NAT GEO FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165532
-#EXTINF:-1,PT| NAT GEO WILD FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165533
-#EXTINF:-1,PT| ODISSEIA FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165537
-#EXTINF:-1,PT| TLC FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165547
-#EXTINF:-1,PT| CALAVISION FHD
-http://test.thesmartiptv.com:900/9795803908/8947457935/165480
-
 
