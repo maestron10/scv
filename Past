@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Benfica TV 
+http://cdnrede.com:80/sophia/sophia/207166
+#EXTINF:-1,Benfica TV
+http://nasasat1.net:8080/arzu.ozensoy/13032012zzt/135282
+#EXTINF:-1,Benfica TV
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19926
+#EXTINF:-1,Benfica TV 
 http://satelliteiptv.xyz:8080/b8nx4swgse/fdcnkvs5x9/12520
 #EXTINF:-1,Benfica TV 
 http://satelliteiptv.xyz:8080/b8nx4swgse/fdcnkvs5x9/7534
-#EXTINF:-1,Benfica TV 
-http://cdnrede.com:80/sophia/sophia/207166
 #EXTINF:-1,Benfica TV 
 http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/176361
 #EXTINF:-1,Benfica TV 
