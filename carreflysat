@@ -1,4 +1,106 @@
 #EXTM3U
+#EXTINF:-1,=== Sophia ===
+#EXTINF:-1,Benfica TV 
+http://cdnrede.com:80/sophia/sophia/207166
+#EXTINF:-1,Eleven 1 
+http://cdnrede.com:80/sophia/sophia/207189
+#EXTINF:-1,Eleven 2 
+http://cdnrede.com:80/sophia/sophia/207190
+#EXTINF:-1,Eleven 3
+http://cdnrede.com:80/sophia/sophia/207191
+#EXTINF:-1,Eleven 4
+http://cdnrede.com:80/sophia/sophia/207192
+#EXTINF:-1,Eleven 5
+http://cdnrede.com:80/sophia/sophia/207193
+#EXTINF:-1,SPORT.TV1 
+http://cdnrede.com:80/sophia/sophia/207264
+#EXTINF:-1,SPORT.TV2
+http://cdnrede.com:80/sophia/sophia/207265
+#EXTINF:-1,SPORT.TV3 
+http://cdnrede.com:80/sophia/sophia/207266
+#EXTINF:-1,SPORT.TV4 
+http://cdnrede.com:80/sophia/sophia/207267
+#EXTINF:-1,SPORT.TV5
+http://cdnrede.com:80/sophia/sophia/207268
+#EXTINF:-1,TVCine TOP 
+http://cdnrede.com:80/sophia/sophia/207288
+#EXTINF:-1,TVCine EDITION 
+http://cdnrede.com:80/sophia/sophia/207286
+#EXTINF:-1,TVCine EMOTION 
+http://cdnrede.com:80/sophia/sophia/207287
+#EXTINF:-1,TVCine ACTION 
+http://cdnrede.com:80/sophia/sophia/207285
+#EXTINF:-1,=== Swedish ===
+#EXTINF:-1,Benfica TV 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68985
+#EXTINF:-1,Eleven 1 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69004
+#EXTINF:-1,Eleven 2 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69007
+#EXTINF:-1,Eleven 3
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69010
+#EXTINF:-1,Eleven 4
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69011
+#EXTINF:-1,Eleven 5
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69012
+#EXTINF:-1,SPORT.TV1 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68988
+#EXTINF:-1,SPORT.TV2
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68991
+#EXTINF:-1,SPORT.TV3 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68994
+#EXTINF:-1,SPORT.TV4 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68996
+#EXTINF:-1,SPORT.TV5
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68998
+#EXTINF:-1,SKY SPORTS F1
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/24460
+#EXTINF:-1,TVCine TOP 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69053
+#EXTINF:-1,TVCine EDITION 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69055
+#EXTINF:-1,TVCine EMOTION 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69057
+#EXTINF:-1,TVCine ACTION 
+http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69059
+#EXTINF:-1,=== Gordillo ===
+#EXTINF:-1,Benfica TV 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/20198
+#EXTINF:-1,Eleven 1 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/20196
+#EXTINF:-1,Eleven 2 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/20197
+#EXTINF:-1,Eleven 3
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19955
+#EXTINF:-1,Eleven 4
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19959
+#EXTINF:-1,Eleven 5
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19961
+#EXTINF:-1,SPORT.TV1 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/20194
+#EXTINF:-1,SPORT.TV2
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/20195
+#EXTINF:-1,SPORT.TV3 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19938
+#EXTINF:-1,SPORT.TV4 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19942
+#EXTINF:-1,SPORT.TV5
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19945
+#EXTINF:-1,SKY SPORTS F1
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/20757
+#EXTINF:-1,TVCine TOP 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19974
+#EXTINF:-1,TVCine EDITION 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19976
+#EXTINF:-1,TVCine EMOTION 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19978
+#EXTINF:-1,TVCine ACTION 
+http://cableskynetv.sytes.net:1935/Juanjogordillo/Bahakdiwpq/19980
+
+
+
+
+
 #EXTINF:-1,======Live Main======
 #EXTINF:-1,RTP1 
 http://line.live-main.live:80/4DAF57/A6F765/105698
@@ -134,349 +236,4 @@ http://line.live-main.live:80/4DAF57/A6F765/426944
 http://line.live-main.live:80/4DAF57/A6F765/426947
 #EXTINF:-1,[PT] [HD] FLIX MOVIES DOCUMENTARY HD
 http://line.live-main.live:80/4DAF57/A6F765/430625
-
-#EXTINF:-1,======ANlkz5365======
-#EXTINF:-1,RTP1 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162611
-#EXTINF:-1,RTP2 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664
-#EXTINF:-1,SIC 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169304
-#EXTINF:-1,TVI 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169303
-#EXTINF:-1,RTP 3
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136263
-#EXTINF:-1,SIC Notícias 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2219
-#EXTINF:-1,TVI 24 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2221
-#EXTINF:-1,CMTV 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204
-#EXTINF:-1,TVI Reality 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136659
-#EXTINF:-1,SIC Mulher 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2218
-#EXTINF:-1,SIC Radical 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136264
-#EXTINF:-1,Sic Caras
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136630
-#EXTINF:-1,===Desporto===
-#EXTINF:-1,A Bola TV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136661
-#EXTINF:-1,Canal 11 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205660
-#EXTINF:-1,Benfica TV 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205659
-#EXTINF:-1,Benfica TV 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/271763
-#EXTINF:-1,Eleven Sports 1 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158069
-#EXTINF:-1,Eleven Sports 2 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158902
-#EXTINF:-1,Eleven Sports 3
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159765
-#EXTINF:-1,Eleven Sports 4
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159766
-#EXTINF:-1,Eleven Sports 5
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159767
-#EXTINF:-1,SPORT.TV+ 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161969
-#EXTINF:-1,SPORT.TV1 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761
-#EXTINF:-1,SPORT.TV2 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667
-#EXTINF:-1,SPORT.TV3 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668
-#EXTINF:-1,SPORT.TV4 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458
-#EXTINF:-1,SPORT.TV5 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1459
-#EXTINF:-1,Eurosport 1
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/252144
-#EXTINF:-1,Eurosport 2
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132911
-#EXTINF:-1,Sky Sports F1 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234492
-#EXTINF:-1,Porto Canal
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2210
-#EXTINF:-1,=== Filmes ===
-#EXTINF:-1,NOS Studios 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205662
-#EXTINF:-1,TVCine TOP 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2234
-#EXTINF:-1,TVCine EDITION 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2235
-#EXTINF:-1,TVCine EMOTION 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2236
-#EXTINF:-1,TVCine ACTION 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2237
-#EXTINF:-1,Hollywood 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/221898
-#EXTINF:-1,Cinemundo 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132905
-#EXTINF:-1,FOX Movies 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374641
-#EXTINF:-1,AXN Movies 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205657
-#EXTINF:-1,SyFy 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374644
-#EXTINF:-1,AMC 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209534
-#EXTINF:-1,AXN 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205656
-#EXTINF:-1,AXN White 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205658
-#EXTINF:-1,FOX 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205661
-#EXTINF:-1,FOX CRIME 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209536
-#EXTINF:-1,FOX Comedy 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2208
-#EXTINF:-1,FOX LIFE 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/233866
-#EXTINF:-1,Discovery Channel 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/272331
-#EXTINF:-1,Nat Geo Wild 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2228
-#EXTINF:-1,History Channel 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2227
-#EXTINF:-1,Odisseia 
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136678
-#EXTINF:-1,======Megacdn======
-#EXTINF:-1,RTP1 
-http://line.megacdn.live:900/9781869507/3510368185/165733
-#EXTINF:-1,RTP2 
-http://line.megacdn.live:900/9781869507/3510368185/165734
-#EXTINF:-1,SIC 
-http://line.megacdn.live:900/9781869507/3510368185/165829
-#EXTINF:-1,TVI 
-http://line.megacdn.live:900/9781869507/3510368185/165740
-#EXTINF:-1,RTP 3
-http://line.megacdn.live:900/9781869507/3510368185/165735
-#EXTINF:-1,SIC Notícias 
-http://line.megacdn.live:900/9781869507/3510368185/165813
-#EXTINF:-1,TVI 24 
-http://line.megacdn.live:900/9781869507/3510368185/165811
-#EXTINF:-1,CMTV 
-http://line.megacdn.live:900/9781869507/3510368185/165545
-#EXTINF:-1,TVI Ficção 
-http://line.megacdn.live:900/9781869507/3510368185/165750
-#EXTINF:-1,TVI Reality 
-http://line.megacdn.live:900/9781869507/3510368185/165717
-#EXTINF:-1,SIC Mulher 
-http://line.megacdn.live:900/9781869507/3510368185/165627
-#EXTINF:-1,SIC Radical 
-http://line.megacdn.live:900/9781869507/3510368185/165628
-#EXTINF:-1,Sic Caras
-http://line.megacdn.live:900/9781869507/3510368185/165629
-#EXTINF:-1,===Desporto===
-#EXTINF:-1,A Bola TV
-http://line.megacdn.live:900/9781869507/3510368185/165481
-#EXTINF:-1,Canal 11 
-http://line.megacdn.live:900/9781869507/3510368185/165510
-#EXTINF:-1,SPORT.TV+ 
-http://line.megacdn.live:900/9781869507/3510368185/165516
-#EXTINF:-1,SPORT.TV1 
-http://line.megacdn.live:900/9781869507/3510368185/165511
-
-
-#EXTINF:-1,SPORT.TV2 
-http://line.megacdn.live:900/9781869507/3510368185/165512
-#EXTINF:-1,SPORT.TV3 
-http://line.megacdn.live:900/9781869507/3510368185/165513
-#EXTINF:-1,SPORT.TV4 
-http://line.megacdn.live:900/9781869507/3510368185/165514
-#EXTINF:-1,SPORT.TV5 
-http://line.megacdn.live:900/9781869507/3510368185/165515
-#EXTINF:-1,Benfica TV 
-http://line.megacdn.live:900/9781869507/3510368185/165605
-#EXTINF:-1,Benfica TV 
-http://line.megacdn.live:900/9781869507/3510368185/165526
-#EXTINF:-1,Eleven Sports 1 
-http://line.megacdn.live:900/9781869507/3510368185/165518
-#EXTINF:-1,Eleven Sports 2 
-http://line.megacdn.live:900/9781869507/3510368185/165519
-#EXTINF:-1,Eleven Sports 3
-http://line.megacdn.live:900/9781869507/3510368185/165520
-#EXTINF:-1,Eleven Sports 4
-http://line.megacdn.live:900/9781869507/3510368185/165521
-#EXTINF:-1,Eleven Sports 5
-http://line.megacdn.live:900/9781869507/3510368185/165522
-#EXTINF:-1,Eurosport 1
-http://line.megacdn.live:900/9781869507/3510368185/165524
-#EXTINF:-1,Eurosport 2
-http://line.megacdn.live:900/9781869507/3510368185/165525
-#EXTINF:-1,Sky Sports F1 
-http://line.megacdn.live:900/9781869507/3510368185/153701
-#EXTINF:-1,Porto Canal
-http://line.megacdn.live:900/9781869507/3510368185/165474
-#EXTINF:-1,=== Filmes ===
-#EXTINF:-1,NOS Studios 
-http://line.megacdn.live:900/9781869507/3510368185/165506
-#EXTINF:-1,TVCine TOP 
-http://line.megacdn.live:900/9781869507/3510368185/165484
-#EXTINF:-1,TVCine EDITION 
-http://line.megacdn.live:900/9781869507/3510368185/165485
-#EXTINF:-1,TVCine EMOTION 
-http://line.megacdn.live:900/9781869507/3510368185/165486
-#EXTINF:-1,TVCine ACTION 
-http://line.megacdn.live:900/9781869507/3510368185/165487
-#EXTINF:-1,Hollywood 
-http://line.megacdn.live:900/9781869507/3510368185/165488
-#EXTINF:-1,Cinemundo 
-http://line.megacdn.live:900/9781869507/3510368185/165505
-#EXTINF:-1,FOX Movies 
-http://line.megacdn.live:900/9781869507/3510368185/165499
-#EXTINF:-1,AXN Movies 
-http://line.megacdn.live:900/9781869507/3510368185/165493
-#EXTINF:-1,SyFy 
-http://line.megacdn.live:900/9781869507/3510368185/165503
-#EXTINF:-1,AMC 
-http://line.megacdn.live:900/9781869507/3510368185/165489
-#EXTINF:-1,AXN 
-http://line.megacdn.live:900/9781869507/3510368185/165492
-#EXTINF:-1,AXN White 
-http://line.megacdn.live:900/9781869507/3510368185/165494
-#EXTINF:-1,FOX 
-http://line.megacdn.live:900/9781869507/3510368185/165495
-#EXTINF:-1,FOX CRIME 
-http://line.megacdn.live:900/9781869507/3510368185/165497
-#EXTINF:-1,FOX Comedy 
-http://line.megacdn.live:900/9781869507/3510368185/165498
-#EXTINF:-1,FOX LIFE 
-http://line.megacdn.live:900/9781869507/3510368185/165496
-#EXTINF:-1,Discovery Channel 
-http://line.megacdn.live:900/9781869507/3510368185/165534
-#EXTINF:-1,ID Investigation Discovery
-http://line.megacdn.live:900/9781869507/3510368185/165535
-#EXTINF:-1,Nat Geo Wild 
-http://line.megacdn.live:900/9781869507/3510368185/165533
-#EXTINF:-1,National Geographic 
-http://line.megacdn.live:900/9781869507/3510368185/165532
-#EXTINF:-1,History Channel 
-http://line.megacdn.live:900/9781869507/3510368185/165538
-#EXTINF:-1,Odisseia 
-http://line.megacdn.live:900/9781869507/3510368185/165537
-#EXTINF:-1,======4Dream======
-#EXTINF:-1,RTP1 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439351
-#EXTINF:-1,RTP2 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439352
-#EXTINF:-1,SIC 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439354
-#EXTINF:-1,TVI 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439355
-#EXTINF:-1,RTP 3
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439353
-#EXTINF:-1,SIC Notícias 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/48594
-#EXTINF:-1,TVI 24 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439356
-#EXTINF:-1,CMTV 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439358
-#EXTINF:-1,TVI Ficção 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/273732
-#EXTINF:-1,TVI Reality 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/48591
-#EXTINF:-1,SIC Mulher 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/48595
-#EXTINF:-1,SIC Radical 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/48593
-#EXTINF:-1,Sic Caras
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439411
-#EXTINF:-1,===Desporto===
-#EXTINF:-1,A Bola TV
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439379
-#EXTINF:-1,Benfica TV 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439378
-#EXTINF:-1,Canal 11 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439361
-#EXTINF:-1,Eleven Sports 1 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439371
-#EXTINF:-1,Eleven Sports 2 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439372
-#EXTINF:-1,Eleven Sports 3
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439373
-#EXTINF:-1,Eleven Sports 4
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439374
-#EXTINF:-1,Eleven Sports 5
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439375
-#EXTINF:-1,Eleven Sports 6
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439376
-#EXTINF:-1,SPORT.TV+ 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439362
-#EXTINF:-1,SPORT.TV1 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439363
-#EXTINF:-1,SPORT.TV1 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439364
-#EXTINF:-1,SPORT.TV2 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439365
-#EXTINF:-1,SPORT.TV2 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439366
-#EXTINF:-1,SPORT.TV3 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439367
-#EXTINF:-1,SPORT.TV4 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439368
-#EXTINF:-1,SPORT.TV5 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439369
-#EXTINF:-1,Eurosport 1
-http://dream4k.co:8080/nipep39596/0c4bqefx55/48644
-#EXTINF:-1,Eurosport 2
-http://dream4k.co:8080/nipep39596/0c4bqefx55/48645
-#EXTINF:-1,Sky Sports F1 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/64485
-#EXTINF:-1,Porto Canal
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439359
-#EXTINF:-1,Sporting TV 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439377
-#EXTINF:-1,=== Filmes ===
-#EXTINF:-1,AMC 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439410
-#EXTINF:-1,AXN 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439392
-#EXTINF:-1,AXN Movies 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439393
-#EXTINF:-1,AXN White 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439394
-#EXTINF:-1,Cinemundo 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439395
-#EXTINF:-1,FOX 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439384
-#EXTINF:-1,FOX CRIME 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439385
-#EXTINF:-1,FOX Movies 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439387
-#EXTINF:-1,FOX LIFE 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439386
-#EXTINF:-1,Hollywood 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439396
-#EXTINF:-1,NOS Studios 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439397
-#EXTINF:-1,TVCine TOP 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439388
-#EXTINF:-1,TVCine EDITION 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439390
-#EXTINF:-1,TVCine EMOTION 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439391
-#EXTINF:-1,TVCine ACTION 
-http://dream4k.co:8080/nipep39596/0c4bqefx55/439389
-#EXTINF:-1,TV Boxoffice 1
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240226
-#EXTINF:-1,TV Boxoffice 2
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240227
-#EXTINF:-1,TV Boxoffice 3
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240228
-#EXTINF:-1,TV Boxoffice 4
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240229
-#EXTINF:-1,TV Boxoffice 5
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240230
-#EXTINF:-1,TV Boxoffice 6
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240231
-#EXTINF:-1,TV Boxoffice 7
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240232
-#EXTINF:-1,TV Boxoffice 8
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240233
-#EXTINF:-1,TV Boxoffice 9
-http://dream4k.co:8080/nipep39596/0c4bqefx55/240234
-#EXTINF:-1,TV Boxoffice 10
 
