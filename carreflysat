@@ -1,35 +1,38 @@
 #EXTM3U
-#EXTINF:-1,=== Sophia ===
+#EXTINF:-1,=== CDIPlus ===
+
+
 #EXTINF:-1,Benfica TV 
-http://cdnrede.com:80/sophia/sophia/207166
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15570
 #EXTINF:-1,Eleven 1 
-http://cdnrede.com:80/sophia/sophia/207189
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/1194209
 #EXTINF:-1,Eleven 2 
-http://cdnrede.com:80/sophia/sophia/207190
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/1194210
 #EXTINF:-1,Eleven 3
-http://cdnrede.com:80/sophia/sophia/207191
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/1194211
 #EXTINF:-1,Eleven 4
-http://cdnrede.com:80/sophia/sophia/207192
-#EXTINF:-1,Eleven 5
-http://cdnrede.com:80/sophia/sophia/207193
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/1194212
 #EXTINF:-1,SPORT.TV1 
-http://cdnrede.com:80/sophia/sophia/207264
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15580
 #EXTINF:-1,SPORT.TV2
-http://cdnrede.com:80/sophia/sophia/207265
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15579
 #EXTINF:-1,SPORT.TV3 
-http://cdnrede.com:80/sophia/sophia/207266
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15578
 #EXTINF:-1,SPORT.TV4 
-http://cdnrede.com:80/sophia/sophia/207267
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15577
 #EXTINF:-1,SPORT.TV5
-http://cdnrede.com:80/sophia/sophia/207268
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15576
+#EXTINF:-1,SKY SPORTS F1
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/19606
 #EXTINF:-1,TVCine TOP 
-http://cdnrede.com:80/sophia/sophia/207288
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15600
 #EXTINF:-1,TVCine EDITION 
-http://cdnrede.com:80/sophia/sophia/207286
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15599
 #EXTINF:-1,TVCine EMOTION 
-http://cdnrede.com:80/sophia/sophia/207287
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15598
 #EXTINF:-1,TVCine ACTION 
-http://cdnrede.com:80/sophia/sophia/207285
+http://cdiplus.org:8080/mfAVGGFfaw/C3gFVmTxmu/15597
+
 #EXTINF:-1,=== Swedish ===
 #EXTINF:-1,Benfica TV 
 http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/68985
@@ -63,37 +66,58 @@ http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69055
 http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69057
 #EXTINF:-1,TVCine ACTION 
 http://bestswedishstream.net:2095/pUTsfKUQ/bSGobje6/69059
-#EXTINF:-1,=== Play ===
+#EXTINF:-1,===Paco  ===
+
+
 #EXTINF:-1,Benfica TV 
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Ftw0VqxMflyC_5I2RP92ZL1hpZKd0f3tVhDTz8VkQil
-#EXTINF:-1,Eleven 1
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Lal4UwqpGo5CmPuQTkoTtgtebd0eNKRTXZfZeFFIquH
-#EXTINF:-1,Eleven 2
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Lal4UwqpGo5CmPuQTkoTtg6olbDgxteq4w0c06vf0ls
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7030
+#EXTINF:-1,Eleven 1 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7052
+#EXTINF:-1,Eleven 2 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7056
 #EXTINF:-1,Eleven 3
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Lal4UwqpGo5CmPuQTkoTtiNmG7eBmqeB53Bg-i9WGIm
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7059
 #EXTINF:-1,Eleven 4
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Lal4UwqpGo5CmPuQTkoTth9PFt5VTyw3RAWf_pWzFuH
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7062
 #EXTINF:-1,Eleven 5
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Lal4UwqpGo5CmPuQTkoTtj6vJW1KTnUsUf-Sr8jZko7
-#EXTINF:-1,Eleven 6
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36Lal4UwqpGo5CmPuQTkoTtgp8h6V8xtXF0ljveJM1YPI
-#EXTINF:-1,SPORT.TV1
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauCvOybvd8TSVsgA5PGo9Z7E
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7064
+#EXTINF:-1,SPORT.TV1 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7035
 #EXTINF:-1,SPORT.TV2
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauABAvwbVrXBxnT5bBaIKo5Z
-#EXTINF:-1,SPORT.TV3
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauArWLF4df6-knt6bADiHCCb
-#EXTINF:-1,SPORT.TV4
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36PIt9J8RnL-QtY14ahUolJc7innu9C6MWxVvXNFfbd87
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7039
+#EXTINF:-1,SPORT.TV3 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7042
+#EXTINF:-1,SPORT.TV4 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7046
 #EXTINF:-1,SPORT.TV5
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36PIt9J8RnL-QtY14ahUolJcFDf4jjbLSG5nEOQ1dCloN
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7049
+#EXTINF:-1,SKY SPORTS F1
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7251
 #EXTINF:-1,TVCine TOP 
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauD5P8r31VFlLQFubnFc5XNr
-#EXTINF:-1,TVCine EDITION
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauCN-Fsvq8n-Hy-5kh6rU9-q
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7077
+#EXTINF:-1,TVCine EDITION 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7079
 #EXTINF:-1,TVCine EMOTION 
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauBaOKqXfraVhdjJVZcwjCss
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7081
 #EXTINF:-1,TVCine ACTION 
-http://instanttv.info:8080/play/oBzymC5e5ph3iPm9dta36A1NneWQaETvKXqlUQJIauCC91lANgqcgLfnzABK6SxJ
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7083
+#EXTINF:-1,NETFLIX 
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
