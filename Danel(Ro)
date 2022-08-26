@@ -1,40 +1,40 @@
 #EXTM3U
-#EXTINF:-1,=== tmx ===
+#EXTINF:-1,=== tmx (ro8) ===
 #EXTINF:-1,Benfica TV 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205736
+http://txm.flysat.live:80/152024458531226/152045185392858/205736
 #EXTINF:-1,Benfica TV 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205601
+http://txm.flysat.live:80/152024458531226/152045185392858/205601
 #EXTINF:-1,Eleven 1 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205607
+http://txm.flysat.live:80/152024458531226/152045185392858/205607
 #EXTINF:-1,Eleven 2 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205606
+http://txm.flysat.live:80/152024458531226/152045185392858/205606
 #EXTINF:-1,Eleven 3
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205605
+http://txm.flysat.live:80/152024458531226/152045185392858/205605
 #EXTINF:-1,Eleven 4
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205604
+http://txm.flysat.live:80/152024458531226/152045185392858/205604
 #EXTINF:-1,Eleven 5
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205603
+http://txm.flysat.live:80/152024458531226/152045185392858/205603
 #EXTINF:-1,SPORT.TV1 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205610
+http://txm.flysat.live:80/152024458531226/152045185392858/205610
 #EXTINF:-1,SPORT.TV2
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205609
+http://txm.flysat.live:80/152024458531226/152045185392858/205609
 #EXTINF:-1,SPORT.TV3 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205608
+http://txm.flysat.live:80/152024458531226/152045185392858/205608
 #EXTINF:-1,SPORT.TV4 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205744
+http://txm.flysat.live:80/152024458531226/152045185392858/205744
 #EXTINF:-1,SPORT.TV5
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205743
+http://txm.flysat.live:80/152024458531226/152045185392858/205743
 #EXTINF:-1,SKY SPORTS F1
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/199246
+http://txm.flysat.live:80/152024458531226/152045185392858/199246
 #EXTINF:-1,TVCine TOP 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205590
+http://txm.flysat.live:80/152024458531226/152045185392858/205590
 #EXTINF:-1,TVCine EDITION 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205589
+http://txm.flysat.live:80/152024458531226/152045185392858/205589
 #EXTINF:-1,TVCine EMOTION 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205588
+http://txm.flysat.live:80/152024458531226/152045185392858/205588
 #EXTINF:-1,TVCine ACTION 
-http://txm.flysat.live:80/152035243547274/CWXMz5XtSM/205587
-#EXTINF:-1,=== tptv ===
+http://txm.flysat.live:80/152024458531226/152045185392858/205587
+#EXTINF:-1,=== tptv (ro7)===
 #EXTINF:-1,Benfica TV 
 http://tptv.cz:80/C565703D4A0F533/poBarhoJNR/107495
 #EXTINF:-1,Benfica TV 
@@ -69,7 +69,7 @@ http://tptv.cz:80/C565703D4A0F533/poBarhoJNR/107470
 http://tptv.cz:80/C565703D4A0F533/poBarhoJNR/107471
 #EXTINF:-1,TVCine ACTION 
 http://tptv.cz:80/C565703D4A0F533/poBarhoJNR/107472
-#EXTINF:-1,===Ky TV===
+#EXTINF:-1,===Ky TV(ro4)===
 #EXTINF:-1,Benfica TV 
 http://ky-iptv.com:80/Chan1234/Chan1234/399240.ts
 #EXTINF:-1,Eleven 1 
@@ -102,36 +102,37 @@ http://ky-iptv.com:80/Chan1234/Chan1234/399442.ts
 http://ky-iptv.com:80/Chan1234/Chan1234/399445.ts
 #EXTINF:-1,TVCine ACTION 
 http://ky-iptv.com:80/Chan1234/Chan1234/399439.ts
-#EXTINF:-1,=== CDIPlus ===
+#EXTINF:-1,=== CDIPlus(ro1) ===
 #EXTINF:-1,Benfica TV 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15570
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15570
 #EXTINF:-1,Eleven 1 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1194209
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/1194209
 #EXTINF:-1,Eleven 2 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1194210
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/1194210
 #EXTINF:-1,Eleven 3
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1194211
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/1194211
 #EXTINF:-1,Eleven 4
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/1194212
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/1194212
 #EXTINF:-1,Eleven 5
 
 #EXTINF:-1,SPORT.TV1 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15580
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15580
 #EXTINF:-1,SPORT.TV2
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15579
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15579
 #EXTINF:-1,SPORT.TV3 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15578
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15578
 #EXTINF:-1,SPORT.TV4 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15577
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15577
 #EXTINF:-1,SPORT.TV5
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15576
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15576
 #EXTINF:-1,SKY SPORTS F1
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/19606
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/19606
 #EXTINF:-1,TVCine TOP 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15600
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15600
 #EXTINF:-1,TVCine EDITION 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15599
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15599
 #EXTINF:-1,TVCine EMOTION 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15598
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15598
 #EXTINF:-1,TVCine ACTION 
-http://cdiplus.org:8080/6TSXpXFH54/gLdLW2fqfl/15597
+http://cdiplus.org:8080/58TTs2juBq/IMYpFNPSN4/15597
+
