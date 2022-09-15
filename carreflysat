@@ -1,16 +1,37 @@
 #EXTM3U
-#EXTINF:-1,===Gom===
+#EXTINF:-1,=== Friend ===
+#EXTINF:-1,Benfica TV 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/176361
+#EXTINF:-1,Eleven 1 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58550
+#EXTINF:-1,Eleven 2 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58551
+#EXTINF:-1,Eleven 3
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58552
+#EXTINF:-1,Eleven 4
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58553
+#EXTINF:-1,Eleven 5
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58554
 #EXTINF:-1,SPORT.TV1 
-http://gomn.xplus2.xyz:2095/NEW_LIVE7102673620noom/9248044706/167
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58592
 #EXTINF:-1,SPORT.TV2
-http://gomn.xplus2.xyz:2095/NEW_LIVE7102673620noom/9248044706/168
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58593
 #EXTINF:-1,SPORT.TV3 
-http://gomn.xplus2.xyz:2095/NEW_LIVE7102673620noom/9248044706/169
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58594
 #EXTINF:-1,SPORT.TV4 
-http://gomn.xplus2.xyz:2095/NEW_LIVE7102673620noom/9248044706/170
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58595
 #EXTINF:-1,SPORT.TV5
-http://gomn.xplus2.xyz:2095/NEW_LIVE7102673620noom/9248044706/171
-
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/205120
+#EXTINF:-1,SKY SPORTS F1
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/82729
+#EXTINF:-1,TVCine TOP 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58607
+#EXTINF:-1,TVCine EDITION 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58608
+#EXTINF:-1,TVCine EMOTION 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58609
+#EXTINF:-1,TVCine ACTION 
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58610
 #EXTINF:-1,=== Hampton ===
 #EXTINF:-1,Benfica TV 
 http://live.lordstreams.co:8080/hampton/hampton/953
@@ -46,104 +67,47 @@ http://live.lordstreams.co:8080/hampton/hampton/821
 http://live.lordstreams.co:8080/hampton/hampton/819
 #EXTINF:-1,TVCine ACTION 
 http://live.lordstreams.co:8080/hampton/hampton/817
-#EXTINF:-1,===Paco  ===
-#EXTINF:-1,Benfica TV 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7030
-#EXTINF:-1,Eleven 1 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7052
-#EXTINF:-1,Eleven 2 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7056
+#EXTINF:-1,****Wanice***
+#EXTINF:-1,BenficaTV 1 HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/3239
+#EXTINF:-1,BenficaTV 1 HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/3238
+#EXTINF:-1,A BOLA TV HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/3248
+#EXTINF:-1,Canal 11 HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/29378
+#EXTINF:-1,Eleven 1
+http://ku03.wanicelife.com:8880/3m470012/36285887/29371
+#EXTINF:-1,Eleven 2
+http://ku03.wanicelife.com:8880/3m470012/36285887/29370
 #EXTINF:-1,Eleven 3
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7059
+http://ku03.wanicelife.com:8880/3m470012/36285887/29369
 #EXTINF:-1,Eleven 4
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7062
+http://ku03.wanicelife.com:8880/3m470012/36285887/29368
 #EXTINF:-1,Eleven 5
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7064
-#EXTINF:-1,SPORT.TV1 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7035
+http://ku03.wanicelife.com:8880/3m470012/36285887/29334
+#EXTINF:-1,SPORT.TV
+http://ku03.wanicelife.com:8880/3m470012/36285887/3187
+#EXTINF:-1,SPORT.TV1
+http://ku03.wanicelife.com:8880/3m470012/36285887/29392
 #EXTINF:-1,SPORT.TV2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7039
-#EXTINF:-1,SPORT.TV3 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7042
-#EXTINF:-1,SPORT.TV4 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7046
+http://ku03.wanicelife.com:8880/3m470012/36285887/29391
+#EXTINF:-1,SPORT.TV3
+http://ku03.wanicelife.com:8880/3m470012/36285887/29390
+#EXTINF:-1,SPORT.TV4
+http://ku03.wanicelife.com:8880/3m470012/36285887/29389
 #EXTINF:-1,SPORT.TV5
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7049
-#EXTINF:-1,SKY SPORTS F1
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7251
-#EXTINF:-1,TVCine TOP 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7077
-#EXTINF:-1,TVCine EDITION 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7079
-#EXTINF:-1,TVCine EMOTION 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7081
-#EXTINF:-1,TVCine ACTION 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7083
-#EXTINF:-1,NETFLIX 
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/7021
-#EXTINF:-1,=== Kuchini ===
-#EXTINF:-1,Benfica TV 
-http://kuchini.site:8080/F18528/9c644af0/1497
-#EXTINF:-1,Eleven 1 
-http://kuchini.site:8080/F18528/9c644af0/1499
-#EXTINF:-1,Eleven 2 
-http://kuchini.site:8080/F18528/9c644af0/1503
-#EXTINF:-1,Eleven 3
-http://kuchini.site:8080/F18528/9c644af0/1506
-#EXTINF:-1,Eleven 4
-http://kuchini.site:8080/F18528/9c644af0/1509
-#EXTINF:-1,Eleven 5
-http://kuchini.site:8080/F18528/9c644af0/1512
-#EXTINF:-1,SPORT.TV1 
-http://kuchini.site:8080/F18528/9c644af0/1483
-#EXTINF:-1,SPORT.TV2
-http://kuchini.site:8080/F18528/9c644af0/1486
-#EXTINF:-1,SPORT.TV3 
-http://kuchini.site:8080/F18528/9c644af0/1489
-#EXTINF:-1,SPORT.TV4 
-http://kuchini.site:8080/F18528/9c644af0/1492
-#EXTINF:-1,SPORT.TV5
-http://kuchini.site:8080/F18528/9c644af0/1495
-#EXTINF:-1,SKY SPORTS F1
-http://kuchini.site:8080/F18528/9c644af0/265
-#EXTINF:-1,TVCine TOP 
-http://kuchini.site:8080/F18528/9c644af0/1446
-#EXTINF:-1,TVCine EDITION 
-http://kuchini.site:8080/F18528/9c644af0/82254
-#EXTINF:-1,TVCine EMOTION 
-http://kuchini.site:8080/F18528/9c644af0/1448
-#EXTINF:-1,TVCine ACTION 
-http://kuchini.site:8080/F18528/9c644af0/1452
-#EXTINF:-1,=== Friend ===
-#EXTINF:-1,Benfica TV 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/176361
-#EXTINF:-1,Eleven 1 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58550
-#EXTINF:-1,Eleven 2 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58551
-#EXTINF:-1,Eleven 3
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58552
-#EXTINF:-1,Eleven 4
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58553
-#EXTINF:-1,Eleven 5
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58554
-#EXTINF:-1,SPORT.TV1 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58592
-#EXTINF:-1,SPORT.TV2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58593
-#EXTINF:-1,SPORT.TV3 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58594
-#EXTINF:-1,SPORT.TV4 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58595
-#EXTINF:-1,SPORT.TV5
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/205120
-#EXTINF:-1,SKY SPORTS F1
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/82729
-#EXTINF:-1,TVCine TOP 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58607
-#EXTINF:-1,TVCine EDITION 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58608
-#EXTINF:-1,TVCine EMOTION 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58609
-#EXTINF:-1,TVCine ACTION 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58610
+http://ku03.wanicelife.com:8880/3m470012/36285887/49958
+#EXTINF:-1,Sky Sports F1
+http://ku03.wanicelife.com:8880/3m470012/36285887/2876
+#EXTINF:-1,TVCINE TOP HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/29359
+#EXTINF:-1,TVCINE EDITION HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/3180
+#EXTINF:-1,TVCINE EMOTION HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/3179
+#EXTINF:-1,TVCINE ACTION HD
+http://ku03.wanicelife.com:8880/3m470012/36285887/29335
+#EXTINF:-1,AXN HD PT
+http://ku03.wanicelife.com:8880/3m470012/36285887/3244
+
