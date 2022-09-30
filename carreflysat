@@ -1,37 +1,5 @@
 #EXTM3U
-#EXTINF:-1,=== Friend ===
-#EXTINF:-1,Benfica TV 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/176361
-#EXTINF:-1,Eleven 1 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58550
-#EXTINF:-1,Eleven 2 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58551
-#EXTINF:-1,Eleven 3
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58552
-#EXTINF:-1,Eleven 4
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58553
-#EXTINF:-1,Eleven 5
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58554
-#EXTINF:-1,SPORT.TV1 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58592
-#EXTINF:-1,SPORT.TV2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58593
-#EXTINF:-1,SPORT.TV3 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58594
-#EXTINF:-1,SPORT.TV4 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58595
-#EXTINF:-1,SPORT.TV5
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/205120
-#EXTINF:-1,SKY SPORTS F1
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/82729
-#EXTINF:-1,TVCine TOP 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58607
-#EXTINF:-1,TVCine EDITION 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58608
-#EXTINF:-1,TVCine EMOTION 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58609
-#EXTINF:-1,TVCine ACTION 
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/58610
+
 #EXTINF:-1,=== Hampton ===
 #EXTINF:-1,Benfica TV 
 http://live.lordstreams.co:8080/hampton/hampton/953
