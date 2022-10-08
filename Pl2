@@ -59,4 +59,36 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2527/index.m3u8
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2528/index.m3u8
 #EXTINF: -1,SPORT.TV 5
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2529/index.m3u8
+#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,Benfica TV 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1497
+#EXTINF:-1,Eleven 1 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1499
+#EXTINF:-1,Eleven 2 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1503
+#EXTINF:-1,Eleven 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1506
+#EXTINF:-1,Eleven 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1509
+#EXTINF:-1,Eleven 5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1512
+#EXTINF:-1,SPORT.TV1 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1483
+#EXTINF:-1,SPORT.TV2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1486
+#EXTINF:-1,SPORT.TV3 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1489
+#EXTINF:-1,SPORT.TV4 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1492
+#EXTINF:-1,SPORT.TV5
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1495
+#EXTINF:-1,TVCine TOP 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1446
+#EXTINF:-1,TVCine EDITION 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/82254
+#EXTINF:-1,TVCine EMOTION 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1448
+#EXTINF:-1,TVCine ACTION 
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1452
+
 
