@@ -1,38 +1,39 @@
 #EXTM3U
-
-#EXTINF:-1,=== IPTVstream  ===
+#EXTINF:-1,=== MegaOtt ===
 #EXTINF:-1,Benfica TV 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1497
+http://megaott.cx:900/1504419863/3B7B8B28/165605
+#EXTINF:-1,Benfica TV 
+http://megaott.cx:900/1504419863/3B7B8B28/165526
 #EXTINF:-1,Eleven 1 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1499
+http://megaott.cx:900/1504419863/3B7B8B28/165518
 #EXTINF:-1,Eleven 2 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1503
+http://megaott.cx:900/1504419863/3B7B8B28/165519
 #EXTINF:-1,Eleven 3
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1506
+http://megaott.cx:900/1504419863/3B7B8B28/165520
 #EXTINF:-1,Eleven 4
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1509
+http://megaott.cx:900/1504419863/3B7B8B28/165521
 #EXTINF:-1,Eleven 5
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1512
+http://megaott.cx:900/1504419863/3B7B8B28/165522
 #EXTINF:-1,SPORT.TV1 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1483
+http://megaott.cx:900/1504419863/3B7B8B28/165511
 #EXTINF:-1,SPORT.TV2
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1486
+http://megaott.cx:900/1504419863/3B7B8B28/165512
 #EXTINF:-1,SPORT.TV3 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1489
+http://megaott.cx:900/1504419863/3B7B8B28/165513
 #EXTINF:-1,SPORT.TV4 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1492
+http://megaott.cx:900/1504419863/3B7B8B28/165514
 #EXTINF:-1,SPORT.TV5
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1495
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1937
+http://megaott.cx:900/1504419863/3B7B8B28/165515
+#EXTINF:-1,SKY SPORTS F1
+http://megaott.cx:900/1504419863/3B7B8B28/191464
 #EXTINF:-1,TVCine TOP 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1446
+http://megaott.cx:900/1504419863/3B7B8B28/165484
 #EXTINF:-1,TVCine EDITION 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/82254
+http://megaott.cx:900/1504419863/3B7B8B28/165485
 #EXTINF:-1,TVCine EMOTION 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1448
+http://megaott.cx:900/1504419863/3B7B8B28/165486
 #EXTINF:-1,TVCine ACTION 
-http://iptvstream.xyz:8080/test-6cb86d/f24a/1452
+http://megaott.cx:900/1504419863/3B7B8B28/165487
 #EXTINF:-1,=== B4k ===
 #EXTINF:-1,Benfica TV 
 http://b.4k555.com:80/color251/qpUhwVSdd8/59934
