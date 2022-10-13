@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,=== XaulFam ===
+#EXTINF:-1,Benfica TV 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240043
+#EXTINF:-1,Benfica TV 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240054
+#EXTINF:-1,Eleven 1 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240114
+#EXTINF:-1,Eleven 2 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240119
+#EXTINF:-1,Eleven 3
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240130
+#EXTINF:-1,Eleven 4
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240134
+#EXTINF:-1,Eleven 5
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240138
+#EXTINF:-1,SPORT.TV1 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240311
+#EXTINF:-1,SPORT.TV2
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240317
+#EXTINF:-1,SPORT.TV3 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240323
+#EXTINF:-1,SPORT.TV4 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240329
+#EXTINF:-1,SPORT.TV5
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240336
+#EXTINF:-1,SKY SPORTS F1
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/238823
+#EXTINF:-1,TVCine TOP 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240391
+#EXTINF:-1,TVCine EDITION 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240383
+#EXTINF:-1,TVCine EMOTION 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240387
+#EXTINF:-1,TVCine ACTION 
+http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240380
+
 #EXTINF:-1,=== MegaOtt ===
 #EXTINF:-1,Benfica TV 
 http://megaott.cx:900/1504419863/3B7B8B28/165605
