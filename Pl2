@@ -1,4 +1,9 @@
 #EXTM3U
+
+
+
+
+
 #EXTINF:-1,=== Pandar ===
 #EXTINF:-1,Benfica TV 
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/200525
@@ -34,70 +39,6 @@ http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95340
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95341
 #EXTINF:-1,TVCine ACTION 
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95342
-#EXTINF:-1,=== IptvTree ===
-#EXTINF:-1,Benfica TV 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1497
-#EXTINF:-1,Eleven 1 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1499
-#EXTINF:-1,Eleven 2 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1503
-#EXTINF:-1,Eleven 3
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1506
-#EXTINF:-1,Eleven 4
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1509
-#EXTINF:-1,Eleven 5
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1512
-#EXTINF:-1,SPORT.TV1 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1483
-#EXTINF:-1,SPORT.TV2
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1486
-#EXTINF:-1,SPORT.TV3 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1489
-#EXTINF:-1,SPORT.TV4 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1492
-#EXTINF:-1,SPORT.TV5
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1495
-#EXTINF:-1,TVCine TOP 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1446
-#EXTINF:-1,TVCine EDITION 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/82254
-#EXTINF:-1,TVCine EMOTION 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1448
-#EXTINF:-1,TVCine ACTION 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1452
-#EXTINF:-1,=== cdn ===
-#EXTINF:-1,Benfica TV 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96884
-#EXTINF:-1,Eleven 1 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96873
-#EXTINF:-1,Eleven 2 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96874
-#EXTINF:-1,Eleven 3
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96875
-#EXTINF:-1,Eleven 4
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96876
-#EXTINF:-1,Eleven 5
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96877
-#EXTINF:-1,SPORT.TV1 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96879
-#EXTINF:-1,SPORT.TV2
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96880
-#EXTINF:-1,SPORT.TV3 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96881
-#EXTINF:-1,SPORT.TV4 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96882
-#EXTINF:-1,SPORT.TV5
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96883
-#EXTINF:-1,SKY SPORTS F1
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97204
-#EXTINF:-1,TVCine TOP 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96955
-#EXTINF:-1,TVCine EDITION 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96956
-#EXTINF:-1,TVCine EMOTION 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96957
-#EXTINF:-1,TVCine ACTION 
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96958
 #EXTINF:-1,=== Maxfolker ===
 #EXTINF: -1,Benfica TV 
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/19160/index.m3u8
@@ -121,76 +62,48 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2527/index.m3u8
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2528/index.m3u8
 #EXTINF: -1,SPORT.TV 5
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2529/index.m3u8
-#EXTINF:-1,=== German ===
-#EXTINF:-1,Benfica TV 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85358
-#EXTINF:-1,Benfica TV 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85358
-#EXTINF:-1,Eleven 1 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/105179
-#EXTINF:-1,Eleven 2 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/105180
-#EXTINF:-1,Eleven 3
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/105181
-#EXTINF:-1,Eleven 4
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/105182
-#EXTINF:-1,Eleven 5
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/105183
-#EXTINF:-1,SPORT.TV1 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85519
-#EXTINF:-1,SPORT.TV2
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85520
-#EXTINF:-1,SPORT.TV3 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85522
-#EXTINF:-1,SPORT.TV4
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85523
-#EXTINF:-1,SPORT.TV5
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85524
-#EXTINF:-1,SKY SPORTS F1
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/84817
-#EXTINF:-1,TVCine TOP 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85553
-#EXTINF:-1,TVCine EDITION 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85551
-#EXTINF:-1,TVCine EMOTION 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85552
-#EXTINF:-1,TVCine ACTION 
-http://12.balans12.xyz:50750/live:germanyiptvcz50/rbyCvR48fnUp/85549
-#EXTINF:-1,=== Live Easy ===
-#EXTINF:-1,Benfica TV 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/90453
-#EXTINF:-1,Benfica TV 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/70535
-#EXTINF:-1,Eleven 1 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/43981
-#EXTINF:-1,Eleven 2 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/43982
-#EXTINF:-1,Eleven 3
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/43983
-#EXTINF:-1,Eleven 4
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/43984
-#EXTINF:-1,Eleven 5
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/37862
-#EXTINF:-1,SPORT.TV1 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/90457
-#EXTINF:-1,SPORT.TV2
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/44114
-#EXTINF:-1,SPORT.TV3 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/70530
-#EXTINF:-1,SPORT.TV4 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/44117
-#EXTINF:-1,SPORT.TV5
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/44120
-#EXTINF:-1,SKY SPORTS F1
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/3067
-#EXTINF:-1,TVCine TOP 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/79960
-#EXTINF:-1,TVCine EDITION 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/79962
-#EXTINF:-1,TVCine EMOTION 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/79964
-#EXTINF:-1,TVCine ACTION 
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/79966
+
+#EXTINF:-1,=== Etc ===
+#EXTINF: -1,Benfica TV  HD
+http://etc12.xyz:900/3145831961/0544683977/165605
+#EXTINF: -1,Eleven 1
+http://etc12.xyz:900/3145831961/0544683977/165619
+#EXTINF: -1,Eleven 1
+http://etc12.xyz:900/3145831961/0544683977/27217
+#EXTINF: -1,Eleven 2
+http://etc12.xyz:900/3145831961/0544683977/165654
+#EXTINF: -1,Eleven 2
+http://etc12.xyz:900/3145831961/0544683977/27216
+#EXTINF: -1,Eleven 3
+http://etc12.xyz:900/3145831961/0544683977/165603
+#EXTINF: -1,Eleven 3
+http://etc12.xyz:900/3145831961/0544683977/27215
+#EXTINF: -1,Eleven 4
+http://etc12.xyz:900/3145831961/0544683977/165620
+#EXTINF: -1,Eleven 4
+http://etc12.xyz:900/3145831961/0544683977/27214
+#EXTINF: -1,Eleven 5
+http://etc12.xyz:900/3145831961/0544683977/165655
+#EXTINF: -1,Eleven 5
+http://etc12.xyz:900/3145831961/0544683977/27213
+#EXTINF: -1,Eleven 6
+http://etc12.xyz:900/3145831961/0544683977/165604
+#EXTINF: -1,SPORT.TV +
+http://etc12.xyz:900/3145831961/0544683977/165652
+#EXTINF: -1,SPORT.TV 1
+http://etc12.xyz:900/3145831961/0544683977/165647
+#EXTINF: -1,SPORT.TV 2
+http://etc12.xyz:900/3145831961/0544683977/165648
+#EXTINF: -1,SPORT.TV 3
+http://etc12.xyz:900/3145831961/0544683977/165649
+#EXTINF: -1,SPORT.TV 4
+http://etc12.xyz:900/3145831961/0544683977/165650
+#EXTINF: -1,SPORT.TV 5
+http://etc12.xyz:900/3145831961/0544683977/165651
+#EXTINF: -1,SPORT.TV 6
+http://etc12.xyz:900/3145831961/0544683977/400229659
+
+
 
 
 http://www.pandar.plus:25461/ooYojGgzUdJomvm/dZIF1Zsxfwsfpu8/127635
