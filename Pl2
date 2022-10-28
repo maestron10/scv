@@ -1,44 +1,54 @@
 #EXTM3U
-
-
-
-
-
-#EXTINF:-1,=== Pandar ===
+#EXTINF:-1,===sibfungold ===
 #EXTINF:-1,Benfica TV 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/200525
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/286
 #EXTINF:-1,Benfica TV 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95396
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49967
 #EXTINF:-1,Eleven 1 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50901
 #EXTINF:-1,Eleven 2 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50902
 #EXTINF:-1,Eleven 3
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53509
 #EXTINF:-1,Eleven 4
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95421
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53510
 #EXTINF:-1,Eleven 5
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53511
 #EXTINF:-1,SPORT.TV1 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95408
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/280
 #EXTINF:-1,SPORT.TV2
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95411
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/281
 #EXTINF:-1,SPORT.TV3 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95413
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/282
 #EXTINF:-1,SPORT.TV4 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95415
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/283
 #EXTINF:-1,SPORT.TV5
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95416
-#EXTINF:-1,SKY SPORTS F1
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/102231
-#EXTINF:-1,TVCine TOP 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95339
-#EXTINF:-1,TVCine EDITION 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95340
-#EXTINF:-1,TVCine EMOTION 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95341
-#EXTINF:-1,TVCine ACTION 
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95342
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/284
+#EXTINF:-1,=== AbcNews ===
+#EXTINF:-1,Benfica TV 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/3239
+#EXTINF:-1,Benfica TV 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/3238
+#EXTINF:-1,Eleven 1 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/49966
+#EXTINF:-1,Eleven 2 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/49032
+#EXTINF:-1,Eleven 3
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29371
+#EXTINF:-1,Eleven 4
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29370
+#EXTINF:-1,Eleven 5
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29369
+#EXTINF:-1,SPORT.TV1 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29392
+#EXTINF:-1,SPORT.TV2
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29391
+#EXTINF:-1,SPORT.TV3 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29390
+#EXTINF:-1,SPORT.TV4 
+http://kk03es.abcnew.site:8880/12mm10096/73156142/29389
+#EXTINF:-1,SPORT.TV5
+http://kk03es.abcnew.site:8880/12mm10096/73156142/49958
 #EXTINF:-1,=== Maxfolker ===
 #EXTINF: -1,Benfica TV 
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/19160/index.m3u8
@@ -62,7 +72,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2527/index.m3u8
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2528/index.m3u8
 #EXTINF: -1,SPORT.TV 5
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2529/index.m3u8
-
 #EXTINF:-1,=== Etc ===
 #EXTINF: -1,Benfica TV  HD
 http://etc12.xyz:900/3145831961/0544683977/165605
@@ -102,6 +111,44 @@ http://etc12.xyz:900/3145831961/0544683977/165650
 http://etc12.xyz:900/3145831961/0544683977/165651
 #EXTINF: -1,SPORT.TV 6
 http://etc12.xyz:900/3145831961/0544683977/400229659
+
+
+#EXTINF:-1,=== Pandar ===
+#EXTINF:-1,Benfica TV 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/200525
+#EXTINF:-1,Benfica TV 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95396
+#EXTINF:-1,Eleven 1 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
+#EXTINF:-1,Eleven 2 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
+#EXTINF:-1,Eleven 3
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
+#EXTINF:-1,Eleven 4
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95421
+#EXTINF:-1,Eleven 5
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
+#EXTINF:-1,SPORT.TV1 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95408
+#EXTINF:-1,SPORT.TV2
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95411
+#EXTINF:-1,SPORT.TV3 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95413
+#EXTINF:-1,SPORT.TV4 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95415
+#EXTINF:-1,SPORT.TV5
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95416
+#EXTINF:-1,SKY SPORTS F1
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/102231
+#EXTINF:-1,TVCine TOP 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95339
+#EXTINF:-1,TVCine EDITION 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95340
+#EXTINF:-1,TVCine EMOTION 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95341
+#EXTINF:-1,TVCine ACTION 
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95342
+
 
 
 
