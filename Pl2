@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,=== iptvworld ===
+#EXTINF:-1,Benfica TV 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68985
+#EXTINF:-1,Benfica TV 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68986
+#EXTINF:-1,Eleven 1 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69003
+#EXTINF:-1,Eleven 2 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69006
+#EXTINF:-1,Eleven 3
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69009
+#EXTINF:-1,Eleven 4
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69011
+#EXTINF:-1,Eleven 5
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69012
+#EXTINF:-1,SPORT.TV1 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68989
+#EXTINF:-1,SPORT.TV2
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68992
+#EXTINF:-1,SPORT.TV3 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68994
+#EXTINF:-1,SPORT.TV4 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68996
+#EXTINF:-1,SPORT.TV5
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68998
+#EXTINF:-1,SKY SPORTS F1
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/24460
+#EXTINF:-1,TVCine TOP 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69053
+#EXTINF:-1,TVCine EDITION 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69055
+#EXTINF:-1,TVCine EMOTION 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69057
+#EXTINF:-1,TVCine ACTION 
+http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69059
+
 #EXTINF:-1,===sibfungold ===
 #EXTINF:-1,Benfica TV 
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/286
