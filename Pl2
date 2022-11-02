@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-1,=== Hampton ===
+#EXTINF:-1,Benfica TV 
+http://live.lordstreams.co:8080/hampton/hampton/953
+#EXTINF:-1,Benfica TV 
+http://live.lordstreams.co:8080/hampton/hampton/952
+#EXTINF:-1,Eleven 1 
+http://live.lordstreams.co:8080/hampton/hampton/925
+#EXTINF:-1,Eleven 2 
+http://live.lordstreams.co:8080/hampton/hampton/923
+#EXTINF:-1,Eleven 3
+http://live.lordstreams.co:8080/hampton/hampton/921
+#EXTINF:-1,Eleven 4
+http://live.lordstreams.co:8080/hampton/hampton/919
+#EXTINF:-1,Eleven 5
+http://live.lordstreams.co:8080/hampton/hampton/917
+#EXTINF:-1,SPORT.TV1 
+http://live.lordstreams.co:8080/hampton/hampton/848
+#EXTINF:-1,SPORT.TV2
+http://live.lordstreams.co:8080/hampton/hampton/846
+#EXTINF:-1,SPORT.TV3 
+http://live.lordstreams.co:8080/hampton/hampton/844
+#EXTINF:-1,SPORT.TV4 
+http://live.lordstreams.co:8080/hampton/hampton/842
+#EXTINF:-1,SPORT.TV5
+http://live.lordstreams.co:8080/hampton/hampton/839
 #EXTINF:-1,=== AbcNews ===
 #EXTINF:-1,Benfica TV 
 http://kk03es.abcnew.site:8880/12mm10096/73156142/3239
