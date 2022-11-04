@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:-1,=== Panel ===
+#EXTINF:-1,Benfica TV 
+http://tvpanel.one:80/den9179/611carc/579318
+#EXTINF:-1,Benfica TV 
+http://tvpanel.one:80/den9179/611carc/579534
+#EXTINF:-1,Eleven 1 
+http://tvpanel.one:80/den9179/611carc/579505
+#EXTINF:-1,Eleven 2 
+http://tvpanel.one:80/den9179/611carc/579506
+#EXTINF:-1,Eleven 3
+http://tvpanel.one:80/den9179/611carc/579507
+#EXTINF:-1,Eleven 4
+http://tvpanel.one:80/den9179/611carc/579508
+#EXTINF:-1,Eleven 5
+http://tvpanel.one:80/den9179/611carc/579510
+#EXTINF:-1,SPORT.TV1 
+http://tvpanel.one:80/den9179/611carc/579498
+#EXTINF:-1,SPORT.TV2
+http://tvpanel.one:80/den9179/611carc/579499
+#EXTINF:-1,SPORT.TV3 
+http://tvpanel.one:80/den9179/611carc/579500
+#EXTINF:-1,SPORT.TV4 
+http://tvpanel.one:80/den9179/611carc/579501
+#EXTINF:-1,SPORT.TV5
+http://tvpanel.one:80/den9179/611carc/579502
+#EXTINF:-1,SKY SPORTS F1
+http://tvpanel.one:80/den9179/611carc/586776
+#EXTINF:-1,TVCine TOP 
+http://tvpanel.one:80/den9179/611carc/579597
+#EXTINF:-1,TVCine EDITION 
+http://tvpanel.one:80/den9179/611carc/579598
+#EXTINF:-1,TVCine EMOTION 
+http://tvpanel.one:80/den9179/611carc/579599
+#EXTINF:-1,TVCine ACTION 
+http://tvpanel.one:80/den9179/611carc/579600
+
+
 #EXTINF:-1,=== playhosts ===
 #EXTINF:-1,Benfica TV 
 http://186040814984307592.playhosts.xyz:80/play/hh02166/6897534/307592.ts
@@ -105,214 +142,4 @@ http://ott-serveur.com:8000/465693822461542/418018673078402/199136
 http://ott-serveur.com:8000/465693822461542/418018673078402/199133
 #EXTINF:-1,TVCine ACTION 
 http://ott-serveur.com:8000/465693822461542/418018673078402/199130
-#EXTINF:-1,===nettv-premium ===
-#EXTINF:-1,Benfica TV 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122328
-#EXTINF:-1,Benfica TV 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133199
-#EXTINF:-1,Eleven 1 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/172211
-#EXTINF:-1,Eleven 2 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122411
-#EXTINF:-1,Eleven 3
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122407
-#EXTINF:-1,Eleven 4
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122410
-#EXTINF:-1,Eleven 5
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122409
-#EXTINF:-1,SPORT.TV1 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122394
-#EXTINF:-1,SPORT.TV2
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122396
-#EXTINF:-1,SPORT.TV3 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122398
-#EXTINF:-1,SPORT.TV4 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122400
-#EXTINF:-1,SPORT.TV5
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122402
-#EXTINF:-1,SKY SPORTS F1
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/416838
-#EXTINF:-1,TVCine TOP 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122311
-#EXTINF:-1,TVCine EDITION 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122312
-#EXTINF:-1,TVCine EMOTION 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122313
-#EXTINF:-1,TVCine ACTION 
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122314
-#EXTINF:-1,=== iptvworld ===
-#EXTINF:-1,Benfica TV 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68985
-#EXTINF:-1,Benfica TV 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68986
-#EXTINF:-1,Eleven 1 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69003
-#EXTINF:-1,Eleven 2 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69006
-#EXTINF:-1,Eleven 3
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69009
-#EXTINF:-1,Eleven 4
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69011
-#EXTINF:-1,Eleven 5
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69012
-#EXTINF:-1,SPORT.TV1 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68989
-#EXTINF:-1,SPORT.TV2
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68992
-#EXTINF:-1,SPORT.TV3 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68994
-#EXTINF:-1,SPORT.TV4 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68996
-#EXTINF:-1,SPORT.TV5
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/68998
-#EXTINF:-1,SKY SPORTS F1
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/24460
-#EXTINF:-1,TVCine TOP 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69053
-#EXTINF:-1,TVCine EDITION 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69055
-#EXTINF:-1,TVCine EMOTION 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69057
-#EXTINF:-1,TVCine ACTION 
-http://iptvworld.nl:2095/ubMkFbej/bsNbMXua/69059
 
-#EXTINF:-1,=== Showflix ===
-#EXTINF:-1,Benfica TV 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1087
-#EXTINF:-1,Benfica TV 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1088
-#EXTINF:-1,Eleven 1 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1081
-#EXTINF:-1,Eleven 2 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1082
-#EXTINF:-1,Eleven 3
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1083
-#EXTINF:-1,Eleven 4
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1084
-#EXTINF:-1,Eleven 5
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1085
-#EXTINF:-1,SPORT.TV1 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1070
-#EXTINF:-1,SPORT.TV2
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1072
-#EXTINF:-1,SPORT.TV3 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1074
-#EXTINF:-1,SPORT.TV4 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1076
-#EXTINF:-1,SPORT.TV5
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1078
-#EXTINF:-1,SKY SPORTS F1
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/55867
-#EXTINF:-1,TVCine TOP 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1099
-#EXTINF:-1,TVCine EDITION 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1101
-#EXTINF:-1,TVCine EMOTION 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1103
-#EXTINF:-1,TVCine ACTION 
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/1105
-#EXTINF:-1,=== 5ce.me ===
-#EXTINF:-1,Benfica TV 
-http://5ce.co:80/8688599222/85992asert/115019
-#EXTINF:-1,Benfica TV 
-http://5ce.co:80/8688599222/85992asert/115020
-#EXTINF:-1,Eleven 1 
-http://5ce.co:80/8688599222/85992asert/115054
-#EXTINF:-1,Eleven 2 
-http://5ce.co:80/8688599222/85992asert/115059
-#EXTINF:-1,Eleven 3
-http://5ce.co:80/8688599222/85992asert/115063
-#EXTINF:-1,Eleven 4
-http://5ce.co:80/8688599222/85992asert/115068
-#EXTINF:-1,Eleven 5
-http://5ce.co:80/8688599222/85992asert/115071
-#EXTINF:-1,SPORT.TV1 
-http://5ce.co:80/8688599222/85992asert/115169
-#EXTINF:-1,SPORT.TV2
-http://5ce.co:80/8688599222/85992asert/115175
-#EXTINF:-1,SPORT.TV3 
-http://5ce.co:80/8688599222/85992asert/115178
-#EXTINF:-1,SPORT.TV4 
-http://5ce.co:80/8688599222/85992asert/115182
-#EXTINF:-1,SPORT.TV5
-http://5ce.co:80/8688599222/85992asert/115185
-#EXTINF:-1,SKY SPORTS F1
-http://5ce.co:80/8688599222/85992asert/141946
-#EXTINF:-1,TVCine TOP 
-http://5ce.co:80/8688599222/85992asert/115212
-#EXTINF:-1,TVCine EDITION 
-http://5ce.co:80/8688599222/85992asert/115205
-#EXTINF:-1,TVCine EMOTION 
-http://5ce.co:80/8688599222/85992asert/115208
-#EXTINF:-1,TVCine ACTION 
-http://5ce.co:80/8688599222/85992asert/115200
-#EXTINF:-1,=== quality-restream ===
-#EXTINF:-1,Benfica TV 
-
-#EXTINF:-1,Benfica TV 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1497
-#EXTINF:-1,Eleven 1 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1499
-#EXTINF:-1,Eleven 2 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1503
-#EXTINF:-1,Eleven 3
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1506
-#EXTINF:-1,Eleven 4
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1509
-#EXTINF:-1,Eleven 5
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1512
-#EXTINF:-1,SPORT.TV1 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1483
-#EXTINF:-1,SPORT.TV2
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1486
-#EXTINF:-1,SPORT.TV3 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1489
-#EXTINF:-1,SPORT.TV4 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1492
-#EXTINF:-1,SPORT.TV5
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1495
-#EXTINF:-1,SKY SPORTS F1
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/265
-#EXTINF:-1,TVCine TOP 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1446
-#EXTINF:-1,TVCine EDITION 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/82254
-#EXTINF:-1,TVCine EMOTION 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1448
-#EXTINF:-1,TVCine ACTION 
-http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/1452
-#EXTINF:-1,=== Panel ===
-#EXTINF:-1,Benfica TV 
-http://tvpanel.one:80/den9179/611carc/579318
-#EXTINF:-1,Benfica TV 
-http://tvpanel.one:80/den9179/611carc/579534
-#EXTINF:-1,Eleven 1 
-http://tvpanel.one:80/den9179/611carc/579505
-#EXTINF:-1,Eleven 2 
-http://tvpanel.one:80/den9179/611carc/579506
-#EXTINF:-1,Eleven 3
-http://tvpanel.one:80/den9179/611carc/579507
-#EXTINF:-1,Eleven 4
-http://tvpanel.one:80/den9179/611carc/579508
-#EXTINF:-1,Eleven 5
-http://tvpanel.one:80/den9179/611carc/579510
-#EXTINF:-1,SPORT.TV1 
-http://tvpanel.one:80/den9179/611carc/579498
-#EXTINF:-1,SPORT.TV2
-http://tvpanel.one:80/den9179/611carc/579499
-#EXTINF:-1,SPORT.TV3 
-http://tvpanel.one:80/den9179/611carc/579500
-#EXTINF:-1,SPORT.TV4 
-http://tvpanel.one:80/den9179/611carc/579501
-#EXTINF:-1,SPORT.TV5
-http://tvpanel.one:80/den9179/611carc/579502
-#EXTINF:-1,SKY SPORTS F1
-http://tvpanel.one:80/den9179/611carc/586776
-#EXTINF:-1,TVCine TOP 
-http://tvpanel.one:80/den9179/611carc/579597
-#EXTINF:-1,TVCine EDITION 
-http://tvpanel.one:80/den9179/611carc/579598
-#EXTINF:-1,TVCine EMOTION 
-http://tvpanel.one:80/den9179/611carc/579599
-#EXTINF:-1,TVCine ACTION 
-http://tvpanel.one:80/den9179/611carc/579600
