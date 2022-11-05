@@ -33,3 +33,20 @@ http://megatitan.net:8080/Sebastian6919/Concha3073/7558
 http://megatitan.net:8080/Sebastian6919/Concha3073/7560
 #EXTINF:-1,TVCine ACTION 
 http://megatitan.net:8080/Sebastian6919/Concha3073/7562
+#EXTINF:-1,=== Prostv ===
+#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=96354
+#EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=96360
+#EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=96363
+#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=96367
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=222449
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=222450
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=222451
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
+http://123.24.17.40:8889/prostv.php?id=222452
