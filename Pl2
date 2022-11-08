@@ -1,39 +1,37 @@
 #EXTM3U
-#EXTINF:-1,=== Panel ===
+#EXTINF:-1,=== apptelspro ===
 #EXTINF:-1,Benfica TV 
-http://tvpanel.one:80/den9179/611carc/579318
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37768
 #EXTINF:-1,Benfica TV 
-http://tvpanel.one:80/den9179/611carc/579534
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37769
 #EXTINF:-1,Eleven 1 
-http://tvpanel.one:80/den9179/611carc/579505
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37774
 #EXTINF:-1,Eleven 2 
-http://tvpanel.one:80/den9179/611carc/579506
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37777
 #EXTINF:-1,Eleven 3
-http://tvpanel.one:80/den9179/611carc/579507
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37780
 #EXTINF:-1,Eleven 4
-http://tvpanel.one:80/den9179/611carc/579508
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37783
 #EXTINF:-1,Eleven 5
-http://tvpanel.one:80/den9179/611carc/579510
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37785
 #EXTINF:-1,SPORT.TV1 
-http://tvpanel.one:80/den9179/611carc/579498
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37753
 #EXTINF:-1,SPORT.TV2
-http://tvpanel.one:80/den9179/611carc/579499
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37756
 #EXTINF:-1,SPORT.TV3 
-http://tvpanel.one:80/den9179/611carc/579500
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37759
 #EXTINF:-1,SPORT.TV4 
-http://tvpanel.one:80/den9179/611carc/579501
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37762
 #EXTINF:-1,SPORT.TV5
-http://tvpanel.one:80/den9179/611carc/579502
-#EXTINF:-1,SKY SPORTS F1
-http://tvpanel.one:80/den9179/611carc/586776
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37765
 #EXTINF:-1,TVCine TOP 
-http://tvpanel.one:80/den9179/611carc/579597
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37799
 #EXTINF:-1,TVCine EDITION 
-http://tvpanel.one:80/den9179/611carc/579598
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37802
 #EXTINF:-1,TVCine EMOTION 
-http://tvpanel.one:80/den9179/611carc/579599
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37805
 #EXTINF:-1,TVCine ACTION 
-http://tvpanel.one:80/den9179/611carc/579600
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37808
 #EXTINF:-1,=== Ottserver ===
 #EXTINF:-1,Benfica TV 
 http://ott-serveur.com:8000/465693822461542/418018673078402/199182
@@ -69,41 +67,6 @@ http://ott-serveur.com:8000/465693822461542/418018673078402/199136
 http://ott-serveur.com:8000/465693822461542/418018673078402/199133
 #EXTINF:-1,TVCine ACTION 
 http://ott-serveur.com:8000/465693822461542/418018673078402/199130
-#EXTINF:-1,=== MarcoJuve ===
-#EXTINF:-1,Benfica TV 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247684
-#EXTINF:-1,Benfica TV 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247685
-#EXTINF:-1,Eleven 1 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247670
-#EXTINF:-1,Eleven 2 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247672
-#EXTINF:-1,Eleven 3
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247674
-#EXTINF:-1,Eleven 4
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247676
-#EXTINF:-1,Eleven 5
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247678
-#EXTINF:-1,SPORT.TV1 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247657
-#EXTINF:-1,SPORT.TV2
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247659
-#EXTINF:-1,SPORT.TV3 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247661
-#EXTINF:-1,SPORT.TV4 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247663
-#EXTINF:-1,SPORT.TV5
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247665
-#EXTINF:-1,SKY SPORTS F1
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/107946
-#EXTINF:-1,TVCine TOP 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247637
-#EXTINF:-1,TVCine EDITION 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247639
-#EXTINF:-1,TVCine EMOTION 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247641
-#EXTINF:-1,TVCine ACTION 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247643
 #EXTINF:-1,=== playhosts ===
 #EXTINF:-1,Benfica TV 
 http://186040814984307592.playhosts.xyz:80/play/hh02166/6897534/307592.ts
@@ -139,3 +102,36 @@ http://186040814984307892.playhosts.xyz:80/play/hh02166/6897534/307892.ts
 http://186040814984307895.playhosts.xyz:80/play/hh02166/6897534/307895.ts
 #EXTINF:-1,TVCine ACTION 
 http://186040814984307889.playhosts.xyz:80/play/hh02166/6897534/307889.ts
+#EXTINF:-1,=== MegaTitan ===
+#EXTINF:-1,Benfica TV 
+http://megatitan.net:8080/Sebastian6919/Concha3073/119831
+#EXTINF:-1,Benfica TV 
+http://megatitan.net:8080/Sebastian6919/Concha3073/119807
+#EXTINF:-1,Eleven 1 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7518
+#EXTINF:-1,Eleven 2 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7521
+#EXTINF:-1,Eleven 3
+http://megatitan.net:8080/Sebastian6919/Concha3073/7523
+#EXTINF:-1,Eleven 4
+http://megatitan.net:8080/Sebastian6919/Concha3073/7525
+#EXTINF:-1,Eleven 5
+http://megatitan.net:8080/Sebastian6919/Concha3073/7526
+#EXTINF:-1,SPORT.TV1 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7500
+#EXTINF:-1,SPORT.TV2
+http://megatitan.net:8080/Sebastian6919/Concha3073/7503
+#EXTINF:-1,SPORT.TV3 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7506
+#EXTINF:-1,SPORT.TV4 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7508
+#EXTINF:-1,SPORT.TV5
+http://megatitan.net:8080/Sebastian6919/Concha3073/7512
+#EXTINF:-1,TVCine TOP 
+http://megatitan.net:8080/Sebastian6919/Concha3073/64698
+#EXTINF:-1,TVCine EDITION 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7558
+#EXTINF:-1,TVCine EMOTION 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7560
+#EXTINF:-1,TVCine ACTION 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7562
