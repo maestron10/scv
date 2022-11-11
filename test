@@ -1,37 +1,38 @@
 #EXTM3U
-#EXTINF:-1,=== IptcClub ===
+#EXTINF:-1,=== ClientPortal ===
 #EXTINF:-1,Benfica TV 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/200525
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5541
 #EXTINF:-1,Benfica TV 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151861
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/3308
 #EXTINF:-1,Eleven 1 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95418
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/23325
 #EXTINF:-1,Eleven 2 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95419
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/23320
 #EXTINF:-1,Eleven 3
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95420
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/23321
 #EXTINF:-1,Eleven 4
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95421
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/23322
 #EXTINF:-1,Eleven 5
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95422
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/23323
 #EXTINF:-1,SPORT.TV1 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95408
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/17744
 #EXTINF:-1,SPORT.TV2
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95411
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/3222
 #EXTINF:-1,SPORT.TV3 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95413
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/3223
 #EXTINF:-1,SPORT.TV4 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95415
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/3224
 #EXTINF:-1,SPORT.TV5
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95416
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/16297
 #EXTINF:-1,TVCine TOP 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95339
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5545
 #EXTINF:-1,TVCine EDITION 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95340
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5546
 #EXTINF:-1,TVCine EMOTION 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95341
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5547
 #EXTINF:-1,TVCine ACTION 
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/95342
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5548
+
 #EXTINF:-1,=== xplus ===
 #EXTINF:-1,Eleven 1 
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
@@ -53,14 +54,3 @@ http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
 #EXTINF:-1,SPORT.TV5
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1,=== Xdgo ===
-#EXTINF:-1,SPORT.TV1 
-http://xdgo.live:8080/play/xU2-YQa87RaTGH4a66jqBzEtwEaHk0deaQL-zAoT92hgw_cn_0gMLD_pB0k-0DzI/ts
-#EXTINF:-1,SPORT.TV2
-http://xdgo.live:8080/play/xU2-YQa87RaTGH4a66jqBzEtwEaHk0deaQL-zAoT92izMOQ85X9I_vRU05AGM6Fk/ts
-#EXTINF:-1,SPORT.TV3 
-http://xdgo.live:8080/play/xU2-YQa87RaTGH4a66jqBzEtwEaHk0deaQL-zAoT92jMovQh3hXn4JMhXMXVgwTs/ts
-#EXTINF:-1,SPORT.TV4 
-http://xdgo.live:8080/play/xU2-YQa87RaTGH4a66jqBzEtwEaHk0deaQL-zAoT92i0wGGZzPMRJQhOILYF2ORl/ts
-#EXTINF:-1,SPORT.TV5
-http://xdgo.live:8080/play/xU2-YQa87RaTGH4a66jqBzEtwEaHk0deaQL-zAoT92iASeq88WB47nfJBxNqpgwJ/ts
