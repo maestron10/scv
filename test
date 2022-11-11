@@ -54,3 +54,30 @@ http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
 #EXTINF:-1,SPORT.TV5
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
+
+#EXTINF:-1,=== JokerTv ===
+#EXTINF:-1,Benfica TV 
+http://185.134.22.150:8080/jokertv/streaming@2021/1609
+#EXTINF:-1,Benfica TV 
+http://185.134.22.150:8080/jokertv/streaming@2021/26350
+#EXTINF:-1,Eleven 1 
+http://185.134.22.150:8080/jokertv/streaming@2021/1581
+#EXTINF:-1,Eleven 2 
+http://185.134.22.150:8080/jokertv/streaming@2021/1577
+#EXTINF:-1,Eleven 3
+http://185.134.22.150:8080/jokertv/streaming@2021/1573
+#EXTINF:-1,Eleven 4
+http://185.134.22.150:8080/jokertv/streaming@2021/1569
+#EXTINF:-1,Eleven 5
+http://185.134.22.150:8080/jokertv/streaming@2021/1565
+#EXTINF:-1,SPORT.TV1 
+http://185.134.22.150:8080/jokertv/streaming@2021/1477
+#EXTINF:-1,SPORT.TV2
+http://185.134.22.150:8080/jokertv/streaming@2021/1471
+#EXTINF:-1,SPORT.TV3 
+http://185.134.22.150:8080/jokertv/streaming@2021/24042
+#EXTINF:-1,SPORT.TV4 
+http://185.134.22.150:8080/jokertv/streaming@2021/24043
+#EXTINF:-1,SPORT.TV5
+http://185.134.22.150:8080/jokertv/streaming@2021/1457
+
