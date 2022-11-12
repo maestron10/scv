@@ -1,34 +1,63 @@
 #EXTM3U
-#EXTINF:-1,SPORT.TV1 
-http://xaulfam.online:2082/P22010698/mdKMXTPkSzEP/240311
-#EXTINF:-1,SPORT.TV1 
-http://b.4k555.com:80/color251/qpUhwVSdd8/59906
-#EXTINF:-1,SPORT.TV1 
-http://b.4k555.com:80/color251/qpUhwVSdd8/59907
-#EXTINF:-1,SPORT.TV1 
-http://www.stvpower.com:2103/jeanjacque55/thomas5599/1889
-#EXTINF: -1,SPORT.TV 1
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
-#EXTINF:-1,SPORT.TV1 
-http://tvpanel.one:80/den9179/611carc/579498
-#EXTINF:-1,SPORT.TV1 
-http://ott-serveur.com:8000/465693822461542/418018673078402/199206
-#EXTINF:-1,SPORT.TV1 
-http://marcojuve.hopto.me:80/A434/Q50vW0zNH9/247657
-#EXTINF:-1,SPORT.TV1 
-http://186040814984307853.playhosts.xyz:80/play/hh02166/6897534/307853.ts
-#EXTINF:-1,SPORT.TV1 
-http://iptvtree.net:8080/F17744/f01e18e2/1483
-#EXTINF:-1,SPORT.TV1 
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/2633
-#EXTINF:-1,SPORT.TV1 
-http://sharkiptv.vip:900/0935605752/9437917689/161493	
-#EXTINF:-1,SPORT.TV1 
-http://megatitan.net:8080/Sebastian6919/Concha3073/7500
-#EXTINF:-1,SPORT.TV1 
-http://line.powerdino.com:80/4375a1dd43/649f75a876/250585
-#EXTINF:-1,SPORT.TV1 
-https://tvnow.best/api/stream/yonatand1230@gmail.com/837217/livetv.epg/sport.tv1.pt.m3u8
-#EXTINF:-1,SPORT.TV1 
+#EXTINF:-1,Benfica TV 
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5541
+#EXTINF:-1,Benfica TV 
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/3308
+#EXTINF:-1,Benfica TV 
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/200525
+#EXTINF:-1,Benfica TV 
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/151861
+#EXTINF:-1,Benfica TV 
+http://185.134.22.150:8080/jokertv/streaming@2021/1609
+#EXTINF:-1,Benfica TV 
+http://185.134.22.150:8080/jokertv/streaming@2021/26350
+#EXTINF:-1,Benfica TV 
+http://tvpanel.one:80/den9179/611carc/579318
+#EXTINF:-1,Benfica TV 
+http://tvpanel.one:80/den9179/611carc/579534
+#EXTINF:-1,Benfica TV 
+http://www.stvpower.com:2103/jeanjacque55/thomas5599/1893
+#EXTINF:-1,Benfica TV 
+http://www.stvpower.com:2103/jeanjacque55/thomas5599/1894
+#EXTINF: -1,Benfica TV 
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/19160/index.m3u8
+#EXTINF:-1,Benfica TV 
+http://megatitan.net:8080/Sebastian6919/Concha3073/119831
+#EXTINF:-1,Benfica TV 
+http://megatitan.net:8080/Sebastian6919/Concha3073/119807
+#EXTINF:-1,Benfica TV 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37768
+#EXTINF:-1,Benfica TV 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37769
 
+#EXTINF:-1,SPORT.TV4 
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/3224
+#EXTINF:-1,SPORT.TV4 
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95415
+#EXTINF:-1,SPORT.TV4 
+http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
+#EXTINF:-1,SPORT.TV4 
+http://185.134.22.150:8080/jokertv/streaming@2021/24043
+#EXTINF:-1,SPORT.TV4 
+http://tvpanel.one:80/den9179/611carc/579501
+#EXTINF:-1,SPORT.TV4 
+http://www.stvpower.com:2103/jeanjacque55/thomas5599/13009
+#EXTINF: -1,SPORT.TV 4
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2528/index.m3u8
+#EXTINF:-1,SPORT.TV4 
+http://megatitan.net:8080/Sebastian6919/Concha3073/7508
+#EXTINF:-1,SPORT.TV4 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37762
+#EXTINF:-1,SKY SPORTS F1 HD 
+http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/808
+#EXTINF:-1,SKY SPORTS F1
+http://tvpanel.one:80/den9179/611carc/586776
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/101486
+#EXTINF:-1,SKY SPORTS F1
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/102231
+#EXTINF:-1,Sky Sports F1
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/14656
+#EXTINF:-1,IT | SKY SPORT F1
+http://185.134.22.150:8080/jokertv/streaming@2021/40527
 
