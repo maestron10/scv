@@ -1,4 +1,298 @@
 #EXTM3U
+EXTINF:-1 tvg-name="24 KITCHEN HD" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="PORTUGAL",24 KITCHEN HD
+ http://5ce.co:80/512678/88121509pp/114998
+#EXTINF:-1 tvg-name="A BOLA TV HD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL",A BOLA TV HD
+ http://5ce.co:80/512678/88121509pp/115000
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PORTUGAL",AMC FHD
+ http://5ce.co:80/512678/88121509pp/115004
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PORTUGAL",AMC HD
+ http://5ce.co:80/512678/88121509pp/115005
+#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PORTUGAL",AXN FHD
+ http://5ce.co:80/512678/88121509pp/115007
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PORTUGAL",AXN HD
+ http://5ce.co:80/512678/88121509pp/115008
+#EXTINF:-1 tvg-name="AXN MOVIES  HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PORTUGAL",AXN MOVIES  HD
+ http://5ce.co:80/512678/88121509pp/115010
+#EXTINF:-1 tvg-name="AXN MOVIES FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PORTUGAL",AXN MOVIES FHD
+ http://5ce.co:80/512678/88121509pp/115011
+#EXTINF:-1 tvg-name="AXN WHITE FHD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PORTUGAL",AXN WHITE FHD
+ http://5ce.co:80/512678/88121509pp/115013
+#EXTINF:-1 tvg-name="AXN WHITE HD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PORTUGAL",AXN WHITE HD
+ http://5ce.co:80/512678/88121509pp/115014
+#EXTINF:-1 tvg-name="BLAZE HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="PORTUGAL",BLAZE HD
+ http://5ce.co:80/512678/88121509pp/115016
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="http://i.imgur.com/9f75DdK.png" group-title="PORTUGAL",BOOMERANG
+ http://5ce.co:80/512678/88121509pp/115017
+#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="PORTUGAL",BTV FHD
+ http://5ce.co:80/512678/88121509pp/115019
+#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="PORTUGAL",BTV HD
+ http://5ce.co:80/512678/88121509pp/115020
+#EXTINF:-1 tvg-name="CAMPO PEQUENO TV HD" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="PORTUGAL",CAMPO PEQUENO TV HD
+ http://5ce.co:80/512678/88121509pp/115023
+#EXTINF:-1 tvg-name="CANAL 11 FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PORTUGAL",CANAL 11 FHD
+ http://5ce.co:80/512678/88121509pp/115026
+#EXTINF:-1 tvg-name="CANAL 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PORTUGAL",CANAL 11 HD
+ http://5ce.co:80/512678/88121509pp/115027
+#EXTINF:-1 tvg-name="CANAL 180 HD" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="PORTUGAL",CANAL 180 HD
+ http://5ce.co:80/512678/88121509pp/115028
+#EXTINF:-1 tvg-name="CANCAO NOVA HD" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="PORTUGAL",CANCAO NOVA HD
+ http://5ce.co:80/512678/88121509pp/115032
+#EXTINF:-1 tvg-name="CACA e PESCA FHD" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="PORTUGAL",CACA e PESCA FHD
+ http://5ce.co:80/512678/88121509pp/115034
+#EXTINF:-1 tvg-name="CINEMUNDO FHD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PORTUGAL",CINEMUNDO FHD
+ http://5ce.co:80/512678/88121509pp/115037
+#EXTINF:-1 tvg-name="CINEMUNDO HD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PORTUGAL",CINEMUNDO HD
+ http://5ce.co:80/512678/88121509pp/115038
+#EXTINF:-1 tvg-name="CLUBBING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="PORTUGAL",CLUBBING TV
+ http://5ce.co:80/512678/88121509pp/115039
+#EXTINF:-1 tvg-name="CMTV FHD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="PORTUGAL",CMTV FHD
+ http://5ce.co:80/512678/88121509pp/115040
+#EXTINF:-1 tvg-name="CMTV HD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="PORTUGAL",CMTV HD
+ http://5ce.co:80/512678/88121509pp/115041
+#EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PORTUGAL",COMBATE
+ http://5ce.co:80/512678/88121509pp/115043
+#EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PORTUGAL",COMBATE HD
+ http://5ce.co:80/512678/88121509pp/115045
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PORTUGAL",DISCOVERY CHANNEL HD
+ http://5ce.co:80/512678/88121509pp/115047
+#EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://i.imgur.com/R1mVNpa.png" group-title="PORTUGAL",DOG TV
+ http://5ce.co:80/512678/88121509pp/115050
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1 FHD
+ http://5ce.co:80/512678/88121509pp/115054
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1 HD
+ http://5ce.co:80/512678/88121509pp/115055
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 FHD
+ http://5ce.co:80/512678/88121509pp/115059
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 HD
+ http://5ce.co:80/512678/88121509pp/115060
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3 FHD
+ http://5ce.co:80/512678/88121509pp/115063
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3 HD
+ http://5ce.co:80/512678/88121509pp/115064
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4
+ http://5ce.co:80/512678/88121509pp/115066
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 FHD
+ http://5ce.co:80/512678/88121509pp/115068
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 HD
+ http://5ce.co:80/512678/88121509pp/115069
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 5
+ http://5ce.co:80/512678/88121509pp/115070
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 5 FHD
+ http://5ce.co:80/512678/88121509pp/115071
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 5 HD
+ http://5ce.co:80/512678/88121509pp/115072
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 6
+ http://5ce.co:80/512678/88121509pp/115073
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 6 FHD
+ http://5ce.co:80/512678/88121509pp/115074
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="ELEVEN SPORTS",ELEVEN SPORTS 6 HD
+ http://5ce.co:80/512678/88121509pp/115075
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://2.bp.blogspot.com/-Dh9-onArJOs/WDrqDJLyZ1I/AAAAAAAAFcA/zigtq7hwbKMwQ2WfMmlXq-h7kMqUSma5QCLcB/s1600/Eurochannel%2Blogo.png" group-title="PORTUGAL",Euronews
+ http://5ce.co:80/512678/88121509pp/115076
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL",EUROSPORT 1 HD
+ http://5ce.co:80/512678/88121509pp/115077
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/AniJkHa.png" group-title="PORTUGAL",EUROSPORT 2 HD
+ http://5ce.co:80/512678/88121509pp/115078
+#EXTINF:-1 tvg-name="FASHION TV HD" tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="PORTUGAL",FASHION TV HD
+ http://5ce.co:80/512678/88121509pp/115079
+#EXTINF:-1 tvg-name="Fight Box HD" tvg-logo="https://4.bp.blogspot.com/-hkMGV9ae6tU/V1ASB_QA4PI/AAAAAAAAGiE/fjlB5ne1RKAfQDv33Owvu__IYtorG_t8QCLcB/s1600/FIGHTBOX_HD-400.png" group-title="PORTUGAL",Fight Box HD
+ http://5ce.co:80/512678/88121509pp/115080
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="PORTUGAL",Fight Network
+ http://5ce.co:80/512678/88121509pp/115081
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/8usMt92.png" group-title="PORTUGAL",FOOD NETWORK
+ http://5ce.co:80/512678/88121509pp/115082
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="PORTUGAL",FOX
+ http://5ce.co:80/512678/88121509pp/115083
+#EXTINF:-1 tvg-name="FOX COMEDY" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY
+ http://5ce.co:80/512678/88121509pp/115084
+#EXTINF:-1 tvg-name="FOX COMEDY FHD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY FHD
+ http://5ce.co:80/512678/88121509pp/115085
+#EXTINF:-1 tvg-name="FOX COMEDY HD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY HD
+ http://5ce.co:80/512678/88121509pp/115086
+#EXTINF:-1 tvg-name="FOX CRIME" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME
+ http://5ce.co:80/512678/88121509pp/115087
+#EXTINF:-1 tvg-name="FOX CRIME FHD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME FHD
+ http://5ce.co:80/512678/88121509pp/115088
+#EXTINF:-1 tvg-name="FOX CRIME HD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME HD
+ http://5ce.co:80/512678/88121509pp/115089
+#EXTINF:-1 tvg-name="FOX FHD" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="PORTUGAL",FOX FHD
+ http://5ce.co:80/512678/88121509pp/115090
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="PORTUGAL",FOX HD
+ http://5ce.co:80/512678/88121509pp/115091
+#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="PORTUGAL",FOX LIFE
+ http://5ce.co:80/512678/88121509pp/115092
+#EXTINF:-1 tvg-name="FOX LIFE FHD" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="PORTUGAL",FOX LIFE FHD
+ http://5ce.co:80/512678/88121509pp/115093
+#EXTINF:-1 tvg-name="FOX LIFE HD" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="PORTUGAL",FOX LIFE HD
+ http://5ce.co:80/512678/88121509pp/115094
+#EXTINF:-1 tvg-name="FOX MOVIES FHD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES FHD
+ http://5ce.co:80/512678/88121509pp/115095
+#EXTINF:-1 tvg-name="FOX MOVIES HD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES HD
+ http://5ce.co:80/512678/88121509pp/115096
+#EXTINF:-1 tvg-name="FUEL TV FHD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="PORTUGAL",FUEL TV FHD
+ http://5ce.co:80/512678/88121509pp/115097
+#EXTINF:-1 tvg-name="FUEL TV HD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="PORTUGAL",FUEL TV HD
+ http://5ce.co:80/512678/88121509pp/115098
+#EXTINF:-1 tvg-name="GINX HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180608094248" group-title="PORTUGAL",GINX HD
+ http://5ce.co:80/512678/88121509pp/115099
+#EXTINF:-1 tvg-name="HOLLYWOOD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD
+ http://5ce.co:80/512678/88121509pp/115101
+#EXTINF:-1 tvg-name="HOLLYWOOD FHD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD FHD
+ http://5ce.co:80/512678/88121509pp/115102
+#EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD HD
+ http://5ce.co:80/512678/88121509pp/115103
+#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY HD
+ http://5ce.co:80/512678/88121509pp/115104
+#EXTINF:-1 tvg-name="KURIAKOS TV HD" tvg-logo="https://i.imgur.com/NSDWjtZ.png" group-title="PORTUGAL",KURIAKOS TV HD
+ http://5ce.co:80/512678/88121509pp/115107
+#EXTINF:-1 tvg-name="MCM TOP FHD" tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="PORTUGAL",MCM TOP FHD
+ http://5ce.co:80/512678/88121509pp/115110
+#EXTINF:-1 tvg-name="MEZZO LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="PORTUGAL",MEZZO LIVE HD
+ http://5ce.co:80/512678/88121509pp/115111
+#EXTINF:-1 tvg-name="MOTORVISION TV HD" tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="PORTUGAL",MOTORVISION TV HD
+ http://5ce.co:80/512678/88121509pp/115112
+#EXTINF:-1 tvg-name="MAS CHIC HD" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="PORTUGAL",MAS CHIC HD
+ http://5ce.co:80/512678/88121509pp/115117
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC  FHD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC  FHD
+ http://5ce.co:80/512678/88121509pp/115118
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+ http://5ce.co:80/512678/88121509pp/115119
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD FHD
+ http://5ce.co:80/512678/88121509pp/115121
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
+ http://5ce.co:80/512678/88121509pp/115122
+#EXTINF:-1 tvg-name="NFL NETWORK HD" tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" group-title="PORTUGAL",NFL NETWORK HD
+ http://5ce.co:80/512678/88121509pp/115124
+#EXTINF:-1 tvg-name="NOS STUDIOS FHD" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="PORTUGAL",NOS STUDIOS FHD
+ http://5ce.co:80/512678/88121509pp/115127
+#EXTINF:-1 tvg-name="NOS STUDIOS HD" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="PORTUGAL",NOS STUDIOS HD
+ http://5ce.co:80/512678/88121509pp/115128
+#EXTINF:-1 tvg-name="ODISSEIA HD" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="PORTUGAL",ODISSEIA HD
+ http://5ce.co:80/512678/88121509pp/115130
+#EXTINF:-1 tvg-name="Outdoor" tvg-logo="https://www.absatellite.com/wp-content/uploads/outdoor_channel_hd.png" group-title="PORTUGAL",Outdoor
+ http://5ce.co:80/512678/88121509pp/115131
+#EXTINF:-1 tvg-name="PORTO CANAL HD" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="PORTUGAL",PORTO CANAL HD
+ http://5ce.co:80/512678/88121509pp/115134
+#EXTINF:-1 tvg-name="RED BUL TV HD" tvg-logo="https://seeklogo.com/images/R/red-bull-logo-379EC9059E-seeklogo.com.png" group-title="PORTUGAL",RED BUL TV HD
+ http://5ce.co:80/512678/88121509pp/115135
+#EXTINF:-1 tvg-name="RTP 1 FHD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="PORTUGAL",RTP 1 FHD
+ http://5ce.co:80/512678/88121509pp/115137
+#EXTINF:-1 tvg-name="RTP 1 HD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="PORTUGAL",RTP 1 HD
+ http://5ce.co:80/512678/88121509pp/115138
+#EXTINF:-1 tvg-name="RTP 2 FHD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="PORTUGAL",RTP 2 FHD
+ http://5ce.co:80/512678/88121509pp/115140
+#EXTINF:-1 tvg-name="RTP 2 HD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="PORTUGAL",RTP 2 HD
+ http://5ce.co:80/512678/88121509pp/115141
+#EXTINF:-1 tvg-name="RTP 3 FHD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",RTP 3 FHD
+ http://5ce.co:80/512678/88121509pp/115143
+#EXTINF:-1 tvg-name="RTP 3 HD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",RTP 3 HD
+ http://5ce.co:80/512678/88121509pp/115144
+#EXTINF:-1 tvg-name="RTP MADEIRA HD" tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="PORTUGAL",RTP MADEIRA HD
+ http://5ce.co:80/512678/88121509pp/115148
+#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC Caras HD
+ http://5ce.co:80/512678/88121509pp/115151
+#EXTINF:-1 tvg-name="SIC FHD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="PORTUGAL",SIC FHD
+ http://5ce.co:80/512678/88121509pp/115152
+#EXTINF:-1 tvg-name="SIC HD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="PORTUGAL",SIC HD
+ http://5ce.co:80/512678/88121509pp/115153
+#EXTINF:-1 tvg-name="SIC KIDS HD" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC KIDS HD
+ http://5ce.co:80/512678/88121509pp/115154
+#EXTINF:-1 tvg-name="SIC MULHER HD" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="PORTUGAL",SIC MULHER HD
+ http://5ce.co:80/512678/88121509pp/115155
+#EXTINF:-1 tvg-name="SIC NOTICIAS FHD" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="PORTUGAL",SIC NOTICIAS FHD
+ http://5ce.co:80/512678/88121509pp/115156
+#EXTINF:-1 tvg-name="SIC NOTICIAS HD" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="PORTUGAL",SIC NOTICIAS HD
+ http://5ce.co:80/512678/88121509pp/115157
+#EXTINF:-1 tvg-name="SIC RADICAL HD" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="PORTUGAL",SIC RADICAL HD
+ http://5ce.co:80/512678/88121509pp/115159
+#EXTINF:-1 tvg-name="SPORT TV +  HD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",SPORT TV +  HD
+ http://5ce.co:80/512678/88121509pp/115161
+#EXTINF:-1 tvg-name="SPORT TV + FHD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",SPORT TV + FHD
+ http://5ce.co:80/512678/88121509pp/115162
+#EXTINF:-1 tvg-name="SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT TV 1 FHD
+ http://5ce.co:80/512678/88121509pp/115169
+#EXTINF:-1 tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT TV 1 HD
+ http://5ce.co:80/512678/88121509pp/115170
+#EXTINF:-1 tvg-name="SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORT TV 2 FHD
+ http://5ce.co:80/512678/88121509pp/115175
+#EXTINF:-1 tvg-name="SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORT TV 2 HD
+ http://5ce.co:80/512678/88121509pp/115176
+#EXTINF:-1 tvg-name="SPORT TV 3" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3
+ http://5ce.co:80/512678/88121509pp/115178
+#EXTINF:-1 tvg-name="SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3 FHD
+ http://5ce.co:80/512678/88121509pp/115179
+#EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3 HD
+ http://5ce.co:80/512678/88121509pp/115180
+#EXTINF:-1 tvg-name="SPORT TV 4" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4
+ http://5ce.co:80/512678/88121509pp/115181
+#EXTINF:-1 tvg-name="SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4 FHD
+ http://5ce.co:80/512678/88121509pp/115182
+#EXTINF:-1 tvg-name="SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4 HD
+ http://5ce.co:80/512678/88121509pp/115183
+#EXTINF:-1 tvg-name="SPORT TV 5" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5
+ http://5ce.co:80/512678/88121509pp/115184
+#EXTINF:-1 tvg-name="SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5 FHD
+ http://5ce.co:80/512678/88121509pp/115185
+#EXTINF:-1 tvg-name="SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5 HD
+ http://5ce.co:80/512678/88121509pp/115186
+#EXTINF:-1 tvg-name="SPORTING TV FHD" tvg-logo="https://1.bp.blogspot.com/-nolvcpPEK7c/WDrqJqB-8II/AAAAAAAAFgU/C1-9rUc07ckGftXUuPb5fyzo4HhiySmDACLcB/s1600/Sporting%2BTV%2BHD%2Blogo.png" group-title="PORTUGAL",SPORTING TV FHD
+ http://5ce.co:80/512678/88121509pp/115188
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="PORTUGAL",SYFY
+ http://5ce.co:80/512678/88121509pp/115190
+#EXTINF:-1 tvg-name="SYFY FHD" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="PORTUGAL",SYFY FHD
+ http://5ce.co:80/512678/88121509pp/115191
+#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="PORTUGAL",SYFY HD
+ http://5ce.co:80/512678/88121509pp/115192
+#EXTINF:-1 tvg-name="TCV INTERNACIONAL" tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV INTERNACIONAL
+ http://5ce.co:80/512678/88121509pp/115193
+#EXTINF:-1 tvg-name="TOROS TV HD" tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="PORTUGAL",TOROS TV HD
+ http://5ce.co:80/512678/88121509pp/115195
+#EXTINF:-1 tvg-name="TRACE URBAN HD" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="PORTUGAL",TRACE URBAN HD
+ http://5ce.co:80/512678/88121509pp/115197
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="PORTUGAL",TRAVEL CHANNEL HD
+ http://5ce.co:80/512678/88121509pp/115198
+#EXTINF:-1 tvg-name="TV CINE ACTION FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="PORTUGAL",TV CINE ACTION FHD
+ http://5ce.co:80/512678/88121509pp/115200
+#EXTINF:-1 tvg-name="TV CINE ACTION HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="PORTUGAL",TV CINE ACTION HD
+ http://5ce.co:80/512678/88121509pp/115201
+#EXTINF:-1 tvg-name="TV CINE EDITION  HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="PORTUGAL",TV CINE EDITION  HD
+ http://5ce.co:80/512678/88121509pp/115205
+#EXTINF:-1 tvg-name="TV CINE EMOTION FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="PORTUGAL",TV CINE EMOTION FHD
+ http://5ce.co:80/512678/88121509pp/115208
+#EXTINF:-1 tvg-name="TV CINE EMOTION HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="PORTUGAL",TV CINE EMOTION HD
+ http://5ce.co:80/512678/88121509pp/115209
+#EXTINF:-1 tvg-name="TV CINE TOP FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="PORTUGAL",TV CINE TOP FHD
+ http://5ce.co:80/512678/88121509pp/115212
+#EXTINF:-1 tvg-name="TV CINE TOP HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="PORTUGAL",TV CINE TOP HD
+ http://5ce.co:80/512678/88121509pp/115213
+#EXTINF:-1 tvg-name="TV GLOBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="PORTUGAL",TV GLOBO FHD
+ http://5ce.co:80/512678/88121509pp/115215
+#EXTINF:-1 tvg-name="TV GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="PORTUGAL",TV GLOBO HD
+ http://5ce.co:80/512678/88121509pp/115216
+#EXTINF:-1 tvg-name="TV RECORD HD" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="PORTUGAL",TV RECORD HD
+ http://5ce.co:80/512678/88121509pp/115218
+#EXTINF:-1 tvg-name="TVI 24 FHD" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",TVI 24 FHD
+ http://5ce.co:80/512678/88121509pp/115219
+#EXTINF:-1 tvg-name="TVI 24 HD" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",TVI 24 HD
+ http://5ce.co:80/512678/88121509pp/115220
+#EXTINF:-1 tvg-name="TVI FHD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="PORTUGAL",TVI FHD
+ http://5ce.co:80/512678/88121509pp/115223
+#EXTINF:-1 tvg-name="TVI FICCAO" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO
+ http://5ce.co:80/512678/88121509pp/115224
+#EXTINF:-1 tvg-name="TVI FICCAO FHD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO FHD
+ http://5ce.co:80/512678/88121509pp/115225
+#EXTINF:-1 tvg-name="TVI FICCAO HD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO HD
+ http://5ce.co:80/512678/88121509pp/115226
+#EXTINF:-1 tvg-name="TVI HD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="PORTUGAL",TVI HD
+ http://5ce.co:80/512678/88121509pp/115229
+#EXTINF:-1 tvg-name="TVI REALITY HD" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY HD
+ http://5ce.co:80/512678/88121509pp/115230
+#EXTINF:-1 tvg-name="UFC FIGTH PASS FHD" tvg-logo="https://assets-global.website-files.com/5cf5a026c170934c311c121c/5cf5ae865c5c341607d12b99_White-H-Logo-p-500.png" group-title="PORTUGAL",UFC FIGTH PASS FHD
+ http://5ce.co:80/512678/88121509pp/115232
+#EXTINF:-1 tvg-name="WWE HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" group-title="PORTUGAL",WWE HD
+ http://5ce.co:80/512678/88121509pp/115234
+#EXTINF:-1 tvg-name="ZAP VIVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL",ZAP VIVA FHD
+ http://5ce.co:80/512678/88121509pp/115235
 #EXTINF:-1, === Wanicelife ===
 #EXTINF:-1,RTP1 
 http://mvu03.wanicelife.com:8880/3m470012/36285887/3199
