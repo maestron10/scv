@@ -1,37 +1,71 @@
 #EXTM3U
-#EXTINF:-1,=== ClientPortal ===
+#EXTINF:-1,=== Nap4lm ===
 #EXTINF:-1,Benfica TV 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/5541
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70094
 #EXTINF:-1,Benfica TV 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/3308
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70054
 #EXTINF:-1,Eleven 1 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/23325
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70056
 #EXTINF:-1,Eleven 2 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/23320
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70256
 #EXTINF:-1,Eleven 3
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/23321
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70213
 #EXTINF:-1,Eleven 4
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/23322
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70058
 #EXTINF:-1,Eleven 5
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/23323
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70059
 #EXTINF:-1,SPORT.TV1 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/17744
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70151
 #EXTINF:-1,SPORT.TV2
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/3222
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70152
 #EXTINF:-1,SPORT.TV3 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/3223
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70153
 #EXTINF:-1,SPORT.TV4 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/3224
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70071
 #EXTINF:-1,SPORT.TV5
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/16297
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70072
 #EXTINF:-1,TVCine TOP 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/5545
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
 #EXTINF:-1,TVCine EDITION 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/5546
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
 #EXTINF:-1,TVCine EMOTION 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/5547
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
 #EXTINF:-1,TVCine ACTION 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/5548
+http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
+#EXTINF:-1,=== Android ===
+#EXTINF:-1,Benfica TV 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2646
+#EXTINF:-1,Benfica TV 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2647
+#EXTINF:-1,Eleven 1 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2649
+#EXTINF:-1,Eleven 2 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2650
+#EXTINF:-1,Eleven 3
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2652
+#EXTINF:-1,Eleven 4
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2653
+#EXTINF:-1,Eleven 5
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2654
+#EXTINF:-1,SPORT.TV1 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2634
+#EXTINF:-1,SPORT.TV2
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2637
+#EXTINF:-1,SPORT.TV3 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2639
+#EXTINF:-1,SPORT.TV4 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2641
+#EXTINF:-1,SPORT.TV5
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2643
+#EXTINF:-1,TVCine TOP 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2697
+#EXTINF:-1,TVCine EDITION 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2699
+#EXTINF:-1,TVCine EMOTION 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2701
+#EXTINF:-1,TVCine ACTION 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2703
+
 #EXTINF:-1,=== Balkan ===
 #EXTINF:-1,Benfica TV 
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/200525
@@ -65,7 +99,6 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95340
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95341
 #EXTINF:-1,TVCine ACTION 
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95342
-
 #EXTINF:-1,=== xplus ===
 #EXTINF:-1,Eleven 1 
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
@@ -87,30 +120,37 @@ http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
 #EXTINF:-1,SPORT.TV5
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
+#EXTINF:-1,=== hostingterabyte ===
+#EXTINF:-1,Benfica TV 
 
-#EXTINF:-1,=== JokerTv ===
 #EXTINF:-1,Benfica TV 
-http://185.134.22.150:8080/jokertv/streaming@2021/1609
-#EXTINF:-1,Benfica TV 
-http://185.134.22.150:8080/jokertv/streaming@2021/26350
+
 #EXTINF:-1,Eleven 1 
-http://185.134.22.150:8080/jokertv/streaming@2021/1581
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23164
 #EXTINF:-1,Eleven 2 
-http://185.134.22.150:8080/jokertv/streaming@2021/1577
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23178
 #EXTINF:-1,Eleven 3
-http://185.134.22.150:8080/jokertv/streaming@2021/1573
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23174
 #EXTINF:-1,Eleven 4
-http://185.134.22.150:8080/jokertv/streaming@2021/1569
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23175
 #EXTINF:-1,Eleven 5
-http://185.134.22.150:8080/jokertv/streaming@2021/1565
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23176
 #EXTINF:-1,SPORT.TV1 
-http://185.134.22.150:8080/jokertv/streaming@2021/1477
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/324
 #EXTINF:-1,SPORT.TV2
-http://185.134.22.150:8080/jokertv/streaming@2021/1471
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/326
 #EXTINF:-1,SPORT.TV3 
-http://185.134.22.150:8080/jokertv/streaming@2021/24042
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/327
 #EXTINF:-1,SPORT.TV4 
-http://185.134.22.150:8080/jokertv/streaming@2021/24043
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/1783
 #EXTINF:-1,SPORT.TV5
-http://185.134.22.150:8080/jokertv/streaming@2021/1457
+
+#EXTINF:-1,TVCine TOP 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/426
+#EXTINF:-1,TVCine EDITION 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/427
+#EXTINF:-1,TVCine EMOTION 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/428
+#EXTINF:-1,TVCine ACTION 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/429
 
