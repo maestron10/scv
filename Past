@@ -1,78 +1,31 @@
 #EXTM3U
-#EXTINF:-1,Benfica TV 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/5541
-#EXTINF:-1,Benfica TV 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/3308
-#EXTINF:-1,Benfica TV 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/200525
-#EXTINF:-1,Benfica TV 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/151861
-#EXTINF:-1,Benfica TV 
-http://iptvtree.net:8080/F17744/f01e18e2/1497
-#EXTINF:-1,Benfica TV 
-http://185.134.22.150:8080/jokertv/streaming@2021/1609
-#EXTINF:-1,Benfica TV 
-http://185.134.22.150:8080/jokertv/streaming@2021/26350
-#EXTINF:-1,Benfica TV 
-http://tvpanel.one:80/den9179/611carc/579318
-#EXTINF:-1,Benfica TV 
-http://tvpanel.one:80/den9179/611carc/579534
-#EXTINF:-1,Benfica TV 
-http://www.stvpower.com:2103/jeanjacque55/thomas5599/1893
-#EXTINF:-1,Benfica TV 
-http://www.stvpower.com:2103/jeanjacque55/thomas5599/1894
-#EXTINF: -1,Benfica TV 
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/19160/index.m3u8
-#EXTINF:-1,Benfica TV 
-http://megatitan.net:8080/Sebastian6919/Concha3073/119831
-#EXTINF:-1,Benfica TV 
-http://megatitan.net:8080/Sebastian6919/Concha3073/119807
-#EXTINF:-1,Benfica TV 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37768
-#EXTINF:-1,Benfica TV 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37769
-
-#EXTINF:-1,SPORT.TV4 
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/3224
-#EXTINF:-1,SPORT.TV4 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95415
-#EXTINF:-1,SPORT.TV4 
-http://iptvtree.net:8080/F17744/f01e18e2/1492
-#EXTINF:-1,SPORT.TV4 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
-#EXTINF:-1,SPORT.TV4 
-http://185.134.22.150:8080/jokertv/streaming@2021/24043
-#EXTINF:-1,SPORT.TV4 
-http://tvpanel.one:80/den9179/611carc/579501
-#EXTINF:-1,SPORT.TV4 
-http://www.stvpower.com:2103/jeanjacque55/thomas5599/13009
-#EXTINF: -1,SPORT.TV 4
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2528/index.m3u8
-#EXTINF:-1,SPORT.TV4 
-http://megatitan.net:8080/Sebastian6919/Concha3073/7508
-#EXTINF:-1,SPORT.TV4 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37762
-#EXTINF:-1,SKY SPORTS F1 HD 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/808
-#EXTINF:-1,SKY SPORTS F1
-http://tvpanel.one:80/den9179/611carc/586776
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/101486
-#EXTINF:-1,SKY SPORTS F1
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/102231
-#EXTINF:-1,Sky Sports F1
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/14656
-#EXTINF:-1,IT | SKY SPORT F1
-http://185.134.22.150:8080/jokertv/streaming@2021/40527
-#EXTINF:-1,|ES| DAZN 4
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/127818
-#EXTINF:-1,|EXYU| ARENA SPORT 7 HD |HR|
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/192162
-#EXTINF:-1,DAZN 4 ES
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/87129
-#EXTINF:-1,Arena Sport 7 FHD HR
-http://clientportal.link:80/y10rVBk865/YaeTqJ349/88712
-#EXTINF:-1,MOVISTAR DAZN 4 HD
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60400
-#EXTINF:-1,SP: La Liga: Dazn 4 HD
-http://megatitan.net:8080/Sebastian6919/Concha3073/250854
+#EXTINF:-1,|PT|HEVC| SPORT TV 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146773
+#EXTINF:-1,|PT|HEVC| SPORT TV 2 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146775
+#EXTINF:-1,|PT|HEVC| SPORT TV 3 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146778
+#EXTINF:-1,|PT| SPORT TV 4
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146779
+#EXTINF:-1,|PT| SPORT TV 5
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146780
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://512290560427318974.nicene.xyz:80/javier662149640/javier662149640/318974
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://512290560427318979.nicene.xyz:80/javier662149640/javier662149640/318979
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://512290560427318984.nicene.xyz:80/javier662149640/javier662149640/318984
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://512290560427318990.nicene.xyz:80/javier662149640/javier662149640/318990
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://512290560427318993.nicene.xyz:80/javier662149640/javier662149640/318993
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://acsa.ws:80/668630/Aps8fQ/169589.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://acsa.ws:80/668630/Aps8fQ/169590.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://acsa.ws:80/668630/Aps8fQ/169591.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://acsa.ws:80/668630/Aps8fQ/169592.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://acsa.ws:80/668630/Aps8fQ/169593.ts
