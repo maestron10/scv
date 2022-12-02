@@ -1153,8 +1153,733 @@ http://martepro.com:2082/Nap4lm/2022Nap4lm/94933
 http://martepro.com:2082/Nap4lm/2022Nap4lm/94936
 #EXTINF:-1,BENFICA TV HD 264
 http://martepro.com:2082/Nap4lm/2022Nap4lm/94914
-
-
+#EXTM3U
+#EXTINF:-1,##### saw.duplex-ott #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146737
+#EXTINF:-1,|PT| RTP 1
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146738
+#EXTINF:-1,|PT| RTP 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146739
+#EXTINF:-1,|PT|HEVC| RTP 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146740
+#EXTINF:-1,|PT| RTP 2
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146741
+#EXTINF:-1,|PT| RTP 2 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146742
+#EXTINF:-1,|PT|HEVC| RTP 2 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146743
+#EXTINF:-1,|PT| RTP 3
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146744
+#EXTINF:-1,|PT|HEVC| RTP 3 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146745
+#EXTINF:-1,|PT|HEVC| SIC HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146746
+#EXTINF:-1,|PT|HEVC| TVI HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146747
+#EXTINF:-1,|PT| RTP INTERNATIONAL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146748
+#EXTINF:-1,|PT| TVI 24
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146749
+#EXTINF:-1,|PT|HEVC| TVI 24 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146750
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146751
+#EXTINF:-1,|PT|HEVC| SIC NOTICIAS HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146752
+#EXTINF:-1,|PT| CMTV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146753
+#EXTINF:-1,|PT|HEVC| CMTV HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146754
+#EXTINF:-1,|PT| RTP AFRICA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146755
+#EXTINF:-1,|PT| RTP MADEIRA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146756
+#EXTINF:-1,|PT| RTP ACORES
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146757
+#EXTINF:-1,|PT| PORTO CANAL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146758
+#EXTINF:-1,|PT|HEVC| PORTO CANAL HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146759
+#EXTINF:-1,|PT| CACA E PESCA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146760
+#EXTINF:-1,|PT| RTP MEMORIA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146761
+#EXTINF:-1,|PT| TVI FICCAO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146762
+#EXTINF:-1,|PT| MCS EXTREME
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146763
+#EXTINF:-1,|PT| TVI REALITY
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146764
+#EXTINF:-1,##### |PT| DESPORTO #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146765
+#EXTINF:-1,|PT| CANAL 11
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146766
+#EXTINF:-1,|PT|HEVC| CANAL 11 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146767
+#EXTINF:-1,|PT| SPORT TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146768
+#EXTINF:-1,|PT|HEVC| SPORT TV + HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146769
+#EXTINF:-1,|PT| SPORT TV 1
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146770
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146771
+#EXTINF:-1,|PT|HEVC| SPORT TV 1 HD NOS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146772
+#EXTINF:-1,|PT|HEVC| SPORT TV 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146773
+#EXTINF:-1,|PT| SPORT TV 2
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146774
+#EXTINF:-1,|PT|HEVC| SPORT TV 2 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146775
+#EXTINF:-1,|PT| SPORT TV 3
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146776
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146777
+#EXTINF:-1,|PT|HEVC| SPORT TV 3 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146778
+#EXTINF:-1,|PT| SPORT TV 4
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146779
+#EXTINF:-1,|PT| SPORT TV 5
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146780
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146781
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146782
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146783
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 2 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146784
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146785
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS  3 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146786
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146787
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 4 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146788
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146789
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 5 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146790
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146791
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 6 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146792
+#EXTINF:-1,|PT| BTV 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146793
+#EXTINF:-1,|PT|HEVC| BTV 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146794
+#EXTINF:-1,|PT| SPORTING TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146795
+#EXTINF:-1,|PT|HEVC| SPORTING TV HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146796
+#EXTINF:-1,|PT|HEVC| SPORT TV NBA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146797
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146798
+#EXTINF:-1,|PT| FUEL TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146799
+#EXTINF:-1,|PT| EUROSPORT 1
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146800
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146801
+#EXTINF:-1,|PT|HEVC| EUROSPORT 1 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146802
+#EXTINF:-1,|PT| EUROSPORT 2
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146803
+#EXTINF:-1,|PT| A BOLA TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146804
+#EXTINF:-1,|PT| PFC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146805
+#EXTINF:-1,|PT|HEVC| A BOLA TV HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146806
+#EXTINF:-1,|PT| NBA TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146807
+#EXTINF:-1,|PT|HEVC| FIGHT NETWORK HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146808
+#EXTINF:-1,|PT| MOTORVISION
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146809
+#EXTINF:-1,|PT| REAL MADRID TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146810
+#EXTINF:-1,##### |PT| AFRICA #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146811
+#EXTINF:-1,|PT| ZAP VIVA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146812
+#EXTINF:-1,|PT| TV ZIMBO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146813
+#EXTINF:-1,|PT| TPA 1
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146814
+#EXTINF:-1,|PT| TPA International
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146815
+#EXTINF:-1,|PT| TVM1
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146816
+#EXTINF:-1,|PT| TVM2
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146817
+#EXTINF:-1,|PT| TVMANA MAPUTO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146818
+#EXTINF:-1,|PT| TCV CABO RADIO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146819
+#EXTINF:-1,##### |PT| BRASIL #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146820
+#EXTINF:-1,|PT| TV RECORD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146821
+#EXTINF:-1,|PT| GLOBO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146822
+#EXTINF:-1,|PT|HEVC| GLOBO PORTUGAL HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146823
+#EXTINF:-1,|PT| GLOBO PREMIUM
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146824
+#EXTINF:-1,##### |PT| RELIGIAO #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146825
+#EXTINF:-1,|PT| KURIAKOS TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146826
+#EXTINF:-1,|PT| CAPELA DE FATIMA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146827
+#EXTINF:-1,|PT| CANACAO NOVA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146828
+#EXTINF:-1,##### |PT| CINEMA #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146829
+#EXTINF:-1,|PT| FOX HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146830
+#EXTINF:-1,|PT|HEVC| FOX HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146831
+#EXTINF:-1,|PT| FOX COMEDY
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146832
+#EXTINF:-1,|PT| FOX CRIME HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146833
+#EXTINF:-1,|PT|HEVC| FOX CRIME HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146834
+#EXTINF:-1,|PT| FOX LIFE HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146835
+#EXTINF:-1,|PT|HEVC| FOX LIFE HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146836
+#EXTINF:-1,|PT| FOX MOVIES
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146837
+#EXTINF:-1,|PT|HEVC| FOX MOVIES HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146838
+#EXTINF:-1,|PT| FOX NEWS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146839
+#EXTINF:-1,|PT| TVCINE TOP HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146840
+#EXTINF:-1,|PT|HEVC| TV CINE TOP HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146841
+#EXTINF:-1,|PT| TVCINE EDITION HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146842
+#EXTINF:-1,|PT|HEVC| TV CINE EDITION HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146843
+#EXTINF:-1,|PT| TVCINE EMOTION HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146844
+#EXTINF:-1,|PT|HEVC| TV CINE EMOTION HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146845
+#EXTINF:-1,|PT| TVCINE ACTION HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146846
+#EXTINF:-1,|PT|HEVC| TV CINE ACTION HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146847
+#EXTINF:-1,|PT| TVCINE EDITION
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146848
+#EXTINF:-1,|PT| TVCINE ACTION
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146849
+#EXTINF:-1,|PT| TV SERIES
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146850
+#EXTINF:-1,|PT| TV SERIES HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146851
+#EXTINF:-1,|PT| AXN HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146852
+#EXTINF:-1,|PT|HEVC| AXN HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146853
+#EXTINF:-1,|PT| AXN WHITE HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146854
+#EXTINF:-1,|PT|HEVC| AXN WHITE HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146855
+#EXTINF:-1,|PT| AXN MOVIES HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146856
+#EXTINF:-1,|PT|HEVC| AXN MOVIES HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146857
+#EXTINF:-1,|PT| CINEMUNDO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146858
+#EXTINF:-1,|PT|HEVC| CINEMUNDO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146859
+#EXTINF:-1,|PT| NOS STUDIOS HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146860
+#EXTINF:-1,|PT| HOLLYWOOD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146861
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146862
+#EXTINF:-1,|PT|HEVC| HOLLYWOOD HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146863
+#EXTINF:-1,|PT| NOS STUDIO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146864
+#EXTINF:-1,|PT|HEVC| NOS STUDIO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146865
+#EXTINF:-1,##### |PT| INFANTIL #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146866
+#EXTINF:-1,|PT| NICKELODEON
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146867
+#EXTINF:-1,|PT| NICK JR.
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146868
+#EXTINF:-1,|PT| JIM JAM
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146869
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146870
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146871
+#EXTINF:-1,|PT| BABY TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146872
+#EXTINF:-1,|PT| BIGGS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146873
+#EXTINF:-1,|PT| CANAL PANDA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146874
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146875
+#EXTINF:-1,##### |PT| MUSICA #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146876
+#EXTINF:-1,|PT| MEZZO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146877
+#EXTINF:-1,|PT| VH1
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146878
+#EXTINF:-1,|PT| VH1 CLASSIC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146879
+#EXTINF:-1,|PT| MCM POP
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146880
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146881
+#EXTINF:-1,|PT| AFRO MUSIC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146882
+#EXTINF:-1,|PT| TRACE TOCA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146883
+#EXTINF:-1,|PT| TRACE URBAN
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146884
+#EXTINF:-1,##### |PT| CULTURA #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146885
+#EXTINF:-1,|PT|HEVC| ID INVESTIGATION DISCOVERY HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146886
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146887
+#EXTINF:-1,|PT|HEVC| E! ENTERTAINMENT HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146888
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146889
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146890
+#EXTINF:-1,|PT| NAT GEO GEOGRAPHIC HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146891
+#EXTINF:-1,|PT|HEVC| NATIONAL GEOGRAPHIC HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146892
+#EXTINF:-1,|PT| NAT GEO WILD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146893
+#EXTINF:-1,|PT|HEVC| NAT GEO WILD HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146894
+#EXTINF:-1,|PT| CRIME INVESTIGATION
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146895
+#EXTINF:-1,|PT| ODISSEIA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146896
+#EXTINF:-1,|PT|HEVC| ODISSEIA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146897
+#EXTINF:-1,|PT| HISTORIA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146898
+#EXTINF:-1,|PT|HEVC| HISTORIA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146899
+#EXTINF:-1,|PT|HEVC| FINE LIVING NETWORK HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146900
+#EXTINF:-1,|PT|HEVC| CASA E COZINHA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146901
+#EXTINF:-1,##### |PT| INTRETINIMENTO #####
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146902
+#EXTINF:-1,|PT| CBS REALITY
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146903
+#EXTINF:-1,|PT|HEVC| BLAZE TV HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146904
+#EXTINF:-1,|PT| BLOOMBERG
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146905
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146906
+#EXTINF:-1,|PT|HEVC| 24 KITCHEN HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146907
+#EXTINF:-1,|PT| AMC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146908
+#EXTINF:-1,|PT| AMC HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146909
+#EXTINF:-1,|PT|HEVC| AMC HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146910
+#EXTINF:-1,|PT| SIC CARAS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146911
+#EXTINF:-1,|PT|HEVC| SIC CARAS HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146912
+#EXTINF:-1,|PT| SIC K
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146913
+#EXTINF:-1,|PT| SIC MULHER
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146914
+#EXTINF:-1,|PT|HEVC| SIC MULHER HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146915
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146916
+#EXTINF:-1,|PT|HEVC| TRAVEL CHANNEL HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146917
+#EXTINF:-1,|PT| TLC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146918
+#EXTINF:-1,|PT| SYFY
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146919
+#EXTINF:-1,|PT|HEVC| SYFY HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146920
+#EXTINF:-1,|PT| TV GALICIA
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146921
+#EXTINF:-1,|PT| CNN
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146922
+#EXTINF:-1,|PT| SKY NEWS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146923
+#EXTINF:-1,|PT| SIC RADICAL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146924
+#EXTINF:-1,|PT|HEVC| SIC RADICAL HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146925
+#EXTINF:-1,|PT| TVE 24H
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146926
+#EXTINF:-1,|PT| CANAL Q
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146927
+#EXTINF:-1,|PT| CNBC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146928
+#EXTINF:-1,|PT| EURONEWS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146929
+#EXTINF:-1,|PT| TV5 MONDE
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146930
+#EXTINF:-1,|PT| TOROS TV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146931
+#EXTINF:-1,|PT| BBC WORLD NEWS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146932
+#EXTINF:-1,|PT| FTV
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146933
+#EXTINF:-1,|PT|HEVC| TVI FICCAO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146934
+#EXTINF:-1,|PT|HEVC| DOG TV HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146935
+#EXTINF:-1,|PT|HEVC| ZAP VIVA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146936
+#EXTINF:-1,|PT|HEVC| SPORT TV 4 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146937
+#EXTINF:-1,|PT|HEVC| SPORT TV 5 HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146938
+#EXTINF:-1,|PT|HEVC| CACA E PESCA HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146939
+#EXTINF:-1,|PT|HEVC| TV RECORD HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146940
+#EXTINF:-1,|PT| TV RECORD NEWS HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146941
+#EXTINF:-1,|PT|HEVC| GLOBO INTERNACIONAL
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146942
+#EXTINF:-1,|PT| TV GLOBO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146943
+#EXTINF:-1,|PT|HEVC| TV GLOBO NOW HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146944
+#EXTINF:-1,|PT| BOOMERANG HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146945
+#EXTINF:-1,|PT|HEVC| SAUDE HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146946
+#EXTINF:-1,|PT| SIC
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146947
+#EXTINF:-1,|PT| TVI
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146948
+#EXTINF:-1,|PT| TVI MOSAICO
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146949
+#EXTINF:-1,|PT| TV RECORD NEWS
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146950
+#EXTINF:-1,|PT|HEVC| TV GLOBO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146951
+#EXTINF:-1,|PT| BOOMERANG
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146952
+#EXTINF:-1,|PT|HEVC| TVI MOSAICO HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146953
+#EXTINF:-1,|PT| TVI REALITY HD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146954
+#EXTINF:-1,|PT| TV GLOBO NOW
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146955
+#EXTINF:-1,##### ultimateiptv.me #####
+#EXTINF:-1,|PT| CANAL 11 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/265011182
+#EXTINF:-1,(PT) SPORT TV 1 UHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5335
+#EXTINF:-1,(PT) SIC FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5338
+#EXTINF:-1,(PT) RTP 1 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5336
+#EXTINF:-1,(PT) RTP 2 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5337
+#EXTINF:-1,|PT| HOLLYWOOD FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/7212
+#EXTINF:-1,(PT) SIC  RADICAL FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5339
+#EXTINF:-1,(PT) SPORT TV + FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5340
+#EXTINF:-1,(PT) SPORT TV 1 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5341
+#EXTINF:-1,(PT) SPORT TV 2 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/665020106
+#EXTINF:-1,(PT) SPORT TV 3 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5342
+#EXTINF:-1,(PT) SPORT TV 4 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5343
+#EXTINF:-1,(PT) SPORT TV 5 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/5344
+#EXTINF:-1,|PT| BENFICA TV FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4269
+#EXTINF:-1,|PT| 24 KITCHEN FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4268
+#EXTINF:-1,|PT| SPORT TV 1 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4445
+#EXTINF:-1,|PT| SPORT TV 2 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4444
+#EXTINF:-1,|PT| SPORT TV 3 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4443
+#EXTINF:-1,|PT| SPORT TV 4 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4441
+#EXTINF:-1,|PT| SPORT TV 5 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4439
+#EXTINF:-1,|PT| RTP 1  FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4492
+#EXTINF:-1,(PT) ELEVEN SPORTS 1 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6510
+#EXTINF:-1,(PT) ELEVEN SPORTS 2 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6509
+#EXTINF:-1,(PT) ELEVEN SPORTS 3 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6511
+#EXTINF:-1,(PT) ELEVEN SPORTS 5 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6513
+#EXTINF:-1,(PT) ELEVEN SPORTS 6 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6729
+#EXTINF:-1,(PT) ELEVEN SPORTS 4 FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6512
+#EXTINF:-1,======== BOUQUET PORTUGAL========
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2746
+#EXTINF:-1,|PT| RTP 1 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1727
+#EXTINF:-1,|PT| RTP 2 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1726
+#EXTINF:-1,|PT| RTP 3 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1715
+#EXTINF:-1,|PT| TVI HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4493
+#EXTINF:-1,|PT| TVI HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1674
+#EXTINF:-1,|PT| TVI REALITY
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1672
+#EXTINF:-1,|PT| TVI FICCAO
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2647
+#EXTINF:-1,|PT| RTP  MADEIRA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2321
+#EXTINF:-1,|PT| RTP ACORES
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2649
+#EXTINF:-1,|PT| RTP MEMORIA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1683
+#EXTINF:-1,|PT| RTP INTERNATIONAL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1658
+#EXTINF:-1,|PT| RTP ACORESS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1685
+#EXTINF:-1,|PT| RTP AFRICA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1684
+#EXTINF:-1,|PT| SIC RADICAL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1656
+#EXTINF:-1,|PT| SIC CARAS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/665030266
+#EXTINF:-1,|PT| SIC MULHER
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1682
+#EXTINF:-1,|PT| SIC HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1725
+#EXTINF:-1,|PT| CANAL Q
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1704
+#EXTINF:-1,======== NOTICIAS ========
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/3562
+#EXTINF:-1,|PT| TVI FHD.
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2334
+#EXTINF:-1,|PT| CM TV HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1700
+#EXTINF:-1,|PT| TVI 24 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1673
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1657
+#EXTINF:-1,|PT| E! HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1695
+#EXTINF:-1,|PT| EURONEWS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2335
+#EXTINF:-1,|PT| FOX NEWS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2331
+#EXTINF:-1,======== INFANTIL ========
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/3568
+#EXTINF:-1,|PT| SIC KIDS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2329
+#EXTINF:-1,|PT| BABY TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1708
+#EXTINF:-1,|PT| DISNEY JUNIOR HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1696
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1697
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2330
+#EXTINF:-1,|PT| CANAL PANDA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1705
+#EXTINF:-1,|PT| NICKELODEON HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1688
+#EXTINF:-1,|PT| JIM JAM
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1661
+#EXTINF:-1,|PT| BIGGS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2328
+#EXTINF:-1,======== CINEMA & SERIES   ========
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/3563
+#EXTINF:-1,|PT| NOS STUDIOS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1659
+#EXTINF:-1,|PT| TV CINE TOP HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1716
+#EXTINF:-1,|PT| TV CINE EDITION   HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1717
+#EXTINF:-1,|PT| TV CINE EMOTION HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1718
+#EXTINF:-1,|PT| TV CINE ACTION HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1719
+#EXTINF:-1,|PT| CINEMUNDO HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1701
+#EXTINF:-1,|PT| TV SERIES FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1675
+#EXTINF:-1,|PT| AMC FHD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1709
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1662
+#EXTINF:-1,|PT| FOX HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1663
+#EXTINF:-1,|PT| FOX MOVIES HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1729
+#EXTINF:-1,|PT| FOX COMEDY HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1694
+#EXTINF:-1,|PT| FOX LIFE HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1664
+#EXTINF:-1,|PT| FOX CRIME HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1665
+#EXTINF:-1,|PT| AXN HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1714
+#EXTINF:-1,|PT| AXN BLACK HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2140
+#EXTINF:-1,|PT| AXN WHITE HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1713
+#EXTINF:-1,|PT| SYFY HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1655
+#EXTINF:-1,|PT| AMC HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1728
+#EXTINF:-1,======== DESPORTO  ========
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/3564
+#EXTINF:-1,(PT) NBA HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6730
+#EXTINF:-1,|PT| SPORT TV+
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2324
+#EXTINF:-1,|PT| SPORT TV 1 HD 720p
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4437
+#EXTINF:-1,|PT| SPORT TV 1 SD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4438
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1721
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1722
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1723
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1724
+#EXTINF:-1,|PT| SPORT TV  5 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2139
+#EXTINF:-1,|PT| SPORT TV 5 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2295
+#EXTINF:-1,|PT| BENFICA TV 1
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1670
+#EXTINF:-1,|PT| BENFICA TV 2
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1669
+#EXTINF:-1,|PT| SPORTING TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1720
+#EXTINF:-1,|PT| EUROSPORT 1
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1667
+#EXTINF:-1,|PT| EUROSPORT 2
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1666
+#EXTINF:-1,|PT| PORTO CANAL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1660
+#EXTINF:-1,|PT| PORTO  CANAL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2772
+#EXTINF:-1,|PT| TOROS TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1680
+#EXTINF:-1,|PT| MOTORS TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1692
+#EXTINF:-1,|PT| FUEL TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1693
+#EXTINF:-1,|PT|  A BOLA TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1710
+#EXTINF:-1,|PT| EUROSPORT  NEWS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2325
+#EXTINF:-1,|PT| MOTORVISION
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2327
+#EXTINF:-1,|PT| PFC HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1686
+#EXTINF:-1,======== CULTURA  ========
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/3565
+#EXTINF:-1,|PT| CRIME INVESTIGATION HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/265011151
+#EXTINF:-1,|PT| MY CUISINE TV HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/9353
+#EXTINF:-1,|PT| 24 KITCHEN
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1712
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1690
+#EXTINF:-1,|PT| NATIONAL GEO WILD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1689
+#EXTINF:-1,|PT| ODISSEIA HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1687
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1698
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1699
+#EXTINF:-1,|PT| CBS REALITY
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1703
+#EXTINF:-1,|PT| CANAL HISTORIA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1706
+#EXTINF:-1,|PT| CACA & PESCA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1707
+#EXTINF:-1,|PT| CACAVISION
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2323
+#EXTINF:-1,|PT| CACA E PESCA
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2322
+#EXTINF:-1,|PT| A&E HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1711
+#EXTINF:-1,|PT| CANAL  TOROS
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2554
+#EXTINF:-1,|PT| TLC HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1681
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2773
+#EXTINF:-1,|PT| TPA INTERN
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1679
+#EXTINF:-1,|PT| MTV  DANCE
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2145
+#EXTINF:-1,|PT| MCM TOP
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2146
+#EXTINF:-1,|PT| VH1 CLASSIC HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/3091
+#EXTINF:-1,|PT| VH1 HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2143
+#EXTINF:-1,|PT| VH1+
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1671
+#EXTINF:-1,|PT| TRACE URBAN TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2142
+#EXTINF:-1,|PT| AFRO MUSIC
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2141
+#EXTINF:-1,|PT| TV RECORD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1676
+#EXTINF:-1,|PT| TV GLOBO PREMUIM
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1677
+#EXTINF:-1,|PT| TV GLOBO
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1678
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1691
+#EXTINF:-1,|PT| BLAZE HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/265014130
+#EXTINF:-1,|PT| KOMBAT SPORT 
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/665014800
+#EXTINF:-1,|PT| AXN MOVIES HD
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/665014692
+#EXTINF:-1,|PT| REDBULL TV
+http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/665024676
+#EXTINF:-1,======== 5ce.co:80  ========
 #EXTINF:-1 tvg-name="24 KITCHEN HD" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="PORTUGAL",24 KITCHEN HD
 http://5ce.co:80/512678/88121509pp/114998
 #EXTINF:-1 tvg-name="A BOLA TV HD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL",A BOLA TV HD
