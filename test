@@ -1,156 +1,97 @@
 #EXTM3U
-#EXTINF:-1,=== Nap4lm ===
+#EXTM3U
+#EXTINF:-1,=== securepoint ===
 #EXTINF:-1,Benfica TV 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70094
-#EXTINF:-1,Benfica TV 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70054
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/176361
 #EXTINF:-1,Eleven 1 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70056
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58550
 #EXTINF:-1,Eleven 2 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70256
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58551
 #EXTINF:-1,Eleven 3
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70213
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58552
 #EXTINF:-1,Eleven 4
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70058
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58553
 #EXTINF:-1,Eleven 5
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70059
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58554
 #EXTINF:-1,SPORT.TV1 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70151
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58592
 #EXTINF:-1,SPORT.TV2
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70152
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58593
 #EXTINF:-1,SPORT.TV3 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70153
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58594
 #EXTINF:-1,SPORT.TV4 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70071
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58595
 #EXTINF:-1,SPORT.TV5
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70072
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/205120
 #EXTINF:-1,TVCine TOP 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70296
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58607
 #EXTINF:-1,TVCine EDITION 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70292
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58608
 #EXTINF:-1,TVCine EMOTION 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70294
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58609
 #EXTINF:-1,TVCine ACTION 
-http://martepro.com:2082/Nap4lm/2022Nap4lm/70290
-#EXTINF:-1,=== Android ===
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58610
+#EXTINF:-1,=== acaidopara ===
 #EXTINF:-1,Benfica TV 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2646
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1529
 #EXTINF:-1,Benfica TV 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2647
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1530
 #EXTINF:-1,Eleven 1 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2649
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2377
 #EXTINF:-1,Eleven 2 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2650
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2385
 #EXTINF:-1,Eleven 3
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2652
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2390
 #EXTINF:-1,Eleven 4
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2653
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2396
 #EXTINF:-1,Eleven 5
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2654
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2402
 #EXTINF:-1,SPORT.TV1 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2634
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1515
 #EXTINF:-1,SPORT.TV2
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2637
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1518
 #EXTINF:-1,SPORT.TV3 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2639
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1521
 #EXTINF:-1,SPORT.TV4 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2641
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1524
 #EXTINF:-1,SPORT.TV5
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2643
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1527
 #EXTINF:-1,TVCine TOP 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2697
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1544
 #EXTINF:-1,TVCine EDITION 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2699
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1546
 #EXTINF:-1,TVCine EMOTION 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2701
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1548
 #EXTINF:-1,TVCine ACTION 
-http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/2703
-
-#EXTINF:-1,=== Balkan ===
+http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1550
+#EXTINF:-1,=== vasprodtv ===
 #EXTINF:-1,Benfica TV 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/200525
-#EXTINF:-1,Benfica TV 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/151861
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1497
 #EXTINF:-1,Eleven 1 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95418
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1499
 #EXTINF:-1,Eleven 2 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95419
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1503
 #EXTINF:-1,Eleven 3
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95420
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1506
 #EXTINF:-1,Eleven 4
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95421
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1509
 #EXTINF:-1,Eleven 5
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95422
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1512
 #EXTINF:-1,SPORT.TV1 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95410
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1483
 #EXTINF:-1,SPORT.TV2
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95411
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1486
 #EXTINF:-1,SPORT.TV3 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95413
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1489
 #EXTINF:-1,SPORT.TV4 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95415
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1492
 #EXTINF:-1,SPORT.TV5
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95416
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1495
 #EXTINF:-1,TVCine TOP 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95339
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1446
 #EXTINF:-1,TVCine EDITION 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95340
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/82254
 #EXTINF:-1,TVCine EMOTION 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95341
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1448
 #EXTINF:-1,TVCine ACTION 
-http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95342
-#EXTINF:-1,=== xplus ===
-#EXTINF:-1,Eleven 1 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
-#EXTINF:-1,Eleven 2 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/125
-#EXTINF:-1,Eleven 3
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/801
-#EXTINF:-1,Eleven 4
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/802
-#EXTINF:-1,Eleven 5
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/803
-#EXTINF:-1,SPORT.TV1 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
-#EXTINF:-1,SPORT.TV2
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/168
-#EXTINF:-1,SPORT.TV3 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
-#EXTINF:-1,SPORT.TV4 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
-#EXTINF:-1,SPORT.TV5
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1,=== hostingterabyte ===
-#EXTINF:-1,Benfica TV 
-
-#EXTINF:-1,Benfica TV 
-
-#EXTINF:-1,Eleven 1 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23164
-#EXTINF:-1,Eleven 2 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23178
-#EXTINF:-1,Eleven 3
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23174
-#EXTINF:-1,Eleven 4
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23175
-#EXTINF:-1,Eleven 5
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23176
-#EXTINF:-1,SPORT.TV1 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/324
-#EXTINF:-1,SPORT.TV2
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/326
-#EXTINF:-1,SPORT.TV3 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/327
-#EXTINF:-1,SPORT.TV4 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/1783
-#EXTINF:-1,SPORT.TV5
-
-#EXTINF:-1,TVCine TOP 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/426
-#EXTINF:-1,TVCine EDITION 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/427
-#EXTINF:-1,TVCine EMOTION 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/428
-#EXTINF:-1,TVCine ACTION 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/429
-
+http://vasprodtv.ru:8080/argoni150Con/699aadcd/1452
