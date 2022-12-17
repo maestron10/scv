@@ -1,97 +1,22 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1,=== securepoint ===
-#EXTINF:-1,Benfica TV 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/176361
 #EXTINF:-1,Eleven 1 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58550
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003053
 #EXTINF:-1,Eleven 2 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58551
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003054
 #EXTINF:-1,Eleven 3
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58552
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003055
 #EXTINF:-1,Eleven 4
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58553
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003056
 #EXTINF:-1,Eleven 5
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58554
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003057
 #EXTINF:-1,SPORT.TV1 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58592
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003096
 #EXTINF:-1,SPORT.TV2
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58593
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003097
 #EXTINF:-1,SPORT.TV3 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58594
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003098
 #EXTINF:-1,SPORT.TV4 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58595
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003099
 #EXTINF:-1,SPORT.TV5
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/205120
-#EXTINF:-1,TVCine TOP 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58607
-#EXTINF:-1,TVCine EDITION 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58608
-#EXTINF:-1,TVCine EMOTION 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58609
-#EXTINF:-1,TVCine ACTION 
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58610
-#EXTINF:-1,=== acaidopara ===
-#EXTINF:-1,Benfica TV 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1529
-#EXTINF:-1,Benfica TV 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1530
-#EXTINF:-1,Eleven 1 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2377
-#EXTINF:-1,Eleven 2 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2385
-#EXTINF:-1,Eleven 3
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2390
-#EXTINF:-1,Eleven 4
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2396
-#EXTINF:-1,Eleven 5
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/2402
-#EXTINF:-1,SPORT.TV1 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1515
-#EXTINF:-1,SPORT.TV2
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1518
-#EXTINF:-1,SPORT.TV3 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1521
-#EXTINF:-1,SPORT.TV4 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1524
-#EXTINF:-1,SPORT.TV5
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1527
-#EXTINF:-1,TVCine TOP 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1544
-#EXTINF:-1,TVCine EDITION 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1546
-#EXTINF:-1,TVCine EMOTION 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1548
-#EXTINF:-1,TVCine ACTION 
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/1550
-#EXTINF:-1,=== vasprodtv ===
-#EXTINF:-1,Benfica TV 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1497
-#EXTINF:-1,Eleven 1 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1499
-#EXTINF:-1,Eleven 2 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1503
-#EXTINF:-1,Eleven 3
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1506
-#EXTINF:-1,Eleven 4
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1509
-#EXTINF:-1,Eleven 5
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1512
-#EXTINF:-1,SPORT.TV1 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1483
-#EXTINF:-1,SPORT.TV2
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1486
-#EXTINF:-1,SPORT.TV3 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1489
-#EXTINF:-1,SPORT.TV4 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1492
-#EXTINF:-1,SPORT.TV5
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1495
-#EXTINF:-1,TVCine TOP 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1446
-#EXTINF:-1,TVCine EDITION 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/82254
-#EXTINF:-1,TVCine EMOTION 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1448
-#EXTINF:-1,TVCine ACTION 
-http://vasprodtv.ru:8080/argoni150Con/699aadcd/1452
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003100
