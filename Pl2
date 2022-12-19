@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== apptelspro ===
-#EXTINF:-1,Benfica TV 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37768
-#EXTINF:-1,Benfica TV 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37769
-#EXTINF:-1,Eleven 1 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37774
-#EXTINF:-1,Eleven 2 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37777
-#EXTINF:-1,Eleven 3
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37780
-#EXTINF:-1,Eleven 4
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37783
-#EXTINF:-1,Eleven 5
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37785
-#EXTINF:-1,SPORT.TV1 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37753
-#EXTINF:-1,SPORT.TV2
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37756
-#EXTINF:-1,SPORT.TV3 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37759
-#EXTINF:-1,SPORT.TV4 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37762
-#EXTINF:-1,SPORT.TV5
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37765
-#EXTINF:-1,TVCine TOP 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37799
-#EXTINF:-1,TVCine EDITION 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37802
-#EXTINF:-1,TVCine EMOTION 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37805
-#EXTINF:-1,TVCine ACTION 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37808
 #EXTINF:-1,=== xplus ===
 #EXTINF:-1,Eleven 1 
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
@@ -53,40 +20,6 @@ http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
 #EXTINF:-1,SPORT.TV5
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1,=== ultimateiptv ===
-#EXTINF:-1,Benfica TV 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1669
-#EXTINF:-1,Benfica TV 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/4269
-#EXTINF:-1,Eleven 1 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6510
-#EXTINF:-1,Eleven 2 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6509
-#EXTINF:-1,Eleven 3
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6511
-#EXTINF:-1,Eleven 4
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6512
-#EXTINF:-1,Eleven 5
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/6513
-#EXTINF:-1,SPORT.TV1 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1721
-#EXTINF:-1,SPORT.TV2
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1722
-#EXTINF:-1,SPORT.TV3 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1723
-#EXTINF:-1,SPORT.TV4 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1724
-#EXTINF:-1,SPORT.TV5
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/2295
-#EXTINF:-1,TVCine TOP 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1716
-#EXTINF:-1,TVCine EDITION 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1717
-#EXTINF:-1,TVCine EMOTION 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1718
-#EXTINF:-1,TVCine ACTION 
-http://ultimateiptv.me:8080/carthage-pro.fr/FC2CjXjUL3/1719
-
 #EXTINF:-1,=== hostingterabyte ===
 #EXTINF:-1,Eleven 1 
 http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23164
@@ -106,44 +39,3 @@ http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/326
 http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/327
 #EXTINF:-1,SPORT.TV4 
 http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/1783
-#EXTINF:-1,TVCine TOP 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/426
-#EXTINF:-1,TVCine EDITION 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/427
-#EXTINF:-1,TVCine EMOTION 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/428
-#EXTINF:-1,TVCine ACTION 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/429
-#EXTINF:-1,=== IptvTree ===
-#EXTINF:-1,Benfica TV 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1497
-#EXTINF:-1,Eleven 1 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1499
-#EXTINF:-1,Eleven 2 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1503
-#EXTINF:-1,Eleven 3
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1506
-#EXTINF:-1,Eleven 4
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1509
-#EXTINF:-1,Eleven 5
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1512
-#EXTINF:-1,SPORT.TV1 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1483
-#EXTINF:-1,SPORT.TV2
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1486
-#EXTINF:-1,SPORT.TV3 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1489
-#EXTINF:-1,SPORT.TV4 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1492
-#EXTINF:-1,SPORT.TV5
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1495
-#EXTINF:-1,SKY SPORTS F1
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/265
-#EXTINF:-1,TVCine TOP 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1446
-#EXTINF:-1,TVCine EDITION 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/82254
-#EXTINF:-1,TVCine EMOTION 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1448
-#EXTINF:-1,TVCine ACTION 
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/1452
