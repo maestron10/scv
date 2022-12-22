@@ -98,28 +98,6 @@ http://king-play.newtvhd.com:7070/User339/qaa6xt60/179162
 http://king-play.newtvhd.com:7070/User339/qaa6xt60/179164
 #EXTINF:-1,TVCine ACTION 
 http://king-play.newtvhd.com:7070/User339/qaa6xt60/179166
-#EXTINF:-1,=== securepoint ===
-#EXTINF:-1,Eleven 1 
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003053
-#EXTINF:-1,Eleven 2 
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003054
-#EXTINF:-1,Eleven 3
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003055
-#EXTINF:-1,Eleven 4
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003056
-#EXTINF:-1,Eleven 5
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003057
-#EXTINF:-1,SPORT.TV1 
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003096
-#EXTINF:-1,SPORT.TV2
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003097
-#EXTINF:-1,SPORT.TV3 
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003098
-#EXTINF:-1,SPORT.TV4 
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003099
-#EXTINF:-1,SPORT.TV5
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003100
-
 #EXTINF:-1,=== bellive ===
 #EXTINF:-1,Benfica TV 
 http://bellive.top:8080/live/211664292066993009/9021664292066993/25000.ts
@@ -184,6 +162,62 @@ http://br2.me:80/diogenesireland/brt562070s/10053041
 http://br2.me:80/diogenesireland/brt562070s/10053038
 #EXTINF:-1,TVCine ACTION 
 http://br2.me:80/diogenesireland/brt562070s/10053035
+#EXTINF:-1,=== megatv ===
+#EXTINF:-1,Benfica TV 
+http://megatv.me:5890/1122334455/1122334455/1087
+#EXTINF:-1,Benfica TV 
+http://megatv.me:5890/1122334455/1122334455/1088
+#EXTINF:-1,Eleven 1 
+http://megatv.me:5890/1122334455/1122334455/1081
+#EXTINF:-1,Eleven 2 
+http://megatv.me:5890/1122334455/1122334455/1082
+#EXTINF:-1,Eleven 3
+http://megatv.me:5890/1122334455/1122334455/1083
+#EXTINF:-1,Eleven 4
+http://megatv.me:5890/1122334455/1122334455/1084
+#EXTINF:-1,Eleven 5
+http://megatv.me:5890/1122334455/1122334455/1085
+#EXTINF:-1,SPORT.TV1 
+http://megatv.me:5890/1122334455/1122334455/1070
+#EXTINF:-1,SPORT.TV2
+http://megatv.me:5890/1122334455/1122334455/1072
+#EXTINF:-1,SPORT.TV3 
+http://megatv.me:5890/1122334455/1122334455/1074
+#EXTINF:-1,SPORT.TV4 
+http://megatv.me:5890/1122334455/1122334455/1076
+#EXTINF:-1,SPORT.TV5
+http://megatv.me:5890/1122334455/1122334455/1078
+#EXTINF:-1,TVCine TOP 
+http://megatv.me:5890/1122334455/1122334455/1099
+#EXTINF:-1,TVCine EDITION 
+http://megatv.me:5890/1122334455/1122334455/1101
+#EXTINF:-1,TVCine EMOTION 
+http://megatv.me:5890/1122334455/1122334455/1103
+#EXTINF:-1,TVCine ACTION 
+http://megatv.me:5890/1122334455/1122334455/1105
+#EXTINF:-1,=== securepoint ===
+#EXTINF:-1,Eleven 1 
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003053
+#EXTINF:-1,Eleven 2 
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003054
+#EXTINF:-1,Eleven 3
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003055
+#EXTINF:-1,Eleven 4
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003056
+#EXTINF:-1,Eleven 5
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003057
+#EXTINF:-1,SPORT.TV1 
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003096
+#EXTINF:-1,SPORT.TV2
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003097
+#EXTINF:-1,SPORT.TV3 
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003098
+#EXTINF:-1,SPORT.TV4 
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003099
+#EXTINF:-1,SPORT.TV5
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003100
+
+
 #EXTINF:-1,=== aabb ===
 #EXTINF:-1,Benfica TV 
 http://aabb.is:2095/d4Je5xwD/yadTXB63/68985
