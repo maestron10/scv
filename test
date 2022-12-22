@@ -1,4 +1,107 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1,=== satline ===
+#EXTINF:-1,Benfica TV 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25000.ts
+#EXTINF:-1,Eleven 1 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25024.ts
+#EXTINF:-1,Eleven 2 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25025.ts
+#EXTINF:-1,Eleven 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25026.ts
+#EXTINF:-1,Eleven 4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25027.ts
+#EXTINF:-1,Eleven 5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25028.ts
+#EXTINF:-1,SPORT.TV1 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24984.ts
+#EXTINF:-1,SPORT.TV2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24982.ts
+#EXTINF:-1,SPORT.TV3 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24980.ts
+#EXTINF:-1,SPORT.TV4 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24979.ts
+#EXTINF:-1,SPORT.TV5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24978.ts
+#EXTINF:-1,TVCine TOP 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25012.ts
+#EXTINF:-1,TVCine EDITION 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25013.ts
+#EXTINF:-1,TVCine EMOTION 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25014.ts
+#EXTINF:-1,TVCine ACTION 
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25009.ts
+#EXTINF:-1,=== king-play ===
+#EXTINF:-1,Benfica TV 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179146
+#EXTINF:-1,Benfica TV 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179147
+#EXTINF:-1,Eleven 1 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179130
+#EXTINF:-1,Eleven 2 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179132
+#EXTINF:-1,Eleven 3
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179134
+#EXTINF:-1,Eleven 4
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179136
+#EXTINF:-1,Eleven 5
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179138
+#EXTINF:-1,SPORT.TV1 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179120
+#EXTINF:-1,SPORT.TV2
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179122
+#EXTINF:-1,SPORT.TV3 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179124
+#EXTINF:-1,SPORT.TV4 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179126
+#EXTINF:-1,SPORT.TV5
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179128
+#EXTINF:-1,TVCine TOP 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179160
+#EXTINF:-1,TVCine EDITION 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179162
+#EXTINF:-1,TVCine EMOTION 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179164
+#EXTINF:-1,TVCine ACTION 
+http://king-play.newtvhd.com:7070/User339/qaa6xt60/179166
+#EXTINF:-1,=== client.more ===
+#EXTINF:-1,Benfica TV 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/135391
+#EXTINF:-1,Benfica TV 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11383
+#EXTINF:-1,Eleven 1 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/52588
+#EXTINF:-1,Eleven 2 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11369
+#EXTINF:-1,Eleven 3
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11372
+#EXTINF:-1,Eleven 4
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11375
+#EXTINF:-1,Eleven 5
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11378
+#EXTINF:-1,SPORT.TV1 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/126254
+#EXTINF:-1,SPORT.TV2
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/146628
+#EXTINF:-1,SPORT.TV3 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11359
+#EXTINF:-1,SPORT.TV4 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11361
+#EXTINF:-1,SPORT.TV5
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11363
+#EXTINF:-1,TVCine TOP 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11437
+#EXTINF:-1,TVCine EDITION 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/94608
+#EXTINF:-1,TVCine EMOTION 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11339
+#EXTINF:-1,TVCine ACTION 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11340
+
+
+
+
+
 #EXTINF:-1,=== securepoint ===
 #EXTINF:-1,Eleven 1 
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003053
@@ -214,4 +317,3 @@ http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107422
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107421
 #EXTINF:-1,TVCine ACTION 
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107420
-
