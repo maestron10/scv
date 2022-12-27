@@ -1,70 +1,5 @@
 #EXTM3U
-#EXTINF:-1,=== client.more ===
-#EXTINF:-1,Benfica TV 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/135391
-#EXTINF:-1,Benfica TV 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11383
-#EXTINF:-1,Eleven 1 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/52588
-#EXTINF:-1,Eleven 2 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11369
-#EXTINF:-1,Eleven 3
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11372
-#EXTINF:-1,Eleven 4
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11375
-#EXTINF:-1,Eleven 5
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11378
-#EXTINF:-1,SPORT.TV1 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11355
-#EXTINF:-1,SPORT.TV2
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11357
-#EXTINF:-1,SPORT.TV3 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11359
-#EXTINF:-1,SPORT.TV4 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11361
-#EXTINF:-1,SPORT.TV5
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11363
-#EXTINF:-1,TVCine TOP 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11437
-#EXTINF:-1,TVCine EDITION 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/94608
-#EXTINF:-1,TVCine EMOTION 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11339
-#EXTINF:-1,TVCine ACTION 
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11340
-
-
-#EXTINF:-1,=== satline ===
-#EXTINF:-1,Benfica TV 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25000
-#EXTINF:-1,Eleven 1 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25024
-#EXTINF:-1,Eleven 2 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25025
-#EXTINF:-1,Eleven 3
-http://satline.xyz:8080/7381662208002780/5261662208002780/25026
-#EXTINF:-1,Eleven 4
-http://satline.xyz:8080/7381662208002780/5261662208002780/25027
-#EXTINF:-1,Eleven 5
-http://satline.xyz:8080/7381662208002780/5261662208002780/25028
-#EXTINF:-1,SPORT.TV1 
-http://satline.xyz:8080/7381662208002780/5261662208002780/24984
-#EXTINF:-1,SPORT.TV2
-http://satline.xyz:8080/7381662208002780/5261662208002780/24982
-#EXTINF:-1,SPORT.TV3 
-http://satline.xyz:8080/7381662208002780/5261662208002780/24980
-#EXTINF:-1,SPORT.TV4 
-http://satline.xyz:8080/7381662208002780/5261662208002780/24979
-#EXTINF:-1,SPORT.TV5
-http://satline.xyz:8080/7381662208002780/5261662208002780/24978
-#EXTINF:-1,TVCine TOP 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25012
-#EXTINF:-1,TVCine EDITION 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25013
-#EXTINF:-1,TVCine EMOTION 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25014
-#EXTINF:-1,TVCine ACTION 
-http://satline.xyz:8080/7381662208002780/5261662208002780/25009
+#EXTM3U
 #EXTINF:-1,=== king-play ===
 #EXTINF:-1,Benfica TV 
 http://king-play.newtvhd.com:7070/User339/qaa6xt60/179146
@@ -98,103 +33,39 @@ http://king-play.newtvhd.com:7070/User339/qaa6xt60/179162
 http://king-play.newtvhd.com:7070/User339/qaa6xt60/179164
 #EXTINF:-1,TVCine ACTION 
 http://king-play.newtvhd.com:7070/User339/qaa6xt60/179166
-#EXTINF:-1,=== bellive ===
+#EXTINF:-1,=== client.more ===
 #EXTINF:-1,Benfica TV 
-http://bellive.top:8080/211664292066993009/9021664292066993/25000
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/135391
+#EXTINF:-1,Benfica TV 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11383
 #EXTINF:-1,Eleven 1 
-http://bellive.top:8080/211664292066993009/9021664292066993/29669
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/52588
 #EXTINF:-1,Eleven 2 
-http://bellive.top:8080/211664292066993009/9021664292066993/25024
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11369
 #EXTINF:-1,Eleven 3
-http://bellive.top:8080/211664292066993009/9021664292066993/25025
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11372
 #EXTINF:-1,Eleven 4
-http://bellive.top:8080/211664292066993009/9021664292066993/25026
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11375
 #EXTINF:-1,Eleven 5
-http://bellive.top:8080/211664292066993009/9021664292066993/25027
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11378
 #EXTINF:-1,SPORT.TV1 
-http://bellive.top:8080/211664292066993009/9021664292066993/24984
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/126254
 #EXTINF:-1,SPORT.TV2
-http://bellive.top:8080/211664292066993009/9021664292066993/24982
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/146628
 #EXTINF:-1,SPORT.TV3 
-http://bellive.top:8080/211664292066993009/9021664292066993/24980
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11359
 #EXTINF:-1,SPORT.TV4 
-http://bellive.top:8080/211664292066993009/9021664292066993/24979
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11361
 #EXTINF:-1,SPORT.TV5
-http://bellive.top:8080/211664292066993009/9021664292066993/24978
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11363
 #EXTINF:-1,TVCine TOP 
-http://bellive.top:8080/211664292066993009/9021664292066993/25012
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11437
 #EXTINF:-1,TVCine EDITION 
-http://bellive.top:8080/211664292066993009/9021664292066993/25013
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/94608
 #EXTINF:-1,TVCine EMOTION 
-http://bellive.top:8080/211664292066993009/9021664292066993/25014
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11339
 #EXTINF:-1,TVCine ACTION 
-http://bellive.top:8080/211664292066993009/9021664292066993/25009
-#EXTINF:-1,=== br2.me ===
-#EXTINF:-1,Benfica TV 
-http://br2.me:80/diogenesireland/brt562070s/10052959
-#EXTINF:-1,Benfica TV 
-http://br2.me:80/diogenesireland/brt562070s/10052960
-#EXTINF:-1,Eleven 1 
-http://br2.me:80/diogenesireland/brt562070s/10052977
-#EXTINF:-1,Eleven 2 
-http://br2.me:80/diogenesireland/brt562070s/10052974
-#EXTINF:-1,Eleven 3
-http://br2.me:80/diogenesireland/brt562070s/10052972
-#EXTINF:-1,Eleven 4
-http://br2.me:80/diogenesireland/brt562070s/10052968
-#EXTINF:-1,Eleven 5
-http://br2.me:80/diogenesireland/brt562070s/10052965
-#EXTINF:-1,SPORT.TV1 
-http://br2.me:80/diogenesireland/brt562070s/10052992
-#EXTINF:-1,SPORT.TV2
-http://br2.me:80/diogenesireland/brt562070s/10052989
-#EXTINF:-1,SPORT.TV3 
-http://br2.me:80/diogenesireland/brt562070s/10052986
-#EXTINF:-1,SPORT.TV4 
-http://br2.me:80/diogenesireland/brt562070s/10052983
-#EXTINF:-1,SPORT.TV5
-http://br2.me:80/diogenesireland/brt562070s/10052981
-#EXTINF:-1,TVCine TOP 
-http://br2.me:80/diogenesireland/brt562070s/10053044
-#EXTINF:-1,TVCine EDITION 
-http://br2.me:80/diogenesireland/brt562070s/10053041
-#EXTINF:-1,TVCine EMOTION 
-http://br2.me:80/diogenesireland/brt562070s/10053038
-#EXTINF:-1,TVCine ACTION 
-http://br2.me:80/diogenesireland/brt562070s/10053035
-#EXTINF:-1,=== megatv ===
-#EXTINF:-1,Benfica TV 
-http://megatv.me:5890/1122334455/1122334455/1087
-#EXTINF:-1,Benfica TV 
-http://megatv.me:5890/1122334455/1122334455/1088
-#EXTINF:-1,Eleven 1 
-http://megatv.me:5890/1122334455/1122334455/1081
-#EXTINF:-1,Eleven 2 
-http://megatv.me:5890/1122334455/1122334455/1082
-#EXTINF:-1,Eleven 3
-http://megatv.me:5890/1122334455/1122334455/1083
-#EXTINF:-1,Eleven 4
-http://megatv.me:5890/1122334455/1122334455/1084
-#EXTINF:-1,Eleven 5
-http://megatv.me:5890/1122334455/1122334455/1085
-#EXTINF:-1,SPORT.TV1 
-http://megatv.me:5890/1122334455/1122334455/1070
-#EXTINF:-1,SPORT.TV2
-http://megatv.me:5890/1122334455/1122334455/1072
-#EXTINF:-1,SPORT.TV3 
-http://megatv.me:5890/1122334455/1122334455/1074
-#EXTINF:-1,SPORT.TV4 
-http://megatv.me:5890/1122334455/1122334455/1076
-#EXTINF:-1,SPORT.TV5
-http://megatv.me:5890/1122334455/1122334455/1078
-#EXTINF:-1,TVCine TOP 
-http://megatv.me:5890/1122334455/1122334455/1099
-#EXTINF:-1,TVCine EDITION 
-http://megatv.me:5890/1122334455/1122334455/1101
-#EXTINF:-1,TVCine EMOTION 
-http://megatv.me:5890/1122334455/1122334455/1103
-#EXTINF:-1,TVCine ACTION 
-http://megatv.me:5890/1122334455/1122334455/1105
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/11340
 #EXTINF:-1,=== securepoint ===
 #EXTINF:-1,Eleven 1 
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003053
@@ -216,8 +87,37 @@ https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003098
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003099
 #EXTINF:-1,SPORT.TV5
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003100
-
-
+#EXTINF:-1,=== dn.i-max ===
+#EXTINF:-1,Benfica TV 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205736
+#EXTINF:-1,Eleven 1 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205742
+#EXTINF:-1,Eleven 2 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205741
+#EXTINF:-1,Eleven 3
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205740
+#EXTINF:-1,Eleven 4
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205739
+#EXTINF:-1,Eleven 5
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205738
+#EXTINF:-1,SPORT.TV1 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205749
+#EXTINF:-1,SPORT.TV2
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205747
+#EXTINF:-1,SPORT.TV3 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205745
+#EXTINF:-1,SPORT.TV4 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205744
+#EXTINF:-1,SPORT.TV5
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205743
+#EXTINF:-1,TVCine TOP 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205700
+#EXTINF:-1,TVCine EDITION 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205699
+#EXTINF:-1,TVCine EMOTION 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205698
+#EXTINF:-1,TVCine ACTION 
+http://dn.i-max.cz:2089/152061739610208/v7mYUXc5Rg/205697
 #EXTINF:-1,=== aabb ===
 #EXTINF:-1,Benfica TV 
 http://aabb.is:2095/d4Je5xwD/yadTXB63/68985
@@ -251,37 +151,69 @@ http://aabb.is:2095/d4Je5xwD/yadTXB63/69055
 http://aabb.is:2095/d4Je5xwD/yadTXB63/69057
 #EXTINF:-1,TVCine ACTION 
 http://aabb.is:2095/d4Je5xwD/yadTXB63/69059
+#EXTINF:-1,=== ac.traveliptv ===
+#EXTINF:-1,Benfica TV 
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14557
+#EXTINF:-1,Benfica TV 
 
-#EXTINF:-1,=== line.protv ===
-#EXTINF:-1,Benfica TV 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/983567
-#EXTINF:-1,Benfica TV 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107511
 #EXTINF:-1,Eleven 1 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107495
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14548
 #EXTINF:-1,Eleven 2 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107494
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14544
 #EXTINF:-1,Eleven 3
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/122484
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14537
 #EXTINF:-1,Eleven 4
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/122485
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14535
 #EXTINF:-1,Eleven 5
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/122486
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14532
 #EXTINF:-1,SPORT.TV1 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107436
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14550
 #EXTINF:-1,SPORT.TV2
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107435
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14551
 #EXTINF:-1,SPORT.TV3 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107434
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14552
 #EXTINF:-1,SPORT.TV4 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107433
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14553
 #EXTINF:-1,SPORT.TV5
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/148667
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14554
 #EXTINF:-1,TVCine TOP 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107423
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14500
 #EXTINF:-1,TVCine EDITION 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107422
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14502
 #EXTINF:-1,TVCine EMOTION 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107421
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14504
 #EXTINF:-1,TVCine ACTION 
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/107420
+http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14505
+#EXTINF:-1,=== megatv ===
+#EXTINF:-1,Benfica TV 
+http://megatv.me:5890/1122334455/1122334455/1087
+#EXTINF:-1,Benfica TV 
+http://megatv.me:5890/1122334455/1122334455/1088
+#EXTINF:-1,Eleven 1 
+http://megatv.me:5890/1122334455/1122334455/1081
+#EXTINF:-1,Eleven 2 
+http://megatv.me:5890/1122334455/1122334455/1082
+#EXTINF:-1,Eleven 3
+http://megatv.me:5890/1122334455/1122334455/1083
+#EXTINF:-1,Eleven 4
+http://megatv.me:5890/1122334455/1122334455/1084
+#EXTINF:-1,Eleven 5
+http://megatv.me:5890/1122334455/1122334455/1085
+#EXTINF:-1,SPORT.TV1 
+http://megatv.me:5890/1122334455/1122334455/1070
+#EXTINF:-1,SPORT.TV2
+http://megatv.me:5890/1122334455/1122334455/1072
+#EXTINF:-1,SPORT.TV3 
+http://megatv.me:5890/1122334455/1122334455/1074
+#EXTINF:-1,SPORT.TV4 
+http://megatv.me:5890/1122334455/1122334455/1076
+#EXTINF:-1,SPORT.TV5
+http://megatv.me:5890/1122334455/1122334455/1078
+#EXTINF:-1,TVCine TOP 
+http://megatv.me:5890/1122334455/1122334455/1099
+#EXTINF:-1,TVCine EDITION 
+http://megatv.me:5890/1122334455/1122334455/1101
+#EXTINF:-1,TVCine EMOTION 
+http://megatv.me:5890/1122334455/1122334455/1103
+#EXTINF:-1,TVCine ACTION 
+http://megatv.me:5890/1122334455/1122334455/1105
