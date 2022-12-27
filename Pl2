@@ -1,4 +1,24 @@
 #EXTM3U
+
+#EXTINF:-1,=== hostingterabyte ===
+#EXTINF:-1,Eleven 1 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23164
+#EXTINF:-1,Eleven 2 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23178
+#EXTINF:-1,Eleven 3
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23174
+#EXTINF:-1,Eleven 4
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23175
+#EXTINF:-1,Eleven 5
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23176
+#EXTINF:-1,SPORT.TV1 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/324
+#EXTINF:-1,SPORT.TV2
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/326
+#EXTINF:-1,SPORT.TV3 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/327
+#EXTINF:-1,SPORT.TV4 
+http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/1783
 #EXTINF:-1,=== xplus ===
 #EXTINF:-1,Eleven 1 
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
@@ -20,22 +40,3 @@ http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
 #EXTINF:-1,SPORT.TV5
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1,=== hostingterabyte ===
-#EXTINF:-1,Eleven 1 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23164
-#EXTINF:-1,Eleven 2 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23178
-#EXTINF:-1,Eleven 3
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23174
-#EXTINF:-1,Eleven 4
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23175
-#EXTINF:-1,Eleven 5
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/23176
-#EXTINF:-1,SPORT.TV1 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/324
-#EXTINF:-1,SPORT.TV2
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/326
-#EXTINF:-1,SPORT.TV3 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/327
-#EXTINF:-1,SPORT.TV4 
-http://main.hostingterabyte.com:8080/Live.arabic5374148830/1685131765/1783
