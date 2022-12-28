@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,Benfica TV 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1497
+#EXTINF:-1,Eleven 1 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1499
+#EXTINF:-1,Eleven 2 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1503
+#EXTINF:-1,Eleven 3
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1506
+#EXTINF:-1,Eleven 4
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1509
+#EXTINF:-1,Eleven 5
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1512
+#EXTINF:-1,SPORT.TV1 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1483
+#EXTINF:-1,SPORT.TV2
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1486
+#EXTINF:-1,SPORT.TV3 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1489
+#EXTINF:-1,SPORT.TV4 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1492
+#EXTINF:-1,SPORT.TV5
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1495
+#EXTINF:-1,SKY SPORTS F1
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/265
+#EXTINF:-1,TVCine TOP 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1446
+#EXTINF:-1,TVCine EDITION 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/82254
+#EXTINF:-1,TVCine EMOTION 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1448
+#EXTINF:-1,TVCine ACTION 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1452
 #EXTINF:-1,=== conexa ===
 #EXTINF:-1,Benfica TV 
 http://conexaoonline.top:80/3071640880/1748113924/261023
@@ -30,3 +63,47 @@ http://conexaoonline.top:80/3071640880/1748113924/261108
 http://conexaoonline.top:80/3071640880/1748113924/261107
 #EXTINF:-1,TVCine ACTION 
 http://conexaoonline.top:80/3071640880/1748113924/261109
+#EXTINF:-1,=== carmeliptv ===
+#EXTINF:-1,Eleven 1 
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38158
+#EXTINF:-1,Eleven 2 
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38159
+#EXTINF:-1,Eleven 3
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38160
+#EXTINF:-1,Eleven 4
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38161
+#EXTINF:-1,Eleven 5
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38162
+#EXTINF:-1,SPORT.TV1 
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38151
+#EXTINF:-1,SPORT.TV2
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38152
+#EXTINF:-1,SPORT.TV3 
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38155
+#EXTINF:-1,SPORT.TV4 
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38156
+#EXTINF:-1,SPORT.TV5
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38157
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/49080
+#EXTINF:-1,=== viptv.me ===
+#EXTINF:-1,Benfica TV 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159587
+#EXTINF:-1,Eleven 1 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
+#EXTINF:-1,Eleven 2 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
+#EXTINF:-1,Eleven 3
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
+#EXTINF:-1,Eleven 4
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159579
+#EXTINF:-1,Eleven 5
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159580
+#EXTINF:-1,SPORT.TV2
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159583
+#EXTINF:-1,SPORT.TV3 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159584
+#EXTINF:-1,SPORT.TV4 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159585
+#EXTINF:-1,SPORT.TV5
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159586
