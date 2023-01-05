@@ -1,27 +1,5 @@
 #EXTM3U
-#EXTINF:-1,=== carmeliptv ===
-#EXTINF:-1,Eleven 1 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38158
-#EXTINF:-1,Eleven 2 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38159
-#EXTINF:-1,Eleven 3
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38160
-#EXTINF:-1,Eleven 4
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38161
-#EXTINF:-1,Eleven 5
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38162
-#EXTINF:-1,SPORT.TV1 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38151
-#EXTINF:-1,SPORT.TV2
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38152
-#EXTINF:-1,SPORT.TV3 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38155
-#EXTINF:-1,SPORT.TV4 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38156
-#EXTINF:-1,SPORT.TV5
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38157
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/49080
+
 #EXTINF:-1,=== line.premiumpowers ===
 #EXTINF:-1,Benfica TV 
 http://line.premiumpowers.net:80/Miguel/1234567/983567
@@ -142,39 +120,29 @@ http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14504
 http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14505
 #EXTINF:-1,|UK| Sky Sports F1 4K+
 http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/13896
-#EXTINF:-1,=== op.cdloop ===
-#EXTINF:-1,Benfica TV 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/976
-#EXTINF:-1,Benfica TV 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/978
+#EXTINF:-1,=== carmeliptv ===
 #EXTINF:-1,Eleven 1 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1104
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38158
 #EXTINF:-1,Eleven 2 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1107
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38159
 #EXTINF:-1,Eleven 3
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1111
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38160
 #EXTINF:-1,Eleven 4
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1113
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38161
 #EXTINF:-1,Eleven 5
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1114
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38162
 #EXTINF:-1,SPORT.TV1 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1100
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38151
 #EXTINF:-1,SPORT.TV2
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1101
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38152
 #EXTINF:-1,SPORT.TV3 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1102
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38155
 #EXTINF:-1,SPORT.TV4 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1128
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38156
 #EXTINF:-1,SPORT.TV5
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1103
-#EXTINF:-1,TVCine TOP 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1088
-#EXTINF:-1,TVCine EDITION 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1089
-#EXTINF:-1,TVCine EMOTION 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1090
-#EXTINF:-1,TVCine ACTION 
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1092
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38157
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/49080
 #EXTINF:-1,=== ksport2021 ===
 #EXTINF:-1,Benfica TV 
 http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1497
