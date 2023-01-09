@@ -1,38 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1,=== line.premiumpowers ===
-#EXTINF:-1,Benfica TV 
-http://line.premiumpowers.net:80/Miguel/1234567/983567
-#EXTINF:-1,Benfica TV 
-http://line.premiumpowers.net:80/Miguel/1234567/107511
-#EXTINF:-1,Eleven 1 
-http://line.premiumpowers.net:80/Miguel/1234567/107495
-#EXTINF:-1,Eleven 2 
-http://line.premiumpowers.net:80/Miguel/1234567/107494
-#EXTINF:-1,Eleven 3
-http://line.premiumpowers.net:80/Miguel/1234567/122484
-#EXTINF:-1,Eleven 4
-http://line.premiumpowers.net:80/Miguel/1234567/122485
-#EXTINF:-1,Eleven 5
-http://line.premiumpowers.net:80/Miguel/1234567/122486
-#EXTINF:-1,SPORT.TV1 
-http://line.premiumpowers.net:80/Miguel/1234567/107436
-#EXTINF:-1,SPORT.TV2
-http://line.premiumpowers.net:80/Miguel/1234567/107435
-#EXTINF:-1,SPORT.TV3 
-http://line.premiumpowers.net:80/Miguel/1234567/107434
-#EXTINF:-1,SPORT.TV4 
-http://line.premiumpowers.net:80/Miguel/1234567/107433
-#EXTINF:-1,SPORT.TV5
-http://line.premiumpowers.net:80/Miguel/1234567/148667
-#EXTINF:-1,TVCine TOP 
-http://line.premiumpowers.net:80/Miguel/1234567/107423
-#EXTINF:-1,TVCine EDITION 
-http://line.premiumpowers.net:80/Miguel/1234567/107422
-#EXTINF:-1,TVCine EMOTION 
-http://line.premiumpowers.net:80/Miguel/1234567/107421
-#EXTINF:-1,TVCine ACTION 
-http://line.premiumpowers.net:80/Miguel/1234567/107420
 #EXTINF:-1,=== viptv.me ===
 #EXTINF:-1,Benfica TV 
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159587
@@ -87,6 +53,74 @@ http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244597
 http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244598
 #EXTINF:-1,UK: SKY SPORTS F1 HD
 http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/241215
+
+#EXTINF:-1,=== Kuchini ===
+#EXTINF:-1,Benfica TV 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1497
+#EXTINF:-1,Eleven 1 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1499
+#EXTINF:-1,Eleven 2 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1503
+#EXTINF:-1,Eleven 3
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1506
+#EXTINF:-1,Eleven 4
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1509
+#EXTINF:-1,Eleven 5
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1512
+#EXTINF:-1,SPORT.TV1 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1483
+#EXTINF:-1,SPORT.TV2
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1486
+#EXTINF:-1,SPORT.TV3 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1489
+#EXTINF:-1,SPORT.TV4 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1492
+#EXTINF:-1,SPORT.TV5
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1495
+#EXTINF:-1,TVCine TOP 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1446
+#EXTINF:-1,TVCine EDITION 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/82254
+#EXTINF:-1,TVCine EMOTION 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1448
+#EXTINF:-1,TVCine ACTION 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1452
+
+
+#EXTINF:-1,=== line.premiumpowers ===
+#EXTINF:-1,Benfica TV 
+http://line.premiumpowers.net:80/Miguel/1234567/983567
+#EXTINF:-1,Benfica TV 
+http://line.premiumpowers.net:80/Miguel/1234567/107511
+#EXTINF:-1,Eleven 1 
+http://line.premiumpowers.net:80/Miguel/1234567/107495
+#EXTINF:-1,Eleven 2 
+http://line.premiumpowers.net:80/Miguel/1234567/107494
+#EXTINF:-1,Eleven 3
+http://line.premiumpowers.net:80/Miguel/1234567/122484
+#EXTINF:-1,Eleven 4
+http://line.premiumpowers.net:80/Miguel/1234567/122485
+#EXTINF:-1,Eleven 5
+http://line.premiumpowers.net:80/Miguel/1234567/122486
+#EXTINF:-1,SPORT.TV1 
+http://line.premiumpowers.net:80/Miguel/1234567/107436
+#EXTINF:-1,SPORT.TV2
+http://line.premiumpowers.net:80/Miguel/1234567/107435
+#EXTINF:-1,SPORT.TV3 
+http://line.premiumpowers.net:80/Miguel/1234567/107434
+#EXTINF:-1,SPORT.TV4 
+http://line.premiumpowers.net:80/Miguel/1234567/107433
+#EXTINF:-1,SPORT.TV5
+http://line.premiumpowers.net:80/Miguel/1234567/148667
+#EXTINF:-1,TVCine TOP 
+http://line.premiumpowers.net:80/Miguel/1234567/107423
+#EXTINF:-1,TVCine EDITION 
+http://line.premiumpowers.net:80/Miguel/1234567/107422
+#EXTINF:-1,TVCine EMOTION 
+http://line.premiumpowers.net:80/Miguel/1234567/107421
+#EXTINF:-1,TVCine ACTION 
+http://line.premiumpowers.net:80/Miguel/1234567/107420
+
 #EXTINF:-1,=== lionboxiptv===
 #EXTINF:-1,Benfica TV 
 http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14557
