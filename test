@@ -1,59 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== viptv.me ===
-#EXTINF:-1,Benfica TV 
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159587
-#EXTINF:-1,Eleven 1 
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
-#EXTINF:-1,Eleven 2 
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
-#EXTINF:-1,Eleven 3
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
-#EXTINF:-1,Eleven 4
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159579
-#EXTINF:-1,Eleven 5
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159580
-#EXTINF:-1,SPORT.TV2
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159583
-#EXTINF:-1,SPORT.TV3 
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159584
-#EXTINF:-1,SPORT.TV4 
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159585
-#EXTINF:-1,SPORT.TV5
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159586
-#EXTINF:-1,=== philgrim ===
-#EXTINF:-1,Benfica TV 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244583
-#EXTINF:-1,Eleven 1 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244584
-#EXTINF:-1,Eleven 2 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244585
-#EXTINF:-1,Eleven 3
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244586
-#EXTINF:-1,Eleven 4
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244587
-#EXTINF:-1,Eleven 5
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244588
-#EXTINF:-1,SPORT.TV1 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244576
-#EXTINF:-1,SPORT.TV2
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244577
-#EXTINF:-1,SPORT.TV3 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244578
-#EXTINF:-1,SPORT.TV4 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244579
-#EXTINF:-1,SPORT.TV5
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244580
-#EXTINF:-1,TVCine TOP 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244595
-#EXTINF:-1,TVCine EDITION 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244596
-#EXTINF:-1,TVCine EMOTION 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244597
-#EXTINF:-1,TVCine ACTION 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244598
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/241215
-
 #EXTINF:-1,=== Kuchini ===
 #EXTINF:-1,Benfica TV 
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1497
@@ -85,132 +30,40 @@ http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/82254
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1448
 #EXTINF:-1,TVCine ACTION 
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1452
-
-
-#EXTINF:-1,=== line.premiumpowers ===
+#EXTINF:-1,=== Playplus ===
 #EXTINF:-1,Benfica TV 
-http://line.premiumpowers.net:80/Miguel/1234567/983567
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/133199
 #EXTINF:-1,Benfica TV 
-http://line.premiumpowers.net:80/Miguel/1234567/107511
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122328
 #EXTINF:-1,Eleven 1 
-http://line.premiumpowers.net:80/Miguel/1234567/107495
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/172211
 #EXTINF:-1,Eleven 2 
-http://line.premiumpowers.net:80/Miguel/1234567/107494
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122411
 #EXTINF:-1,Eleven 3
-http://line.premiumpowers.net:80/Miguel/1234567/122484
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122407
 #EXTINF:-1,Eleven 4
-http://line.premiumpowers.net:80/Miguel/1234567/122485
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122410
 #EXTINF:-1,Eleven 5
-http://line.premiumpowers.net:80/Miguel/1234567/122486
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122409
 #EXTINF:-1,SPORT.TV1 
-http://line.premiumpowers.net:80/Miguel/1234567/107436
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/284008
 #EXTINF:-1,SPORT.TV2
-http://line.premiumpowers.net:80/Miguel/1234567/107435
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/284010
 #EXTINF:-1,SPORT.TV3 
-http://line.premiumpowers.net:80/Miguel/1234567/107434
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/284012
 #EXTINF:-1,SPORT.TV4 
-http://line.premiumpowers.net:80/Miguel/1234567/107433
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122400
 #EXTINF:-1,SPORT.TV5
-http://line.premiumpowers.net:80/Miguel/1234567/148667
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/122402
 #EXTINF:-1,TVCine TOP 
-http://line.premiumpowers.net:80/Miguel/1234567/107423
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/133202
 #EXTINF:-1,TVCine EDITION 
-http://line.premiumpowers.net:80/Miguel/1234567/107422
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/133203
 #EXTINF:-1,TVCine EMOTION 
-http://line.premiumpowers.net:80/Miguel/1234567/107421
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/133204
 #EXTINF:-1,TVCine ACTION 
-http://line.premiumpowers.net:80/Miguel/1234567/107420
-
-#EXTINF:-1,=== lionboxiptv===
-#EXTINF:-1,Benfica TV 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14557
-#EXTINF:-1,Eleven 1 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14548
-#EXTINF:-1,Eleven 2 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14544
-#EXTINF:-1,Eleven 3
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14537
-#EXTINF:-1,Eleven 4
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14535
-#EXTINF:-1,Eleven 5
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14532
-#EXTINF:-1,SPORT.TV1 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14550
-#EXTINF:-1,SPORT.TV2
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14551
-#EXTINF:-1,SPORT.TV3 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14552
-#EXTINF:-1,SPORT.TV4 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14553
-#EXTINF:-1,SPORT.TV5
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14554
-#EXTINF:-1,TVCine TOP 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14500
-#EXTINF:-1,TVCine EDITION 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14502
-#EXTINF:-1,TVCine EMOTION 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14504
-#EXTINF:-1,TVCine ACTION 
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/14505
-#EXTINF:-1,|UK| Sky Sports F1 4K+
-http://lionboxiptv.xyz:80/Bilo12/QvQQM857S1/13896
-#EXTINF:-1,=== carmeliptv ===
-#EXTINF:-1,Eleven 1 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38158
-#EXTINF:-1,Eleven 2 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38159
-#EXTINF:-1,Eleven 3
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38160
-#EXTINF:-1,Eleven 4
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38161
-#EXTINF:-1,Eleven 5
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38162
-#EXTINF:-1,SPORT.TV1 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38151
-#EXTINF:-1,SPORT.TV2
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38152
-#EXTINF:-1,SPORT.TV3 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38155
-#EXTINF:-1,SPORT.TV4 
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38156
-#EXTINF:-1,SPORT.TV5
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38157
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/49080
-#EXTINF:-1,=== ksport2021 ===
-#EXTINF:-1,Benfica TV 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1497
-#EXTINF:-1,Benfica TV 
-
-#EXTINF:-1,Eleven 1 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1499
-#EXTINF:-1,Eleven 2 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1503
-#EXTINF:-1,Eleven 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1506
-#EXTINF:-1,Eleven 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1509
-#EXTINF:-1,Eleven 5
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1512
-#EXTINF:-1,SPORT.TV1 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1483
-#EXTINF:-1,SPORT.TV2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1486
-#EXTINF:-1,SPORT.TV3 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1489
-#EXTINF:-1,SPORT.TV4 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1492
-#EXTINF:-1,SPORT.TV5
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1495
-#EXTINF:-1,TVCine TOP 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1446
-#EXTINF:-1,TVCine EDITION 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/82254
-#EXTINF:-1,TVCine EMOTION 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1448
-#EXTINF:-1,TVCine ACTION 
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1452
-#EXTINF:-1,UK: Sky Sports F1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/265
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/133205
+#EXTINF:-1,UK- SKY SPORTS F1 HD
+http://play-plus.net:8000/z7wy2gx70m/5vt98weimy/416839
 
 
