@@ -1,38 +1,70 @@
 #EXTM3U
-#EXTINF:-1,NL026:Ziggo Sport Voetbal SD
-http://kk03es.abcnew.site:8880/12ms050077/54692224/31505
-#EXTINF:-1,GR025:Cosmote Sport 3
-http://kk03es.abcnew.site:8880/12ms050077/54692224/31212
-
-#EXTINF:-1,=== Philgrim ===
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244583
-#EXTINF:-1,=== securepoint ===
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003096
-#EXTINF:-1,=== viptv.me ===
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159587
-#EXTINF:-1,=== ksport2021 ===
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1497
 #EXTINF:-1,=== apptelspro ===
+#EXTINF:-1,Benfica TV 
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37768
+#EXTINF:-1,Benfica TV 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37769
 #EXTINF:-1,=== br2.me ===
+#EXTINF:-1,Benfica TV 
 http://br2.me:80/diogenesireland/brt562070s/10052959
-#EXTINF:-1,=== ac.traveliptv ===
-http://ac.traveliptv.nl:80/Babarbugti1234/8FCviJDxZ0ghseh/14557
-#EXTINF:-1,=== IptvTree ===
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/1497
+#EXTINF:-1,Benfica TV 
+http://br2.me:80/diogenesireland/brt562070s/10052960
+#EXTINF:-1,=== philgrim ===
+#EXTINF:-1,Benfica TV 
+http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244583
+#EXTINF:-1,=== viptv.me ===
+#EXTINF:-1,Benfica TV 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159587
+#EXTINF:-1,=== ttv.bz ===
+#EXTINF:-1,Benfica TV 
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66287
+#EXTINF:-1,Benfica TV 
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66288
+#EXTINF:-1,=== obsfullhd ===
+#EXTINF:-1,Benfica TV 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9791
+#EXTINF:-1,===LinePower ===
+#EXTINF:-1,Benfica TV 
+http://line.premiumpowers.net:80/Bianca/1234567/983567
+#EXTINF:-1,Benfica TV 
+http://line.premiumpowers.net:80/Bianca/1234567/107511
+#EXTINF:-1,=== massud.homelinux ===
+#EXTINF:-1,Benfica TV 
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
+#EXTINF:-1,Benfica TV 
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/69136
+#EXTINF:-1,=== txm.flysat ===
+#EXTINF:-1,Benfica TV 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205736
+#EXTINF:-1,=== Kuchini ===
+#EXTINF:-1,Benfica TV 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1497
+#EXTINF:-1,=== Securepoint ===
+#EXTINF:-1,Benfica TV 
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997830
+#EXTINF:-1,=== 5ce.me ===
+#EXTINF:-1,Benfica TV 
+http://5ce.co:80/8688599222/85992asert/115019
 #EXTINF:-1,=== megatv ===
+#EXTINF:-1,Benfica TV 
 http://megatv.me:5890/1122334455/1122334455/1087
 #EXTINF:-1,=== Panel ===
-http://tvpanel.one:80/den9179/611carc/579318
-#EXTINF:-1,=== MegaTitan ===
-http://megatitan.net:8080/Sebastian6919/Concha3073/119831
-#EXTINF:-1,=== securepoint ===
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1003053
-#EXTINF:-1,=== client.more ===
-http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/135391
-#EXTINF:-1,=== novo1 ===
-http://novo1.xyz:8080/msantos/xtsNyQW6yc/123
-#EXTINF:-1,=== Hsynshn ===
 #EXTINF:-1,Benfica TV 
-http://80.82.76.81:80/Hsynshn/kEx7ZqIfoO/159587
+http://tvpanel.one:80/den9179/611carc/579318
+#EXTINF:-1,=== client.more ===
+#EXTINF:-1,Benfica TV 
+http://client.more-itv.com:8080/12smart2311/FvqYyu93aqkQ/135391
+#EXTINF:-1,=== pandar ===
+#EXTINF:-1,PT: BTV 1 HD
+http://www.pandar.plus:25461/HqA5ABnXjRZY03e/AEUbdSKBrjNaH84/95396
+#EXTINF:-1,=== ClientPortal ===
+#EXTINF:-1,Benfica TV 
+http://clientportal.link:80/y10rVBk865/YaeTqJ349/5541
+#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,Benfica TV 
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/1497
+
+
+
+
 
