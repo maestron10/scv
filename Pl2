@@ -1,82 +1,101 @@
 #EXTM3U
-#EXTINF:-1,=== massud.homelinux ===
+#EXTM3U
+#EXTINF:-1,=== totalplay.site ===
 #EXTINF:-1,Benfica TV 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197525.ts
 #EXTINF:-1,Benfica TV 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/69136
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197520.ts
 #EXTINF:-1,Eleven 1 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57671
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197537.ts
 #EXTINF:-1,Eleven 2 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57674
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197543.ts
 #EXTINF:-1,Eleven 3
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57676
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197550.ts
 #EXTINF:-1,Eleven 4
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57678
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197556.ts
 #EXTINF:-1,Eleven 5
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57680
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197561.ts
 #EXTINF:-1,SPORT.TV1 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57688
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197585.ts
 #EXTINF:-1,SPORT.TV2
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57691
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197592.ts
 #EXTINF:-1,SPORT.TV3 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57694
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197600.ts
 #EXTINF:-1,SPORT.TV4 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57697
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197607.ts
 #EXTINF:-1,SPORT.TV5
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57700
-#EXTINF:-1,TVCine TOP 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57730
-#EXTINF:-1,TVCine EDITION 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57726
-#EXTINF:-1,TVCine EMOTION 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57728
-#EXTINF:-1,TVCine ACTION 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57724
-
-#EXTINF:-1,=== xplus ===
-#EXTINF:-1,Eleven 1 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/124
-#EXTINF:-1,Eleven 2 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/125
-#EXTINF:-1,Eleven 3
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/801
-#EXTINF:-1,Eleven 4
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/802
-#EXTINF:-1,Eleven 5
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/803
-#EXTINF:-1,SPORT.TV1 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
-#EXTINF:-1,SPORT.TV2
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/168
-#EXTINF:-1,SPORT.TV3 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/169
-#EXTINF:-1,SPORT.TV4 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
-#EXTINF:-1,SPORT.TV5
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/171
-#EXTINF:-1,=== ttv.bz ===
-#EXTINF:-1,Benfica TV 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66287
-#EXTINF:-1,Benfica TV 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66288
-#EXTINF:-1,Eleven 1 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66311
-#EXTINF:-1,Eleven 2 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66312
-#EXTINF:-1,Eleven 3
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66313
-#EXTINF:-1,Eleven 4
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66314
-#EXTINF:-1,Eleven 5
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66315
-#EXTINF:-1,SPORT.TV1 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66365
-#EXTINF:-1,SPORT.TV2
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66367
-#EXTINF:-1,SPORT.TV3 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66369
-#EXTINF:-1,SPORT.TV4 
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66363
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197613.ts
 #EXTINF:-1,SKY SPORTS F1
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1401
-
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/198102.ts
+#EXTINF:-1,TVCine TOP 
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197459.ts
+#EXTINF:-1,TVCine EDITION 
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197455.ts
+#EXTINF:-1,TVCine EMOTION 
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197457.ts
+#EXTINF:-1,TVCine ACTION 
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197453.ts
+#EXTINF:-1,=== ys-users ===
+#EXTINF:-1,Benfica TV 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495174
+#EXTINF:-1,Eleven 1 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495207
+#EXTINF:-1,Eleven 2 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495208
+#EXTINF:-1,Eleven 3
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495209
+#EXTINF:-1,Eleven 4
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495210
+#EXTINF:-1,Eleven 5
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495211
+#EXTINF:-1,SPORT.TV1 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495278
+#EXTINF:-1,SPORT.TV2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495279
+#EXTINF:-1,SPORT.TV3 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495280
+#EXTINF:-1,SPORT.TV4 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495281
+#EXTINF:-1,SPORT.TV5
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495282
+#EXTINF:-1,SKY SPORTS F1
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/428289
+#EXTINF:-1,TVCine TOP 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495299
+#EXTINF:-1,TVCine EDITION 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495297
+#EXTINF:-1,TVCine EMOTION 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495298
+#EXTINF:-1,TVCine ACTION 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495296
+#EXTINF:-1,=== caballerotv ===
+#EXTINF:-1,Benfica TV 
+http://caballerotv.com:5890/1122334455/1122334455/1087
+#EXTINF:-1,Eleven 1 
+http://caballerotv.com:5890/1122334455/1122334455/1081
+#EXTINF:-1,Eleven 2 
+http://caballerotv.com:5890/1122334455/1122334455/1082
+#EXTINF:-1,Eleven 3
+http://caballerotv.com:5890/1122334455/1122334455/1083
+#EXTINF:-1,Eleven 4
+http://caballerotv.com:5890/1122334455/1122334455/1084
+#EXTINF:-1,Eleven 5
+http://caballerotv.com:5890/1122334455/1122334455/1085
+#EXTINF:-1,SPORT.TV1 
+http://caballerotv.com:5890/1122334455/1122334455/1070
+#EXTINF:-1,SPORT.TV2
+http://caballerotv.com:5890/1122334455/1122334455/1073
+#EXTINF:-1,SPORT.TV3 
+http://caballerotv.com:5890/1122334455/1122334455/1074
+#EXTINF:-1,SPORT.TV4 
+http://caballerotv.com:5890/1122334455/1122334455/1077
+#EXTINF:-1,SPORT.TV5
+http://caballerotv.com:5890/1122334455/1122334455/1078
+#EXTINF:-1,=== daleplaypron ===
+#EXTINF:-1,SPORT.TV1 
+http://daleplaypro.com:8080/AxelRavinal1/RWHjdCYr3gZ9sKY/129160
+#EXTINF:-1,SPORT.TV2
+http://daleplaypro.com:8080/AxelRavinal1/RWHjdCYr3gZ9sKY/129165
+#EXTINF:-1,SPORT.TV3 
+http://daleplaypro.com:8080/AxelRavinal1/RWHjdCYr3gZ9sKY/129168
+#EXTINF:-1,SPORT.TV4 
