@@ -1,4 +1,68 @@
 #EXTM3U
+#EXTINF:-1,=== txm.flysat ===
+#EXTINF:-1,Benfica TV 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205736
+#EXTINF:-1,Eleven 1 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205742
+#EXTINF:-1,Eleven 2 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205741
+#EXTINF:-1,Eleven 3
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205740
+#EXTINF:-1,Eleven 4
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205739
+#EXTINF:-1,Eleven 5
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205738
+#EXTINF:-1,SPORT.TV1 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205748
+#EXTINF:-1,SPORT.TV2
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205747
+#EXTINF:-1,SPORT.TV3 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205745
+#EXTINF:-1,SPORT.TV4 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205744
+#EXTINF:-1,SPORT.TV5
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205743
+#EXTINF:-1,TVCine TOP 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205700
+#EXTINF:-1,TVCine EDITION 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205699
+#EXTINF:-1,TVCine EMOTION 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205698
+#EXTINF:-1,TVCine ACTION 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205697
+#EXTINF:-1,=== obsfullhd ===
+#EXTINF:-1,Benfica TV 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9791
+#EXTINF:-1,Benfica TV 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9792
+#EXTINF:-1,Eleven 1 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9743
+#EXTINF:-1,Eleven 2 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9746
+#EXTINF:-1,Eleven 3
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9749
+#EXTINF:-1,Eleven 4
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9799
+#EXTINF:-1,Eleven 5
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9796
+#EXTINF:-1,SPORT.TV1 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/36979
+#EXTINF:-1,SPORT.TV2
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9731
+#EXTINF:-1,SPORT.TV3 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9733
+#EXTINF:-1,SPORT.TV4 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/36982
+#EXTINF:-1,SPORT.TV5
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9740
+#EXTINF:-1,TVCine TOP 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9832
+#EXTINF:-1,TVCine EDITION 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9829
+#EXTINF:-1,TVCine EMOTION 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9826
+#EXTINF:-1,TVCine ACTION 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9823
 #EXTINF:-1,=== Tree.es ===
 #EXTINF:-1,Benfica TV 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/175060
@@ -34,38 +98,6 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/174950
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/174954
 #EXTINF:-1,Sky Sports F1
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/334407
-
-#EXTINF:-1,=== txm.flysat ===
-#EXTINF:-1,Benfica TV 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205736
-#EXTINF:-1,Eleven 1 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205742
-#EXTINF:-1,Eleven 2 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205741
-#EXTINF:-1,Eleven 3
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205740
-#EXTINF:-1,Eleven 4
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205739
-#EXTINF:-1,Eleven 5
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205738
-#EXTINF:-1,SPORT.TV1 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205748
-#EXTINF:-1,SPORT.TV2
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205747
-#EXTINF:-1,SPORT.TV3 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205745
-#EXTINF:-1,SPORT.TV4 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205744
-#EXTINF:-1,SPORT.TV5
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205743
-#EXTINF:-1,TVCine TOP 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205700
-#EXTINF:-1,TVCine EDITION 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205699
-#EXTINF:-1,TVCine EMOTION 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205698
-#EXTINF:-1,TVCine ACTION 
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205697
 #EXTINF:-1,=== Kuchini ===
 #EXTINF:-1,Benfica TV 
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1497
@@ -97,116 +129,3 @@ http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/82254
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1448
 #EXTINF:-1,TVCine ACTION 
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1452
-#EXTINF:-1,=== obsfullhd ===
-#EXTINF:-1,Benfica TV 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9791
-#EXTINF:-1,Benfica TV 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9792
-#EXTINF:-1,Eleven 1 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9743
-#EXTINF:-1,Eleven 2 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9746
-#EXTINF:-1,Eleven 3
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9749
-#EXTINF:-1,Eleven 4
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9799
-#EXTINF:-1,Eleven 5
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9796
-#EXTINF:-1,SPORT.TV1 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9718
-#EXTINF:-1,SPORT.TV2
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9731
-#EXTINF:-1,SPORT.TV3 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9733
-#EXTINF:-1,SPORT.TV4 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/36982
-#EXTINF:-1,SPORT.TV5
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9740
-#EXTINF:-1,TVCine TOP 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9832
-#EXTINF:-1,TVCine EDITION 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9829
-#EXTINF:-1,TVCine EMOTION 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9826
-#EXTINF:-1,TVCine ACTION 
-http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9823
-#EXTINF:-1,=== massud.homelinux ===
-#EXTINF:-1,Benfica TV 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
-#EXTINF:-1,Benfica TV 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/69136
-#EXTINF:-1,Eleven 1 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57671
-#EXTINF:-1,Eleven 2 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57674
-#EXTINF:-1,Eleven 3
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57676
-#EXTINF:-1,Eleven 4
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57678
-#EXTINF:-1,Eleven 5
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57680
-#EXTINF:-1,SPORT.TV1 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57688
-#EXTINF:-1,SPORT.TV2
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57691
-#EXTINF:-1,SPORT.TV3 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57694
-#EXTINF:-1,SPORT.TV4 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57697
-#EXTINF:-1,SPORT.TV5
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57700
-#EXTINF:-1,TVCine TOP 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57730
-#EXTINF:-1,TVCine EDITION 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57726
-#EXTINF:-1,TVCine EMOTION 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57728
-#EXTINF:-1,TVCine ACTION 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57724
-#EXTINF:-1,===myportal.live ===
-#EXTINF:-1,Benfica TV 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243702.ts
-#EXTINF:-1,Eleven 1 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243704.ts
-#EXTINF:-1,Eleven 2 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243707.ts
-#EXTINF:-1,Eleven 3
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243709.ts
-#EXTINF:-1,Eleven 4
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243711.ts
-#EXTINF:-1,Eleven 5
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243713.ts
-#EXTINF:-1,SPORT.TV1 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243568.ts
-#EXTINF:-1,SPORT.TV2
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243571.ts
-#EXTINF:-1,SPORT.TV3 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243574.ts
-#EXTINF:-1,SPORT.TV4 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243698.ts
-#EXTINF:-1,SPORT.TV5
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243699.ts
-#EXTINF:-1,TVCine TOP 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243590.ts
-#EXTINF:-1,TVCine EDITION 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243588.ts
-#EXTINF:-1,TVCine EMOTION 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243656.ts
-#EXTINF:-1,TVCine ACTION 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243659.ts
-
-#EXTINF:-1,=== iptvglobal ===
-#EXTINF:-1,Benfica TV 
-http://iptvglobal.site:25461/nany1/nany1/91001
-#EXTINF:-1,SPORT.TV1 
-http://iptvglobal.site:25461/nany1/nany1/91040
-#EXTINF:-1,SPORT.TV2
-http://iptvglobal.site:25461/nany1/nany1/91033
-#EXTINF:-1,SPORT.TV3 
-http://iptvglobal.site:25461/nany1/nany1/91034
-#EXTINF:-1,SPORT.TV4 
-http://iptvglobal.site:25461/nany1/nany1/91035
-#EXTINF:-1,SPORT.TV5
-http://iptvglobal.site:25461/nany1/nany1/91036
-#EXTINF:-1,Sky Sport F1
-http://iptvglobal.site:25461/nany1/nany1/163074
