@@ -1,36 +1,87 @@
 #EXTM3U
+#EXTINF:-1,=== APPTEL ===
+#EXTINF:-1,SPORT.TV1 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37753
 #EXTINF:-1,SPORT.TV2	
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37756
+#EXTINF:-1,=== BR2 ===
+#EXTINF:-1,SPORT.TV1 
+http://br2.me:80/diogenesireland/brt562070s/10052991
 #EXTINF:-1,SPORT.TV2
 http://br2.me:80/diogenesireland/brt562070s/10052988
+#EXTINF:-1,=== MASSUD ===
+#EXTINF:-1,SPORT.TV1 
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57688
 #EXTINF:-1,SPORT.TV2
 http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57691
+#EXTINF:-1,=== TTVZ ===
+#EXTINF:-1,SPORT.TV1 
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66365
 #EXTINF:-1,SPORT.TV2
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66367
+#EXTINF:-1,=== PHILGRIM ===
+#EXTINF:-1,SPORT.TV1 
+http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244576
 #EXTINF:-1,SPORT.TV2
 http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244577
+#EXTINF:-1,=== VIPME ===
+#EXTINF:-1,SPORT.TV1 
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159582
 #EXTINF:-1,SPORT.TV2
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159583
+#EXTINF:-1,=== XPLU ===
+#EXTINF:-1,SPORT.TV1 
+http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
 #EXTINF:-1,SPORT.TV2
 http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
+#EXTINF:-1,=== YS - USERS ===
+#EXTINF:-1,SPORT.TV1 
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495278
 #EXTINF:-1,SPORT.TV2
 http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/495279
+#EXTINF:-1,=== CABELLERO ===
+#EXTINF:-1,SPORT.TV1 
+http://caballerotv.com:5890/1122334455/1122334455/1070
 #EXTINF:-1,SPORT.TV2
 http://caballerotv.com:5890/1122334455/1122334455/1073
+#EXTINF:-1,=== DALEPLAY ===
+#EXTINF:-1,SPORT.TV1 
+http://daleplaypro.com:8080/AxelRavinal1/RWHjdCYr3gZ9sKY/129160
 #EXTINF:-1,SPORT.TV2
 http://daleplaypro.com:8080/AxelRavinal1/RWHjdCYr3gZ9sKY/129165
+#EXTINF:-1,=== TOTAL PLAY ===
+#EXTINF:-1,SPORT.TV1 
+http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197585.ts
 #EXTINF:-1,SPORT.TV2
 http://totalplay.site:8080/AngelicaArmijo2030/zpYXsKvpgs/197592.ts
+#EXTINF:-1,=== TMXFLY ===
+#EXTINF:-1,SPORT.TV1 
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205748
 #EXTINF:-1,SPORT.TV2
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/205747
+#EXTINF:-1,=== OBSFULL ===
+#EXTINF:-1,SPORT.TV1 
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/36979
 #EXTINF:-1,SPORT.TV2
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/9731
+#EXTINF:-1,=== IPTVGLOBAL ===
+#EXTINF:-1,SPORT.TV1 
+http://iptvglobal.site:25461/nany1/nany1/91040
 #EXTINF:-1,SPORT.TV2
 http://iptvglobal.site:25461/nany1/nany1/91033
+#EXTINF:-1,=== TREE.ES ===
+#EXTINF:-1,SPORT.TV1 
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/175025
 #EXTINF:-1,SPORT.TV2
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/175033
+#EXTINF:-1,=== KUCHINNI ===
+#EXTINF:-1,SPORT.TV1 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1483
 #EXTINF:-1,SPORT.TV2
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1486
+#EXTINF:-1,=== MYPORTAL ===
+#EXTINF:-1,SPORT.TV1 
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243568.ts
 #EXTINF:-1,SPORT.TV2
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243571.ts
 
