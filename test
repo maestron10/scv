@@ -1,38 +1,48 @@
 #EXTM3U
-#EXTINF:-1,=== wayforward ===
-#EXTINF:-1,Benfica TV 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/176361
+#EXTINF:-1,=== lmtv ===
 #EXTINF:-1,Eleven 1 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58550
+http://lmtv.me:80/1671982897jas/195093/101051
 #EXTINF:-1,Eleven 2 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58551
+http://lmtv.me:80/1671982897jas/195093/101052
 #EXTINF:-1,Eleven 3
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58552
+http://lmtv.me:80/1671982897jas/195093/101053
 #EXTINF:-1,Eleven 4
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58553
+http://lmtv.me:80/1671982897jas/195093/101054
 #EXTINF:-1,Eleven 5
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58554
+http://lmtv.me:80/1671982897jas/195093/101055
 #EXTINF:-1,SPORT.TV1 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58592
+http://lmtv.me:80/1671982897jas/195093/101058
 #EXTINF:-1,SPORT.TV2
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58593
+http://lmtv.me:80/1671982897jas/195093/101059
 #EXTINF:-1,SPORT.TV3 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58594
+http://lmtv.me:80/1671982897jas/195093/101060
 #EXTINF:-1,SPORT.TV4 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58595
+http://lmtv.me:80/1671982897jas/195093/101061
 #EXTINF:-1,SPORT.TV5
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/205120
-#EXTINF:-1,TVCine TOP 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58607
-#EXTINF:-1,TVCine EDITION 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58608
-#EXTINF:-1,TVCine EMOTION 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58609
-#EXTINF:-1,TVCine ACTION 
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/58610
-#EXTINF:-1,GB : SKY SPORTS F1
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/53979
-
+http://lmtv.me:80/1671982897jas/195093/101062
+#EXTINF:-1,=== penelope ===
+#EXTINF:-1,Benfica TV 
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307458
+#EXTINF:-1,Eleven 1 
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307439
+#EXTINF:-1,Eleven 2 
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307440
+#EXTINF:-1,Eleven 3
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307442
+#EXTINF:-1,Eleven 4
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307443
+#EXTINF:-1,Eleven 5
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307444
+#EXTINF:-1,SPORT.TV1 
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307430
+#EXTINF:-1,SPORT.TV2
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307432
+#EXTINF:-1,SPORT.TV3 
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307434
+#EXTINF:-1,SPORT.TV4 
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307435
+#EXTINF:-1,SPORT.TV5
+http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307436
 #EXTINF:-1,=== PTV ===
 #EXTINF:-1,Benfica TV 
 http://ptv.is:2095/zAz2dftx/czrYyDeu/68985
@@ -130,144 +140,3 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82254
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1448
 #EXTINF:-1,TVCine ACTION 
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1452
-#EXTINF:-1,=== lmtv ===
-#EXTINF:-1,Eleven 1 
-http://lmtv.me:80/1671982897jas/195093/101051
-#EXTINF:-1,Eleven 2 
-http://lmtv.me:80/1671982897jas/195093/101052
-#EXTINF:-1,Eleven 3
-http://lmtv.me:80/1671982897jas/195093/101053
-#EXTINF:-1,Eleven 4
-http://lmtv.me:80/1671982897jas/195093/101054
-#EXTINF:-1,Eleven 5
-http://lmtv.me:80/1671982897jas/195093/101055
-#EXTINF:-1,SPORT.TV1 
-http://lmtv.me:80/1671982897jas/195093/101058
-#EXTINF:-1,SPORT.TV2
-http://lmtv.me:80/1671982897jas/195093/101059
-#EXTINF:-1,SPORT.TV3 
-http://lmtv.me:80/1671982897jas/195093/101060
-#EXTINF:-1,SPORT.TV4 
-http://lmtv.me:80/1671982897jas/195093/101061
-#EXTINF:-1,SPORT.TV5
-http://lmtv.me:80/1671982897jas/195093/101062
-#EXTINF:-1,=== eminent ===
-#EXTINF:-1,Benfica TV 
-http://eminent.live:25461/Nikkissic69/38558524/176361
-#EXTINF:-1,Eleven 1 
-http://eminent.live:25461/Nikkissic69/38558524/58550
-#EXTINF:-1,Eleven 2 
-http://eminent.live:25461/Nikkissic69/38558524/58551
-#EXTINF:-1,Eleven 3
-http://eminent.live:25461/Nikkissic69/38558524/58552
-#EXTINF:-1,Eleven 4
-http://eminent.live:25461/Nikkissic69/38558524/58553
-#EXTINF:-1,Eleven 5
-http://eminent.live:25461/Nikkissic69/38558524/58554
-#EXTINF:-1,SPORT.TV1 
-http://eminent.live:25461/Nikkissic69/38558524/58592
-#EXTINF:-1,SPORT.TV2
-http://eminent.live:25461/Nikkissic69/38558524/58593
-#EXTINF:-1,SPORT.TV3 
-http://eminent.live:25461/Nikkissic69/38558524/58594
-#EXTINF:-1,SPORT.TV4 
-http://eminent.live:25461/Nikkissic69/38558524/58595
-#EXTINF:-1,SPORT.TV5
-http://eminent.live:25461/Nikkissic69/38558524/205120
-#EXTINF:-1,TVCine TOP 
-http://eminent.live:25461/Nikkissic69/38558524/58607
-#EXTINF:-1,TVCine EDITION 
-http://eminent.live:25461/Nikkissic69/38558524/58608
-#EXTINF:-1,TVCine EMOTION 
-http://eminent.live:25461/Nikkissic69/38558524/58609
-#EXTINF:-1,TVCine ACTION 
-http://eminent.live:25461/Nikkissic69/38558524/58610
-#EXTINF:-1,=== penelope ===
-#EXTINF:-1,Benfica TV 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307458
-#EXTINF:-1,Eleven 1 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307439
-#EXTINF:-1,Eleven 2 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307440
-#EXTINF:-1,Eleven 3
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307442
-#EXTINF:-1,Eleven 4
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307443
-#EXTINF:-1,Eleven 5
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307444
-#EXTINF:-1,SPORT.TV1 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307430
-#EXTINF:-1,SPORT.TV2
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307432
-#EXTINF:-1,SPORT.TV3 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307434
-#EXTINF:-1,SPORT.TV4 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307435
-#EXTINF:-1,SPORT.TV5
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307436
-#EXTINF:-1,=== Teamnext ===
-#EXTINF:-1,Benfica TV 
-http://teamnextlevel.xyz:25461/vicente/vicente/220281
-#EXTINF:-1,SPORT.TV1 
-http://teamnextlevel.xyz:25461/vicente/vicente/220314
-#EXTINF:-1,SPORT.TV2
-http://teamnextlevel.xyz:25461/vicente/vicente/220308
-#EXTINF:-1,SPORT.TV3 
-http://teamnextlevel.xyz:25461/vicente/vicente/220309
-#EXTINF:-1,SPORT.TV4 
-http://teamnextlevel.xyz:25461/vicente/vicente/220310
-#EXTINF:-1,SPORT.TV5
-http://teamnextlevel.xyz:25461/vicente/vicente/220311
-#EXTINF:-1,=== x.v-iptv ===
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58876
-#EXTINF:-1,Eleven 1 
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58888
-#EXTINF:-1,Eleven 2 
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58889
-#EXTINF:-1,Eleven 3
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58890
-#EXTINF:-1,Eleven 4
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58891
-#EXTINF:-1,Eleven 5
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58892
-#EXTINF:-1,SPORT.TV1 
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/31368
-#EXTINF:-1,SPORT.TV2
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58880
-#EXTINF:-1,SPORT.TV3 
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58882
-#EXTINF:-1,SPORT.TV4 
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58884
-#EXTINF:-1,SPORT.TV5
-http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58886
-#EXTINF:-1,=== myportal ===
-#EXTINF:-1,Benfica TV 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243702.ts
-#EXTINF:-1,Eleven 1 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243704.ts
-#EXTINF:-1,Eleven 2 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243707.ts
-#EXTINF:-1,Eleven 3
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243709.ts
-#EXTINF:-1,Eleven 4
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243711.ts
-#EXTINF:-1,Eleven 5
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243713.ts
-#EXTINF:-1,SPORT.TV1 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243568.ts
-#EXTINF:-1,SPORT.TV2
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243571.ts
-#EXTINF:-1,SPORT.TV3 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243574.ts
-#EXTINF:-1,SPORT.TV4 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243698.ts
-#EXTINF:-1,SPORT.TV5
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243699.ts
-#EXTINF:-1,TVCine TOP 
-
-#EXTINF:-1,TVCine EDITION 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243654.ts
-#EXTINF:-1,TVCine EMOTION 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243656.ts
-#EXTINF:-1,TVCine ACTION 
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243659.ts
