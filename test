@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== lmtv ===
-#EXTINF:-1,Eleven 1 
-http://lmtv.me:80/1671982897jas/195093/101051
-#EXTINF:-1,Eleven 2 
-http://lmtv.me:80/1671982897jas/195093/101052
-#EXTINF:-1,Eleven 3
-http://lmtv.me:80/1671982897jas/195093/101053
-#EXTINF:-1,Eleven 4
-http://lmtv.me:80/1671982897jas/195093/101054
-#EXTINF:-1,Eleven 5
-http://lmtv.me:80/1671982897jas/195093/101055
-#EXTINF:-1,SPORT.TV1 
-http://lmtv.me:80/1671982897jas/195093/101058
-#EXTINF:-1,SPORT.TV2
-http://lmtv.me:80/1671982897jas/195093/101059
-#EXTINF:-1,SPORT.TV3 
-http://lmtv.me:80/1671982897jas/195093/101060
-#EXTINF:-1,SPORT.TV4 
-http://lmtv.me:80/1671982897jas/195093/101061
-#EXTINF:-1,SPORT.TV5
-http://lmtv.me:80/1671982897jas/195093/101062
-#EXTINF:-1,=== penelope ===
-#EXTINF:-1,Benfica TV 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307458
-#EXTINF:-1,Eleven 1 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307439
-#EXTINF:-1,Eleven 2 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307440
-#EXTINF:-1,Eleven 3
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307442
-#EXTINF:-1,Eleven 4
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307443
-#EXTINF:-1,Eleven 5
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307444
-#EXTINF:-1,SPORT.TV1 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307430
-#EXTINF:-1,SPORT.TV2
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307432
-#EXTINF:-1,SPORT.TV3 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307434
-#EXTINF:-1,SPORT.TV4 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307435
-#EXTINF:-1,SPORT.TV5
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307436
 #EXTINF:-1,=== PTV ===
 #EXTINF:-1,Benfica TV 
 http://ptv.is:2095/zAz2dftx/czrYyDeu/68985
