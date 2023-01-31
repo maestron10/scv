@@ -34,8 +34,12 @@ http://lmtv.me:80/1671982897jas/195093/101059
 http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307430
 #EXTINF:-1,SPORT.TV2
 http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307432
-
-
+#EXTINF:-1,=== fireott ===
+#EXTINF:-1,SPORT.TV1 
+http://fireott.biz:2052/97:54:23:4f:9b:a1/802491805507730/146725
+#EXTINF:-1,=== gold ===
+#EXTINF:-1,SPORT.TV1 
+http://goldiptvofficiel.tv:25461/tristanbates/TkmV45Q8zBaG/36979
 
 
 
