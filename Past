@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,=== streamingpro ===
+#EXTINF:-1,SPORT.TV1 
+http://streamingprotv.com:8000/alan2022/alan2022/236255
+#EXTINF:-1,=== streamingtv ===
+#EXTINF:-1,SPORT.TV1 
+http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/129157
+#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,SPORT.TV1 
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1483
+#EXTINF:-1,=== App ===
+#EXTINF:-1,SPORT.TV1
+http://app.iup-tv.com:80/Eduardo/palhaca/103
+#EXTINF:-1,SPORT.TV2 
+http://app.iup-tv.com:80/Eduardo/palhaca/110
+#EXTINF:-1,=== MyuFun ===
+#EXTINF:-1,SPORT.TV1
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/13096
+
 #EXTINF:-1,=== APPTEL ===
 #EXTINF:-1,SPORT.TV1 
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37753
@@ -37,9 +55,7 @@ http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307432
 #EXTINF:-1,=== fireott ===
 #EXTINF:-1,SPORT.TV1 
 http://fireott.biz:2052/97:54:23:4f:9b:a1/802491805507730/146725
-#EXTINF:-1,=== gold ===
-#EXTINF:-1,SPORT.TV1 
-http://goldiptvofficiel.tv:25461/tristanbates/TkmV45Q8zBaG/36979
+
 
 
 
