@@ -1,61 +1,45 @@
 #EXTM3U
-#EXTINF:-1,=== streamingpro ===
-#EXTINF:-1,SPORT.TV1 
-http://streamingprotv.com:8000/alan2022/alan2022/236255
-#EXTINF:-1,=== streamingtv ===
-#EXTINF:-1,SPORT.TV1 
-http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/129157
-#EXTINF:-1,=== IptvTree ===
-#EXTINF:-1,SPORT.TV1 
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/1483
-#EXTINF:-1,=== App ===
-#EXTINF:-1,SPORT.TV1
-http://app.iup-tv.com:80/Eduardo/palhaca/103
-#EXTINF:-1,SPORT.TV2 
-http://app.iup-tv.com:80/Eduardo/palhaca/110
-#EXTINF:-1,=== MyuFun ===
-#EXTINF:-1,SPORT.TV1
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/13096
 
-#EXTINF:-1,=== APPTEL ===
-#EXTINF:-1,SPORT.TV1 
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37753
-#EXTINF:-1,SPORT.TV2	
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37756
-#EXTINF:-1,=== MASSUD ===
-#EXTINF:-1,SPORT.TV1 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57688
-#EXTINF:-1,SPORT.TV2
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57691
-#EXTINF:-1,=== PHILGRIM ===
-#EXTINF:-1,SPORT.TV1 
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244576
-#EXTINF:-1,SPORT.TV2
-http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244577
-#EXTINF:-1,=== XPLU ===
-#EXTINF:-1,SPORT.TV1 
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/167
-#EXTINF:-1,SPORT.TV2
-http://78.159.101.179:2095/xplus-2-LFPGvayGLj/g4vKVzCbud/170
+#EXTINF:-1,=== apptelspro ===
+#EXTINF:-1,Benfica TV 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37768
+#EXTINF:-1,Benfica TV 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/37769
+#EXTINF:-1,=== philgrim ===
+#EXTINF:-1,Benfica TV 
+http://philgrim.online:2082/Iptvservi/EVrYD2KpXvTr/244583
+#EXTINF:-1,=== massud.homelinux ===
+#EXTINF:-1,Benfica TV 
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
+#EXTINF:-1,Benfica TV 
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/69136
 #EXTINF:-1,=== Dominio ===
-#EXTINF:-1,SPORT.TV1 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224080
-#EXTINF:-1,SPORT.TV2
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224082
-#EXTINF:-1,=== Lmtv ===
-#EXTINF:-1,SPORT.TV1 
-http://lmtv.me:80/1671982897jas/195093/101058
-#EXTINF:-1,SPORT.TV2
-http://lmtv.me:80/1671982897jas/195093/101059
-#EXTINF:-1,=== Penelope ===
-#EXTINF:-1,SPORT.TV1 
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307430
-#EXTINF:-1,SPORT.TV2
-http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/307432
-#EXTINF:-1,=== fireott ===
-#EXTINF:-1,SPORT.TV1 
-http://fireott.biz:2052/97:54:23:4f:9b:a1/802491805507730/146725
-
-
+#EXTINF:-1,Benfica TV 
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159998
+#EXTINF:-1,=== eminent ===
+#EXTINF:-1,Benfica TV 
+http://eminent.live:25461/Nikkissic69/38558524/176361
+#EXTINF:-1,=== iptv365 ===
+#EXTINF:-1,Benfica TV 
+http://iptv365.xyz:80/3160760056/1016703067/165605
+#EXTINF:-1,Benfica TV 
+http://iptv365.xyz:80/3160760056/1016703067/176893
+#EXTINF:-1,=== tntmais ===
+#EXTINF:-1,Benfica TV 
+http://tntmais.com:80/wrsscnv/tvTest777/10052959
+#EXTINF:-1,Benfica TV 
+http://tntmais.com:80/wrsscnv/tvTest777/10052960
+#EXTINF:-1,=== Teamnext ===
+#EXTINF:-1,Benfica TV 
+http://teamnextlevel.xyz:25461/vicente/vicente/220281
+#EXTINF:-1,=== x.v-iptv ===
+#EXTINF:-1,Benfica TV 
+http://x.v-iptv.com:25443/HAJG6/k7bKPqg05y/58876
+#EXTINF:-1,=== myportal ===
+#EXTINF:-1,Benfica TV 
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/243702.ts
+#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,Benfica TV 
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1497
 
 
