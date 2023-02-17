@@ -1,64 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== iptv365 ===
-#EXTINF:-1,Benfica TV 
-http://iptv365.xyz:80/3160760056/1016703067/165605
-#EXTINF:-1,Benfica TV 
-http://iptv365.xyz:80/3160760056/1016703067/176893
-#EXTINF:-1,Eleven 1 
-http://iptv365.xyz:80/3160760056/1016703067/165619
-#EXTINF:-1,Eleven 2 
-http://iptv365.xyz:80/3160760056/1016703067/165654
-#EXTINF:-1,Eleven 3
-http://iptv365.xyz:80/3160760056/1016703067/165603
-#EXTINF:-1,Eleven 4
-http://iptv365.xyz:80/3160760056/1016703067/165620
-#EXTINF:-1,Eleven 5
-http://iptv365.xyz:80/3160760056/1016703067/165655
-#EXTINF:-1,SPORT.TV1 
-http://iptv365.xyz:80/3160760056/1016703067/165647
-#EXTINF:-1,SPORT.TV2
-http://iptv365.xyz:80/3160760056/1016703067/165648
-#EXTINF:-1,SPORT.TV3 
-http://iptv365.xyz:80/3160760056/1016703067/165649
-#EXTINF:-1,SPORT.TV4 
-http://iptv365.xyz:80/3160760056/1016703067/165650
-#EXTINF:-1,SPORT.TV5
-http://iptv365.xyz:80/3160760056/1016703067/165651
-#EXTINF:-1,TVCine TOP 
-http://iptv365.xyz:80/3160760056/1016703067/165484
-#EXTINF:-1,TVCine EDITION 
-http://iptv365.xyz:80/3160760056/1016703067/165485
-#EXTINF:-1,TVCine EMOTION 
-http://iptv365.xyz:80/3160760056/1016703067/165486
-#EXTINF:-1,TVCine ACTION 
-http://iptv365.xyz:80/3160760056/1016703067/165487
-
-#EXTINF:-1,=== tntmais ===
-#EXTINF:-1,Benfica TV 
-http://tntmais.com:80/wrsscnv/tvTest777/10052959
-#EXTINF:-1,Benfica TV 
-http://tntmais.com:80/wrsscnv/tvTest777/10052960
-#EXTINF:-1,Eleven 1 
-http://tntmais.com:80/wrsscnv/tvTest777/10040678
-#EXTINF:-1,Eleven 2 
-http://tntmais.com:80/wrsscnv/tvTest777/10040685
-#EXTINF:-1,Eleven 3
-http://tntmais.com:80/wrsscnv/tvTest777/10040680
-#EXTINF:-1,Eleven 4
-http://tntmais.com:80/wrsscnv/tvTest777/10040681
-#EXTINF:-1,Eleven 5
-http://tntmais.com:80/wrsscnv/tvTest777/10040682
-#EXTINF:-1,SPORT.TV1 
-http://tntmais.com:80/wrsscnv/tvTest777/10052992
-#EXTINF:-1,SPORT.TV2
-http://tntmais.com:80/wrsscnv/tvTest777/10052989
-#EXTINF:-1,SPORT.TV3 
-http://tntmais.com:80/wrsscnv/tvTest777/10052986
-#EXTINF:-1,SPORT.TV4 
-http://tntmais.com:80/wrsscnv/tvTest777/10052983
-#EXTINF:-1,SPORT.TV5
-http://tntmais.com:80/wrsscnv/tvTest777/10052981
-
 #EXTINF:-1,=== Dominio ===
 #EXTINF:-1,Benfica TV 
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159998
@@ -92,34 +32,164 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131039
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131040
 #EXTINF:-1,UK: Sky Sports F1
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/16224
-#EXTINF:-1,=== kuchini ===
+#EXTINF:-1,=== 212 ===
 #EXTINF:-1,Benfica TV 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1497
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42047.ts
 #EXTINF:-1,Eleven 1 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1499
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42049.ts
 #EXTINF:-1,Eleven 2 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1503
-#EXTINF:-1,Eleven 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1506
-#EXTINF:-1,Eleven 4
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1509
-#EXTINF:-1,Eleven 5
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1512
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42051.ts
 #EXTINF:-1,SPORT.TV1 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1483
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42040.ts
 #EXTINF:-1,SPORT.TV2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1486
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42042.ts
 #EXTINF:-1,SPORT.TV3 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1489
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42044.ts
 #EXTINF:-1,SPORT.TV4 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1492
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42045.ts
 #EXTINF:-1,SPORT.TV5
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1495
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42046.ts
 #EXTINF:-1,TVCine TOP 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1446
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42053.ts
 #EXTINF:-1,TVCine EDITION 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82254
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42055.ts
 #EXTINF:-1,TVCine EMOTION 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1448
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42057.ts
 #EXTINF:-1,TVCine ACTION 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1452
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42059.t
+#EXTINF:-1,=== WorldClass ===
+#EXTINF:-1,Benfica TV 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/195870
+#EXTINF:-1,Benfica TV 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/200867
+#EXTINF:-1,Eleven 1 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/343918
+#EXTINF:-1,Eleven 2 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/343919
+#EXTINF:-1,Eleven 3
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/343920
+#EXTINF:-1,Eleven 4
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/343921
+#EXTINF:-1,Eleven 5
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/343922
+#EXTINF:-1,SPORT.TV1 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/327999
+#EXTINF:-1,SPORT.TV2
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/328001
+#EXTINF:-1,SPORT.TV3 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/328075
+#EXTINF:-1,SPORT.TV4 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/209394
+#EXTINF:-1,SPORT.TV5
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/196011
+#EXTINF:-1,TVCine TOP 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/200833
+#EXTINF:-1,TVCine EDITION 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/200831
+#EXTINF:-1,TVCine EMOTION 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/200832
+#EXTINF:-1,TVCine ACTION 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/200830
+#EXTINF:-1,=== raminp ===
+#EXTINF:-1,Benfica TV 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15941
+#EXTINF:-1,Eleven 1 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
+#EXTINF:-1,Eleven 2 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15964
+#EXTINF:-1,Eleven 3
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15967
+#EXTINF:-1,Eleven 4
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15972
+#EXTINF:-1,Eleven 5
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15976
+#EXTINF:-1,SPORT.TV1 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15951
+#EXTINF:-1,SPORT.TV2
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15953
+#EXTINF:-1,SPORT.TV3 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15955
+#EXTINF:-1,SPORT.TV4 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15957
+#EXTINF:-1,SPORT.TV5
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15958
+#EXTINF:-1,TVCine TOP 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15902
+#EXTINF:-1,TVCine EDITION 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15901
+#EXTINF:-1,TVCine EMOTION 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15900
+#EXTINF:-1,TVCine ACTION 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15903
+#EXTINF:-1,Sky Sports F1
+http://185.191.124.105:25461/raminp/TAQhPJncSa/611
+#EXTINF:-1,=== bandookk ===
+#EXTINF:-1,Benfica TV 
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/167
+#EXTINF:-1,Eleven 1 
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/176
+#EXTINF:-1,Eleven 2 
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/177
+#EXTINF:-1,Eleven 3
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/180
+#EXTINF:-1,Eleven 4
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/182
+#EXTINF:-1,Eleven 5
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/183
+#EXTINF:-1,SPORT.TV1 
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/168
+#EXTINF:-1,SPORT.TV2
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/169
+#EXTINF:-1,SPORT.TV3 
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/170
+#EXTINF:-1,SPORT.TV4 
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/172
+#EXTINF:-1,SPORT.TV5
+http://bandookk.xyz:8000/xiptv/rHpRkE91W2/173
+#EXTINF:-1,=== localiptv ===
+#EXTINF:-1,Eleven 1 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1468
+#EXTINF:-1,Eleven 2 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1469
+#EXTINF:-1,Eleven 3
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1470
+#EXTINF:-1,Eleven 4
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1471
+#EXTINF:-1,Eleven 5
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1472
+#EXTINF:-1,SPORT.TV1 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/917
+#EXTINF:-1,SPORT.TV2
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/918
+#EXTINF:-1,SPORT.TV3 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/919
+#EXTINF:-1,SPORT.TV4 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/920
+#EXTINF:-1,SPORT.TV5
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/921
+#EXTINF:-1,=== ys-users ===
+#EXTINF:-1,Benfica TV 
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/506100
+#EXTINF:-1,Eleven 1 
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495207
+#EXTINF:-1,Eleven 2 
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495208
+#EXTINF:-1,Eleven 3
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495209
+#EXTINF:-1,Eleven 4
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495210
+#EXTINF:-1,Eleven 5
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495211
+#EXTINF:-1,SPORT.TV1 
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495278
+#EXTINF:-1,SPORT.TV2
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495279
+#EXTINF:-1,SPORT.TV3 
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495280
+#EXTINF:-1,SPORT.TV4 
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495281
+#EXTINF:-1,SPORT.TV5
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/495282
+#EXTINF:-1,UK: SKY SPORTS F1
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/508246
+
