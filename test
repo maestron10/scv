@@ -1,29 +1,40 @@
 #EXTM3U
-#EXTINF:-1,=== destiny4k ===
+#EXTINF:-1,=== pythontv ===
 #EXTINF:-1,Benfica TV 
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87396.ts
+http://pythontv.net:8789/luis12/pMQuMbm/342
+#EXTINF:-1,Benfica TV 
+http://pythontv.net:8789/luis12/pMQuMbm/47292
 #EXTINF:-1,Eleven 1 
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87405.ts
+http://pythontv.net:8789/luis12/pMQuMbm/14901
 #EXTINF:-1,Eleven 2 
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87406.ts
+http://pythontv.net:8789/luis12/pMQuMbm/14895
 #EXTINF:-1,Eleven 3
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87407.ts
+http://pythontv.net:8789/luis12/pMQuMbm/14899
 #EXTINF:-1,Eleven 4
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87408.ts
+http://pythontv.net:8789/luis12/pMQuMbm/14898
 #EXTINF:-1,Eleven 5
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87409.ts
+http://pythontv.net:8789/luis12/pMQuMbm/14897
 #EXTINF:-1,SPORT.TV1 
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87398.ts
+http://pythontv.net:8789/luis12/pMQuMbm/23086
 #EXTINF:-1,SPORT.TV2
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87399.ts
+http://pythontv.net:8789/luis12/pMQuMbm/23098
 #EXTINF:-1,SPORT.TV3 
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87400.ts
+http://pythontv.net:8789/luis12/pMQuMbm/1418
 #EXTINF:-1,SPORT.TV4 
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87401.ts
+http://pythontv.net:8789/luis12/pMQuMbm/1419
 #EXTINF:-1,SPORT.TV5
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87402.ts
-#EXTINF:-1, SKY SPORTS F1
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/89576.ts
+http://pythontv.net:8789/luis12/pMQuMbm/7339
+#EXTINF:-1,SKY SPORTS F1
+http://pythontv.net:8789/luis12/pMQuMbm/117193
+#EXTINF:-1,TVCine TOP 
+http://pythontv.net:8789/luis12/pMQuMbm/7523
+#EXTINF:-1,TVCine EDITION 
+http://pythontv.net:8789/luis12/pMQuMbm/328
+#EXTINF:-1,TVCine EMOTION 
+http://pythontv.net:8789/luis12/pMQuMbm/334
+#EXTINF:-1,TVCine ACTION 
+http://pythontv.net:8789/luis12/pMQuMbm/335
+
 #EXTINF:-1,=== Dominio ===
 #EXTINF:-1,Benfica TV 
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159998
