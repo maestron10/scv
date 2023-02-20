@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,=== kenencabs ===
 #EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/370393
 #EXTINF:-1,PT: SPORT TV 1 HD
@@ -141,7 +142,7 @@ http://kenencabs.online:2082/dream/2zLzqbt3Ge/370461
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/370462
 #EXTINF:-1,PT: TVCINE TOP
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/370463
-
+#EXTINF:-1,=== scorpione ===
 #EXTINF:-1,PT: BTV (BENFICA TV)
 http://scorpione.net:25461/adame/123456/161970
 #EXTINF:-1,PT: ELEVEN SPORT 1
