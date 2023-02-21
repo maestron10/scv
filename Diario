@@ -1,42 +1,23 @@
 #EXTM3U
-#EXTINF:-1,Benfica TV
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/370422
-#EXTINF:-1,Benfica TV
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/370424
-#EXTINF:-1,Benfica TV
-http://scorpione.net:25461/adame/123456/161970
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/342
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/47292
-#EXTINF:-1,Benfica TV
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1497
-#EXTINF:-1,Benfica TV
-http://kuchini.site:8080/joeBt/e229c03d
-#EXTINF:-1,Benfica TV
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
-#EXTINF:-1,Benfica TV 	
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224091
-#EXTINF:-1,Benfica TV
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42047.ts
-#EXTINF:-1,Benfica TV 	
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/195870
-#EXTINF:-1,Benfica TV 	
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15941
-#EXTINF:-1,Benfica TV 
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/167
-#EXTINF:-1,Benfica TV
-http://supercamp.cfd:8080/live/791663800526588004/311663800526588/25000.ts
-#EXTINF:-1,Benfica TV
-http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87396.ts
-#EXTINF:-1,Benfica TV
-
-#EXTINF:-1,Benfica TV
-
-#EXTINF:-1,Benfica TV
-
-#EXTINF:-1,Benfica TV
-
-#EXTINF:-1,Benfica TV
-
-#EXTINF:-1,Benfica TV
+#EXTINF:-1,SPORT.TV1 
+http://scorpione.net:25461/adame/123456/162042
+#EXTINF:-1,SPORT.TV1 
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/370392
+#EXTINF:-1,SPORT.TV1 
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/370393
+#EXTINF:-1,SPORT.TV1 
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57691
+#EXTINF:-1,SPORT.TV1 
+http://lmtv.me:80/1671982897jas/195093/101060
+#EXTINF:-1,SPORT.TV1 
+http://pythontv.net:8789/luis12/pMQuMbm/23098
+#EXTINF:-1,SPORT.TV1 
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224080
+#EXTINF:-1,SPORT.TV1 
+http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/343922
+#EXTINF:-1,SPORT.TV1 
+http://185.191.124.105:25461/raminp/TAQhPJncSa/15951
+#EXTINF:-1,SPORT.TV1 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/917
+#EXTINF:-1,SPORT.TV1 
+http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87398.ts
