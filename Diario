@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1,Eleven 1 
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224661
+#EXTINF:-1,Eleven 1 
+http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1499
+#EXTINF:-1,Eleven 1
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/370429
+#EXTINF:-1,Eleven 1
+http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57671
+#EXTINF:-1,Eleven 1
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1468
+#EXTINF:-1,Eleven 1
+http://line.team-tv.link:80/7ONMGOQtRw/S98s4tX3J1/203596
+#EXTINF:-1,Eleven 1 
+http://188.165.215.198:8000/tariq101nl/kuhpol264583/6502
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LAT | PORTUGAL" tvg-logo="https://archive.org/download/tvlogos/FLAG%20-%20Portugal.png",PT: ELEVEN SPORTS 1 
+http://fuzzyunicorns.net:80/live/laquitaevans3@gmail.com/laquitaevans3/579505.ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="SP: PT: Eleven Sports 1 FHD" tvg-logo="" group-title="PORT - Portugal Sports ⚽",SP: PT: Eleven Sports 1 FHD
+http://monterocity.com:25461/live/Phenixiptv/acAWT263n7LR/7518.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PT| PORTUGAL" tvg-logo="",|PT| ELEVEN SPORTS 1 HD
+http://txm.flysat.live:80/live/fc:03:9f:6f:f6:bf/4289727879/205742.ts
+
+
+
 #EXTINF:-1,SPORT.TV4 
 http://joelkilamiar.org:8080/X8c422kTjg/wNKwfnXuxa/262036
 #EXTINF:-1,SPORT.TV4 
@@ -85,17 +108,4 @@ http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/917
 http://destiny4k.com:2086/live/fHq1LEPaT2/CicF0eqfThJzi9ZeQvXW/87398.ts
 #EXTINF:-1,SPORT.TV1
 http://streamingtv.vip:8080/Tevrvvf/Nwbevfvvf/129160
-#EXTINF:-1,Eleven 1 
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1499
-#EXTINF:-1,Eleven 1
-http://scorpione.net:25461/adame/123456/161991
-#EXTINF:-1,Eleven 1
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/370429
-#EXTINF:-1,Eleven 1
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/57671
-#EXTINF:-1,Eleven 1
-http://lmtv.me:80/1671982897jas/195093/101052
-#EXTINF:-1,Eleven 1
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1468
-#EXTINF:-1,Eleven 1
-http://line.team-tv.link:80/7ONMGOQtRw/S98s4tX3J1/203596
+
