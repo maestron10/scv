@@ -1,193 +1,26 @@
 #EXTM3U
-#EXTINF:-1,=== Luneson ===
+#EXTINF:-1,=== 185 ===
 #EXTINF:-1,Benfica TV 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547655
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15941
 #EXTINF:-1,Eleven 1 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547672
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15960
 #EXTINF:-1,Eleven 2 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547673
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15961
 #EXTINF:-1,Eleven 3
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547674
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15967
 #EXTINF:-1,Eleven 4
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547675
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15972
 #EXTINF:-1,Eleven 5
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547676
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15976
 #EXTINF:-1,SPORT.TV1 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547726
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15951
 #EXTINF:-1,SPORT.TV2
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547727
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15953
 #EXTINF:-1,SPORT.TV3 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547728
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15955
 #EXTINF:-1,SPORT.TV4 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547729
-#EXTINF:-1,TVCine TOP 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547738
-#EXTINF:-1,TVCine EDITION 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547739
-#EXTINF:-1,TVCine EMOTION 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547740
-#EXTINF:-1,TVCine ACTION 
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547741
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/547510
-#EXTINF:-1,=== 176 ===
-#EXTINF:-1,Benfica TV 
-http://176.57.50.167:25461/204931/564840/61881
-#EXTINF:-1,Benfica TV 
-http://176.57.50.167:25461/204931/564840/7600
-#EXTINF:-1,Eleven 1 
-http://176.57.50.167:25461/204931/564840/7627
-#EXTINF:-1,Eleven 2 
-http://176.57.50.167:25461/204931/564840/7629
-#EXTINF:-1,Eleven 3
-http://176.57.50.167:25461/204931/564840/7631
-#EXTINF:-1,Eleven 4
-http://176.57.50.167:25461/204931/564840/7633
-#EXTINF:-1,Eleven 5
-http://176.57.50.167:25461/204931/564840/7635
-#EXTINF:-1,SPORT.TV1 
-http://176.57.50.167:25461/204931/564840/7705
-#EXTINF:-1,SPORT.TV2
-http://176.57.50.167:25461/204931/564840/7707
-#EXTINF:-1,SPORT.TV3 
-http://176.57.50.167:25461/204931/564840/7709
-#EXTINF:-1,SPORT.TV4 
-http://176.57.50.167:25461/204931/564840/7711
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15957
 #EXTINF:-1,SPORT.TV5
-http://176.57.50.167:25461/204931/564840/7714
-#EXTINF:-1,TVCine TOP 
-http://176.57.50.167:25461/204931/564840/7730
-#EXTINF:-1,TVCine EDITION 
-http://176.57.50.167:25461/204931/564840/7732
-#EXTINF:-1,TVCine EMOTION 
-http://176.57.50.167:25461/204931/564840/7734
-#EXTINF:-1,TVCine ACTION 
-http://176.57.50.167:25461/204931/564840/7736
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15958
 #EXTINF:-1,UK Sky Sports F1
-http://176.57.50.167:25461/204931/564840/78149
-#EXTINF:-1,=== pythontv ===
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/342
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/47292
-#EXTINF:-1,Eleven 1 
-http://pythontv.net:8789/luis12/pMQuMbm/14901
-#EXTINF:-1,Eleven 2 
-http://pythontv.net:8789/luis12/pMQuMbm/14895
-#EXTINF:-1,Eleven 3
-http://pythontv.net:8789/luis12/pMQuMbm/14899
-#EXTINF:-1,Eleven 4
-http://pythontv.net:8789/luis12/pMQuMbm/14898
-#EXTINF:-1,Eleven 5
-http://pythontv.net:8789/luis12/pMQuMbm/14897
-#EXTINF:-1,SPORT.TV1 
-http://pythontv.net:8789/luis12/pMQuMbm/23086
-#EXTINF:-1,SPORT.TV2
-http://pythontv.net:8789/luis12/pMQuMbm/23098
-#EXTINF:-1,SPORT.TV3 
-http://pythontv.net:8789/luis12/pMQuMbm/1418
-#EXTINF:-1,SPORT.TV4 
-http://pythontv.net:8789/luis12/pMQuMbm/1419
-#EXTINF:-1,SPORT.TV5
-http://pythontv.net:8789/luis12/pMQuMbm/7339
-#EXTINF:-1,SKY SPORTS F1
-http://pythontv.net:8789/luis12/pMQuMbm/117193
-#EXTINF:-1,TVCine TOP 
-http://pythontv.net:8789/luis12/pMQuMbm/7523
-#EXTINF:-1,TVCine EDITION 
-http://pythontv.net:8789/luis12/pMQuMbm/328
-#EXTINF:-1,TVCine EMOTION 
-http://pythontv.net:8789/luis12/pMQuMbm/334
-#EXTINF:-1,TVCine ACTION 
-http://pythontv.net:8789/luis12/pMQuMbm/335
-
-#EXTINF:-1,=== Dominio ===
-#EXTINF:-1,Benfica TV 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224091
-#EXTINF:-1,Eleven 1 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224093
-#EXTINF:-1,Eleven 2 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224095
-#EXTINF:-1,Eleven 3
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224097
-#EXTINF:-1,Eleven 4
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224099
-#EXTINF:-1,Eleven 5
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224101
-#EXTINF:-1,SPORT.TV1 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224080
-#EXTINF:-1,SPORT.TV2
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224082
-#EXTINF:-1,SPORT.TV3 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224084
-#EXTINF:-1,SPORT.TV4 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224086
-#EXTINF:-1,SPORT.TV5
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224088
-#EXTINF:-1,TVCine TOP 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131037
-#EXTINF:-1,TVCine EDITION 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131038
-#EXTINF:-1,TVCine EMOTION 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131039
-#EXTINF:-1,TVCine ACTION 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131040
-#EXTINF:-1,UK: Sky Sports F1
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/16224
-
-#EXTINF:-1,=== raminp ===
-#EXTINF:-1,Benfica TV 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15941
-#EXTINF:-1,Eleven 1 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
-#EXTINF:-1,Eleven 2 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15964
-#EXTINF:-1,Eleven 3
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15967
-#EXTINF:-1,Eleven 4
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15972
-#EXTINF:-1,Eleven 5
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15976
-#EXTINF:-1,SPORT.TV1 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15951
-#EXTINF:-1,SPORT.TV2
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15953
-#EXTINF:-1,SPORT.TV3 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15955
-#EXTINF:-1,SPORT.TV4 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15957
-#EXTINF:-1,SPORT.TV5
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15958
-#EXTINF:-1,TVCine TOP 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15902
-#EXTINF:-1,TVCine EDITION 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15901
-#EXTINF:-1,TVCine EMOTION 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15900
-#EXTINF:-1,TVCine ACTION 
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15903
-#EXTINF:-1,Sky Sports F1
-http://185.191.124.105:25461/raminp/TAQhPJncSa/611
-
-#EXTINF:-1,=== localiptv ===
-#EXTINF:-1,Eleven 1 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1468
-#EXTINF:-1,Eleven 2 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1469
-#EXTINF:-1,Eleven 3
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1470
-#EXTINF:-1,Eleven 4
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1471
-#EXTINF:-1,Eleven 5
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1472
-#EXTINF:-1,SPORT.TV1 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/917
-#EXTINF:-1,SPORT.TV2
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/918
-#EXTINF:-1,SPORT.TV3 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/919
-#EXTINF:-1,SPORT.TV4 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/920
-#EXTINF:-1,SPORT.TV5
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/921
-
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/611
