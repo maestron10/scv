@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone-pt.xml.gz"
 #EXTINF:-1,=== dnsvod ===
-#EXTINF:-1,Benfica TV 
+#EXTINF:-1 tvg-ID="BTV 1 HD" tvg-name="BTV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="",BTV 1 [HD]
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224680
 #EXTINF:-1,Benfica TV 
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224679
@@ -14,15 +14,15 @@ http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224668
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224670
 #EXTINF:-1,Eleven 5
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224672
-#EXTINF:-1,SPORT.TV1,
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224642
-#EXTINF:-1,SPORT.TV2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224647
-#EXTINF:-1,SPORT.TV3 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224650
-#EXTINF:-1,SPORT.TV4 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224653
-#EXTINF:-1,SPORT.TV5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224656
 #EXTINF:-1,SKY SPORTS F1
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/226452
@@ -45,33 +45,4 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/91034
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/91035
 #EXTINF:-1,SPORT.TV5
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/91036
-
-#EXTINF:-1,=== Tarqiq ===
-#EXTINF:-1,Benfica TV 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/4279
-#EXTINF:-1,Eleven 1 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/6502
-#EXTINF:-1,Eleven 2 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/6503
-#EXTINF:-1,Eleven 3
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/6504
-#EXTINF:-1,SPORT.TV1 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/460
-#EXTINF:-1,SPORT.TV2
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/462
-#EXTINF:-1,SPORT.TV3 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/464
-#EXTINF:-1,SPORT.TV4 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/466
-#EXTINF:-1,SPORT.TV5
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/467
-#EXTINF:-1,TVCine TOP 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/475
-#EXTINF:-1,TVCine EDITION 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/473
-#EXTINF:-1,TVCine EMOTION 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/474
-#EXTINF:-1,TVCine ACTION 
-http://188.165.215.198:8000/tariq101nl/kuhpol264583/472
-
 
