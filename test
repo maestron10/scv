@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1,=== stremlocal ===
+#EXTINF:-1,Benfica TV 
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/886
+#EXTINF:-1,Eleven 1 
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/887
+#EXTINF:-1,Eleven 2 
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/888
+#EXTINF:-1,Eleven 3
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/890
+#EXTINF:-1,Eleven 4
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/891
+#EXTINF:-1,Eleven 5
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/892
+#EXTINF:-1,SPORT.TV1 
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/880
+#EXTINF:-1,SPORT.TV2
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/881
+#EXTINF:-1,SPORT.TV3 
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/883
+#EXTINF:-1,SPORT.TV4 
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/884
+#EXTINF:-1,SPORT.TV5
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/885
 #EXTINF:-1,=== Lucas ===
 #EXTINF:-1,Benfica TV 
 http://acsa.ws:80/Lucas8874/677KJNvzv/191272
@@ -32,19 +55,6 @@ http://acsa.ws:80/Lucas8874/677KJNvzv/191178
 http://acsa.ws:80/Lucas8874/677KJNvzv/191181
 #EXTINF:-1,TVCine ACTION 
 http://acsa.ws:80/Lucas8874/677KJNvzv/191184
-#EXTINF:-1,=== premium ===
-#EXTINF:-1,Eleven 1 
-http://premiumultra.xyz:8080/xtreamvipstr2022/Jeiwkwn9990000ooo/37959
-#EXTINF:-1,Eleven 2 
-http://premiumultra.xyz:8080/xtreamvipstr2022/Jeiwkwn9990000ooo/37960
-#EXTINF:-1,SPORT.TV1 
-http://premiumultra.xyz:8080/xtreamvipstr2022/Jeiwkwn9990000ooo/37962
-#EXTINF:-1,SPORT.TV2
-http://premiumultra.xyz:8080/xtreamvipstr2022/Jeiwkwn9990000ooo/37963
-#EXTINF:-1,SPORT.TV3 
-http://premiumultra.xyz:8080/xtreamvipstr2022/Jeiwkwn9990000ooo/37964
-#EXTINF:-1,SPORT.TV4 
-http://premiumultra.xyz:8080/xtreamvipstr2022/Jeiwkwn9990000ooo/37965
 #EXTINF:-1,=== dns4k ===
 #EXTINF:-1,Benfica TV 
 http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/409172
