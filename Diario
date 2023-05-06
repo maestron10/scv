@@ -1,48 +1,50 @@
 #EXTM3U
-#EXTINF:-1,|PT| BTV 1 HD
+#EXTINF:-1,=== OTT ===
+#EXTINF:-1,|PT| BTV 1 HD 
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8031
-#EXTINF:-1,|PT| BENFICA 8K
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/286612
 #EXTINF:-1,|PT| BENFICA TV 4K
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/286623
 #EXTINF:-1,|PT|  BTV 1 4K
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4495
-#EXTINF:-1,BENFICA HD
+#EXTINF:-1,BENFICA HD ott
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/287263
 #EXTINF:-1,|PT| BENFICA SD
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/286408
+#EXTINF:-1,=== RECREATIVAS38 ===
 #EXTINF:-1,Benfica TV 
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/886
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533143
 #EXTINF:-1,Benfica TV 
-http://acsa.ws:80/Lucas8874/677KJNvzv/191272
+http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533139
+#EXTINF:-1,=== Dark ===
 #EXTINF:-1,Benfica TV 
-http://acsa.ws:80/Lucas8874/677KJNvzv/191271
+http://tbs-tv.com:8080/dark/kittylinetv/75188
+#EXTINF:-1,=== Wrecks ===
 #EXTINF:-1,Benfica TV 
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/409172
+http://hostengine.live/wrecks82/habsiptv82/176361
+#EXTINF:-1,=== BabNour ===
 #EXTINF:-1,Benfica TV 
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/14557
-#EXTINF:-1,Benfica TV 
-http://txm.flysat.live:2089/152077341125099/152086060198727/205736
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61984
 #EXTINF:-1,Benfica TV
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1497
 #EXTINF:-1,Benfica TV 
 http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15941
+#EXTINF:-1,=== DNSVOD ===
 #EXTINF:-1,Benfica TV 
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224680
 #EXTINF:-1,Benfica TV 
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224679
+#EXTINF:-1,=== Phyton ===
 #EXTINF:-1,Benfica TV 
 http://pythontv.net:8789/luis12/pMQuMbm/342
 #EXTINF:-1,Benfica TV 
 http://pythontv.net:8789/luis12/pMQuMbm/47292
 #EXTINF:-1,Benfica TV 
-http://176.57.50.167:25461/204931/564840/61881
-#EXTINF:-1,Benfica TV 
-http://176.57.50.167:25461/204931/564840/7600
-#EXTINF:-1,Benfica TV 
 http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
 #EXTINF:-1,Benfica TV 
 http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/69136
-
+#EXTINF:-1,Benfica TV 
+http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/409172
+#EXTINF:-1,Benfica TV 
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/14557
 
 
