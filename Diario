@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
 http://clientportal.link:80/DanielFandino/5orxCq2051/5541
+#EXTINF:-1,Benfica TV
+https://spotv.me:8080/FG5195018939/5195018939/4489
 #EXTINF:-1,=== OTT ===
 #EXTINF:-1,|PT| BTV 1 HD 
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8031
