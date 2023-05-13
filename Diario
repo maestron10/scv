@@ -1,55 +1,33 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
-http://clientportal.link:80/DanielFandino/5orxCq2051/5541
-#EXTINF:-1,Benfica TV
-https://spotv.me:8080/FG5195018939/5195018939/4489
-#EXTINF:-1,=== OTT ===
-#EXTINF:-1,|PT| BTV 1 HD 
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8031
-#EXTINF:-1,|PT| BENFICA TV 4K
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/286623
-#EXTINF:-1,|PT|  BTV 1 4K
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4495
-#EXTINF:-1,BENFICA HD ott
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/287263
-#EXTINF:-1,|PT| BENFICA SD
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/286408
-#EXTINF:-1,=== RECREATIVAS38 ===
-#EXTINF:-1,Benfica TV 
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533143
-#EXTINF:-1,Benfica TV 
-http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533139
-#EXTINF:-1,=== Dark ===
-#EXTINF:-1,Benfica TV 
-http://tbs-tv.com:8080/dark/kittylinetv/75188
-#EXTINF:-1,=== Wrecks ===
-#EXTINF:-1,Benfica TV 
-http://hostengine.live/wrecks82/habsiptv82/176361
-#EXTINF:-1,=== BabNour ===
-#EXTINF:-1,Benfica TV 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/61984
-#EXTINF:-1,Benfica TV
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1497
-#EXTINF:-1,Benfica TV 
-http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15941
-#EXTINF:-1,=== DNSVOD ===
-#EXTINF:-1,Benfica TV 
-http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224680
-#EXTINF:-1,Benfica TV 
-http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224679
-#EXTINF:-1,=== Phyton ===
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/342
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/47292
-#EXTINF:-1,Benfica TV 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/14471
-#EXTINF:-1,Benfica TV 
-http://massud.homelinux.com:80/qHH1RmXCO3B8ms2L/VfFQPwd7pcOy6zyu/69136
-#EXTINF:-1,Benfica TV 
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/409172
-#EXTINF:-1,Benfica TV 
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/14557
-
-
+#EXTINF:-1,SPORT TV 1
+https://spotv.me:8080/FG5195018939/5195018939/83
+#EXTINF:-1,SPORT TV 1 HD
+https://spotv.me:8080/FG5195018939/5195018939/4490
+#EXTINF:-1,PT: SPORT TV1
+http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495278
+#EXTINF:-1,SPORT.TV1 
+http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X19N8jF5r860t9ufatRIQP3n_kPXsLvZyjkNsDEfm0gKy/ts
+#EXTINF:-1,SPORT.TV1 
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224642
+#EXTINF:-1,SPORT.TV1 
+http://pythontv.net:8789/luis12/pMQuMbm/23086
+#EXTINF:-1,SPORT.TV1 
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://84.91.204.231:9981/stream/channelid/641992294?profile=pass
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://medotv.nl:8000/megaott1000/gtSwbCLSSS/77332
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8019
+#EXTINF:-1,|PT| SPORT TV 1 HD NOS
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8018
+#EXTINF:-1,|PT| Sport TV1 HD
+http://89.47.232.72:8080/Chris/Chris/596625
+#EXTINF:-1,[PT] SPORT TV 1 FHD
+http://line.dmtv-4k.me:80/655367/587437/123800
+#EXTINF:-1,[PT] SPORT TV 1 HD
+http://line.dmtv-4k.me:80/655367/587437/105714
+#EXTINF:-1,PT: SPORT TV 1 
+http://damasiptv.com:80/saif/saif/173334
