@@ -61,41 +61,7 @@ http://tbs-tv.com:8080/dark/kittylinetv/76957
 http://tbs-tv.com:8080/dark/kittylinetv/76956
 #EXTINF:-1,F1-TRACKER
 http://tbs-tv.com:8080/dark/kittylinetv/76955
-#EXTINF:-1,=== Jones ===
-#EXTINF:-1,PT: BTV1
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495174
-#EXTINF:-1,PT: Benfica TV (D)
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/506100
-#EXTINF:-1,PT: ELEVEN EXTRA 1
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495203
-#EXTINF:-1,PT: ELEVEN EXTRA 2
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495204
-#EXTINF:-1,PT: ELEVEN EXTRA 3
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495205
-#EXTINF:-1,PT: ELEVEN EXTRA 4
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495206
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495207
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495208
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495209
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495210
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495211
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495212
-#EXTINF:-1,PT: SPORT TV1
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495278
-#EXTINF:-1,PT: SPORT TV2
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495279
-#EXTINF:-1,PT: SPORT TV3
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495280
-#EXTINF:-1,PT: SPORT TV4
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495281
-#EXTINF:-1,PT: SPORT TV5
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495282
+
 #EXTINF:-1,=== Fireott ===
 #EXTINF:-1,PT : 4K SPORT TV 1 HD NOS
 http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146772
@@ -145,8 +111,6 @@ http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146
 http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146793
 #EXTINF:-1,PT : HD BTV 1 
 http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146794
-
-
 #EXTINF:-1,=== Wrecks ===
 #EXTINF:-1,Benfica TV 
 http://hostengine.live/wrecks82/habsiptv82/176361
@@ -172,68 +136,3 @@ http://hostengine.live/wrecks82/habsiptv82/58595
 http://hostengine.live/wrecks82/habsiptv82/205120
 #EXTINF:-1,F1 : SKY SPORTS F1
 http://hostengine.live/wrecks82/habsiptv82/82729
-#EXTINF:-1,=== BabNour ===
-#EXTINF:-1,Benfica TV 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/61984
-#EXTINF:-1,Benfica TV 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/61981
-#EXTINF:-1,SPORT.TV1 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
-#EXTINF:-1,SPORT.TV2
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62079
-#EXTINF:-1,SPORT.TV3 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/74595
-#EXTINF:-1,SPORT.TV4 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62074
-#EXTINF:-1,SPORT.TV5
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62082
-#EXTINF:-1,UK - Sky Sports F1 UHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62558
-
-#EXTINF:-1,=== Mk4 ===
-#EXTINF:-1,Benfica TV 
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X1ze9VfuDJ3zvYlYDhmkQ_3gQ4YOyGAtjLqy2C6at358W/ts
-#EXTINF:-1,Eleven 1 
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X13J8dpz8u3xeZXsy0hkApYovNnSfxpxaWgUiw1eB6wm1/ts
-#EXTINF:-1,Eleven 2
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X182OCkVEkHsNiiLrh5jaaHEAlBgYPkazyKr1gbCTtqJs/ts
-#EXTINF:-1,Eleven 3
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X182OCkVEkHsNiiLrh5jaaHFdtNTosU8rciP-nHxBQvGm/ts
-#EXTINF:-1,Eleven 4
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X182OCkVEkHsNiiLrh5jaaHFyAMXY6vR6YoK5VrGyMXcv/ts
-#EXTINF:-1,Eleven 5
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X182OCkVEkHsNiiLrh5jaaHEw632IJ1kj21BKskc2qdws/ts
-#EXTINF:-1,SPORT.TV1 
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X19N8jF5r860t9ufatRIQP3n_kPXsLvZyjkNsDEfm0gKy/ts
-#EXTINF:-1,SPORT.TV2
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X19N8jF5r860t9ufatRIQP3nf7LN1v43wvKNzKpfcXzor/ts
-#EXTINF:-1,SPORT.TV3 
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X19N8jF5r860t9ufatRIQP3kealReVjBhlOW-o4eEnkxk/ts
-#EXTINF:-1,SPORT.TV4 
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X1_RvCvglUQ9pf23xCTLyRXNTpWxcmrZlBdfDK6PRp5MG/ts
-#EXTINF:-1,SPORT.TV5
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X15DZ2OHphFanhJMsXDBvkIzzds6wbxEE52nHUWMx6YHX/ts
-#EXTINF:-1 xui-id="9370" tvg-id="tvc1.pt" tvg-name="PT | TVCINE 1 | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/TVC1.png" group-title="PORTUGAL",PT | TVCINE 1 | UHD
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X1-8mz8g85DjNQuJu18aAkl3PfRNR7JLpAc8lk90uhBtN/ts
-#EXTINF:-1 xui-id="9371" tvg-id="tvc2.pt" tvg-name="PT | TVCINE 2 | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/TVCINE-2.png" group-title="PORTUGAL",PT | TVCINE 2 | UHD
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X1-8mz8g85DjNQuJu18aAkl1YE6fvrp8aeQTvT0aMCArD/ts
-#EXTINF:-1 xui-id="9372" tvg-id="tvc3.pt" tvg-name="PT | TVCINE 3 | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/TVCINE-3.png" group-title="PORTUGAL",PT | TVCINE 3 | UHD
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X1-8mz8g85DjNQuJu18aAkl3da5x9POTAuDPMU5JZ8hLh/ts
-#EXTINF:-1 xui-id="9373" tvg-id="tvc4.pt" tvg-name="PT | TVCINE 4 | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/TVCINE-4.png" group-title="PORTUGAL",PT | TVCINE 4 | UHD
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X1-8mz8g85DjNQuJu18aAkl37MZLJvaavGNeXQTCLoBkj/ts
-
-
-
-#EXTINF:-1,=== dns4k ===
-#EXTINF:-1,Benfica TV 
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/409172
-#EXTINF:-1,SPORT.TV1 
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/504028
-#EXTINF:-1,SPORT.TV2
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/504027
-#EXTINF:-1,SPORT.TV3 
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/504026
-#EXTINF:-1,SPORT.TV4 
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/504025
-#EXTINF:-1,SPORT.TV5
-http://dns.k4livetv.com:8080/Escalante2023/Escalante2023/504024
