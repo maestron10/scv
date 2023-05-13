@@ -1,4 +1,98 @@
 #EXTM3U
+#EXTINF:-1,=== line.dmtv-4k ===
+#EXTINF:-1,[PT] SPORT TV 1 FHD
+http://line.dmtv-4k.me:80/655367/587437/123800
+#EXTINF:-1,[PT] SPORT TV 1 HD
+http://line.dmtv-4k.me:80/655367/587437/105714
+#EXTINF:-1,[PT] SPORT TV 1 SD
+http://line.dmtv-4k.me:80/655367/587437/105713
+#EXTINF:-1,[PT] SPORT TV 1 NOS SD
+http://line.dmtv-4k.me:80/655367/587437/105715
+#EXTINF:-1,[PT] SPORT TV 2 FHD
+http://line.dmtv-4k.me:80/655367/587437/123801
+#EXTINF:-1,[PT] SPORT TV 2 HD
+http://line.dmtv-4k.me:80/655367/587437/105717
+#EXTINF:-1,[PT] SPORT TV 2 SD
+http://line.dmtv-4k.me:80/655367/587437/105716
+#EXTINF:-1,[PT] SPORT TV 3 FHD
+http://line.dmtv-4k.me:80/655367/587437/123802
+#EXTINF:-1,[PT] SPORT TV 3 HD
+http://line.dmtv-4k.me:80/655367/587437/105719
+#EXTINF:-1,[PT] SPORT TV 3 SD
+http://line.dmtv-4k.me:80/655367/587437/105718
+#EXTINF:-1,[PT] SPORT TV 4 FHD
+http://line.dmtv-4k.me:80/655367/587437/269118
+#EXTINF:-1,[PT] SPORT TV 4 SD
+http://line.dmtv-4k.me:80/655367/587437/105720
+#EXTINF:-1,[PT] SPORT TV 5 FHD
+http://line.dmtv-4k.me:80/655367/587437/269119
+#EXTINF:-1,[PT] SPORT TV 5 SD
+http://line.dmtv-4k.me:80/655367/587437/105721
+#EXTINF:-1,[PT] SPORT TV 6 HD
+http://line.dmtv-4k.me:80/655367/587437/464275
+#EXTINF:-1,[PT] SPORT TV NBA FHD
+http://line.dmtv-4k.me:80/655367/587437/123803
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 FHD
+http://line.dmtv-4k.me:80/655367/587437/123804
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://line.dmtv-4k.me:80/655367/587437/105656
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD 
+http://line.dmtv-4k.me:80/655367/587437/123805
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://line.dmtv-4k.me:80/655367/587437/105657
+#EXTINF:-1,[PT] ELEVEN SPORTS  3 FHD â—‰
+http://line.dmtv-4k.me:80/655367/587437/123806
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+http://line.dmtv-4k.me:80/655367/587437/105658
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD â—‰
+http://line.dmtv-4k.me:80/655367/587437/123807
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
+http://line.dmtv-4k.me:80/655367/587437/105659
+#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD â—‰
+http://line.dmtv-4k.me:80/655367/587437/123808
+#EXTINF:-1,[PT] ELEVEN SPORTS 5 HD
+http://line.dmtv-4k.me:80/655367/587437/105752
+#EXTINF:-1,[PT] ELEVEN SPORTS 6 FHD 
+http://line.dmtv-4k.me:80/655367/587437/123809
+#EXTINF:-1,[PT] ELEVEN SPORTS 6 HD
+http://line.dmtv-4k.me:80/655367/587437/105753
+#EXTINF:-1,[PT] BTV 1 FHD
+http://line.dmtv-4k.me:80/655367/587437/123810
+#EXTINF:-1,[PT] BTV 1 HD
+http://line.dmtv-4k.me:80/655367/587437/105637
+#EXTINF:-1,=== Saif ===
+#EXTINF:-1,PT: SPORT TV 1 
+http://damasiptv.com:80/saif/saif/173334
+#EXTINF:-1,PT: SPORT TV 2 
+http://damasiptv.com:80/saif/saif/173335
+#EXTINF:-1,PT: SPORT TV 3 
+http://damasiptv.com:80/saif/saif/173336
+#EXTINF:-1,PT: SPORT TV 4 
+http://damasiptv.com:80/saif/saif/173337
+#EXTINF:-1,PT: SPORT TV 5 
+http://damasiptv.com:80/saif/saif/173338
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://damasiptv.com:80/saif/saif/153245
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://damasiptv.com:80/saif/saif/153249
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://damasiptv.com:80/saif/saif/153253
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://damasiptv.com:80/saif/saif/153258
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://damasiptv.com:80/saif/saif/153261
+#EXTINF:-1,PT: BENFICA HD
+http://damasiptv.com:80/saif/saif/153176
+#EXTINF:-1,PT: BTV HD
+http://damasiptv.com:80/saif/saif/153187
+#EXTINF:-1,PT: BTV HQ H264 HD
+http://damasiptv.com:80/saif/saif/153188
+#EXTINF:-1,PT: BENFICA TV HD
+http://damasiptv.com:80/saif/saif/153178
+
+
+
+
 #EXTINF:-1,=== RECREATIVAS38 ===
 #EXTINF:-1,Benfica TV 
 http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533143
