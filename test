@@ -1,4 +1,44 @@
 #EXTM3U
+
+#EXTINF:-1,PT: SPORT TV 1 FHD Ê³áµƒÊ·
+http://streamingprotv.com:8000/victor2022/victor2022/272722
+#EXTINF:-1,PT: SPORT TV 1 HD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272720
+#EXTINF:-1,PT: SPORT TV 1 FHD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272721
+#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
+http://streamingprotv.com:8000/victor2022/victor2022/272723
+#EXTINF:-1,PT: SPORT TV 2 FHD Ê³áµƒÊ·
+http://streamingprotv.com:8000/victor2022/victor2022/272728
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://streamingprotv.com:8000/victor2022/victor2022/272732
+#EXTINF:-1,PT: SPORT TV 4 HD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272734
+#EXTINF:-1,PT: SPORT TV 5 Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272736
+#EXTINF:-1,PT: SPORT TV 6 HD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272740
+#EXTINF:-1,PT: Eleven Sport 1 HD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272746
+#EXTINF:-1,PT: Eleven Sport 2 HD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272749
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://streamingprotv.com:8000/victor2022/victor2022/272753
+#EXTINF:-1,PT: Eleven Sport 4 HD
+http://streamingprotv.com:8000/victor2022/victor2022/272756
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://streamingprotv.com:8000/victor2022/victor2022/272759
+#EXTINF:-1,PT: BENFICA TV HD Ê°áµ‰áµ›á¶œ XTRA
+http://streamingprotv.com:8000/victor2022/victor2022/272766
+#EXTINF:-1,PT: BENFICA TV HD Ê°áµ‰áµ›á¶œ
+http://streamingprotv.com:8000/victor2022/victor2022/272767
+#EXTINF:-1,PT: BENFICA TV FHD (NOS)
+http://streamingprotv.com:8000/victor2022/victor2022/272768
+
+
+
+
+
 #EXTINF:-1,=== line.dmtv-4k ===
 #EXTINF:-1,[PT] SPORT TV 1 FHD
 http://line.dmtv-4k.me:80/655367/587437/123800
