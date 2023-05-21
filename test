@@ -100,36 +100,33 @@ http://line.dmtv-4k.me:80/655367/587437/105753
 http://line.dmtv-4k.me:80/655367/587437/123810
 #EXTINF:-1,[PT] BTV 1 HD
 http://line.dmtv-4k.me:80/655367/587437/105637
-#EXTINF:-1,=== Saif ===
-#EXTINF:-1,PT: SPORT TV 1 
-http://damasiptv.com:80/saif/saif/173334
-#EXTINF:-1,PT: SPORT TV 2 
-http://damasiptv.com:80/saif/saif/173335
-#EXTINF:-1,PT: SPORT TV 3 
-http://damasiptv.com:80/saif/saif/173336
-#EXTINF:-1,PT: SPORT TV 4 
-http://damasiptv.com:80/saif/saif/173337
-#EXTINF:-1,PT: SPORT TV 5 
-http://damasiptv.com:80/saif/saif/173338
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://damasiptv.com:80/saif/saif/153245
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://damasiptv.com:80/saif/saif/153249
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://damasiptv.com:80/saif/saif/153253
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://damasiptv.com:80/saif/saif/153258
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://damasiptv.com:80/saif/saif/153261
-#EXTINF:-1,PT: BENFICA HD
-http://damasiptv.com:80/saif/saif/153176
-#EXTINF:-1,PT: BTV HD
-http://damasiptv.com:80/saif/saif/153187
-#EXTINF:-1,PT: BTV HQ H264 HD
-http://damasiptv.com:80/saif/saif/153188
-#EXTINF:-1,PT: BENFICA TV HD
-http://damasiptv.com:80/saif/saif/153178
-
+#EXTINF:-1,=== 37  ===
+#EXTINF:-1,PT: SPORT TV 1
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://37.49.230.42:8080/8228218d/5b5e7d0577/281487
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1515
+#EXTINF:-1,PT: Benfica TV
+http://37.49.230.42:8080/8228218d/5b5e7d0577/1497
 
 
 
