@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1,=== victor2022 ===
+#EXTINF:-1,PT: BENFICA TV HD 
+http://streamingprotv.com:8000/victor2022/victor2022/272767
+#EXTINF:-1,PT: BENFICA TV FHD (NOS)
+http://streamingprotv.com:8000/victor2022/victor2022/272768
 #EXTINF:-1,PT: SPORT TV 1 FHD 
 http://streamingprotv.com:8000/victor2022/victor2022/272722
 #EXTINF:-1,PT: SPORT TV 1 HD 
@@ -30,10 +34,35 @@ http://streamingprotv.com:8000/victor2022/victor2022/272756
 http://streamingprotv.com:8000/victor2022/victor2022/272759
 #EXTINF:-1,PT: BENFICA TV HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272766
-#EXTINF:-1,PT: BENFICA TV HD 
-http://streamingprotv.com:8000/victor2022/victor2022/272767
-#EXTINF:-1,PT: BENFICA TV FHD (NOS)
-http://streamingprotv.com:8000/victor2022/victor2022/272768
+#EXTINF:-1,=== ultraser723 ===
+#EXTINF:-1,PT: SPORT TV1 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159090
+#EXTINF:-1,PT: SPORT TV2 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159095
+#EXTINF:-1,PT: SPORT TV3 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159100
+#EXTINF:-1,PT: SPORT TV4 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159105
+#EXTINF:-1,PT: SPORT TV5 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159111
+#EXTINF:-1,PT: SPORT TV6 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159118
+#EXTINF:-1,PT: BTV FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159120
+#EXTINF:-1,PT: BTV HD+
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159117
+#EXTINF:-1,PT: BTV HD HEVC
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/363070
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159124
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159128
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159131
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159135
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://dmtn-tv.com:8080/ultraser723/qBS9VfE4vC/159139
 #EXTINF:-1,=== RECREATIVAS38 ===
 #EXTINF:-1,Benfica TV 
 http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533143
