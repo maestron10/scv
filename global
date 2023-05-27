@@ -1,292 +1,229 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,RTP 1 HD
-https://spotv.me:8080/FG5195018939/5195018939/148
-#EXTINF:-1,RTP 2 HD
-https://spotv.me:8080/FG5195018939/5195018939/118
-#EXTINF:-1,SIC HD
-https://spotv.me:8080/FG5195018939/5195018939/147
-#EXTINF:-1,TVI HD
-https://spotv.me:8080/FG5195018939/5195018939/107
-#EXTINF:-1,RTP 3 HD
-https://spotv.me:8080/FG5195018939/5195018939/117
-#EXTINF:-1,RTP AÃ‡ORES
-https://spotv.me:8080/FG5195018939/5195018939/116
-#EXTINF:-1,RTP MADEIRA
-https://spotv.me:8080/FG5195018939/5195018939/115
-#EXTINF:-1,RTP MEMÃ“RIA
-https://spotv.me:8080/FG5195018939/5195018939/114
-#EXTINF:-1,RTP ÃFRICA
-https://spotv.me:8080/FG5195018939/5195018939/113
-#EXTINF:-1,RTP INTERNACIONAL
-https://spotv.me:8080/FG5195018939/5195018939/58
-#EXTINF:-1,TVI INTERNACIONAL
-https://spotv.me:8080/FG5195018939/5195018939/81
-#EXTINF:-1,SIC INTERNACIONAL
-https://spotv.me:8080/FG5195018939/5195018939/12604
-#EXTINF:-1,SIC NOTICIAS
-https://spotv.me:8080/FG5195018939/5195018939/146
-#EXTINF:-1,SIC RADICAL
-https://spotv.me:8080/FG5195018939/5195018939/145
-#EXTINF:-1,SIC MULHER
-https://spotv.me:8080/FG5195018939/5195018939/144
-#EXTINF:-1,SIC CARAS
-https://spotv.me:8080/FG5195018939/5195018939/143
-#EXTINF:-1,SIC NOVELAS
-https://spotv.me:8080/FG5195018939/5195018939/184743
-#EXTINF:-1,CNN PORTUGAL
-https://spotv.me:8080/FG5195018939/5195018939/106
-#EXTINF:-1,TVI FICÃ‡ÃƒO
-https://spotv.me:8080/FG5195018939/5195018939/82
-#EXTINF:-1,TVI REALITY - BIG BROTHER
-https://spotv.me:8080/FG5195018939/5195018939/219
-#EXTINF:-1,CMTV HD
-https://spotv.me:8080/FG5195018939/5195018939/152
-#EXTINF:-1,A BOLA TV
-https://spotv.me:8080/FG5195018939/5195018939/80
-#EXTINF:-1,SPORT TV 1
-https://spotv.me:8080/FG5195018939/5195018939/83
-#EXTINF:-1,SPORT TV 1 HD
-https://spotv.me:8080/FG5195018939/5195018939/4490
-#EXTINF:-1,SPORT TV 2
-https://spotv.me:8080/FG5195018939/5195018939/252
-#EXTINF:-1,SPORT TV 2 HD
-https://spotv.me:8080/FG5195018939/5195018939/154
-#EXTINF:-1,SPORT TV 3
-https://spotv.me:8080/FG5195018939/5195018939/229
-#EXTINF:-1,SPORT TV 3 HD
-https://spotv.me:8080/FG5195018939/5195018939/155
-#EXTINF:-1,SPORT TV 4
-https://spotv.me:8080/FG5195018939/5195018939/157
-#EXTINF:-1,SPORT TV 4 HD
-https://spotv.me:8080/FG5195018939/5195018939/228
-#EXTINF:-1,SPORT TV 5
-https://spotv.me:8080/FG5195018939/5195018939/158
-#EXTINF:-1,SPORT TV 5 HD
-https://spotv.me:8080/FG5195018939/5195018939/12622
-#EXTINF:-1,SPORT TV 6 HD
-https://spotv.me:8080/FG5195018939/5195018939/133448
-#EXTINF:-1,SPORT TV +
-https://spotv.me:8080/FG5195018939/5195018939/227
-#EXTINF:-1,SPORT TV +  HD
-https://spotv.me:8080/FG5195018939/5195018939/142
-#EXTINF:-1,SPORT TV NBA HD
-https://spotv.me:8080/FG5195018939/5195018939/12623
-#EXTINF:-1,SPORT TV MOSAICO
-https://spotv.me:8080/FG5195018939/5195018939/8983
-#EXTINF:-1,4 IN 1 MOSAICO
-https://spotv.me:8080/FG5195018939/5195018939/9371
-#EXTINF:-1,ELEVEN 1
-https://spotv.me:8080/FG5195018939/5195018939/5862
-#EXTINF:-1,ELEVEN 1 HD
-https://spotv.me:8080/FG5195018939/5195018939/5859
-#EXTINF:-1,ELEVEN 2
-https://spotv.me:8080/FG5195018939/5195018939/5863
-#EXTINF:-1,ELEVEN 2 HD
-https://spotv.me:8080/FG5195018939/5195018939/5860
-#EXTINF:-1,ELEVEN 3
-https://spotv.me:8080/FG5195018939/5195018939/8384
-#EXTINF:-1,ELEVEN 4
-https://spotv.me:8080/FG5195018939/5195018939/8383
-#EXTINF:-1,ELEVEN 5
-https://spotv.me:8080/FG5195018939/5195018939/13465
-#EXTINF:-1,ELEVEN 6
-https://spotv.me:8080/FG5195018939/5195018939/13466
-#EXTINF:-1,ELEVEN MOSAICO
-https://spotv.me:8080/FG5195018939/5195018939/9028
-#EXTINF:-1,BENFICA TV 1
-https://spotv.me:8080/FG5195018939/5195018939/254
-#EXTINF:-1,BENFICA TV 1 HD
-https://spotv.me:8080/FG5195018939/5195018939/4489
-#EXTINF:-1,SPORTING TV
-https://spotv.me:8080/FG5195018939/5195018939/240
-#EXTINF:-1,SPORTING TV HD
-https://spotv.me:8080/FG5195018939/5195018939/141
-#EXTINF:-1,PORTO CANAL
-https://spotv.me:8080/FG5195018939/5195018939/243
-#EXTINF:-1,PORTO CANAL HD
-https://spotv.me:8080/FG5195018939/5195018939/149
-#EXTINF:-1,CANAL 11 HD
-https://spotv.me:8080/FG5195018939/5195018939/13458
-#EXTINF:-1,EUROSPORT 1 HD
-https://spotv.me:8080/FG5195018939/5195018939/151
-#EXTINF:-1,EUROSPORT 2 HD
-https://spotv.me:8080/FG5195018939/5195018939/242
-#EXTINF:-1,W-SPORT
-https://spotv.me:8080/FG5195018939/5195018939/183327
-#EXTINF:-1,TV CINE TOP
-https://spotv.me:8080/FG5195018939/5195018939/251
-#EXTINF:-1,TV CINE TOP HD
-https://spotv.me:8080/FG5195018939/5195018939/159
-#EXTINF:-1,TV CINE EDITION
-https://spotv.me:8080/FG5195018939/5195018939/239
-#EXTINF:-1,TV CINE EDITION HD
-https://spotv.me:8080/FG5195018939/5195018939/8532
-#EXTINF:-1,TV CINE EMOTION
-https://spotv.me:8080/FG5195018939/5195018939/238
-#EXTINF:-1,TV CINE EMOTION HD
-https://spotv.me:8080/FG5195018939/5195018939/8531
-#EXTINF:-1,TV CINE ACTION
-https://spotv.me:8080/FG5195018939/5195018939/237
-#EXTINF:-1,TV CINE ACTION HD
-https://spotv.me:8080/FG5195018939/5195018939/8525
-#EXTINF:-1,AXN HD
-https://spotv.me:8080/FG5195018939/5195018939/153
-#EXTINF:-1,AXN MOVIES
-https://spotv.me:8080/FG5195018939/5195018939/139
-#EXTINF:-1,AXN MOVIES HD
-https://spotv.me:8080/FG5195018939/5195018939/225
-#EXTINF:-1,AXN WHITE
-https://spotv.me:8080/FG5195018939/5195018939/138
-#EXTINF:-1,AXN WHITE HD
-https://spotv.me:8080/FG5195018939/5195018939/224
-#EXTINF:-1,FOX HD
-https://spotv.me:8080/FG5195018939/5195018939/150
-#EXTINF:-1,FOX CRIME
-https://spotv.me:8080/FG5195018939/5195018939/129
-#EXTINF:-1,FOX CRIME HD
-https://spotv.me:8080/FG5195018939/5195018939/244
-#EXTINF:-1,FOX LIFE
-https://spotv.me:8080/FG5195018939/5195018939/8799
-#EXTINF:-1,FOX LIFE HD
-https://spotv.me:8080/FG5195018939/5195018939/245
-#EXTINF:-1,FOX MOVIES HD
-https://spotv.me:8080/FG5195018939/5195018939/128
-#EXTINF:-1,FOX COMEDY HD
-https://spotv.me:8080/FG5195018939/5195018939/8519
-#EXTINF:-1,NOS STUDIOS HD
-https://spotv.me:8080/FG5195018939/5195018939/12864
-#EXTINF:-1,HOLLYWOOD
-https://spotv.me:8080/FG5195018939/5195018939/125
-#EXTINF:-1,CINEMUNDO
-https://spotv.me:8080/FG5195018939/5195018939/133
-#EXTINF:-1,DIZI
-https://spotv.me:8080/FG5195018939/5195018939/139402
-#EXTINF:-1,AMC
-https://spotv.me:8080/FG5195018939/5195018939/5383
-#EXTINF:-1,SYFY HD
-https://spotv.me:8080/FG5195018939/5195018939/140
-#EXTINF:-1,DISCOVERY CHANNEL
-https://spotv.me:8080/FG5195018939/5195018939/132
-#EXTINF:-1,DISCOVERY CHANNEL HD
-https://spotv.me:8080/FG5195018939/5195018939/12868
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-https://spotv.me:8080/FG5195018939/5195018939/8530
-#EXTINF:-1,CRIME INVESTIGATION
-https://spotv.me:8080/FG5195018939/5195018939/8801
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-https://spotv.me:8080/FG5195018939/5195018939/120
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-https://spotv.me:8080/FG5195018939/5195018939/232
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
-https://spotv.me:8080/FG5195018939/5195018939/250
-#EXTINF:-1,ODISSEIA HD
-https://spotv.me:8080/FG5195018939/5195018939/119
-#EXTINF:-1,HISTORIA
-https://spotv.me:8080/FG5195018939/5195018939/126
-#EXTINF:-1,BLAZE HD
-https://spotv.me:8080/FG5195018939/5195018939/247
-#EXTINF:-1,DISNEY CHANNEL
-https://spotv.me:8080/FG5195018939/5195018939/76
-#EXTINF:-1,CARTOON NETWORK
-https://spotv.me:8080/FG5195018939/5195018939/5425
-#EXTINF:-1,CANAL PANDA
-https://spotv.me:8080/FG5195018939/5195018939/136
-#EXTINF:-1,PANDA KIDS
-https://spotv.me:8080/FG5195018939/5195018939/139404
-#EXTINF:-1,DISNEY JUNIOR
-https://spotv.me:8080/FG5195018939/5195018939/131
-#EXTINF:-1,NICKELODEON
-https://spotv.me:8080/FG5195018939/5195018939/51936
-#EXTINF:-1,NICK JR.
-https://spotv.me:8080/FG5195018939/5195018939/8526
-#EXTINF:-1,SIC K
-https://spotv.me:8080/FG5195018939/5195018939/111
-#EXTINF:-1,BIGGS
-https://spotv.me:8080/FG5195018939/5195018939/137
-#EXTINF:-1,BOOMERANG
-https://spotv.me:8080/FG5195018939/5195018939/124
-#EXTINF:-1,BABY TV
-https://spotv.me:8080/FG5195018939/5195018939/234
-#EXTINF:-1,MCM TOP
-https://spotv.me:8080/FG5195018939/5195018939/123
-#EXTINF:-1,MCM POP
-https://spotv.me:8080/FG5195018939/5195018939/8528
-#EXTINF:-1,TRACE URBAN
-https://spotv.me:8080/FG5195018939/5195018939/12621
-#EXTINF:-1,MTV
-https://spotv.me:8080/FG5195018939/5195018939/122
-#EXTINF:-1,MTV LIVE HD
-https://spotv.me:8080/FG5195018939/5195018939/8522
-#EXTINF:-1,MTV 00â€™S
-https://spotv.me:8080/FG5195018939/5195018939/105
-#EXTINF:-1,MEZZO
-https://spotv.me:8080/FG5195018939/5195018939/8804
-#EXTINF:-1,LOLLY KIDS
-https://spotv.me:8080/FG5195018939/5195018939/139403
-#EXTINF:-1,FASHION TV
-https://spotv.me:8080/FG5195018939/5195018939/8520
-#EXTINF:-1,GLOBO PORTUGAL
-https://spotv.me:8080/FG5195018939/5195018939/231
-#EXTINF:-1,GLOBO NOW
-https://spotv.me:8080/FG5195018939/5195018939/230
-#EXTINF:-1,GLOBO NEWS
-https://spotv.me:8080/FG5195018939/5195018939/133449
-#EXTINF:-1,RECORD TV
-https://spotv.me:8080/FG5195018939/5195018939/108
-#EXTINF:-1,RECORD NEWS
-https://spotv.me:8080/FG5195018939/5195018939/112
-#EXTINF:-1,PFC
-https://spotv.me:8080/FG5195018939/5195018939/241
-#EXTINF:-1,CANAL Q
-https://spotv.me:8080/FG5195018939/5195018939/135
-#EXTINF:-1,MUNDOTORO TV
-https://spotv.me:8080/FG5195018939/5195018939/161
-#EXTINF:-1,GABRIEL MARRADAS
-https://spotv.me:8080/FG5195018939/5195018939/12624
-#EXTINF:-1,FUELTV HD
-https://spotv.me:8080/FG5195018939/5195018939/222
-#EXTINF:-1,MOTORVISION
-https://spotv.me:8080/FG5195018939/5195018939/103897
-#EXTINF:-1,CAÃ‡AVISION
-https://spotv.me:8080/FG5195018939/5195018939/4492
-#EXTINF:-1,CAÃ‡A E PESCA
-https://spotv.me:8080/FG5195018939/5195018939/246
-#EXTINF:-1,E! ENTERTAINMENT
-https://spotv.me:8080/FG5195018939/5195018939/233
-#EXTINF:-1,EURONEWS
-https://spotv.me:8080/FG5195018939/5195018939/8800
-#EXTINF:-1,24 KITCHEN
-https://spotv.me:8080/FG5195018939/5195018939/221
-#EXTINF:-1,CASA E COZINHA HD
-https://spotv.me:8080/FG5195018939/5195018939/220
-#EXTINF:-1,TRAVEL CHANNEL
-https://spotv.me:8080/FG5195018939/5195018939/8516
-#EXTINF:-1,DOG TV
-https://spotv.me:8080/FG5195018939/5195018939/226
-#EXTINF:-1,TLC
-https://spotv.me:8080/FG5195018939/5195018939/110
-#EXTINF:-1,TCV INTERNACIONAL
-https://spotv.me:8080/FG5195018939/5195018939/103898
-#EXTINF:-1,ZAP VIVA HD
-https://spotv.me:8080/FG5195018939/5195018939/133450
-#EXTINF:-1,CUBAVISION
-https://spotv.me:8080/FG5195018939/5195018939/218
-#EXTINF:-1,AZORESTV
-https://spotv.me:8080/FG5195018939/5195018939/5414
-#EXTINF:-1,CAMÃ•ES TV
-https://spotv.me:8080/FG5195018939/5195018939/130194
-#EXTINF:-1,FPTV
-https://spotv.me:8080/FG5195018939/5195018939/130195
-#EXTINF:-1,CLUBBING TV
-https://spotv.me:8080/FG5195018939/5195018939/8518
-#EXTINF:-1,SANTUARIO DE FÃTIMA
-https://spotv.me:8080/FG5195018939/5195018939/13467
-#EXTINF:-1,CANAL 180
-https://spotv.me:8080/FG5195018939/5195018939/217
-#EXTINF:-1,CANÃ‡ÃƒO NOVA
-https://spotv.me:8080/FG5195018939/5195018939/4493
-#EXTINF:-1,LOCALVISION
-https://spotv.me:8080/FG5195018939/5195018939/223
-#EXTINF:-1,TPA
-https://spotv.me:8080/FG5195018939/5195018939/109
+#EXTINF:-1,RTP 1 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7459
+#EXTINF:-1,RTP 1 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7496
+#EXTINF:-1,RTP 2 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7458
+#EXTINF:-1,RTP 2 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7495
+#EXTINF:-1,RTP 3 PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7494
+#EXTINF:-1,RTP Internacional PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7491
+#EXTINF:-1,RTP Madeira PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7490
+#EXTINF:-1,RTP Memoria PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7489
+#EXTINF:-1,RTP Acores PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7493
+#EXTINF:-1,RTP Africa PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7492
+#EXTINF:-1,SIC FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/696609
+#EXTINF:-1,SIC HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7488
+#EXTINF:-1,TVI FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7464
+#EXTINF:-1,TVI HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7455
+#EXTINF:-1,TVI [B] FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13456
+#EXTINF:-1,CMTV FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12536
+#EXTINF:-1,CMTV HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/694243
+#EXTINF:-1,Globo TV FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8794
+#EXTINF:-1,Record TV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8811
+#EXTINF:-1,Porto Canal PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7499
+#EXTINF:-1,Localvisao HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12529
+#EXTINF:-1,âœ½âœ½â­’ PT News â­’âœ½âœ½
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682908
+#EXTINF:-1,Euronews PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8788
+#EXTINF:-1,Fox News PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12513
+#EXTINF:-1,CNN Portugal HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7463
+#EXTINF:-1,CNN PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12515
+#EXTINF:-1,Bloomberg PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12525
+#EXTINF:-1,SIC Noticias HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7484
+#EXTINF:-1,âœ½âœ½â­’ PT Religious â­’âœ½âœ½
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682909
+#EXTINF:-1,Cancao Nova PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7527
+#EXTINF:-1,âœ½âœ½â­’ PT Sports â­’âœ½âœ½
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682900
+#EXTINF:-1,Sport TV 1 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8818
+#EXTINF:-1,Sport TV 1 [B] FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13097
+#EXTINF:-1,Sport TV 1 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13096
+#EXTINF:-1,Sport TV 2 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7481
+#EXTINF:-1,Sport TV 2 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8814
+#EXTINF:-1,Sport TV 2 PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13093
+#EXTINF:-1,Sport TV 3 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8817
+#EXTINF:-1,Sport TV 3 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8813
+#EXTINF:-1,Sport TV 3 PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13091
+#EXTINF:-1,Sport TV 4 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8816
+#EXTINF:-1,Sport TV 4 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7479
+#EXTINF:-1,Sport TV 4 PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13089
+#EXTINF:-1,Sport TV 5 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7478
+#EXTINF:-1,Sport TV 5 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8812
+#EXTINF:-1,Sport TV 5 PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13087
+#EXTINF:-1,Sport TV 6 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/697409
+#EXTINF:-1,Sport TV + FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7477
+#EXTINF:-1,Eleven Sport 1 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/51927
+#EXTINF:-1,Eleven Sport 1 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/694239
+#EXTINF:-1,Eleven Sport 2 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/694190
+#EXTINF:-1,Eleven Sport 2 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/51926
+#EXTINF:-1,Eleven Sport 3 PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/691332
+#EXTINF:-1,Eleven Sport 4 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/51924
+#EXTINF:-1,Eleven Sport 5 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/51923
+#EXTINF:-1,Eleven Sport 6 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/51922
+#EXTINF:-1,Eurosport 1 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7519
+#EXTINF:-1,Eurosport 2 FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7518
+#EXTINF:-1,Benfica TV FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12521
+#EXTINF:-1,Benfica TV FHD [B] PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7534
+#EXTINF:-1,Benfica TV HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12520
+#EXTINF:-1,Sporting TV FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7476
+#EXTINF:-1,NBA TV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8799
+#EXTINF:-1,Toros TV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7473
+#EXTINF:-1,Fuel TV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7512
+#EXTINF:-1,Canal 11 HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/670849
+#EXTINF:-1,SporTV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7500
+#EXTINF:-1,A Bola TV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7541
+#EXTINF:-1,âœ½âœ½â­’ PT Movies & Series â­’âœ½âœ½
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682903
+#EXTINF:-1,TvCine Top FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13105
+#EXTINF:-1,TvCine Top HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13104
+#EXTINF:-1,TvCine Emotion FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13103
+#EXTINF:-1,TvCine Emotion HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13102
+#EXTINF:-1,TvCine Action FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13101
+#EXTINF:-1,TvCine Action HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13100
+#EXTINF:-1,TvCine Edition FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13099
+#EXTINF:-1,TvCine Edition HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/13098
+#EXTINF:-1,Cine Mundo PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7525
+#EXTINF:-1,NOS Studios HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/658469
+#EXTINF:-1,AXN FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7538
+#EXTINF:-1,AXN White FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7536
+#EXTINF:-1,AXN Movies FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7537
+#EXTINF:-1,AMC PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7539
+#EXTINF:-1,Fox Crime FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8810
+#EXTINF:-1,Fox Comedy HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7515
+#EXTINF:-1,Fox Life FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7514
+#EXTINF:-1,Fox FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7456
+#EXTINF:-1,Fox HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7516
+#EXTINF:-1,Syfy PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7475
+#EXTINF:-1,Fox Movies FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7513
+#EXTINF:-1,Hollywood PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7510
+#EXTINF:-1,âœ½âœ½â­’ PT Documentary â­’âœ½âœ½
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682901
+#EXTINF:-1,Discovery Channel HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7523
+#EXTINF:-1,Investigation Discovery FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682122
+#EXTINF:-1,National Geographic FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7503
+#EXTINF:-1,Nat Geo Wild FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7504
+#EXTINF:-1,Travel Channel FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7472
+#EXTINF:-1,Cacavision PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7531
+#EXTINF:-1,Historia PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7530
+#EXTINF:-1,Odisseia PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12500
+#EXTINF:-1,TLC PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7474
+#EXTINF:-1,24 Kitchen FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7542
+#EXTINF:-1,Food Network HD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12510
+#EXTINF:-1,Dog TV FHD PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12528
+#EXTINF:-1,AMC Break PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7540
+#EXTINF:-1,âœ½âœ½â­’ PT Entertainment â­’âœ½âœ½
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/682905
+#EXTINF:-1,E! Entertainment PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/8790
+#EXTINF:-1,Fashion TV PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/12526
+#EXTINF:-1,Canal Q PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7528
+#EXTINF:-1,TVI Reality PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7462
+#EXTINF:-1,TVI Ficcao PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7461
+#EXTINF:-1,SIC Mulher PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7485
+#EXTINF:-1,SIC Caras PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7487
+#EXTINF:-1,SIC Radical PT
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/7483
