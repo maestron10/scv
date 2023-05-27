@@ -1,32 +1,6 @@
 #EXTM3U
-#EXTINF:-1,PT: SPORT TV 1
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1483
 #EXTINF:-1,SPORT.TV1 
 http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X19N8jF5r860t9ufatRIQP3n_kPXsLvZyjkNsDEfm0gKy/ts
-
-#EXTINF:-1,PORT| SPORTST V PORTUGAL 1 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91039
-#EXTINF:-1,PORTUGAL| SPORTS TV 1 FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91040
-#EXTINF:-1,SPORT.TV1 
-http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224642
 #EXTINF:-1,SPORT.TV1 
 http://pythontv.net:8789/luis12/pMQuMbm/23086
-#EXTINF:-1,SPORT.TV1 
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://84.91.204.231:9981/stream/channelid/641992294?profile=pass
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://medotv.nl:8000/megaott1000/gtSwbCLSSS/77332
-#EXTINF:-1,|PT| SPORT TV 1 HD
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8019
-#EXTINF:-1,|PT| SPORT TV 1 HD NOS
-http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/8018
-#EXTINF:-1,|PT| Sport TV1 HD
-http://89.47.232.72:8080/Chris/Chris/596625
-#EXTINF:-1,[PT] SPORT TV 1 FHD
-http://line.dmtv-4k.me:80/655367/587437/123800
-#EXTINF:-1,[PT] SPORT TV 1 HD
-http://line.dmtv-4k.me:80/655367/587437/105714
+
