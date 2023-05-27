@@ -1,26 +1,26 @@
 #EXTM3U
-
-#EXTINF:-1,PT: SPORT TV 1 FHD Ê³áµƒÊ·
+#EXTINF:-1,=== victor2022 ===
+#EXTINF:-1,PT: SPORT TV 1 FHD 
 http://streamingprotv.com:8000/victor2022/victor2022/272722
-#EXTINF:-1,PT: SPORT TV 1 HD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: SPORT TV 1 HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272720
-#EXTINF:-1,PT: SPORT TV 1 FHD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: SPORT TV 1 FHD 
 http://streamingprotv.com:8000/victor2022/victor2022/272721
 #EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
 http://streamingprotv.com:8000/victor2022/victor2022/272723
-#EXTINF:-1,PT: SPORT TV 2 FHD Ê³áµƒÊ·
+#EXTINF:-1,PT: SPORT TV 2 FHD 
 http://streamingprotv.com:8000/victor2022/victor2022/272728
 #EXTINF:-1,PT: SPORT TV 3 FHD
 http://streamingprotv.com:8000/victor2022/victor2022/272732
-#EXTINF:-1,PT: SPORT TV 4 HD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: SPORT TV 4 HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272734
-#EXTINF:-1,PT: SPORT TV 5 Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: SPORT TV 5
 http://streamingprotv.com:8000/victor2022/victor2022/272736
-#EXTINF:-1,PT: SPORT TV 6 HD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: SPORT TV 6 HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272740
-#EXTINF:-1,PT: Eleven Sport 1 HD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: Eleven Sport 1 HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272746
-#EXTINF:-1,PT: Eleven Sport 2 HD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: Eleven Sport 2 HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272749
 #EXTINF:-1,PT: Eleven Sport 3 HD
 http://streamingprotv.com:8000/victor2022/victor2022/272753
@@ -28,123 +28,12 @@ http://streamingprotv.com:8000/victor2022/victor2022/272753
 http://streamingprotv.com:8000/victor2022/victor2022/272756
 #EXTINF:-1,PT: Eleven Sport 5 HD
 http://streamingprotv.com:8000/victor2022/victor2022/272759
-#EXTINF:-1,PT: BENFICA TV HD Ê°áµ‰áµ›á¶œ XTRA
+#EXTINF:-1,PT: BENFICA TV HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272766
-#EXTINF:-1,PT: BENFICA TV HD Ê°áµ‰áµ›á¶œ
+#EXTINF:-1,PT: BENFICA TV HD 
 http://streamingprotv.com:8000/victor2022/victor2022/272767
 #EXTINF:-1,PT: BENFICA TV FHD (NOS)
 http://streamingprotv.com:8000/victor2022/victor2022/272768
-#EXTINF:-1,=== skyperu ===
-#EXTINF:-1,PORT| SPORTST V PORTUGAL 1 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91039
-#EXTINF:-1,PORTUGAL| SPORTS TV 1 FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91040
-#EXTINF:-1,PORT| SPORTS TV PORTUGAL 2 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91033
-#EXTINF:-1,PORT| SPORTS TV PORTUGAL 3 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91034
-#EXTINF:-1,PORT| SPORTS TV 4 HD PORTUGAL
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91035
-#EXTINF:-1,PORT| SPORTS TV 5 PORTUGAL
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/91036
-
-
-
-
-
-
-
-#EXTINF:-1,=== line.dmtv-4k ===
-#EXTINF:-1,[PT] SPORT TV 1 FHD
-http://line.dmtv-4k.me:80/655367/587437/123800
-#EXTINF:-1,[PT] SPORT TV 1 HD
-http://line.dmtv-4k.me:80/655367/587437/105714
-#EXTINF:-1,[PT] SPORT TV 1 SD
-http://line.dmtv-4k.me:80/655367/587437/105713
-#EXTINF:-1,[PT] SPORT TV 1 NOS SD
-http://line.dmtv-4k.me:80/655367/587437/105715
-#EXTINF:-1,[PT] SPORT TV 2 FHD
-http://line.dmtv-4k.me:80/655367/587437/123801
-#EXTINF:-1,[PT] SPORT TV 2 HD
-http://line.dmtv-4k.me:80/655367/587437/105717
-#EXTINF:-1,[PT] SPORT TV 2 SD
-http://line.dmtv-4k.me:80/655367/587437/105716
-#EXTINF:-1,[PT] SPORT TV 3 FHD
-http://line.dmtv-4k.me:80/655367/587437/123802
-#EXTINF:-1,[PT] SPORT TV 3 HD
-http://line.dmtv-4k.me:80/655367/587437/105719
-#EXTINF:-1,[PT] SPORT TV 3 SD
-http://line.dmtv-4k.me:80/655367/587437/105718
-#EXTINF:-1,[PT] SPORT TV 4 FHD
-http://line.dmtv-4k.me:80/655367/587437/269118
-#EXTINF:-1,[PT] SPORT TV 4 SD
-http://line.dmtv-4k.me:80/655367/587437/105720
-#EXTINF:-1,[PT] SPORT TV 5 FHD
-http://line.dmtv-4k.me:80/655367/587437/269119
-#EXTINF:-1,[PT] SPORT TV 5 SD
-http://line.dmtv-4k.me:80/655367/587437/105721
-#EXTINF:-1,[PT] SPORT TV 6 HD
-http://line.dmtv-4k.me:80/655367/587437/464275
-#EXTINF:-1,[PT] SPORT TV NBA FHD
-http://line.dmtv-4k.me:80/655367/587437/123803
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 FHD
-http://line.dmtv-4k.me:80/655367/587437/123804
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://line.dmtv-4k.me:80/655367/587437/105656
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD 
-http://line.dmtv-4k.me:80/655367/587437/123805
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-http://line.dmtv-4k.me:80/655367/587437/105657
-#EXTINF:-1,[PT] ELEVEN SPORTS  3 FHD â—‰
-http://line.dmtv-4k.me:80/655367/587437/123806
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-http://line.dmtv-4k.me:80/655367/587437/105658
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD â—‰
-http://line.dmtv-4k.me:80/655367/587437/123807
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
-http://line.dmtv-4k.me:80/655367/587437/105659
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD â—‰
-http://line.dmtv-4k.me:80/655367/587437/123808
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 HD
-http://line.dmtv-4k.me:80/655367/587437/105752
-#EXTINF:-1,[PT] ELEVEN SPORTS 6 FHD 
-http://line.dmtv-4k.me:80/655367/587437/123809
-#EXTINF:-1,[PT] ELEVEN SPORTS 6 HD
-http://line.dmtv-4k.me:80/655367/587437/105753
-#EXTINF:-1,[PT] BTV 1 FHD
-http://line.dmtv-4k.me:80/655367/587437/123810
-#EXTINF:-1,[PT] BTV 1 HD
-http://line.dmtv-4k.me:80/655367/587437/105637
-#EXTINF:-1,=== 37  ===
-#EXTINF:-1,PT: SPORT TV 1
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://37.49.230.42:8080/8228218d/5b5e7d0577/281487
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1515
-#EXTINF:-1,PT: Benfica TV
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1497
-
-
-
 #EXTINF:-1,=== RECREATIVAS38 ===
 #EXTINF:-1,Benfica TV 
 http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533143
@@ -178,107 +67,42 @@ http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533166
 http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533167
 #EXTINF:-1,ELEVEN XTRA 4 Full HD
 http://camaronandluism2022.quicksytes.com:25461/RECREATIVAS38/6xDuk59yBR/533168
-#EXTINF:-1,=== Dark ===
-#EXTINF:-1,Benfica TV 
-http://tbs-tv.com:8080/dark/kittylinetv/75188
-#EXTINF:-1,Eleven 1 
-http://tbs-tv.com:8080/dark/kittylinetv/416
-#EXTINF:-1,Eleven 2 
-http://tbs-tv.com:8080/dark/kittylinetv/418
-#EXTINF:-1,Eleven 3
-http://tbs-tv.com:8080/dark/kittylinetv/420
-#EXTINF:-1,Eleven 4
-http://tbs-tv.com:8080/dark/kittylinetv/421
-#EXTINF:-1,Eleven 5
-http://tbs-tv.com:8080/dark/kittylinetv/422
-#EXTINF:-1,SPORT.TV1 
-http://tbs-tv.com:8080/dark/kittylinetv/442
-#EXTINF:-1,SPORT.TV2
-http://tbs-tv.com:8080/dark/kittylinetv/444
-#EXTINF:-1,SPORT.TV3 
-http://tbs-tv.com:8080/dark/kittylinetv/446
-#EXTINF:-1,SPORT.TV4 
-http://tbs-tv.com:8080/dark/kittylinetv/447
-#EXTINF:-1,SPORT.TV5
-http://tbs-tv.com:8080/dark/kittylinetv/448
-#EXTINF:-1,F1-TV FHD
-http://tbs-tv.com:8080/dark/kittylinetv/76957
-#EXTINF:-1,F1-DATA
-http://tbs-tv.com:8080/dark/kittylinetv/76956
-#EXTINF:-1,F1-TRACKER
-http://tbs-tv.com:8080/dark/kittylinetv/76955
+#EXTINF:0 type="stream" channelId="-1", === pythontv ===
+,=== pythontv ===
+#EXTINF:0 type="stream" channelId="2834", Benfica TV
+http://pythontv.net:8789/luis12/pMQuMbm/342
+#EXTINF:0 type="stream" channelId="2834", Benfica TV
+http://pythontv.net:8789/luis12/pMQuMbm/47292
+#EXTINF:0 type="stream" channelId="3194", Eleven 1
+http://pythontv.net:8789/luis12/pMQuMbm/14901
+#EXTINF:0 type="stream" channelId="3196", Eleven 2
+http://pythontv.net:8789/luis12/pMQuMbm/14895
+#EXTINF:0 type="stream" channelId="3195", Eleven 3
+http://pythontv.net:8789/luis12/pMQuMbm/14899
+#EXTINF:0 type="stream" channelId="3657", Eleven 4
+http://pythontv.net:8789/luis12/pMQuMbm/14898
+#EXTINF:0 type="stream" channelId="4168", Eleven 5
+http://pythontv.net:8789/luis12/pMQuMbm/14897
+#EXTINF:0 type="stream" channelId="1582", SPORT.TV1
+http://pythontv.net:8789/luis12/pMQuMbm/23086
+#EXTINF:0 type="stream" channelId="1584", SPORT.TV2
+http://pythontv.net:8789/luis12/pMQuMbm/23098
+#EXTINF:0 type="stream" channelId="1585", SPORT.TV3
+http://pythontv.net:8789/luis12/pMQuMbm/1418
+#EXTINF:0 type="stream" channelId="1586", SPORT.TV4
+http://pythontv.net:8789/luis12/pMQuMbm/1419
+#EXTINF:0 type="stream" channelId="2862", SPORT.TV5
+http://pythontv.net:8789/luis12/pMQuMbm/7339
+#EXTINF:0 type="stream" channelId="1177", SKY SPORTS F1
+http://pythontv.net:8789/luis12/pMQuMbm/117193
+#EXTINF:0 type="stream" channelId="2871", TVCine TOP
+http://pythontv.net:8789/luis12/pMQuMbm/7523
+#EXTINF:0 type="stream" channelId="2873", TVCine EDITION
+http://pythontv.net:8789/luis12/pMQuMbm/328
+#EXTINF:0 type="stream" channelId="2875", TVCine EMOTION
+http://pythontv.net:8789/luis12/pMQuMbm/334
+#EXTINF:0 type="stream" channelId="2877", TVCine ACTION
+http://pythontv.net:8789/luis12/pMQuMbm/335
 
-#EXTINF:-1,=== Fireott ===
-#EXTINF:-1,PT : 4K SPORT TV 1 HD NOS
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146772
-#EXTINF:-1,PT : HD SPORT TV 1
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146770
-#EXTINF:-1,PT : HD VIP SPORT TV 1 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146725
-#EXTINF:-1,PT : 4K SPORT TV 1 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146773
-#EXTINF:-1,PT : 4K SPORT TV 2
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146774
-#EXTINF:-1,PT : HD SPORT TV 2 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146775
-#EXTINF:-1,PT : 4K SPORT TV 3
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146776
-#EXTINF:-1,PT : HD SPORT TV 3 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146777
-#EXTINF:-1,PT : 4K SPORT TV 4
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146779
-#EXTINF:-1,PT : HD SPORT TV 5
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146780
-#EXTINF:-1,PT : HD ELEVEN SPORTS 1 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146781
-#EXTINF:-1,PT : 4K ELEVEN SPORTS 1 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146782
-#EXTINF:-1,PT : 4K  ELEVEN SPORTS 2 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146783
-#EXTINF:-1,PT : 4K ELEVEN SPORTS 2 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146784
-#EXTINF:-1,PT : HD ELEVEN SPORTS 3 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146785
-#EXTINF:-1,PT : 4K ELEVEN SPORTS  3 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146786
-#EXTINF:-1,PT : HD ELEVEN SPORTS 4 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146787
-#EXTINF:-1,PT : 4K ELEVEN SPORTS 4 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146788
-#EXTINF:-1,PT : HD ELEVEN SPORTS 5 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146789
-#EXTINF:-1,PT : 4K ELEVEN SPORTS 5 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146790
-#EXTINF:-1,PT : HD ELEVEN SPORTS 6 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146791
-#EXTINF:-1,PT : 4K ELEVEN SPORTS 6 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146792
-#EXTINF:-1,PT : 4K BTV 1 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146793
-#EXTINF:-1,PT : HD BTV 1 
-http://fireott.biz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146794
-#EXTINF:-1,=== Wrecks ===
-#EXTINF:-1,Benfica TV 
-http://hostengine.live/wrecks82/habsiptv82/176361
-#EXTINF:-1,Eleven 1 
-http://hostengine.live/wrecks82/habsiptv82/58550
-#EXTINF:-1,Eleven 2 
-http://hostengine.live/wrecks82/habsiptv82/58551
-#EXTINF:-1,Eleven 3
-http://hostengine.live/wrecks82/habsiptv82/58552
-#EXTINF:-1,Eleven 4
-http://hostengine.live/wrecks82/habsiptv82/58553
-#EXTINF:-1,Eleven 5
-http://hostengine.live/wrecks82/habsiptv82/58554
-#EXTINF:-1,SPORT.TV1 
-http://hostengine.live/wrecks82/habsiptv82/58592
-#EXTINF:-1,SPORT.TV2
-http://hostengine.live/wrecks82/habsiptv82/58593
-#EXTINF:-1,SPORT.TV3 
-http://hostengine.live/wrecks82/habsiptv82/58594
-#EXTINF:-1,SPORT.TV4 
-http://hostengine.live/wrecks82/habsiptv82/58595
-#EXTINF:-1,SPORT.TV5
-http://hostengine.live/wrecks82/habsiptv82/205120
-#EXTINF:-1,F1 : SKY SPORTS F1
-http://hostengine.live/wrecks82/habsiptv82/82729
+
+
