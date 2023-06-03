@@ -1,29 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=983567&extension=ts&play_token=Nrfnum26Xi
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107511&extension=ts&play_token=L7v2SnR0v9
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118461&extension=ts&play_token=xcl6xpsLK2
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV 1 HD
-http://176.79.71.171:3001/play/a02p/index.m3u8
-#EXTINF:-1,SPORT.TV1 
-http://mpk4.site:8080/play/WVlhi8JF7ifXMc_-ko8X19N8jF5r860t9ufatRIQP3n_kPXsLvZyjkNsDEfm0gKy/ts
-#EXTINF:-1,SPORT.TV1 
-http://pythontv.net:8789/luis12/pMQuMbm/23086
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
-http://176.79.71.171:3001/play/a016/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
-http://176.79.71.171:3001/play/a02l/index.m3u8
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
-http://176.79.71.171:3001/play/a00z/index.m3u8
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
-http://176.79.71.171:3001/play/a02m/index.m3u8
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
-http://176.79.71.171:3001/play/a010/index.m3u8
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD
-http://176.79.71.171:3001/play/a02n/index.m3u8
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
-http://176.79.71.171:3001/play/a011/index.m3u8
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
-http://176.79.71.171:3001/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal",PT: SPORT TV 4 FHD
+http://570315154956400103.thosts.xyz:80/play/a62m/a6/400103.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal",PT: SPORT TV 4 HD FHD
+http://570315154956449227.thosts.xyz:80/play/a62m/a6/449227.ts
