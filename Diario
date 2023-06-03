@@ -3,3 +3,5 @@
 http://570315154956400103.thosts.xyz:80/play/a62m/a6/400103.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal",PT: SPORT TV 4 HD FHD
 http://570315154956449227.thosts.xyz:80/play/a62m/a6/449227.ts
+EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://570315154956435840.thosts.xyz:80/play/a62m/a6/435840.ts
