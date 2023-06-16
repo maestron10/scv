@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1497
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
-
+#EXTINF:-1,PT: Sport TV 1 HD
+http://splaytv.io:80/Marcelo984258235/hbgy45df/140380
+#EXTINF:-1,PT: Sport TV 2 HD
+http://splaytv.io:80/Marcelo984258235/hbgy45df/140381
+#EXTINF:-1,PT: Sport TV 3 HD
+http://splaytv.io:80/Marcelo984258235/hbgy45df/140382
+#EXTINF:-1,PT: Sport TV 4
+http://splaytv.io:80/Marcelo984258235/hbgy45df/140985
+#EXTINF:-1,PT: Sport TV 5
+http://splaytv.io:80/Marcelo984258235/hbgy45df/140383
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://conexaoonline.top:80/IVONE123/IVONE321/261002
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://conexaoonline.top:80/IVONE123/IVONE321/261001
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://conexaoonline.top:80/IVONE123/IVONE321/261000
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://conexaoonline.top:80/IVONE123/IVONE321/260999
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://conexaoonline.top:80/IVONE123/IVONE321/260998
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://conexaoonline.top:80/IVONE123/IVONE321/260997
