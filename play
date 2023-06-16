@@ -109,7 +109,8 @@ http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/59
 #EXTINF:-1,SPORT TV 4
 http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/62
 #EXTINF:-1,SPORT TV 5
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/65#EXTINF:-1,=== pythontv ===
+http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/65
+#EXTINF:-1,=== pythontv ===
 #EXTINF:-1,Benfica TV 
 http://pythontv.net:8789/luis12/pMQuMbm/342
 #EXTINF:-1,Benfica TV 
