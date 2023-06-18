@@ -1,93 +1,25 @@
 #EXTM3U
-#EXTINF:-1,===Vladisergeevic===
+#EXTINF:-1,===myserveriptv===
 #EXTINF:-1,PT: Benfica TV
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1497
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1515
-#EXTINF:-1,PT: SPORT TV 1
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1495
-#EXTINF:-1,UK: Sky Sports F1
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/265
-#EXTINF:-1,PT: TVCine Action
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1452
-#EXTINF:-1,PT: TVCine Edition
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/82254
-#EXTINF:-1,PT: TVCine Emotion
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1448
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159998
+#EXTINF:-1,PT: BTV HD
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/224091
 #EXTINF:-1,PT: TVCine Top
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1446
-
-
-
-
-#EXTINF:-1,===aflax===
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1497
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1515
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/281487
-
-
-#EXTINF:-1,===GHOST===
-#EXTINF:-1,BTV
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/70
-#EXTINF:-1,ELEVEN SPORTS 1
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/16052
-#EXTINF:-1,ELEVEN SPORTS 2
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/76
-#EXTINF:-1,ELEVEN SPORTS 3
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/38244
-#EXTINF:-1,ELEVEN SPORTS 4
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/38245
-#EXTINF:-1,ELEVEN SPORTS 5
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/38246
-#EXTINF:-1,SPORT TV 1
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/16051
-#EXTINF:-1,SPORT TV 2
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/56
-#EXTINF:-1,SPORT TV 3°
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/59
-#EXTINF:-1,SPORT TV 4
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/62
-#EXTINF:-1,SPORT TV 5
-http://ghost-x99.uno:8080/HDBtGjGsmcPV/8tYmSGFvrRAT/65
-
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131037
+#EXTINF:-1,PT: TVCine Edition
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131038
+#EXTINF:-1,PT: TVCine Emotion
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131039
+#EXTINF:-1,PT: TVCine Action
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131040
+#EXTINF:-1,===apnamagic===
+#EXTINF:-1,PT: SPORT TV 1
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1495
