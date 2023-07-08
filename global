@@ -1,685 +1,182 @@
 #EXTM3U
-#EXTINF:-1,PT: ----- Max -----
-#EXTINF:-1,PT: RTP 1
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2211
-#EXTINF:-1,PT: RTP 1 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/162611
-#EXTINF:-1,PT: RTP 1 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438344
-#EXTINF:-1,PT: RTP 2
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2212
-#EXTINF:-1,PT: RTP 2 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205664
-#EXTINF:-1,PT: RTP 2 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438345
-#EXTINF:-1,PT: SIC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2216
-#EXTINF:-1,PT: SIC HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/169304
-#EXTINF:-1,PT: SIC H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438346
-#EXTINF:-1,PT: TVI
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2220
-#EXTINF:-1,PT: TVI HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/169303
-#EXTINF:-1,PT: TVI H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438347
-#EXTINF:-1,PT: CNN PORTUGAL
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2221
-#EXTINF:-1,PT: CNN PORTUGAL HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439720
-#EXTINF:-1,PT: CNN PORTUGAL H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439721
-#EXTINF:-1,PT: TVI FICÃ‡AO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136631
-#EXTINF:-1,PT: TVI FICCAO HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439717
-#EXTINF:-1,PT: TVI FICÃ‡AO H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439718
-#EXTINF:-1,PT: TVI REALITY
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136659
-#EXTINF:-1,PT: TVI REALITY 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439719
-#EXTINF:-1,PT: RTP 3
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136263
-#EXTINF:-1,PT: RTP AFRICA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136684
-#EXTINF:-1,PT: RTP ACORES
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2213
-#EXTINF:-1,PT: RTP MADEIRA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2215
-#EXTINF:-1,PT: RTP MEMORIA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2214
-#EXTINF:-1,PT: SIC NOTICIAS
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2219
-#EXTINF:-1,PT: SIC RADICAL
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136264
-#EXTINF:-1,PT: SIC CARAS
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136630
-#EXTINF:-1,PT: SIC MULHER
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2218
-#EXTINF:-1,PT: CMTV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2204
-#EXTINF:-1,PT: CMTV HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438348
-#EXTINF:-1,PT: CMTV H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438349
-#EXTINF:-1,PT: ZAP VIVA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/252147
-#EXTINF:-1,PT: ZAP VIVA H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/198367
-#EXTINF:-1,PT: ZAP VIVA HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/252146
-#EXTINF:-1,PT: TCV CABO VERDE
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/240454
-#EXTINF:-1,PT: CASA E COZINHA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/251728
-#EXTINF:-1,PT: CASA E COZINHA H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/251726
-#EXTINF:-1,PT: CASA E COZINHA HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/251727
-#EXTINF:-1,PT: 24 KITCHEN.
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/234098
-#EXTINF:-1,PT: 24 KITCHEN H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2203
-#EXTINF:-1,PT: 24 KITCHEN HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/234099
-#EXTINF:-1,PT: CANÃ‡AO NOVA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/165587
-#EXTINF:-1,PT: CANAL Q
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132901
-#EXTINF:-1,PT: CBS REALITY
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132903
-#EXTINF:-1,PT: E! 
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132910
-#EXTINF:-1,PT: FASHION TV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136676
-#EXTINF:-1,PT: FOX NEWS
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132917
-#EXTINF:-1,PT: GLOBO NOW
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132897
-#EXTINF:-1,PT: GLOBO PORTUGAL
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2209
-#EXTINF:-1,PT: GLOBO HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440500
-#EXTINF:-1,PT: GLOBO H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440499
-#EXTINF:-1,PT: BLOOMBERG
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136683
-#EXTINF:-1,PT: TV RECORD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2225
-#EXTINF:-1,PT: RECORD NEWS
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/212611
-#EXTINF:-1,PT: PORTO CANAL
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2210
-#EXTINF:-1,PT: ----- CINEMA / SERIES -----
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/139976
-#EXTINF:-1,PT: TVCINE TOP
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/194449
-#EXTINF:-1,PT: TVCINE TOP HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2234
-#EXTINF:-1,PT: TVCINE TOP  H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/207333
-#EXTINF:-1,PT: TVCINE EDITION
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/194450
-#EXTINF:-1,PT: TVCINE EDITION HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2235
-#EXTINF:-1,PT: TVCINE EDITION H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/207334
-#EXTINF:-1,PT: TVCINE EMOTION
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/194460
-#EXTINF:-1,PT: TVCINE EMOTION HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2236
-#EXTINF:-1,PT: TVCINE EMOTION H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/207342
-#EXTINF:-1,PT: TVCINE ACTION
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/194461
-#EXTINF:-1,PT: TVCINE ACTION HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2237
-#EXTINF:-1,PT: TVCINE ACTION H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/207343
-#EXTINF:-1,PT: NOS STUDIO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/202823
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205662
-#EXTINF:-1,PT: NOS STUDIOS H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/198788
-#EXTINF:-1,PT: AXN
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136668
-#EXTINF:-1,PT: AXN HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205656
-#EXTINF:-1,PT: AXN H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2233
-#EXTINF:-1,PT: AXN WHITE
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/167482
-#EXTINF:-1,PT: AXN WHITE HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205658
-#EXTINF:-1,PT: AXN WHITE H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132925
-#EXTINF:-1,PT: AXN MOVIES
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/167481
-#EXTINF:-1,PT: AXN MOVIES HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205657
-#EXTINF:-1,PT: AXN MOVIES H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132924
-#EXTINF:-1,PT: AMC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132923
-#EXTINF:-1,PT: AMC HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/209534
-#EXTINF:-1,PT: AMC H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/169311
-#EXTINF:-1,PT: HOLLYWOOD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132921
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/221898
-#EXTINF:-1,PT: HOLLYWOOD H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/196607
-#EXTINF:-1,PT: SYFY
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/169312
-#EXTINF:-1,PT: FOX
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/198366
-#EXTINF:-1,PT: FOX HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205661
-#EXTINF:-1,PT: FOX H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2206
-#EXTINF:-1,PT: FOX COMEDY
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2208
-#EXTINF:-1,PT: FOX CRIME
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132913
-#EXTINF:-1,PT: FOX CRIME HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/209536
-#EXTINF:-1,PT: FOX CRIME H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132914
-#EXTINF:-1,PT: FOX LIFE
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/167480
-#EXTINF:-1,PT: FOX LIFE HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/233866
-#EXTINF:-1,PT: FOX LIFE H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132915
-#EXTINF:-1,PT: FOX MOVIES
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2207
-#EXTINF:-1,PT: FOX MOVIES HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/374641
-#EXTINF:-1,PT: CINEMUNDO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132905
-#EXTINF:-1,PT: KURIAKOS CINE
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/178147
-#EXTINF:-1,PT: X-MEN EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438289
-#EXTINF:-1,PT: ROCKY EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438288
-#EXTINF:-1,PT: VELOCIDADE FURIOSA EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438287
-#EXTINF:-1,PT: SENHOR DOS ANEIS EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438286
-#EXTINF:-1,PT: CINEMA 2022 EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438285
-#EXTINF:-1,PT: NETFLIX EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438284
-#EXTINF:-1,PT: PORTUGAL A RIR EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438283
-#EXTINF:-1,PT: RALYE EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438282
-#EXTINF:-1,PT: MARVEL EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438281
-#EXTINF:-1,PT: JOAO KLEBER EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438280
-#EXTINF:-1,PT: DESGARRADAS EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438279
-#EXTINF:-1,PT: HARRY POTTER EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438278
-#EXTINF:-1,PT: MARVEL 2 EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438277
-#EXTINF:-1,PT: APAIXONADO SERIES EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438274
-#EXTINF:-1,PT: CINEMA AÃ‡ÃƒO EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438273
-#EXTINF:-1,PT: CINEMA ANIMACAO EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438272
-#EXTINF:-1,PT: CINEMA COMEDIA EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438271
-#EXTINF:-1,PT: BARBIE EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438270
-#EXTINF:-1,PT: LUCAS NETO EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438269
-#EXTINF:-1,PT: CINEMA ROMANCE EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438268
-#EXTINF:-1,PT: STALLONE EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438267
-#EXTINF:-1,PT: LADY BUG EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438265
-#EXTINF:-1,PT: MOTO GP EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438263
-#EXTINF:-1,PT: NETFLIX KIDS EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438262
-#EXTINF:-1,PT: GATO FEDORENTO EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438260
-#EXTINF:-1,PT: CINEMA BRASIL EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438259
-#EXTINF:-1,PT: TERROR EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438257
-#EXTINF:-1,PT: CINEMA PORTUGUES EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438256
-#EXTINF:-1,PT: CINEMA FAMILIA EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438255
-#EXTINF:-1,PT: STAR WARS EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438253
-#EXTINF:-1,PT: JACKIE CHAN EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438252
-#EXTINF:-1,PT: BOOBA EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438251
-#EXTINF:-1,PT: TOM SAWYER EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438249
-#EXTINF:-1,PT: TIMON E PUMBA EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438248
-#EXTINF:-1,PT: RESIDENT EVIL EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438247
-#EXTINF:-1,PT: JAMES BOND 007 EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438246
-#EXTINF:-1,PT: POLICE ACADEMY EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438245
-#EXTINF:-1,PT: INDIANA JONES EXCLUSIVO
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438244
-#EXTINF:-1,PT: ----- DESPORTO -----
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/139977
-#EXTINF:-1,PT: CANAL 11
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/203036
-#EXTINF:-1,PT: CANAL 11 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205660
-#EXTINF:-1,PT: CANAL 11 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/203037
-#EXTINF:-1,PT: SPORT TV +
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/161969
-#EXTINF:-1,PT: SPORT TV + HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438350
-#EXTINF:-1,PT: SPORT TV + H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427060
-#EXTINF:-1,PT: SPORT TV 1
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/285911
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/302761
-#EXTINF:-1,PT: SPORT TV 1 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427058
-#EXTINF:-1,PT: SPORT TV 1 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427068
-#EXTINF:-1,PT: SPORT TV 2
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/161957
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205667
-#EXTINF:-1,PT: SPORT TV 2 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427057
-#EXTINF:-1,PT: SPORT TV 2 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427056
-#EXTINF:-1,PT: SPORT TV 3
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/161966
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205668
-#EXTINF:-1,PT: SPORT TV 3 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427055
-#EXTINF:-1,PT: SPORT TV 3 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427065
-#EXTINF:-1,PT: SPORT TV 4
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/161967
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/1458
-#EXTINF:-1,PT: Sport TV 4 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427054
-#EXTINF:-1,PT: SPORT TV 4 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427064
-#EXTINF:-1,PT: SPORT TV 5
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/161968
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/1459
-#EXTINF:-1,PT: SPORT TV 5 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427053
-#EXTINF:-1,PT: SPORT TV 6
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/374543
-#EXTINF:-1,PT: SPORT TV 6 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/367634
-#EXTINF:-1,PT: SPORT TV 6 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427061
-#EXTINF:-1,PT: SPORT TV NBA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/178146
-#EXTINF:-1,PT: SPORT TV NBA HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/252145
-#EXTINF:-1,PT: SPORT TV NBA H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/438351
-#EXTINF:-1,PT: BTV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/161970
-#EXTINF:-1,PT: BTV HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/205659
-#EXTINF:-1,PT: BTV H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/271763
-#EXTINF:-1,PT: BTV 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427052
-#EXTINF:-1,PT: PFC INTERNACIONAL
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/277512
-#EXTINF:-1,PT: REDBULL TV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/178144
-#EXTINF:-1,PT: REDBULL TV 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/178148
-#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/164977
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/158069
-#EXTINF:-1,PT: ELEVEN SPORTS 1 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427063
-#EXTINF:-1,PT: ELEVEN SPORTS 1 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427049
-#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/164978
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/158902
-#EXTINF:-1,PT: ELEVEN SPORTS 2 1080
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427062
-#EXTINF:-1,PT: ELEVEN SPORTS 2 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/427048
-#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/164979
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/159765
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439164
-#EXTINF:-1,PT: ELEVEN SPORTS 3 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439165
-#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/164980
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/159766
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439166
-#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/164981
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439167
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439168
-#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/164982
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/159768
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439169
-#EXTINF:-1,PT: ELEVEN EXTRA 1 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439170
-#EXTINF:-1,PT: ELEVEN EXTRA 1 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439171
-#EXTINF:-1,PT: ELEVEN EXTRA 1 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439172
-#EXTINF:-1,PT: ELEVEN EXTRA 2 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439173
-#EXTINF:-1,PT: ELEVEN EXTRA 2 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439174
-#EXTINF:-1,PT: ELEVEN EXTRA 2 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439175
-#EXTINF:-1,PT: ELEVEN EXTRA 3 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439176
-#EXTINF:-1,PT: ELEVEN EXTRA 3 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439177
-#EXTINF:-1,PT: ELEVEN EXTRA 3 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439178
-#EXTINF:-1,PT: ELEVEN EXTRA 4 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439316
-#EXTINF:-1,PT: ELEVEN EXTRA 4 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439315
-#EXTINF:-1,PT: ELEVEN EXTRA 4 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/439314
-#EXTINF:-1,PT: ELEVEN EXTRA 5 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440393
-#EXTINF:-1,PT: ELEVEN EXTRA 5 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440394
-#EXTINF:-1,PT: ELEVEN EXTRA 5 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440395
-#EXTINF:-1,PT: ELEVEN EXTRA 6 SD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440398
-#EXTINF:-1,PT: ELEVEN EXTRA 6 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440397
-#EXTINF:-1,PT: ELEVEN EXTRA 6 FHD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/440396
-#EXTINF:-1,PT: EUROSPORT 1
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136682
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/252144
-#EXTINF:-1,PT: EUROSPORT 1 H.265/HEVC
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2231
-#EXTINF:-1,PT: EUROSPORT 2
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132911
-#EXTINF:-1,PT: A BOLA TV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136661
-#EXTINF:-1,PT: REAL MADRID TV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/136663
-#EXTINF:-1,PT: CAÃ‡A E PESCA
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132898
-#EXTINF:-1,PT: CAÃ‡AVISION
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/132899
-#EXTINF:-1,PT: SPORTING TV
-http://maxhd.eu:8080/DPAndYpARw/JHJNhpBS8S/2232
+#EXTINF:-1,RTP 1 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94887
+#EXTINF:-1,RTP 2 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94886
+#EXTINF:-1,SIC HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94885
+#EXTINF:-1,TVI HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94884
+#EXTINF:-1,CNN Portugal HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94883
+#EXTINF:-1,TVI FICÃ‡AO HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94882
+#EXTINF:-1,RTP 3 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94881
+#EXTINF:-1,SIC NOTICIAS HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94880
+#EXTINF:-1,SIC RADICAL HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94879
+#EXTINF:-1,SIC CARAS HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94878
+#EXTINF:-1,SIC MULHER HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94877
+#EXTINF:-1,CMTV HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94876
+#EXTINF:-1,ZAP VIVA HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94875
+#EXTINF:-1,CASA E COZINHA HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94874
+#EXTINF:-1,24 KITCHEN HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94873
+#EXTINF:-1,E! HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94872
+#EXTINF:-1,TVCINE TOP  HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94868
+#EXTINF:-1,TVCINE EDITION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94867
+#EXTINF:-1,TVCINE EMOTION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94866
+#EXTINF:-1,TVCINE ACTION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94865
+#EXTINF:-1,NOS STUDIOS HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94864
+#EXTINF:-1,AXN HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94863
+#EXTINF:-1,AXN WHITE HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94862
+#EXTINF:-1,AXN MOVIES HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94861
+#EXTINF:-1,AMC HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94860
+#EXTINF:-1,HOLLYWOOD HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94859
+#EXTINF:-1,SYFY HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94858
+#EXTINF:-1,FOX HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94857
+#EXTINF:-1,FOX CRIME HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94856
+#EXTINF:-1,FOX LIFE HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94855
+#EXTINF:-1,FOX MOVIES HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94854
+#EXTINF:-1,CINEMUNDO HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94853
+#EXTINF:-1,CANAL 11 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94852
+#EXTINF:-1,SPORT TV + HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94851
+#EXTINF:-1,SPORT TV 1 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94850
+#EXTINF:-1,SPORT TV 2 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94849
+#EXTINF:-1,SPORT TV 3 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94848
+#EXTINF:-1,SPORT TV 4 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94847
+#EXTINF:-1,SPORT TV 5 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94846
+#EXTINF:-1,SPORT TV NBA HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94845
+#EXTINF:-1,BTV HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94844
+#EXTINF:-1,ELEVEN 1 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94843
+#EXTINF:-1,ELEVEN 2 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94842
+#EXTINF:-1,ELEVEN 3 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94841
+#EXTINF:-1,EUROSPORT 1 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94840
+#EXTINF:-1,A BOLA TV HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94839
+#EXTINF:-1,NATIONAL GEO HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94838
+#EXTINF:-1,NAT GEO WILD HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94837
+#EXTINF:-1,ID INVESTIGATION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94836
+#EXTINF:-1,TRAVEL CHANNEL HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94835
+#EXTINF:-1,HISTORIA HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94833
+#EXTINF:-1,AMC Break HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94832
+#EXTINF:-1,ODISSEIA HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94831
+#EXTINF:-1,RTP Arena FHD PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/102494
+#EXTINF:-1,SIC ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/75440
+#EXTINF:-1,SIC Internacional PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103109
+#EXTINF:-1,TVI (Baixa Internet) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/75439
+#EXTINF:-1,TVI Internacional PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103108
+#EXTINF:-1,ADVANCE SIC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/97988
+#EXTINF:-1,Canal Panda FHD PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/102336
+#EXTINF:-1,Panda Kids PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/101164
+#EXTINF:-1,Disney Junior FHD PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/102338
+#EXTINF:-1,Disney Channel FHD PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/102337
+#EXTINF:-1,Dizi Channel PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/101896
+#EXTINF:-1,CNN Portugal PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103107
+#EXTINF:-1,CNN Portugal FHD PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103106
+#EXTINF:-1,NETFLIX AÃ§Ã£o 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/89754
+#EXTINF:-1,NETFLIX Terror 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/89755
+#EXTINF:-1,NETFLIX Drama 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/89756
+#EXTINF:-1,NETFLIX Drama 2 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/89757
+#EXTINF:-1,NETFLIX ComÃ©dia 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/89758
+#EXTINF:-1,Netflix Animacao 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/82407
+#EXTINF:-1,Netflix Animacao 2 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/82639
+#EXTINF:-1,Netflix Animacao 3 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/83029
+#EXTINF:-1,Netflix Animacao 4 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/96330
+#EXTINF:-1,Netflix Animacao 5 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103371
+#EXTINF:-1,Netflix Animacao 6 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103370
+#EXTINF:-1,Netflix Filmes 2022 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/104950
+#EXTINF:-1,Netflix Filmes 2021 canal 1 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/96332
+#EXTINF:-1,Netflix Filmes 2021 Canal 2 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/97394
+#EXTINF:-1,Netflix Filmes 2021 Canal 3 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/97393
+#EXTINF:-1,Netflix Filmes 2021 Canal 4 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/97392
+#EXTINF:-1,Netflix Filmes 2021 Canal 5 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103372
+#EXTINF:-1,Netflix Filmes 2021 Canal 6 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/104952
+#EXTINF:-1,Netflix Filmes 2021 Canal 7 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/104953
+#EXTINF:-1,Netflix Filmes 2021 Canal 8 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/104954
+#EXTINF:-1,Netflix Documentarios 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/96331
+#EXTINF:-1,Netflix Filmes em Portugues 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/96329
+#EXTINF:-1,Netflix Filmes em Portugues Canal 2 24/7 ( Exclusivo ) PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/103441
 
-#EXTINF:-1,RTP 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7459
-#EXTINF:-1,RTP 1 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7496
-#EXTINF:-1,RTP 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7458
-#EXTINF:-1,RTP 2 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7495
-#EXTINF:-1,RTP 3 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7494
-#EXTINF:-1,RTP Internacional PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7491
-#EXTINF:-1,RTP Madeira PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7490
-#EXTINF:-1,RTP Memoria PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7489
-#EXTINF:-1,RTP Acores PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7493
-#EXTINF:-1,RTP Africa PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7492
-#EXTINF:-1,SIC FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/696609
-#EXTINF:-1,SIC HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7488
-#EXTINF:-1,TVI FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7464
-#EXTINF:-1,TVI HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7455
-#EXTINF:-1,TVI [B] FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13456
-#EXTINF:-1,CMTV FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12536
-#EXTINF:-1,CMTV HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/694243
-#EXTINF:-1,Globo TV FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8794
-#EXTINF:-1,Record TV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8811
-#EXTINF:-1,Porto Canal PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7499
-#EXTINF:-1,Localvisao HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12529
-#EXTINF:-1,âœ½âœ½â­’ PT News â­’âœ½âœ½
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682908
-#EXTINF:-1,Euronews PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8788
-#EXTINF:-1,Fox News PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12513
-#EXTINF:-1,CNN Portugal HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7463
-#EXTINF:-1,CNN PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12515
-#EXTINF:-1,Bloomberg PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12525
-#EXTINF:-1,SIC Noticias HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7484
-#EXTINF:-1,âœ½âœ½â­’ PT Religious â­’âœ½âœ½
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682909
-#EXTINF:-1,Cancao Nova PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7527
-#EXTINF:-1,âœ½âœ½â­’ PT Sports â­’âœ½âœ½
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682900
-#EXTINF:-1,Sport TV 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8818
-#EXTINF:-1,Sport TV 1 [B] FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13097
-#EXTINF:-1,Sport TV 1 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13096
-#EXTINF:-1,Sport TV 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7481
-#EXTINF:-1,Sport TV 2 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8814
-#EXTINF:-1,Sport TV 2 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13093
-#EXTINF:-1,Sport TV 3 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8817
-#EXTINF:-1,Sport TV 3 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8813
-#EXTINF:-1,Sport TV 3 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13091
-#EXTINF:-1,Sport TV 4 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8816
-#EXTINF:-1,Sport TV 4 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7479
-#EXTINF:-1,Sport TV 4 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13089
-#EXTINF:-1,Sport TV 5 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7478
-#EXTINF:-1,Sport TV 5 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8812
-#EXTINF:-1,Sport TV 5 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13087
-#EXTINF:-1,Sport TV 6 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/697409
-#EXTINF:-1,Sport TV + FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7477
-#EXTINF:-1,Eleven Sport 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51927
-#EXTINF:-1,Eleven Sport 1 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/694239
-#EXTINF:-1,Eleven Sport 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/694190
-#EXTINF:-1,Eleven Sport 2 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51926
-#EXTINF:-1,Eleven Sport 3 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/691332
-#EXTINF:-1,Eleven Sport 4 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51924
-#EXTINF:-1,Eleven Sport 5 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51923
-#EXTINF:-1,Eleven Sport 6 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51922
-#EXTINF:-1,Eurosport 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7519
-#EXTINF:-1,Eurosport 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7518
-#EXTINF:-1,Benfica TV FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12521
-#EXTINF:-1,Benfica TV FHD [B] PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7534
-#EXTINF:-1,Benfica TV HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12520
-#EXTINF:-1,Sporting TV FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7476
-#EXTINF:-1,NBA TV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8799
-#EXTINF:-1,Toros TV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7473
-#EXTINF:-1,Fuel TV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7512
-#EXTINF:-1,Canal 11 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/670849
-#EXTINF:-1,SporTV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7500
-#EXTINF:-1,A Bola TV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7541
-#EXTINF:-1,âœ½âœ½â­’ PT Movies & Series â­’âœ½âœ½
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682903
-#EXTINF:-1,TvCine Top FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13105
-#EXTINF:-1,TvCine Top HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13104
-#EXTINF:-1,TvCine Emotion FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13103
-#EXTINF:-1,TvCine Emotion HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13102
-#EXTINF:-1,TvCine Action FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13101
-#EXTINF:-1,TvCine Action HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13100
-#EXTINF:-1,TvCine Edition FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13099
-#EXTINF:-1,TvCine Edition HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13098
-#EXTINF:-1,Cine Mundo PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7525
-#EXTINF:-1,NOS Studios HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/658469
-#EXTINF:-1,AXN FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7538
-#EXTINF:-1,AXN White FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7536
-#EXTINF:-1,AXN Movies FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7537
-#EXTINF:-1,AMC PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7539
-#EXTINF:-1,Fox Crime FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8810
-#EXTINF:-1,Fox Comedy HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7515
-#EXTINF:-1,Fox Life FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7514
-#EXTINF:-1,Fox FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7456
-#EXTINF:-1,Fox HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7516
-#EXTINF:-1,Syfy PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7475
-#EXTINF:-1,Fox Movies FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7513
-#EXTINF:-1,Hollywood PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7510
-#EXTINF:-1,âœ½âœ½â­’ PT Documentary â­’âœ½âœ½
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682901
-#EXTINF:-1,Discovery Channel HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7523
-#EXTINF:-1,Investigation Discovery FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682122
-#EXTINF:-1,National Geographic FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7503
-#EXTINF:-1,Nat Geo Wild FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7504
-#EXTINF:-1,Travel Channel FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7472
-#EXTINF:-1,Cacavision PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7531
-#EXTINF:-1,Historia PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7530
-#EXTINF:-1,Odisseia PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12500
-#EXTINF:-1,TLC PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7474
-#EXTINF:-1,24 Kitchen FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7542
-#EXTINF:-1,Food Network HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12510
-#EXTINF:-1,Dog TV FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12528
-#EXTINF:-1,AMC Break PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7540
-#EXTINF:-1,âœ½âœ½â­’ PT Entertainment â­’âœ½âœ½
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/682905
-#EXTINF:-1,E! Entertainment PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8790
-#EXTINF:-1,Fashion TV PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12526
-#EXTINF:-1,Canal Q PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7528
-#EXTINF:-1,TVI Reality PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7462
-#EXTINF:-1,TVI Ficcao PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7461
-#EXTINF:-1,SIC Mulher PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7485
-#EXTINF:-1,SIC Caras PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7487
-#EXTINF:-1,SIC Radical PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7483
+
+
