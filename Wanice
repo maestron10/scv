@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1,PT: SPORT TV 4
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1492
-#EXTINF:-1,SPORT TV 4 FHD
-http://supertv.red:80/4573975157757/2412003190201/602016.ts
+#EXTINF:-1,SPORT TV 4 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94847
+#EXTINF:-1,PT: SPORT TV4 SD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/1919874.ts
 #EXTINF:-1,SPORT TV 4 FHD
 http://acsb.sh:80/bF3y9W/68GSme/191257.ts
 #EXTINF:-1,SPORT TV 4 HD PT
 http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/170
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1492
-#EXTINF:-1 tvg-name="SPORT TV 4 HD PT ³" group-title="CANAIS: ESPORTES PPV",SPORT TV 4 HD PT ³
-http://dns.p2.wtf:80/JulianaHolanda/5071yuni9f/191833
 #EXTINF:-1,PT: SPORT TV 4
 http://premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1492
 #EXTINF:-1,PT: Sport TV 4 FHD
@@ -25,9 +21,10 @@ http://9593b.zapto.quest:80/PPp11O6pxw/PrkvKhHDVd/296146
 https://qyfb8377447rtirq.fordems.live/live/for-demsf1/chunks.m3u8
 #EXTINF:-1,PT: SPORT TV 4
 http://iptvtree.net:8080/7abb81c7/e9c0e4445d/1492
-#EXTINF:-1,PT: SPORT TV 4
-http://listaplay.one:80/181818/181818/456552
 #EXTINF:-1,PT: SPORT TV 4 HD*
 http://7go.xyz:8080/Naifaia/Shiwafa/297181
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399407.ts
+
 
 
