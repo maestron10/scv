@@ -80,8 +80,68 @@ http://line.iptv-4k.cc:80/FCD725/19374D/123784
 http://line.iptv-4k.cc:80/FCD725/19374D/105737
 #EXTINF:-1,[PT] TVCINE ACTION SD
 http://line.iptv-4k.cc:80/FCD725/19374D/105736
-
-
+#EXTINF:-1,===geniptv===
+#EXTINF:-1,SPORT TV 1 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94850
+#EXTINF:-1,SPORT TV 2 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94849
+#EXTINF:-1,SPORT TV 3 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94848
+#EXTINF:-1,SPORT TV 4 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94847
+#EXTINF:-1,SPORT TV 5 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94846
+#EXTINF:-1,SPORT TV NBA HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94845
+#EXTINF:-1,BTV HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94844
+#EXTINF:-1,ELEVEN 1 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94843
+#EXTINF:-1,ELEVEN 2 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94842
+#EXTINF:-1,ELEVEN 3 HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94841
+#EXTINF:-1,TVCINE TOP  HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94868
+#EXTINF:-1,TVCINE EDITION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94867
+#EXTINF:-1,TVCINE EMOTION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94866
+#EXTINF:-1,TVCINE ACTION HEVC PT
+http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94865
+#EXTINF:-1,===lemotv===
+#EXTINF:-1,PT: BENFICA TV FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/219188.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399398.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399401.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399404.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399407.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399410.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399286.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399289.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399292.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399295.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399298.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399301.ts
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399439.ts
+#EXTINF:-1,PT: TVCINE EDITION FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399442.ts
+#EXTINF:-1,PT: TVCINE EMOTION FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399445.ts
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399447.ts
 #EXTINF:-1,===myserveriptv===
 #EXTINF:-1,PT: Benfica TV
 http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159998
