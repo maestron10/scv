@@ -1,4 +1,282 @@
 #EXTM3U
+#EXTINF:-1,===Sergio Guerra====
+#EXTINF:-1,RTP 1
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/47
+#EXTINF:-1,RTP 2
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/45
+#EXTINF:-1,SIC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/43
+#EXTINF:-1,TVI
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/41
+#EXTINF:-1,RTP 1 FHD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/46
+#EXTINF:-1,RTP 2 FHD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/44
+#EXTINF:-1,SIC FHD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/42
+#EXTINF:-1,TVI FHD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/40
+#EXTINF:-1,CNN PORTUGAL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/25
+#EXTINF:-1,SIC NOTICIAS HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27
+#EXTINF:-1,RTP 3
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/35
+#EXTINF:-1,PORTO CANAL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/36
+#EXTINF:-1,CMTV HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/37
+#EXTINF:-1,SIC MULHER HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/28
+#EXTINF:-1,SIC CARAS HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/29
+#EXTINF:-1,SIC RADICAL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/26
+#EXTINF:-1,CANAL Q
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/38
+#EXTINF:-1,RTP MEMORIA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/30
+#EXTINF:-1,RTP AFRICA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/33
+#EXTINF:-1,RTP MADEIRA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/31
+#EXTINF:-1,RTP ACORES
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/34
+#EXTINF:-1,TVI REALITY
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23
+#EXTINF:-1,TVI FICCAO
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/24
+#EXTINF:-1,SIC NOVELAS
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27337
+#EXTINF:-1,RTP INTERNACIONAL
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/32
+#EXTINF:-1,SIC INTERNACIONAL
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23263
+#EXTINF:-1,TVI INTERNACIONAL
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23264
+#EXTINF:-1,TV RECORD HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/2
+#EXTINF:-1,GLOBO
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/16
+#EXTINF:-1,GLOBO NOW
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/15
+#EXTINF:-1,ABOLA TV
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/89
+#EXTINF:-1,CANAL 11 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/17
+#EXTINF:-1,CANAL 11
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20540
+#EXTINF:-1,SPORTV + FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/13
+#EXTINF:-1,SPORTV +
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/14
+#EXTINF:-1,SPORTV 1 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/12
+#EXTINF:-1,SPORTV 1 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/11
+#EXTINF:-1,SPORTV 1
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/10
+#EXTINF:-1,SPORTV 2 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/9
+#EXTINF:-1,SPORTV 2 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/8
+#EXTINF:-1,SPORTV 2
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/7
+#EXTINF:-1,SPORTV 3 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/6
+#EXTINF:-1,SPORTV 3 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/5
+#EXTINF:-1,SPORTV 3
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/4
+#EXTINF:-1,SPORTV 4 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/92
+#EXTINF:-1,SPORTV 4 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/91
+#EXTINF:-1,SPORTV 4
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/90
+#EXTINF:-1,SPORTV 5 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/95
+#EXTINF:-1,SPORTV 5 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/94
+#EXTINF:-1,SPORTV 5
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/93
+#EXTINF:-1,SPORTV 6 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23126
+#EXTINF:-1,SPORTV 6 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23127
+#EXTINF:-1,SPORTV NBA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/60
+#EXTINF:-1,BTV 1 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/88
+#EXTINF:-1,BTV 1 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/87
+#EXTINF:-1,BTV 1
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/86
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/85
+#EXTINF:-1,ELEVEN SPORTS 1
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/84
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/83
+#EXTINF:-1,ELEVEN SPORTS 2
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/82
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/81
+#EXTINF:-1,ELEVEN SPORTS 3
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/80
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/79
+#EXTINF:-1,ELEVEN SPORTS 4
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/78
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/77
+#EXTINF:-1,ELEVEN SPORTS 5
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/76
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/75
+#EXTINF:-1,ELEVEN SPORTS 6
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/74
+#EXTINF:-1,ELEVEN EXTRA 1 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27535
+#EXTINF:-1,ELEVEN EXTRA 2 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27536
+#EXTINF:-1,ELEVEN EXTRA 3 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27537
+#EXTINF:-1,ELEVEN EXTRA 4 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27538
+#EXTINF:-1,PFC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/63
+#EXTINF:-1,SPORTING TV
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/61
+#EXTINF:-1,W-SPORT
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27112
+#EXTINF:-1,EUROSPORT 1 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/70
+#EXTINF:-1,EUROSPORT 2 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/69
+#EXTINF:-1,TRACE SPORTS STARS
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/15364
+#EXTINF:-1,MOTORVISION
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/65
+#EXTINF:-1,CACA E PESCA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/73
+#EXTINF:-1,CACAVISION
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/72
+#EXTINF:-1,MUNDOTORO
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27533
+#EXTINF:-1,CAMPO PEQUENO TV
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/19669
+#EXTINF:-1,SIC ADVNCE
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23265
+#EXTINF:-1,RTP ARENA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23266
+#EXTINF:-1,FUEL TV HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/67
+#EXTINF:-1,REDBULL TV
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27113
+#EXTINF:-1,FIGHTBOX HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/68
+#EXTINF:-1,DISNEY CHANNEL
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/179
+#EXTINF:-1,DISNEY JUNIOR
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/178
+#EXTINF:-1,CANAL PANDA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/186
+#EXTINF:-1,PANDA BIGGS
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/164
+#EXTINF:-1,PANDA KIDS
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/22496
+#EXTINF:-1,NICKELODEAN
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/165
+#EXTINF:-1,NICK JR
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/166
+#EXTINF:-1,CARTOONITO
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/188
+#EXTINF:-1,CARTOON NETWORK
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/184
+#EXTINF:-1,SIC K
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/152
+#EXTINF:-1,WALT DISNEY
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/12347
+#EXTINF:-1,KIDS TV
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/19705
+#EXTINF:-1,BABY TV
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/191
+#EXTINF:-1,TIJI
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/150
+#EXTINF:-1,LOLLY KIDS
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20973
+#EXTINF:-1,GAMETOON HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/21914
+#EXTINF:-1,KIDS TV 4K
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20974
+#EXTINF:-1,TVCINE TOP HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/58
+#EXTINF:-1,TVCINE EDITION HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/56
+#EXTINF:-1,TVCINE EMOTION HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/54
+#EXTINF:-1,TVCINE ACTION HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/52
+#EXTINF:-1,NOS STUDIOS HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/115
+#EXTINF:-1,HOLLYWOOD HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/120
+#EXTINF:-1,CINEMUNDO
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/132
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/15365
+#EXTINF:-1,AMC HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/139
+#EXTINF:-1,CINEMA 4K
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/15107
+#EXTINF:-1,CINEMA PORTUGUES
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/24726
+#EXTINF:-1,NETFLIX
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/19701
+#EXTINF:-1,HBO 
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/19706
+#EXTINF:-1,SYFY HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/113
+#EXTINF:-1,AXN HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/137
+#EXTINF:-1,AXN WHITE
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/136
+#EXTINF:-1,AXN MOVIES
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/138
+#EXTINF:-1,FOX HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/123
+#EXTINF:-1,FOX LIFE
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/122
+#EXTINF:-1,FOX COMEDY HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/125
+#EXTINF:-1,FOX CRIME
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/124
+#EXTINF:-1,FOX MOVIES HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/121
+#EXTINF:-1,DIZI
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23267
+#EXTINF:-1,AMC CRIME
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/131
+#EXTINF:-1,AMC BREAK HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/135
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/119
+#EXTINF:-1,CANAL HISTORIA
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/134
+#EXTINF:-1,ODISSEIA HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/114
+#EXTINF:-1,NAT GEOGRAFIC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/116
+#EXTINF:-1,NAT GEO WILD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/117
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/130
+#EXTINF:-1,DOCUBOX HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/21159
+
+
+#EXTINF:-1,===portalgeny====
 #EXTINF:-1,RTP 1 HEVC PT
 http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94887
 #EXTINF:-1,RTP 2 HEVC PT
