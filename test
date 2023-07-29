@@ -80,73 +80,58 @@ http://line.iptv-4k.cc:80/FCD725/19374D/123784
 http://line.iptv-4k.cc:80/FCD725/19374D/105737
 #EXTINF:-1,[PT] TVCINE ACTION SD
 http://line.iptv-4k.cc:80/FCD725/19374D/105736
+
+
+
 #EXTINF:-1,===mastersrv===
 #EXTINF:-1,SPORTV 1 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/12
 #EXTINF:-1,SPORTV 1 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/11
-#EXTINF:-1,SPORTV 1
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/10
+#EXTINF:-1,SPORTV 1 HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20982
 #EXTINF:-1,SPORTV 2 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/9
 #EXTINF:-1,SPORTV 2 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/8
-#EXTINF:-1,SPORTV 2
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/7
+#EXTINF:-1,SPORTV 2 HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20983
 #EXTINF:-1,SPORTV 3 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/6
 #EXTINF:-1,SPORTV 3 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/5
-#EXTINF:-1,SPORTV 3
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/4
+#EXTINF:-1,SPORTV 3 HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20989
 #EXTINF:-1,SPORTV 4 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/92
 #EXTINF:-1,SPORTV 4 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/91
-#EXTINF:-1,SPORTV 4
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/90
+#EXTINF:-1,SPORTV 4 HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20990
 #EXTINF:-1,SPORTV 5 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/95
 #EXTINF:-1,SPORTV 5 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/94
-#EXTINF:-1,SPORTV 5
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/93
-#EXTINF:-1,SPORTV 6 FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23126
-#EXTINF:-1,SPORTV 6 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/23127
-#EXTINF:-1,SPORTV NBA
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/60
+#EXTINF:-1,SPORTV 5 HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20991
 #EXTINF:-1,BTV 1 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/88
 #EXTINF:-1,BTV 1 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/87
-#EXTINF:-1,BTV 1
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/86
+#EXTINF:-1,BENFICA TV HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20988
 #EXTINF:-1,ELEVEN SPORTS 1 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/85
-#EXTINF:-1,ELEVEN SPORTS 1
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/84
 #EXTINF:-1,ELEVEN SPORTS 2 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/83
-#EXTINF:-1,ELEVEN SPORTS 2
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/82
 #EXTINF:-1,ELEVEN SPORTS 3 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/81
-#EXTINF:-1,ELEVEN SPORTS 3
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/80
 #EXTINF:-1,ELEVEN SPORTS 4 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/79
-#EXTINF:-1,ELEVEN SPORTS 4
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/78
 #EXTINF:-1,ELEVEN SPORTS 5 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/77
-#EXTINF:-1,ELEVEN SPORTS 5
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/76
 #EXTINF:-1,ELEVEN SPORTS 6 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/75
-#EXTINF:-1,ELEVEN SPORTS 6
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/74
 #EXTINF:-1,ELEVEN EXTRA 1 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27535
 #EXTINF:-1,ELEVEN EXTRA 2 HD
@@ -157,12 +142,16 @@ http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27537
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27538
 #EXTINF:-1,TVCINE TOP HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/58
+#EXTINF:-1,TVCINE TOP HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20986
 #EXTINF:-1,TVCINE EDITION HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/56
 #EXTINF:-1,TVCINE EMOTION HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/54
 #EXTINF:-1,TVCINE ACTION HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/52
+#EXTINF:-1,TVCINE ACTION HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20987
 #EXTINF:-1,NOS STUDIOS HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/115
 
