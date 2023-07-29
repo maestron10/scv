@@ -148,6 +148,62 @@ http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370458
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370453
 #EXTINF:-1,UK: SKY SPORT F1
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/374221
+#EXTINF:-1,=== mains ===
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV +
+http://mains.services/live/Grahxen/3docpGDalU/9e494c03-8095-4317-a71f-d39a01068593.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 1
+http://mains.services/live/Grahxen/3docpGDalU/2f15d0df-06be-4085-a241-2d40645bcc3f.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 2
+http://mains.services/live/Grahxen/3docpGDalU/00fc095a-509d-41f6-bfa6-a410a341e4c1.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 3
+http://mains.services/live/Grahxen/3docpGDalU/ca497a4e-41d6-4c0d-a364-e2ac3935e4e5.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 4
+http://mains.services/live/Grahxen/3docpGDalU/dfe113b7-c847-4da4-a2e9-c60a9b0218b5.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 5
+http://mains.services/live/Grahxen/3docpGDalU/0dc75225-eaa3-43ae-9c89-d302feb5d24c.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 1
+http://mains.services/live/Grahxen/3docpGDalU/5e3db048-a50c-424c-be18-a2478f782213.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 2
+http://mains.services/live/Grahxen/3docpGDalU/9b44b98e-5c0e-4393-8017-a8ebeb3ad459.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 3
+http://mains.services/live/Grahxen/3docpGDalU/9c92c3b6-2642-415d-b3a5-0a9642c93039.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 4
+http://mains.services/live/Grahxen/3docpGDalU/f67a882c-d564-4cff-b9db-19b8edef542d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 5
+http://mains.services/live/Grahxen/3docpGDalU/1de4180d-0a8d-4c51-a056-84ab56884139.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 6
+http://mains.services/live/Grahxen/3docpGDalU/975ac24b-df20-40f4-be3d-c283df3220c2.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV SERIES
+http://mains.services/live/Grahxen/3docpGDalU/8631d3b7-c238-40d8-a88e-9eb4aeb0fbf4.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 1
+http://mains.services/live/Grahxen/3docpGDalU/573fea96-4ee4-4071-a2b0-c37967d43267.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 2
+http://mains.services/live/Grahxen/3docpGDalU/23555a1f-33f0-49fe-afbd-09144202c567.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 3
+http://mains.services/live/Grahxen/3docpGDalU/33397756-99e3-43fe-96a2-fa99c81e2915.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 4
+http://mains.services/live/Grahxen/3docpGDalU/562d1605-38a7-4de3-94df-cdab5b070022.m3u
+#EXTINF:-1,=== Babnour ===
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62079
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129169
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62074
+#EXTINF:-1,=== Daleplay ===
+#EXTINF:-1,SPORT TV 1 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129160
+#EXTINF:-1,SPORT TV 2 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129163
+#EXTINF:-1,SPORT TV 3 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129168
+#EXTINF:-1,â”‚â”‚DAZN F1 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/124763
+
+
+
 #EXTINF:-1,=== Nicolas ===
 #EXTINF:-1,Benfica TV 
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57138.ts
