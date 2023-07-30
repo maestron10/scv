@@ -198,15 +198,15 @@ http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/374221
 #EXTINF:-1,=== mains ===
 #EXTINF:-1,PT: SPORT TV +
 http://mains.services/live/Grahxen/3docpGDalU/9e494c03-8095-4317-a71f-d39a01068593.m3u
-#EXTINF:-1,PT : SPORT TV 1
+#EXTINF:-1,SPORTV 1 HD
 http://mains.services/live/Grahxen/3docpGDalU/2f15d0df-06be-4085-a241-2d40645bcc3f.m3u
-#EXTINF:-1,PT : SPORT TV 2
+#EXTINF:-1,SPORTV 2 HD
 http://mains.services/live/Grahxen/3docpGDalU/00fc095a-509d-41f6-bfa6-a410a341e4c1.m3u
-#EXTINF:-1,PT : SPORT TV 3
+#EXTINF:-1,SPORTV 3 HD
 http://mains.services/live/Grahxen/3docpGDalU/ca497a4e-41d6-4c0d-a364-e2ac3935e4e5.m3u
-#EXTINF:-1,PT : SPORT TV 4
-http://mains.services/live/Grahxen/3docpGDalU/dfe113b7-c847-4da4-a2e9-c60a9b0218b5.m3u
-#EXTINF:-1,PT : SPORT TV 5
+#EXTINF:-1,SPORTV 4 HD
+http://mains.services/live/Grahxen/3docpGDalU/dfe113b7-c847-4da4-a2e9-c60a9b0218b5.ts
+#EXTINF:-1,SPORTV 5 HD
 http://mains.services/live/Grahxen/3docpGDalU/0dc75225-eaa3-43ae-9c89-d302feb5d24c.m3u
 #EXTINF:-1,PT : ELEVEN SPORTS 1
 http://mains.services/live/Grahxen/3docpGDalU/5e3db048-a50c-424c-be18-a2478f782213.m3u
