@@ -127,39 +127,7 @@ http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/52
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20987
 #EXTINF:-1,NOS STUDIOS HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/115
-#EXTINF:-1,=== 37 ===
-#EXTINF:-1,Benfica TV 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1497
-#EXTINF:-1,Eleven 1 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1499
-#EXTINF:-1,Eleven 2 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1503
-#EXTINF:-1,Eleven 3
-http://37.49.230.42:8080/stadnik/6a627b52a9/1506
-#EXTINF:-1,Eleven 4
-http://37.49.230.42:8080/stadnik/6a627b52a9/1509
-#EXTINF:-1,Eleven 5
-http://37.49.230.42:8080/stadnik/6a627b52a9/1512
-#EXTINF:-1,SPORT.TV1 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1483
-#EXTINF:-1,SPORT.TV2
-http://37.49.230.42:8080/stadnik/6a627b52a9/1486
-#EXTINF:-1,SPORT.TV3 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1489
-#EXTINF:-1,SPORT.TV4 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1492
-#EXTINF:-1,SPORT.TV5
-http://37.49.230.42:8080/stadnik/6a627b52a9/1495
-#EXTINF:-1,TVCine TOP 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1446
-#EXTINF:-1,TVCine EDITION 
-http://37.49.230.42:8080/stadnik/6a627b52a9/82254
-#EXTINF:-1,TVCine EMOTION 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1448
-#EXTINF:-1,TVCine ACTION 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1452
-#EXTINF:-1,UK: Sky Sports F1
-http://37.49.230.42:8080/stadnik/6a627b52a9/265
+
 #EXTINF:-1,=== boriraja ===
 #EXTINF:-1,Benfica TV 
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370420
@@ -313,17 +281,39 @@ http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94867
 http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94866
 #EXTINF:-1,TVCINE ACTION HEVC PT
 http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94865
-#EXTINF:-1,===apnamagic===
-#EXTINF:-1,PT: SPORT TV 1
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1495
+#EXTINF:-1,=== 37 ===
+#EXTINF:-1,Benfica TV 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1497
+#EXTINF:-1,Eleven 1 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1499
+#EXTINF:-1,Eleven 2 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1503
+#EXTINF:-1,Eleven 3
+http://37.49.230.42:8080/stadnik/6a627b52a9/1506
+#EXTINF:-1,Eleven 4
+http://37.49.230.42:8080/stadnik/6a627b52a9/1509
+#EXTINF:-1,Eleven 5
+http://37.49.230.42:8080/stadnik/6a627b52a9/1512
+#EXTINF:-1,SPORT.TV1 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1483
+#EXTINF:-1,SPORT.TV2
+http://37.49.230.42:8080/stadnik/6a627b52a9/1486
+#EXTINF:-1,SPORT.TV3 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1489
+#EXTINF:-1,SPORT.TV4 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1492
+#EXTINF:-1,SPORT.TV5
+http://37.49.230.42:8080/stadnik/6a627b52a9/1495
+#EXTINF:-1,TVCine TOP 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1446
+#EXTINF:-1,TVCine EDITION 
+http://37.49.230.42:8080/stadnik/6a627b52a9/82254
+#EXTINF:-1,TVCine EMOTION 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1448
+#EXTINF:-1,TVCine ACTION 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1452
+#EXTINF:-1,UK: Sky Sports F1
+http://37.49.230.42:8080/stadnik/6a627b52a9/265
 #EXTINF:-1,=== Testo ===
 #EXTINF:-1,SPORT.TV1 
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/659
