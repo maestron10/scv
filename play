@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U
+#EXTM3U
 #EXTINF:-1,=== dnsvod ===
 #EXTINF:-1,Benfica TV 
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224680
@@ -35,164 +36,6 @@ http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224699
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224701
 #EXTINF:-1,TVCine ACTION 
 http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224703
-#EXTINF:-1,===aflax===
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1497
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1515
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/281487
-
-#EXTINF:-1,=== naifaia ===
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307936
-#EXTINF:-1,PT : SPORT TV 1 FHD*
-http://7go.xyz:8080/Naifaia/Shiwafa/297196
-#EXTINF:-1,PT : SPORT TV 1 HD*
-#EXTINF:-1,PT: Sport TV 2 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307939
-#EXTINF:-1,PT: Sport TV 2 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307938
-#EXTINF:-1,PT: SPORT TV 2 HD*
-http://7go.xyz:8080/Naifaia/Shiwafa/297183
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307942
-#EXTINF:-1,PT: Sport TV 3 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307941
-#EXTINF:-1,PT: SPORT TV 3 HD*
-http://7go.xyz:8080/Naifaia/Shiwafa/297182
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307426
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307427
-#EXTINF:-1,PT: Sport TV 4 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307945
-#EXTINF:-1,PT: SPORT TV 4 FHD*
-http://7go.xyz:8080/Naifaia/Shiwafa/297176
-#EXTINF:-1,PT: Sport TV 4 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307944
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307430
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307439
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307440
-#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307441
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://7go.xyz:8080/Naifaia/Shiwafa/307442
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307443
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307444
-#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307445
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://7go.xyz:8080/Naifaia/Shiwafa/307446
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://7go.xyz:8080/Naifaia/Shiwafa/307447
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307448
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307449
-#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307450
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://7go.xyz:8080/Naifaia/Shiwafa/307451
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307452
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307453
-#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307454
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://7go.xyz:8080/Naifaia/Shiwafa/307455
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307456
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307457
-#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307458
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307459
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307460
-#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307461
-#EXTINF:-1,PT: SPORTING TV FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307462
-#EXTINF:-1,PT: SPORTING TV SD
-http://7go.xyz:8080/Naifaia/Shiwafa/307463
-#EXTINF:-1,PT: BTV 4K
-http://7go.xyz:8080/Naifaia/Shiwafa/307464
-#EXTINF:-1,PT: BTV FHD
-http://7go.xyz:8080/Naifaia/Shiwafa/307465
-#EXTINF:-1,PT: BTV HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307466
-
-#EXTINF:-1,PT: BTV
-http://7go.xyz:8080/Naifaia/Shiwafa/307468
-
-#EXTINF:-1,PT: TVCINE TOP HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307992
-#EXTINF:-1,PT: TVCINE EDITION HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307993
-#EXTINF:-1,PT | TVCINE EDITION HD*
-http://7go.xyz:8080/Naifaia/Shiwafa/307140
-#EXTINF:-1,PT: TVCINE EMOTION HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307994
-#EXTINF:-1,PT: 	PT: TVCINE ACTION HD
-http://7go.xyz:8080/Naifaia/Shiwafa/307995
-#EXTINF:-1,IT: SKY F1 HD
-http://7go.xyz:8080/Naifaia/Shiwafa/281337
-#EXTINF:-1,PT: GATO FEDORENTO
-http://7go.xyz:8080/Naifaia/Shiwafa/299994
-#EXTINF:-1,PT: INSIDE FORMULA 1
-http://7go.xyz:8080/Naifaia/Shiwafa/299995
-#EXTINF:-1,PT: CINEMA PORTUGAL ( 24H)
-http://7go.xyz:8080/Naifaia/Shiwafa/299996
-#EXTINF:-1,PT: 24H PORTUGAL A RIR
-http://7go.xyz:8080/Naifaia/Shiwafa/300014
-#EXTINF:-1,PT: 24H APANHADOS 2
-http://7go.xyz:8080/Naifaia/Shiwafa/300015
-#EXTINF:-1,PT: 24H APANHADOS
-http://7go.xyz:8080/Naifaia/Shiwafa/300016
-#EXTINF:-1,PT: 24H FILMES COMÃ‰DIA
-http://7go.xyz:8080/Naifaia/Shiwafa/300026
-#EXTINF:-1,PT: 24H FILMES WESTERN
-http://7go.xyz:8080/Naifaia/Shiwafa/300027
-#EXTINF:-1,PT: 24H FILMES CLÃSSICOS
-http://7go.xyz:8080/Naifaia/Shiwafa/300028
-#EXTINF:-1,PT: 24H FILMES ACÃ‡ÃƒO
-http://7go.xyz:8080/Naifaia/Shiwafa/300029
-#EXTINF:-1,PT: 24H HBO PORTUGAL
-http://7go.xyz:8080/Naifaia/Shiwafa/300030
-#EXTINF:-1,PT: 24H NETFLIX
-http://7go.xyz:8080/Naifaia/Shiwafa/300031
-
-
-
-
 #EXTINF:-1,===Premium===
 #EXTINF:-1,PT: Benfica TV
 http://premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1497
@@ -219,41 +62,6 @@ http://premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1495
 #EXTINF:-1,UK: Sky Sports F1
 http://premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/265
 
-#EXTINF:-1,=== pythontv ===
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/342
-#EXTINF:-1,Benfica TV 
-http://pythontv.net:8789/luis12/pMQuMbm/47292
-#EXTINF:-1,Eleven 1 
-http://pythontv.net:8789/luis12/pMQuMbm/14901
-#EXTINF:-1,Eleven 2 
-http://pythontv.net:8789/luis12/pMQuMbm/14895
-#EXTINF:-1,Eleven 3
-http://pythontv.net:8789/luis12/pMQuMbm/14899
-#EXTINF:-1,Eleven 4
-http://pythontv.net:8789/luis12/pMQuMbm/14898
-#EXTINF:-1,Eleven 5
-http://pythontv.net:8789/luis12/pMQuMbm/14897
-#EXTINF:-1,SPORT.TV1 
-http://pythontv.net:8789/luis12/pMQuMbm/23086
-#EXTINF:-1,SPORT.TV2
-http://pythontv.net:8789/luis12/pMQuMbm/23098
-#EXTINF:-1,SPORT.TV3 
-http://pythontv.net:8789/luis12/pMQuMbm/1418
-#EXTINF:-1,SPORT.TV4 
-http://pythontv.net:8789/luis12/pMQuMbm/1419
-#EXTINF:-1,SPORT.TV5
-http://pythontv.net:8789/luis12/pMQuMbm/7339
-#EXTINF:-1,SKY SPORTS F1
-http://pythontv.net:8789/luis12/pMQuMbm/117193
-#EXTINF:-1,TVCine TOP 
-http://pythontv.net:8789/luis12/pMQuMbm/7523
-#EXTINF:-1,TVCine EDITION 
-http://pythontv.net:8789/luis12/pMQuMbm/328
-#EXTINF:-1,TVCine EMOTION 
-http://pythontv.net:8789/luis12/pMQuMbm/334
-#EXTINF:-1,TVCine ACTION 
-http://pythontv.net:8789/luis12/pMQuMbm/335
 #EXTINF:-1,=== Marcelo ===
 #EXTINF:-1,PT: Benfica TV 1 FHD
 http://splaytv.io:80/Marcelo984258235/hbgy45df/139487
@@ -311,30 +119,3 @@ http://splaytv.io:80/Marcelo984258235/hbgy45df/139565
 http://splaytv.io:80/Marcelo984258235/hbgy45df/140383
 #EXTINF:-1,PT: Sport TV 6
 http://splaytv.io:80/Marcelo984258235/hbgy45df/147490
-#EXTINF:-1,=== Conexa ===
-#EXTINF:-1,PT: BTV
-http://conexaoonline.top:80/IVONE123/IVONE321/261023
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://conexaoonline.top:80/IVONE123/IVONE321/261002
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://conexaoonline.top:80/IVONE123/IVONE321/261001
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://conexaoonline.top:80/IVONE123/IVONE321/261000
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://conexaoonline.top:80/IVONE123/IVONE321/260999
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://conexaoonline.top:80/IVONE123/IVONE321/260998
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://conexaoonline.top:80/IVONE123/IVONE321/260997
-#EXTINF:-1, SPORT TV 1 ????
-http://conexaoonline.top:80/IVONE123/IVONE321/261071
-#EXTINF:-1,PT: SPORT TV 2
-http://conexaoonline.top:80/IVONE123/IVONE321/261069
-#EXTINF:-1,PT: SPORT TV 3
-http://conexaoonline.top:80/IVONE123/IVONE321/261068
-#EXTINF:-1,PT: SPORT TV 4
-http://conexaoonline.top:80/IVONE123/IVONE321/261067
-#EXTINF:-1,PT: SPORT TV 5
-http://conexaoonline.top:80/IVONE123/IVONE321/261066
-#EXTINF:-1,PT: SPORT TV 6
-http://conexaoonline.top:80/IVONE123/IVONE321/261065
