@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTINF:-1,===sergio guerra===
-#EXTINF:-1,SPORTV 1 FULL HD
+#EXTINF:-1,BTV 1 FULL HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/88
+#EXTINF:-1,BTV 1 HD
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/87
+#EXTINF:-1,BENFICA TV HEVC
+http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20988
+#EXTINF:-1,SPORT.TV1 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/12
-#EXTINF:-1,SPORTV 1 HD
+#EXTINF:-1,SPORT.TV1  HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/11
-#EXTINF:-1,SPORTV 1 HEVC
+#EXTINF:-1,SPORT.TV1 HEVC
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20982
-#EXTINF:-1,SPORTV 2 FULL HD
+#EXTINF:-1,SPORTV.TV2  FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/9
-#EXTINF:-1,SPORTV 2 HD
+#EXTINF:-1,SPORTV.TV2 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/8
-#EXTINF:-1,SPORTV 2 HEVC
+#EXTINF:-1,SPORTV.TV2 HEVC
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20983
 #EXTINF:-1,SPORTV 3 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/6
@@ -30,12 +36,6 @@ http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/95
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/94
 #EXTINF:-1,SPORTV 5 HEVC
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20991
-#EXTINF:-1,BTV 1 FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/88
-#EXTINF:-1,BTV 1 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/87
-#EXTINF:-1,BENFICA TV HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20988
 #EXTINF:-1,ELEVEN SPORTS 1 HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/85
 #EXTINF:-1,ELEVEN SPORTS 2 HD
