@@ -1,126 +1,33 @@
 #EXTM3U
-#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,=== Babnour ===
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62079
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129169
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62074
+#EXTINF:-1,=== Daleplay ===
+#EXTINF:-1,SPORT TV 1 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129160
+#EXTINF:-1,SPORT TV 2 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129163
+#EXTINF:-1,SPORT TV 3 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129168
+#EXTINF:-1,â”‚â”‚DAZN F1 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/124763
+#EXTINF:-1,=== IptvCh ===
 #EXTINF:-1,Benfica TV 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1497
-#EXTINF:-1,Eleven 1 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1499
-#EXTINF:-1,Eleven 2 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1503
-#EXTINF:-1,Eleven 3
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1506
-#EXTINF:-1,Eleven 4
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1509
-#EXTINF:-1,Eleven 5
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1512
-#EXTINF:-1,SPORT.TV1 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1483
-#EXTINF:-1,SPORT.TV2
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1486
-#EXTINF:-1,SPORT.TV3 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1489
-#EXTINF:-1,SPORT.TV4 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1492
-#EXTINF:-1,SPORT.TV5
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1495
-#EXTINF:-1,SKY SPORTS F1
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/265
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224091
+#EXTINF:-1,Benfica TV 
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159998
 #EXTINF:-1,TVCine TOP 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1446
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131037
 #EXTINF:-1,TVCine EDITION 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/82254
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131038
 #EXTINF:-1,TVCine EMOTION 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1448
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131039
 #EXTINF:-1,TVCine ACTION 
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1452
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131040
 
-
-#EXTINF:-1,=== MyFun ===
-#EXTINF:-1,Sport TV 1 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13096
-#EXTINF:-1,Sport TV 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8818
-#EXTINF:-1,Sport TV 1 [B] FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/13097
-#EXTINF:-1,Sport TV 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7481
-#EXTINF:-1,Sport TV 3 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8817
-#EXTINF:-1,Sport TV 4 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/8816
-#EXTINF:-1,Sport TV 4 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7479
-#EXTINF:-1,Sport TV 5 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7478
-#EXTINF:-1,Sport TV 6 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/697409
-#EXTINF:-1,Eleven Sport 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51927
-#EXTINF:-1,Eleven Sport 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/694190
-#EXTINF:-1,Eleven Sport 3 PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/691332
-#EXTINF:-1,Eleven Sport 4 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51924
-#EXTINF:-1,Eleven Sport 5 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51923
-#EXTINF:-1,Eleven Sport 6 HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/51922
-#EXTINF:-1,Eurosport 1 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7519
-#EXTINF:-1,Eurosport 2 FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7518
-#EXTINF:-1,Benfica TV FHD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12521
-#EXTINF:-1,Benfica TV FHD [B] PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/7534
-#EXTINF:-1,Benfica TV HD PT
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/12520
-
-#EXTINF:-1,=== Conexa ===
-#EXTINF:-1,PT: BTV
-http://conexaoonline.top:80/IVONE123/IVONE321/261023
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://conexaoonline.top:80/IVONE123/IVONE321/261002
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://conexaoonline.top:80/IVONE123/IVONE321/261001
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://conexaoonline.top:80/IVONE123/IVONE321/261000
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://conexaoonline.top:80/IVONE123/IVONE321/260999
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://conexaoonline.top:80/IVONE123/IVONE321/260998
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://conexaoonline.top:80/IVONE123/IVONE321/260997
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://conexaoonline.top:80/IVONE123/IVONE321/261071
-#EXTINF:-1,PT: SPORT TV 2
-http://conexaoonline.top:80/IVONE123/IVONE321/261069
-#EXTINF:-1,PT: SPORT TV 3
-http://conexaoonline.top:80/IVONE123/IVONE321/261068
-#EXTINF:-1,PT: SPORT TV 4
-http://conexaoonline.top:80/IVONE123/IVONE321/261067
-#EXTINF:-1,PT: SPORT TV 5
-http://conexaoonline.top:80/IVONE123/IVONE321/261066
-#EXTINF:-1,PT: SPORT TV 6
-http://conexaoonline.top:80/IVONE123/IVONE321/261065
-#EXTINF:-1,=== Tv19x ===
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://tv19s.xyz:8080/Neil/Neil/136726
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://tv19s.xyz:8080/Neil/Neil/167746
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://tv19s.xyz:8080/Neil/Neil/167747
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://tv19s.xyz:8080/Neil/Neil/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://tv19s.xyz:8080/Neil/Neil/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://tv19s.xyz:8080/Neil/Neil/167750
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://tv19s.xyz:8080/Neil/Neil/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://tv19s.xyz:8080/Neil/Neil/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://tv19s.xyz:8080/Neil/Neil/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://tv19s.xyz:8080/Neil/Neil/167745
