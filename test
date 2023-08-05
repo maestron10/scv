@@ -1,62 +1,5 @@
 #EXTM3U
-#EXTINF:-1,===line4k===
-#EXTINF:-1,[PT] SPORT TV 1 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123800
-#EXTINF:-1,[PT] SPORT TV 1 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105714
-#EXTINF:-1,[PT] SPORT TV 2 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123801
-#EXTINF:-1,[PT] SPORT TV 2 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105717
-#EXTINF:-1,[PT] SPORT TV 3 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123802
-#EXTINF:-1,[PT] SPORT TV 3 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105719
-#EXTINF:-1,[PT] SPORT TV 4 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/269118
-#EXTINF:-1,[PT] SPORT TV 5 FHD
-http://line.iptv-4k.cc:80/FCD725/19374D/269119
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123804
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105656
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123805
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105657
-#EXTINF:-1,[PT] ELEVEN SPORTS  3 FHD
-http://line.iptv-4k.cc:80/FCD725/19374D/123806
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105658
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123807
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105659
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123808
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105752
-#EXTINF:-1,[PT] BTV 1 FHD
-http://line.iptv-4k.cc:80/FCD725/19374D/123810
-#EXTINF:-1,[PT] BTV 1 HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105637
-#EXTINF:-1,[PT] TV CINE TOP FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123781
-#EXTINF:-1,[PT] TVCINE TOP HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105732
-#EXTINF:-1,[PT] TV CINE EDITION FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123782
-#EXTINF:-1,[PT] TVCINE EDITION HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105734
-#EXTINF:-1,[PT] TV CINE EMOTION FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123783
-#EXTINF:-1,[PT] TVCINE EMOTION HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105735
-#EXTINF:-1,[PT] TV CINE ACTION FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/123784
-#EXTINF:-1,[PT] TVCINE ACTION HD
-http://line.iptv-4k.cc:80/FCD725/19374D/105737
-#EXTINF:-1,===mastersrv===
+#EXTINF:-1,===sergio guerra===
 #EXTINF:-1,SPORTV 1 FULL HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/12
 #EXTINF:-1,SPORTV 1 HD
@@ -127,7 +70,6 @@ http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/52
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20987
 #EXTINF:-1,NOS STUDIOS HD
 http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/115
-
 #EXTINF:-1,=== boriraja ===
 #EXTINF:-1,Benfica TV 
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370420
@@ -163,59 +105,6 @@ http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370458
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370453
 #EXTINF:-1,UK: SKY SPORT F1
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/374221
-#EXTINF:-1,=== mains ===
-#EXTINF:-1,Eleven 1 
-http://mains.services/live/Grahxen/3docpGDalU/5e3db048-a50c-424c-be18-a2478f782213.m3u
-#EXTINF:-1,Eleven 2 
-http://mains.services/live/Grahxen/3docpGDalU/9b44b98e-5c0e-4393-8017-a8ebeb3ad459.m3u
-#EXTINF:-1,Eleven 3
-http://mains.services/live/Grahxen/3docpGDalU/9c92c3b6-2642-415d-b3a5-0a9642c93039.m3u
-#EXTINF:-1,Eleven 4
-http://mains.services/live/Grahxen/3docpGDalU/f67a882c-d564-4cff-b9db-19b8edef542d.m3u
-#EXTINF:-1,Eleven 5
-http://mains.services/live/Grahxen/3docpGDalU/1de4180d-0a8d-4c51-a056-84ab56884139.m3u
-#EXTINF:-1,SPORT.TV1 
-http://mains.services/live/Grahxen/3docpGDalU/2f15d0df-06be-4085-a241-2d40645bcc3f.m3u
-#EXTINF:-1,SPORT.TV2
-http://mains.services/live/Grahxen/3docpGDalU/00fc095a-509d-41f6-bfa6-a410a341e4c1.m3u
-#EXTINF:-1,SPORT.TV3 
-http://mains.services/live/Grahxen/3docpGDalU/ca497a4e-41d6-4c0d-a364-e2ac3935e4e5.m3u
-#EXTINF:-1,SPORT.TV4 
-http://mains.services/live/Grahxen/3docpGDalU/dfe113b7-c847-4da4-a2e9-c60a9b0218b5.ts
-#EXTINF:-1,SPORT.TV5
-http://mains.services/live/Grahxen/3docpGDalU/0dc75225-eaa3-43ae-9c89-d302feb5d24c.m3u
-#EXTINF:-1,SKY SPORTS F1
-
-#EXTINF:-1,TVCine TOP 
-http://mains.services/live/Grahxen/3docpGDalU/573fea96-4ee4-4071-a2b0-c37967d43267.m3u
-#EXTINF:-1,TVCine EDITION 
-http://mains.services/live/Grahxen/3docpGDalU/23555a1f-33f0-49fe-afbd-09144202c567.m3u
-#EXTINF:-1,TVCine EMOTION 
-http://mains.services/live/Grahxen/3docpGDalU/33397756-99e3-43fe-96a2-fa99c81e2915.m3u
-#EXTINF:-1,TVCine ACTION 
-http://mains.services/live/Grahxen/3docpGDalU/562d1605-38a7-4de3-94df-cdab5b070022.m3u
-
-#EXTINF:-1,=== Babnour ===
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62079
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129169
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62074
-#EXTINF:-1,=== Daleplay ===
-#EXTINF:-1,SPORT TV 1 HD
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129160
-#EXTINF:-1,SPORT TV 2 HD
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129163
-#EXTINF:-1,SPORT TV 3 HD
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129168
-#EXTINF:-1,â”‚â”‚DAZN F1 HD
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/124763
-
-
-
 #EXTINF:-1,=== Nicolas ===
 #EXTINF:-1,Benfica TV 
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57138.ts
@@ -249,35 +138,6 @@ http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57125.ts
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57126.ts
 #EXTINF:-1,DAZN F1 HD
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/161977.ts
-#EXTINF:-1,===geniptv===
-#EXTINF:-1,SPORT TV 1 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94850
-#EXTINF:-1,SPORT TV 2 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94849
-#EXTINF:-1,SPORT TV 3 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94848
-#EXTINF:-1,SPORT TV 4 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94847
-#EXTINF:-1,SPORT TV 5 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94846
-#EXTINF:-1,SPORT TV NBA HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94845
-#EXTINF:-1,BTV HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94844
-#EXTINF:-1,ELEVEN 1 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94843
-#EXTINF:-1,ELEVEN 2 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94842
-#EXTINF:-1,ELEVEN 3 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94841
-#EXTINF:-1,TVCINE TOP  HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94868
-#EXTINF:-1,TVCINE EDITION HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94867
-#EXTINF:-1,TVCINE EMOTION HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94866
-#EXTINF:-1,TVCINE ACTION HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94865
 #EXTINF:-1,=== 37 ===
 #EXTINF:-1,Benfica TV 
 http://37.49.230.42:8080/stadnik/6a627b52a9/1497
@@ -311,14 +171,21 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/1448
 http://37.49.230.42:8080/stadnik/6a627b52a9/1452
 #EXTINF:-1,UK: Sky Sports F1
 http://37.49.230.42:8080/stadnik/6a627b52a9/265
-#EXTINF:-1,=== Testo ===
-#EXTINF:-1,SPORT.TV1 
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/659
-#EXTINF:-1,SPORT.TV2
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/658
-#EXTINF:-1,SPORT.TV3 
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/657
-#EXTINF:-1,SPORT.TV4 
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/656
-#EXTINF:-1,SPORT.TV5
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/655
+#EXTINF:-1,=== Babnour ===
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62079
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129169
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62074
+#EXTINF:-1,=== Daleplay ===
+#EXTINF:-1,SPORT TV 1 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129160
+#EXTINF:-1,SPORT TV 2 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129163
+#EXTINF:-1,SPORT TV 3 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129168
+#EXTINF:-1,â”‚â”‚DAZN F1 HD
+http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/124763
