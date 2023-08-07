@@ -1,75 +1,71 @@
 #EXTM3U
-#EXTINF:-1,===sergio guerra===
-#EXTINF:-1,BTV 1 FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/88
-#EXTINF:-1,BTV 1 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/87
-#EXTINF:-1,BENFICA TV HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20988
-#EXTINF:-1,SPORT.TV1 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/12
-#EXTINF:-1,SPORT.TV1  HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/11
-#EXTINF:-1,SPORT.TV1 HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20982
-#EXTINF:-1,SPORTV.TV2  FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/9
-#EXTINF:-1,SPORTV.TV2 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/8
-#EXTINF:-1,SPORTV.TV2 HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20983
-#EXTINF:-1,SPORTV 3 FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/6
-#EXTINF:-1,SPORTV 3 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/5
-#EXTINF:-1,SPORTV 3 HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20989
-#EXTINF:-1,SPORTV 4 FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/92
-#EXTINF:-1,SPORTV 4 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/91
-#EXTINF:-1,SPORTV 4 HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20990
-#EXTINF:-1,SPORTV 5 FULL HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/95
-#EXTINF:-1,SPORTV 5 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/94
-#EXTINF:-1,SPORTV 5 HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20991
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/85
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/83
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/81
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/79
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/77
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/75
-#EXTINF:-1,ELEVEN EXTRA 1 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27535
-#EXTINF:-1,ELEVEN EXTRA 2 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27536
-#EXTINF:-1,ELEVEN EXTRA 3 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27537
-#EXTINF:-1,ELEVEN EXTRA 4 HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/27538
-#EXTINF:-1,TVCINE TOP HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/58
-#EXTINF:-1,TVCINE TOP HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20986
-#EXTINF:-1,TVCINE EDITION HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/56
-#EXTINF:-1,TVCINE EMOTION HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/54
-#EXTINF:-1,TVCINE ACTION HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/52
-#EXTINF:-1,TVCINE ACTION HEVC
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/20987
-#EXTINF:-1,NOS STUDIOS HD
-http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/115
+#EXTINF:-1,=== formule ===
+#EXTINF:-1,Benfica TV 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5373.ts
+#EXTINF:-1,Benfica TV 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5374.ts
+#EXTINF:-1,Eleven 1 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5354.ts
+#EXTINF:-1,Eleven 2 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5358.ts
+#EXTINF:-1,Eleven 3
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5362.ts
+#EXTINF:-1,Eleven 4
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5365.ts
+#EXTINF:-1,Eleven 5
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5368.ts
+#EXTINF:-1,SPORT.TV1 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5333.ts
+#EXTINF:-1,SPORT.TV2
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5336.ts
+#EXTINF:-1,SPORT.TV3 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5340.ts
+#EXTINF:-1,SPORT.TV4 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5344.ts
+#EXTINF:-1,SPORT.TV5
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5347.ts
+#EXTINF:-1,SKY SPORTS F1
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/15204.ts
+#EXTINF:-1,TVCine TOP 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5391.ts
+#EXTINF:-1,TVCine EDITION 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5394.ts
+#EXTINF:-1,TVCine EMOTION 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5398.ts
+#EXTINF:-1,TVCine ACTION 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5400.ts
+
+#EXTINF:-1,=== conexa ===
+#EXTINF:-1,Benfica TV 
+http://conexaoonline.top:80/IVONE123/IVONE321/261023
+#EXTINF:-1,Eleven 1 
+http://conexaoonline.top:80/IVONE123/IVONE321/261002
+#EXTINF:-1,Eleven 2 
+http://conexaoonline.top:80/IVONE123/IVONE321/261001
+#EXTINF:-1,Eleven 3
+http://conexaoonline.top:80/IVONE123/IVONE321/261000
+#EXTINF:-1,Eleven 4
+http://conexaoonline.top:80/IVONE123/IVONE321/260999
+#EXTINF:-1,Eleven 5
+http://conexaoonline.top:80/IVONE123/IVONE321/260998
+#EXTINF:-1,SPORT.TV1 
+http://conexaoonline.top:80/IVONE123/IVONE321/261071
+#EXTINF:-1,SPORT.TV2
+http://conexaoonline.top:80/IVONE123/IVONE321/261069
+#EXTINF:-1,SPORT.TV3 
+http://conexaoonline.top:80/IVONE123/IVONE321/261068
+#EXTINF:-1,SPORT.TV4 
+http://conexaoonline.top:80/IVONE123/IVONE321/261067
+#EXTINF:-1,SPORT.TV5
+http://conexaoonline.top:80/IVONE123/IVONE321/261066
+#EXTINF:-1,TVCine TOP 
+http://conexaoonline.top:80/IVONE123/IVONE321/261106
+#EXTINF:-1,TVCine EDITION 
+http://conexaoonline.top:80/IVONE123/IVONE321/261107
+#EXTINF:-1,TVCine EMOTION 
+http://conexaoonline.top:80/IVONE123/IVONE321/261108
+#EXTINF:-1,TVCine ACTION 
+http://conexaoonline.top:80/IVONE123/IVONE321/261109
 #EXTINF:-1,=== pimentel ===
 #EXTINF:-1,Benfica TV 
 http://tntmais.com:80/2pimentelricardo/890301/10052959
@@ -95,8 +91,6 @@ http://tntmais.com:80/2pimentelricardo/890301/10052986
 http://tntmais.com:80/2pimentelricardo/890301/10052983
 #EXTINF:-1,SPORT.TV5
 http://tntmais.com:80/2pimentelricardo/890301/10052981
-#EXTINF:-1,SKY SPORTS F1
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/46903
 #EXTINF:-1,TVCine TOP 
 http://tntmais.com:80/2pimentelricardo/890301/10053044
 #EXTINF:-1,TVCine EDITION 
@@ -105,41 +99,6 @@ http://tntmais.com:80/2pimentelricardo/890301/10053042
 http://tntmais.com:80/2pimentelricardo/890301/10053039
 #EXTINF:-1,TVCine ACTION 
 http://tntmais.com:80/2pimentelricardo/890301/10053036
-#EXTINF:-1,=== tipxpto ===
-#EXTINF:-1,Benfica TV 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/70
-#EXTINF:-1,Benfica TV 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/68
-#EXTINF:-1,Eleven 1 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/16052
-#EXTINF:-1,Eleven 2 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/76
-#EXTINF:-1,Eleven 3
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/38244
-#EXTINF:-1,Eleven 4
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/38245
-#EXTINF:-1,Eleven 5
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/38246
-#EXTINF:-1,SPORT.TV1 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/16051
-#EXTINF:-1,SPORT.TV2
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/56
-#EXTINF:-1,SPORT.TV3 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/59
-#EXTINF:-1,SPORT.TV4 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/62
-#EXTINF:-1,SPORT.TV5
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/65
-#EXTINF:-1,SKY SPORTS F1
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/46903
-#EXTINF:-1,TVCine TOP 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/19
-#EXTINF:-1,TVCine EDITION 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/21
-#EXTINF:-1,TVCine EMOTION 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/23
-#EXTINF:-1,TVCine ACTION 
-http://tipxpto.club:8080/md4qgbkQMrJn/t7SLCZxj7eUe/25
 #EXTINF:-1,=== boriraja ===
 #EXTINF:-1,Benfica TV 
 http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370420
