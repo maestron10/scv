@@ -1,13 +1,16 @@
 #EXTM3U
-#EXTINF:-1,=== Babnour ===
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62071
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62079
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129169
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62074
+#EXTINF:-1,=== Tourbox ===
+#EXTINF:-1,SPORT TV 1 PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/659
+#EXTINF:-1,SPORT TV 2 PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/658
+#EXTINF:-1,SPORT TV 3 PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/657
+#EXTINF:-1,SPORT TV 4 PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/656
+#EXTINF:-1,SPORT TV 5 PT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/655
+
 #EXTINF:-1,=== Daleplay ===
 #EXTINF:-1,SPORT TV 1 HD
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/129160
