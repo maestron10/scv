@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1,PORT-SPORT TV 1
-http://tv.nousiptv.com:8080/AR10465/10465R/1072130
-
-#EXTINF:-1,SPORT TV 4 HEVC PT
-http://portal.geniptv.com:8080/gh9rEFWKa2/UlQ1CAvJwD/94847
-#EXTINF:-1,PT: SPORT TV4 SD
-http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/1919874.ts
-#EXTINF:-1, SPORT TV 4 FHD 
-http://line.iptv-4k.cc:80/FCD725/19374D/269118
-#EXTINF:-1,SPORT TV 4 FHD
-http://acsb.sh:80/bF3y9W/68GSme/191257.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1492
-#EXTINF:-1,SPORT TV 4 HD PT
-http://main.xplus2-main.xyz:2095/xplus-2-eR4yOu5zB7/SVA2F4ceud/170
-#EXTINF:-1,PT: SPORT TV 4
-http://premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1492
-#EXTINF:-1,PT: Sport TV 4 FHD
-http://splaytv.io:80/Marcelo984258235/hbgy45df/139563
-#EXTINF:-1,PT: SPORT TV 4
-http://conexaoonline.top:80/IVONE123/IVONE321/261067
-#EXTINF:-1,PT: SPORT TV 4
-http://dns.x8full.com:80/marcioreis795417/josemarcio941287/55574
-#EXTINF:-1,PT: SPORT TV 4
-http://9593b.zapto.quest:80/PPp11O6pxw/PrkvKhHDVd/296146
-#EXTINF:-1,Sky f1
-https://qyfb8377447rtirq.fordems.live/live/for-demsf1/chunks.m3u8
-#EXTINF:-1,PT: SPORT TV 4
-http://iptvtree.net:8080/7abb81c7/e9c0e4445d/1492
-#EXTINF:-1,PT: SPORT TV 4 HD*
-http://7go.xyz:8080/Naifaia/Shiwafa/297181
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://line.lemotv.cc:80/cYy8KkyvhE/pvPqaH9XcH/399407.ts
+#EXTINF:-1,=== IptvCh ===
+#EXTINF:-1,Benfica TV 
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159998
+#EXTINF:-1,=== formule ===
+#EXTINF:-1,Benfica TV 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5373.ts
+#EXTINF:-1,Benfica TV 
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5374.ts
+#EXTINF:-1,=== JoseView ===
+#EXTINF:-1,PT: BENFICA TV FHD
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370420
+#EXTINF:-1,PT: BENFICA TV FHD (MEO)
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370421
+#EXTINF:-1,PT: BENFICA TV FHD (NOS)
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370422
+#EXTINF:-1,PT: BENFICA TV UHD
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370423
+#EXTINF:-1,PT: BENFICA TV HD
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370424
+#EXTINF:-1,=== boriraja ===
+#EXTINF:-1,Benfica TV 
+http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370420
+#EXTINF:-1,=== Nicolas ===
+#EXTINF:-1,Benfica TV 
+http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57138.ts
+#EXTINF:-1,=== 37 ===
+#EXTINF:-1,Benfica TV 
+http://37.49.230.42:8080/stadnik/6a627b52a9/1497
+#EXTINF:-1,=== pimentel ===
+#EXTINF:-1,Benfica TV 
+http://tntmais.com:80/2pimentelricardo/890301/10052959
+#EXTINF:-1,Benfica TV 
+http://tntmais.com:80/2pimentelricardo/890301/10052960
 
 
 
