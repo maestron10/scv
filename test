@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BENFICA TV
 http://ufospeeds.com:2095/Stuff/8430721285/37207
+#EXTINF:-1,BENFICA TV
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1497
 #EXTINF:-1,=== bloodshoot ===
 #EXTINF:-1,BTV
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/68
