@@ -1,14 +1,108 @@
 #EXTM3U
-#EXTINF:-1,BENFICA TV
-http://ufospeeds.com:2095/Stuff/8430721285/37207
+#EXTINF:-1,==== SysAdmin =====
 #EXTINF:-1,BENFICA TV
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1497
+#EXTINF:-1,SPORT TV 1
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1483
+#EXTINF:-1,SPORT TV 2
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1486
+#EXTINF:-1,SPORT TV 3
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1489
+#EXTINF:-1,SPORT TV 4
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1492
+#EXTINF:-1,SPORT TV 5
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1495
+#EXTINF:-1,ELEVEN SPORTS 1
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1512
+#EXTINF:-1,==== Prazole =====
+#EXTINF:-1,PT: BTV
+http://prazole.top:8080/151664318988363009/321664318988363/25000
+#EXTINF:-1,SPORT TV 1
+http://prazole.top:8080/151664318988363009/321664318988363/24984
+#EXTINF:-1,SPORT TV 2
+http://prazole.top:8080/151664318988363009/321664318988363/24982
+#EXTINF:-1,SPORT TV 3
+http://prazole.top:8080/151664318988363009/321664318988363/24980
+#EXTINF:-1,SPORT TV 4
+http://prazole.top:8080/151664318988363009/321664318988363/24979
+#EXTINF:-1,SPORT TV 5
+http://prazole.top:8080/151664318988363009/321664318988363/24978
+#EXTINF:-1,SPORT TV 6
+http://prazole.top:8080/151664318988363009/321664318988363/29669
+#EXTINF:-1,ELEVEN SPORT 1
+http://prazole.top:8080/151664318988363009/321664318988363/25024
+#EXTINF:-1,ELEVEN SPORT 2
+http://prazole.top:8080/151664318988363009/321664318988363/25025
+#EXTINF:-1,ELEVEN SPORT 3
+http://prazole.top:8080/151664318988363009/321664318988363/25026
+#EXTINF:-1,ELEVEN SPORT 4
+http://prazole.top:8080/151664318988363009/321664318988363/25027
+#EXTINF:-1,ELEVEN SPORT 5
+http://prazole.top:8080/151664318988363009/321664318988363/25028
+
+#EXTINF:-1,==== Kuchini =====
+#EXTINF:-1,Benfica TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1497
+#EXTINF:-1,ELEVEN SPORTS 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1512
+#EXTINF:-1,SPORT TV 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1483
+#EXTINF:-1,SPORT TV 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1486
+#EXTINF:-1,SPORT TV 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1489
+#EXTINF:-1,SPORT TV 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1492
+#EXTINF:-1,SPORT TV 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1495
+#EXTINF:-1,=== aanax ===
+#EXTINF:-1,BENFICA TV
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
+#EXTINF:-1, SPORT TV 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
+#EXTINF:-1, SPORT TV 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
+#EXTINF:-1,SPORT TV 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1489
+#EXTINF:-1,SPORT TV 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1492
+#EXTINF:-1,SPORT TV 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1495
+#EXTINF:-1,SPORT TV 6
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/281487
+#EXTINF:-1,ELEVEN SPORTS 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1512
+
 #EXTINF:-1,=== bloodshoot ===
-#EXTINF:-1,BTV
+#EXTINF:-1,Benfica
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/68
-#EXTINF:-1,BTV
+#EXTINF:-1,Benfica
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/70
-#EXTINF:-1,BTV
+#EXTINF:-1,Benfica
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/21658
 #EXTINF:-1,DAZN F1
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/36829
@@ -77,78 +171,6 @@ http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/118241
 http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/118242
 #EXTINF:-1,VIP PT: Eleven Sport Extra 4 HD
 http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/118243
-
-#EXTINF:-1,=== formule ===
-#EXTINF:-1,Benfica TV 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5373.ts
-#EXTINF:-1,Benfica TV 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5374.ts
-#EXTINF:-1,Eleven 1 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5354.ts
-#EXTINF:-1,Eleven 2 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5358.ts
-#EXTINF:-1,Eleven 3
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5362.ts
-#EXTINF:-1,Eleven 4
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5365.ts
-#EXTINF:-1,Eleven 5
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5368.ts
-#EXTINF:-1,SPORT.TV1 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5333.ts
-#EXTINF:-1,SPORT.TV2
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5336.ts
-#EXTINF:-1,SPORT.TV3 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5340.ts
-#EXTINF:-1,SPORT.TV4 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5344.ts
-#EXTINF:-1,SPORT.TV5
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5347.ts
-#EXTINF:-1,SKY SPORTS F1
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/15204.ts
-#EXTINF:-1,TVCine TOP 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5391.ts
-#EXTINF:-1,TVCine EDITION 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5394.ts
-#EXTINF:-1,TVCine EMOTION 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5398.ts
-#EXTINF:-1,TVCine ACTION 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5400.ts
-#EXTINF:-1,=== xplatinmedia ===
-#EXTINF:-1,Benfica TV 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74085
-#EXTINF:-1,Benfica TV 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9541
-#EXTINF:-1,Eleven 1 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74179
-#EXTINF:-1,Eleven 2 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9867
-#EXTINF:-1,Eleven 3
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9550
-#EXTINF:-1,Eleven 4
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74090
-#EXTINF:-1,Eleven 5
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9554
-#EXTINF:-1,SPORT.TV1 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74083
-#EXTINF:-1,SPORT.TV2
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74168
-#EXTINF:-1,SPORT.TV3 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74103
-#EXTINF:-1,SPORT.TV4 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9534
-#EXTINF:-1,SPORT.TV5
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9537
-#EXTINF:-1,SKY SPORTS F1
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/143017
-#EXTINF:-1,TVCine TOP 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9587
-#EXTINF:-1,TVCine EDITION 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9589
-#EXTINF:-1,TVCine EMOTION 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9591
-#EXTINF:-1,TVCine ACTION 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9593
-
 #EXTINF:-1,=== Novo ===
 #EXTINF:-1,Benfica TV 
 http://novo1.xyz:8080/testehome/Ew5muOY2uI/123
@@ -268,6 +290,25 @@ http://sysadminhost.net:8080/stadnik/6a627b52a9/1492
 http://sysadminhost.net:8080/stadnik/6a627b52a9/1495
 #EXTINF:-1,UK: SKY SPORT F1
 http://sysadminhost.net:8080/stadnik/6a627b52a9/265
+#EXTINF:-1,=== Mirea ===
+#EXTINF:-1,PORT| BTV HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281521
+#EXTINF:-1,PORT| BENFICA TV  FHD 
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31591
+#EXTINF:-1,PORT| SPORTS TV 1 HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281514
+#EXTINF:-1,PORT| SPORTS TV 2 HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281515
+#EXTINF:-1,PORT| SPORTS TV 3 HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281516
+#EXTINF:-1,PORT| SPORTS TV 4 HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281517
+#EXTINF:-1,PORT| SPORTS TV 5 HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281518
+#EXTINF:-1,PORT| SPORTS TV 6 HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281519
+
+
 #EXTINF:-1,=== Nicolas ===
 #EXTINF:-1,Benfica TV 
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57138.ts
@@ -301,36 +342,3 @@ http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57125.ts
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57126.ts
 #EXTINF:-1,DAZN F1 HD
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/161977.ts
-#EXTINF:-1,=== pimentel ===
-#EXTINF:-1,Benfica TV 
-http://tntmais.com:80/2pimentelricardo/890301/10052959
-#EXTINF:-1,Benfica TV 
-http://tntmais.com:80/2pimentelricardo/890301/10052960
-#EXTINF:-1,Eleven 1 
-http://tntmais.com:80/2pimentelricardo/890301/10052978
-#EXTINF:-1,Eleven 2 
-http://tntmais.com:80/2pimentelricardo/890301/10052975
-#EXTINF:-1,Eleven 3
-http://tntmais.com:80/2pimentelricardo/890301/10052972
-#EXTINF:-1,Eleven 4
-http://tntmais.com:80/2pimentelricardo/890301/10052969
-#EXTINF:-1,Eleven 5
-http://tntmais.com:80/2pimentelricardo/890301/10052966
-#EXTINF:-1,SPORT.TV1 
-http://tntmais.com:80/2pimentelricardo/890301/10052992
-#EXTINF:-1,SPORT.TV2
-http://tntmais.com:80/2pimentelricardo/890301/10052989
-#EXTINF:-1,SPORT.TV3 
-http://tntmais.com:80/2pimentelricardo/890301/10052986
-#EXTINF:-1,SPORT.TV4 
-http://tntmais.com:80/2pimentelricardo/890301/10052983
-#EXTINF:-1,SPORT.TV5
-http://tntmais.com:80/2pimentelricardo/890301/10052981
-#EXTINF:-1,TVCine TOP 
-http://tntmais.com:80/2pimentelricardo/890301/10053044
-#EXTINF:-1,TVCine EDITION 
-http://tntmais.com:80/2pimentelricardo/890301/10053042
-#EXTINF:-1,TVCine EMOTION 
-http://tntmais.com:80/2pimentelricardo/890301/10053039
-#EXTINF:-1,TVCine ACTION 
-http://tntmais.com:80/2pimentelricardo/890301/10053036
