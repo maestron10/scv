@@ -1,4 +1,121 @@
 #EXTM3U
+#EXTINF:-1,==== ProXiptv =====
+#EXTINF:-1,|.PT.| BENFICA TV FHD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/95819.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 1 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/31368.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58880.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58882.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 4 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58884.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58886.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 1 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58888.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 2 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58889.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 3 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58890.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 4 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58891.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 5 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58892.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58893.ts
+#EXTINF:-1,==== Ultra =====
+#EXTINF:-1,BENFICA TV
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/33362
+#EXTINF:-1,ELEVEN SPORTS 1 PT
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/570
+#EXTINF:-1,ELEVEN SPORTS 2 PT
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/571
+#EXTINF:-1,SPORT TV 1 PT 
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/573
+#EXTINF:-1,SPORT TV 2 PT 
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/574
+#EXTINF:-1,SPORT TV 3 PT 
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/575
+#EXTINF:-1,SPORT TV 4 PT 
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/576
+#EXTINF:-1,==== Silvestre =====
+#EXTINF:-1,Benfica TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/122
+#EXTINF:-1,Benfica TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/123
+#EXTINF:-1,BENFICA TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/5443
+#EXTINF:-1,SPORT.TV1
+http://arrepiado.xyz:8080/ASilvestre10/101112/39
+#EXTINF:-1,SPORT.TV1 
+http://arrepiado.xyz:8080/ASilvestre10/101112/5438
+#EXTINF:-1,SPORT.TV2
+http://arrepiado.xyz:8080/ASilvestre10/101112/36
+#EXTINF:-1,SPORT.TV3
+http://arrepiado.xyz:8080/ASilvestre10/101112/33
+#EXTINF:-1,SPORT.TV4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1992
+#EXTINF:-1,SPORT.TV5
+http://arrepiado.xyz:8080/ASilvestre10/101112/1993
+#EXTINF:-1,Eleven Sports 1
+http://arrepiado.xyz:8080/ASilvestre10/101112/102
+#EXTINF:-1,Eleven Sports 2
+http://arrepiado.xyz:8080/ASilvestre10/101112/101
+#EXTINF:-1,Eleven Sports 3
+http://arrepiado.xyz:8080/ASilvestre10/101112/366
+#EXTINF:-1,Eleven Sports 4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1991
+#EXTINF:-1,Eleven Sports 5
+http://arrepiado.xyz:8080/ASilvestre10/101112/60548
+#EXTINF:-1,TVCine TOP
+http://arrepiado.xyz:8080/ASilvestre10/101112/18
+#EXTINF:-1,TVCine EDITION
+http://arrepiado.xyz:8080/ASilvestre10/101112/16
+#EXTINF:-1,TVCine EMOTION
+http://arrepiado.xyz:8080/ASilvestre10/101112/14
+#EXTINF:-1,TVCine ACTION
+http://arrepiado.xyz:8080/ASilvestre10/101112/12
+#EXTINF:-1,==== webvps =====
+#EXTINF:-1,|.PT.S.| BENFICA TV
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58876.ts
+#EXTINF:-1,|.PT.S.| SPORT TV+
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58878.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 1
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58879.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 1 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/31368.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58881.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58880.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 3
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58883.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58882.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 4
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58885.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 4 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58884.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 5
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58887.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58886.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 1 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58888.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 2 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58889.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 3 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58890.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 4 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58891.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 5 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58892.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58893.ts
+#EXTINF:-1,|.PT.| BENFICA TV FHD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/95819.ts
+
 #EXTINF:-1,==== SysAdmin =====
 #EXTINF:-1,BENFICA TV
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1497
