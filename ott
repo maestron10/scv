@@ -1,399 +1,466 @@
 #EXTM3U
-#EXTINF:-1,===== Bokiraja =====
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370392
-#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370393
+#EXTINF:-1,===== Dale =====
 #EXTINF:-1,PT: SPORT TV 1 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370394
-#EXTINF:-1,PT: SPORT TV 1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370395
-#EXTINF:-1,PT: SPORT TV 1 (extra1)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370396
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370397
-#EXTINF:-1,PT: SPORT TV 2 UHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370398
+http://181.233.124.38:80/dale1/dale123/399398.ts
 #EXTINF:-1,PT: SPORT TV 2 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370399
-#EXTINF:-1,PT: SPORT TV 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370400
-#EXTINF:-1,PT: SPORT TV 2  (extra1)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370401
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370402
+http://181.233.124.38:80/dale1/dale123/399401.ts
 #EXTINF:-1,PT: SPORT TV 3 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370403
-#EXTINF:-1,PT: SPORT TV 3
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370404
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370405
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370406
+http://181.233.124.38:80/dale1/dale123/399404.ts
 #EXTINF:-1,PT: SPORT TV 4
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370407
+http://181.233.124.38:80/dale1/dale123/399407.ts
 #EXTINF:-1,PT: SPORT TV 5
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370408
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370409
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370410
-#EXTINF:-1,PT: SPORT TV+ FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370411
-#EXTINF:-1,PT: SPORT TV+ HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370412
-#EXTINF:-1,PT: SPORT TV+
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370413
-#EXTINF:-1,PT: SPORT TV NBA FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370414
-#EXTINF:-1,PT: SPORT TV NBA HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370415
-#EXTINF:-1,PT: SPORT TV NBA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370416
-#EXTINF:-1,PT: CANAL 11 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370417
-#EXTINF:-1,PT: CANAL 11 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370418
-#EXTINF:-1,PT: CANAL 11
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370419
-#EXTINF:-1,PT: BENFICA TV FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370420
-#EXTINF:-1,PT: BENFICA TV FHD (MEO)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370421
-#EXTINF:-1,PT: BENFICA TV FHD (NOS)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370422
-#EXTINF:-1,PT: BENFICA TV UHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370423
-#EXTINF:-1,PT: BENFICA TV HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370424
-#EXTINF:-1,PT: BENFICA TV SD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370425
-#EXTINF:-1,PT: PFC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370426
-#EXTINF:-1,PT: SPORTING TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370427
-#EXTINF:-1,PT: ELEVEN SPORT 1 FHD VIP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370428
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370429
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370430
-#EXTINF:-1,PT: ELEVEN SPORT 2 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370431
-#EXTINF:-1,PT: ELEVEN SPORT 2 FHD VIP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370432
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370433
-#EXTINF:-1,PT: ELEVEN SPORT 3 FHD VIP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370434
-#EXTINF:-1,PT: ELEVEN SPORT 3 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370435
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370436
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370437
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370438
-#EXTINF:-1,PT: ELEVEN SPORT 5 FHD VIP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370439
-#EXTINF:-1,PT: ELEVEN SPORT 5 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370440
-#EXTINF:-1,PT: ELEVEN SPORT 6 FHD VIP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370441
-#EXTINF:-1,PT: ELEVEN SPORT 6 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370442
-#EXTINF:-1,PT: ELEVEN SPORT 6
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370443
-#EXTINF:-1,PT: EUROSPORT  FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370444
-#EXTINF:-1,PT: EUROSPORT 1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370445
-#EXTINF:-1,PT: EUROSPORT 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370446
-#EXTINF:-1,PT: KOMBAT SPORT
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370447
-#EXTINF:-1,PT: MOTORVISION
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370448
-#EXTINF:-1,PT: NOS STUDIOS UHD/FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370449
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370450
-#EXTINF:-1,PT: NOS STUDIOS
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370451
-#EXTINF:-1,PT: TVCINE ACTION FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370452
-#EXTINF:-1,PT: TVCINE ACTION HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370453
-#EXTINF:-1,PT: TVCINE ACTION
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370454
-#EXTINF:-1,PT: TVCINE EDITION FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370455
-#EXTINF:-1,PT: TVCINE EDITION HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370456
-#EXTINF:-1,PT: TVCINE EDITION
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370457
-#EXTINF:-1,PT: TVCINE EMOTION FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370458
-#EXTINF:-1,PT: TVCINE EMOTION HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370459
-#EXTINF:-1,PT: TVCINE EMOTION
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370460
-#EXTINF:-1,PT: TVCINE TOP FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370461
-#EXTINF:-1,PT: TVCINE TOP HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370462
-#EXTINF:-1,PT: TVCINE TOP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370463
-#EXTINF:-1,PT: HOLLYWOOD FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370464
-#EXTINF:-1,PT: HOLLYWOOD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370465
-#EXTINF:-1,PT: SYFY HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370466
-#EXTINF:-1,PT: SYFY
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370467
-#EXTINF:-1,PT: AMC FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370468
-#EXTINF:-1,PT: AMC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370469
-#EXTINF:-1,PT: AXN FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370470
-#EXTINF:-1,PT: AXN HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370471
-#EXTINF:-1,PT: AXN MOVIES FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370472
-#EXTINF:-1,PT: AXN MOVIES HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370473
-#EXTINF:-1,PT: AXN WHITE FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370474
-#EXTINF:-1,PT: AXN WHITE HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370475
-#EXTINF:-1,PT: FOX CRIME FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370476
-#EXTINF:-1,PT: FOX CRIME HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370477
-#EXTINF:-1,PT: FOX FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370478
-#EXTINF:-1,PT: FOX HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370479
-#EXTINF:-1,PT: FOX LIFE FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370480
-#EXTINF:-1,PT: FOX LIFE HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370481
-#EXTINF:-1,PT: FOX MOVIES HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370482
-#EXTINF:-1,PT: FOX MOVIES
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370483
-#EXTINF:-1,PT: Fox COMEDY
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370484
-#EXTINF:-1,PT: CINEMUNDO
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370485
-#EXTINF:-1,PT: 24/7 STARWARS (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370486
-#EXTINF:-1,PT: APANHADOS (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370487
-#EXTINF:-1,PT: APANHADOS 2 (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370488
-#EXTINF:-1,PT: DC TV (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370489
-#EXTINF:-1,PT: DRAGON BALL SUPER (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370490
-#EXTINF:-1,PT: ENERGY CINEMA KINGRESHARE
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370491
-#EXTINF:-1,PT: FERNANDO ROCHA CHANNELS
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370492
-#EXTINF:-1,PT: FILMES ACÃ‡ÃƒO (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370493
-#EXTINF:-1,PT: FILMES ANIMAÃ‡ÃƒO  (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370494
-#EXTINF:-1,PT: FILMES CLÃSSICOS (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370495
-#EXTINF:-1,PT: FILMES THRILLER/TERROR
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370496
-#EXTINF:-1,PT: FILMES WESTERN (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370497
-#EXTINF:-1,PT: HARRY POTTER KINGRESHARE 24/24
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370498
-#EXTINF:-1,PT: MARVEL II (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370499
-#EXTINF:-1,PT: NETFLIX (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370500
-#EXTINF:-1,PT: PORTUGAL A RIR (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370501
-#EXTINF:-1,PT: RICK AND MORTY (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370502
-#EXTINF:-1,PT: ROBOT MOVIES (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370503
-#EXTINF:-1,PT: VINGADORES ANIMAÃ‡ÃƒO (exclusive)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370504
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370505
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370506
-#EXTINF:-1,PT: NAT GEO WILD HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370507
-#EXTINF:-1,PT: NAT GEO WILD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370508
-#EXTINF:-1,PT: CAZA Y PESCA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370509
-#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370510
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370511
-#EXTINF:-1,PT: BLAZE FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370512
-#EXTINF:-1,PT: BLAZE TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370513
-#EXTINF:-1,PT: ODISSEIA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370514
-#EXTINF:-1,PT: INVESTIGATION DISCOVERY FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370515
-#EXTINF:-1,PT: CRIME INVISTIGATION
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370516
-#EXTINF:-1,PT: TV RECORD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370517
-#EXTINF:-1,PT: FOOD NETWORK
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370518
-#EXTINF:-1,PT: 24 KITCHEN FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370519
-#EXTINF:-1,PT: TV GALICIA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370520
-#EXTINF:-1,PT: CAÄ¿AVISION
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370521
-#EXTINF:-1,PT: TRAVEL CHANNEL FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370522
-#EXTINF:-1,PT: CASA E COZINHA FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370523
-#EXTINF:-1,PT: HISTORIA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370524
-#EXTINF:-1,PT: JIM JAM
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370525
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370526
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370527
-#EXTINF:-1,PT: BIGGS
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370528
-#EXTINF:-1,PT: CANAL PANDA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370529
-#EXTINF:-1,PT: CARTOON  NETWORK
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370530
-#EXTINF:-1,PT: NICKELODEON
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370531
-#EXTINF:-1,PT: BABY TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370532
-#EXTINF:-1,PT: NICK JR
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370533
-#EXTINF:-1,PT: A BOLA TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370534
-#EXTINF:-1,PT: A BOLA TV HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370535
-#EXTINF:-1,PT: ARTV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370536
-#EXTINF:-1,PT: BIG BROTHER
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370537
-#EXTINF:-1,PT: CANAL Q
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370538
-#EXTINF:-1,PT: CMTV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370539
-#EXTINF:-1,PT: CMTV HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370540
-#EXTINF:-1,PT: CNN
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370541
-#EXTINF:-1,PT: ESTUDOEMCASA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370542
-#EXTINF:-1,PT: PORTO CANAL
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370543
-#EXTINF:-1,PT: PORTO CANAL FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370544
-#EXTINF:-1,PT: LOLLY KIDS
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370545
-#EXTINF:-1,PT: RTP 1 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370546
-#EXTINF:-1,PT: RTP 1 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370547
-#EXTINF:-1,PT: RTP 1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370548
-#EXTINF:-1,PT: RTP 2 FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370549
-#EXTINF:-1,PT: RTP 2 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370550
-#EXTINF:-1,PT: RTP 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370551
-#EXTINF:-1,PT: RTP 3 HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370552
-#EXTINF:-1,PT: RTP 3 SD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370553
-#EXTINF:-1,PT: RTP AFRICA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370554
-#EXTINF:-1,PT: RTP MADEIRA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370555
-#EXTINF:-1,PT: RTP MEMÃ“RIA
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370556
-#EXTINF:-1,PT: SIC FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370557
-#EXTINF:-1,PT: SIC HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370558
-#EXTINF:-1,PT: Sic
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370559
-#EXTINF:-1,PT: SIC Caras
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370560
-#EXTINF:-1,PT: SIC K
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370561
-#EXTINF:-1,PT: SIC MULHER HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370562
-#EXTINF:-1,PT: SIC MULHER
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370563
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370564
-#EXTINF:-1,PT: SIC NOTICIAS
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370565
-#EXTINF:-1,PT: SIC RADICAL
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370566
-#EXTINF:-1,PT: TLC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370567
-#EXTINF:-1,PT: TOROS TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370568
-#EXTINF:-1,PT: TV GLOBO
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370569
-#EXTINF:-1,PT: TV GLOBO NOW
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370570
-#EXTINF:-1,PT: TVI
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370571
-#EXTINF:-1,PT: TVI 24
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370572
-#EXTINF:-1,PT: TVI FHD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370573
-#EXTINF:-1,PT: TVI FIC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370574
-#EXTINF:-1,PT: TVI REALITY CAMARA 1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370575
-#EXTINF:-1,PT: TVI REALITY
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370576
-#EXTINF:-1,PT: TVI Reality (A Quinta)
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370577
-#EXTINF:-1,PT: CBS REALITY
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370578
-#EXTINF:-1,PT: FUEL TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370579
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370580
-#EXTINF:-1,PT: KURIAKOS TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370581
-#EXTINF:-1,PT: AFRO MUSIC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370582
-#EXTINF:-1,PT: MCM POP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370583
-#EXTINF:-1,PT: MTV PORTUGAL
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370584
-#EXTINF:-1,PT: VH1 CLASSIC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370585
-#EXTINF:-1,PT: TRACE URBAN
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370586
-#EXTINF:-1,PT: VH1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370587
-#EXTINF:-1,PT: ZAP VIVA HD
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370588
+http://181.233.124.38:80/dale1/dale123/399410.ts
+PT: ELEVEN SPORTS 1
+http://181.233.124.38:80/dale1/dale123/399286.ts
+PT: ELEVEN SPORTS 2
+http://181.233.124.38:80/dale1/dale123/399289.ts
+PT: ELEVEN SPORTS 3
+http://181.233.124.38:80/dale1/dale123/399292.ts
+PT: ELEVEN SPORTS 4
+http://181.233.124.38:80/dale1/dale123/399295.ts
+PT: ELEVEN SPORTS 5
+http://181.233.124.38:80/dale1/dale123/399298.ts
+#EXTINF:-1,PT: BTV1
+http://181.233.124.38:80/dale1/dale123/399240.ts
+#EXTINF:-1,===== ProIPTV =====
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/31368.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58880.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58882.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58884.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58886.ts
+PT: ELEVEN SPORTS 1
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58888.ts
+PT: ELEVEN SPORTS 2
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58889.ts
+PT: ELEVEN SPORTS 3
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58890.ts
+PT: ELEVEN SPORTS 4
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58891.ts
+PT: ELEVEN SPORTS 5
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58892.ts
+#EXTINF:-1,PT: BTV1
+http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/95819.ts
+#EXTINF:-1,===== Ultra =====
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/573
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/574
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/575
+#EXTINF:-1,PT: SPORT TV 4
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/576
+PT: ELEVEN SPORTS 1
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/570
+PT: ELEVEN SPORTS 2
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/571
+#EXTINF:-1,PT: BTV1
+http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/33362
+#EXTINF:-1,===== Silvestre =====
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://arrepiado.xyz:8080/ASilvestre10/101112/123
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://arrepiado.xyz:8080/ASilvestre10/101112/36
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://arrepiado.xyz:8080/ASilvestre10/101112/33
+#EXTINF:-1,PT: SPORT TV 4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1992
+#EXTINF:-1,PT: SPORT TV 5
+http://arrepiado.xyz:8080/ASilvestre10/101112/1993
+PT: ELEVEN SPORTS 1
+http://arrepiado.xyz:8080/ASilvestre10/101112/102
+PT: ELEVEN SPORTS 2
+http://arrepiado.xyz:8080/ASilvestre10/101112/101
+PT: ELEVEN SPORTS 3
+http://arrepiado.xyz:8080/ASilvestre10/101112/366
+PT: ELEVEN SPORTS 4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1991
+PT: ELEVEN SPORTS 5
+http://arrepiado.xyz:8080/ASilvestre10/101112/60548
+#EXTINF:-1,PT: BTV1
+http://arrepiado.xyz:8080/ASilvestre10/101112/122
+#EXTINF:-1,===== Chantal =====
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/31368.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58880.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58882.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58884.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58886.ts
+PT: ELEVEN SPORTS 1
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58888.ts
+PT: ELEVEN SPORTS 2
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58889.ts
+PT: ELEVEN SPORTS 3
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58890.ts
+PT: ELEVEN SPORTS 4
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58891.ts
+PT: ELEVEN SPORTS 5
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58892.ts
+#EXTINF:-1,PT: BTV1
+http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58876.ts
+#EXTINF:-1,===== Global =====
+#EXTINF:-1,RTP1
+http://arrepiado.xyz:8080/ASilvestre10/101112/56
+#EXTINF:-1,RTP1á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/57
+#EXTINF:-1,RTP2
+http://arrepiado.xyz:8080/ASilvestre10/101112/54
+#EXTINF:-1,RTP2á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/55
+#EXTINF:-1,RTP3
+http://arrepiado.xyz:8080/ASilvestre10/101112/53
+#EXTINF:-1,RTP3á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68654
+#EXTINF:-1,SIC
+http://arrepiado.xyz:8080/ASilvestre10/101112/46
+#EXTINF:-1,SICá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/48
+#EXTINF:-1,TVI
+http://arrepiado.xyz:8080/ASilvestre10/101112/9
+#EXTINF:-1,TVIá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/139
+#EXTINF:-1,TVI FicÃ§Ã£o
+http://arrepiado.xyz:8080/ASilvestre10/101112/7
+#EXTINF:-1,TVI FicÃ§Ã£oá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/21423
+#EXTINF:-1,TVI Reality
+http://arrepiado.xyz:8080/ASilvestre10/101112/6
+#EXTINF:-1,TVI Realityá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/21424
+#EXTINF:-1,SIC Mulher
+http://arrepiado.xyz:8080/ASilvestre10/101112/45
+#EXTINF:-1,SIC Mulherá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/5454
+#EXTINF:-1,SIC Radical
+http://arrepiado.xyz:8080/ASilvestre10/101112/43
+#EXTINF:-1,SIC Radicalá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/5453
+#EXTINF:-1,Sic Caras	
+http://arrepiado.xyz:8080/ASilvestre10/101112/49
+#EXTINF:-1,SIC Carasá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68645
+#EXTINF:-1,TV Record
+http://arrepiado.xyz:8080/ASilvestre10/101112/20
+#EXTINF:-1,TV Recordá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/3135
+#EXTINF:-1,TV Globo
+http://arrepiado.xyz:8080/ASilvestre10/101112/82
+#EXTINF:-1,TV Globoá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/2002
+#EXTINF:-1,SIC NotÃ­cias
+http://arrepiado.xyz:8080/ASilvestre10/101112/44
+#EXTINF:-1,SIC NotÃ­ciasá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/2000
+#EXTINF:-1,CNN Portugal
+http://arrepiado.xyz:8080/ASilvestre10/101112/39826
+#EXTINF:-1,CNN Portugalá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/5451
+#EXTINF:-1,CMTV
+http://arrepiado.xyz:8080/ASilvestre10/101112/111
+#EXTINF:-1,CMTVá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/65958
+#EXTINF:-1,A Bola TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/137
+#EXTINF:-1,A Bola TVá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/5459
+#EXTINF:-1,Canal 11
+http://arrepiado.xyz:8080/ASilvestre10/101112/2055
+#EXTINF:-1,Canal 11á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/121
+#EXTINF:-1,SAUDE +á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/37217
+#EXTINF:-1,LocalvisÃ£o
+http://arrepiado.xyz:8080/ASilvestre10/101112/2001
+#EXTINF:-1,Euronews
+http://arrepiado.xyz:8080/ASilvestre10/101112/95
+#EXTINF:-1,Lolly Kids
+http://arrepiado.xyz:8080/ASilvestre10/101112/27398
+#EXTINF:-1,Disney Channel
+http://arrepiado.xyz:8080/ASilvestre10/101112/105
+#EXTINF:-1,Disney Chanelá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68646
+#EXTINF:-1,Disney Junior
+http://arrepiado.xyz:8080/ASilvestre10/101112/104
+#EXTINF:-1,Diseny Juniorá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68647
+#EXTINF:-1,Cartoon Network
+http://arrepiado.xyz:8080/ASilvestre10/101112/117
+#EXTINF:-1,Cartoon Networká´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68649
+#EXTINF:-1,Cartonitoo
+http://arrepiado.xyz:8080/ASilvestre10/101112/77341
+#EXTINF:-1,Boomerang
+http://arrepiado.xyz:8080/ASilvestre10/101112/2014
+#EXTINF:-1,Panda
+http://arrepiado.xyz:8080/ASilvestre10/101112/120
+#EXTINF:-1,Pandaá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68648
+#EXTINF:-1,Panda Biggs
+http://arrepiado.xyz:8080/ASilvestre10/101112/127
+#EXTINF:-1,Panda Kids
+http://arrepiado.xyz:8080/ASilvestre10/101112/36498
+#EXTINF:-1,Baby TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/130
+#EXTINF:-1,NICK JR	
+http://arrepiado.xyz:8080/ASilvestre10/101112/65
+#EXTINF:-1,Nickelodeon
+http://arrepiado.xyz:8080/ASilvestre10/101112/64
+#EXTINF:-1,SIC K
+http://arrepiado.xyz:8080/ASilvestre10/101112/47
+#EXTINF:-1,Sic Ká´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68650
+#EXTINF:-1,SPORT.TV+
+http://arrepiado.xyz:8080/ASilvestre10/101112/41
+#EXTINF:-1,SPORT.TV+á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1059
+#EXTINF:-1,Sport.TV4K UHD
+http://arrepiado.xyz:8080/ASilvestre10/101112/22627
+#EXTINF:-1,SPORT.TV1
+http://arrepiado.xyz:8080/ASilvestre10/101112/40
+#EXTINF:-1,Sport.TV1 á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/38
+#EXTINF:-1,SPORT.TV1á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/39
+#EXTINF:-1,SPORT.TV1 á´´Â²â¶âµ
+http://arrepiado.xyz:8080/ASilvestre10/101112/5438
+#EXTINF:-1,SPORT.TV2
+http://arrepiado.xyz:8080/ASilvestre10/101112/37
+#EXTINF:-1,Sport.TV2á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/35
+#EXTINF:-1,SPORT.TV2á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/36
+#EXTINF:-1,SPORT.TV2 á´´Â²â¶âµ
+http://arrepiado.xyz:8080/ASilvestre10/101112/5439
+#EXTINF:-1,SPORT.TV3
+http://arrepiado.xyz:8080/ASilvestre10/101112/34
+#EXTINF:-1,Sport.TV3 á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/32
+#EXTINF:-1,SPORT.TV3á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/33
+#EXTINF:-1,SPORT.TV3á´´Â²â¶âµ
+http://arrepiado.xyz:8080/ASilvestre10/101112/21427
+#EXTINF:-1,SPORT.TV4
+http://arrepiado.xyz:8080/ASilvestre10/101112/31
+#EXTINF:-1,Sport.TV4á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/363
+#EXTINF:-1,SPORT.TV4á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1992
+#EXTINF:-1,SPORT.TV5
+http://arrepiado.xyz:8080/ASilvestre10/101112/30
+#EXTINF:-1,Sport.TV5á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/362
+#EXTINF:-1,SPORT.TV5á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1993
+#EXTINF:-1,Sport.TV6á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/60546
+#EXTINF:-1,SPORT.TV6á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/36497
+#EXTINF:-1,Benfica TV	
+http://arrepiado.xyz:8080/ASilvestre10/101112/124
+#EXTINF:-1,Benfica TVá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/122
+#EXTINF:-1,Benfica TVá¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/123
+#EXTINF:-1,BENFICA TV á´´Â²â¶âµ
+http://arrepiado.xyz:8080/ASilvestre10/101112/5443
+#EXTINF:-1,Benfica TV 4K UHD
+http://arrepiado.xyz:8080/ASilvestre10/101112/16974
+#EXTINF:-1,Eleven Sports 1
+http://arrepiado.xyz:8080/ASilvestre10/101112/370
+#EXTINF:-1,Eleven Sports 1á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/667
+#EXTINF:-1,Eleven Sports 1á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/102
+#EXTINF:-1,Eleven Sports 1á´´Â²â¶âµ
+http://arrepiado.xyz:8080/ASilvestre10/101112/22442
+#EXTINF:-1,Eleven Sports 1 4K UHD
+http://arrepiado.xyz:8080/ASilvestre10/101112/16975
+#EXTINF:-1,Eleven Sports 2
+http://arrepiado.xyz:8080/ASilvestre10/101112/368
+#EXTINF:-1,Eleven Sports 2á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/367
+#EXTINF:-1,Eleven Sports 2á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/101
+#EXTINF:-1,Eleven Sports 3
+http://arrepiado.xyz:8080/ASilvestre10/101112/100
+#EXTINF:-1,Eleven Sports 3á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/365
+#EXTINF:-1,Eleven Sports 3á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/366
+#EXTINF:-1,Eleven Sports 4
+http://arrepiado.xyz:8080/ASilvestre10/101112/99
+#EXTINF:-1,Eleven Sports 4á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1990
+#EXTINF:-1,Eleven Sports 4á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1991
+#EXTINF:-1,Eleven Sports 5
+http://arrepiado.xyz:8080/ASilvestre10/101112/98
+#EXTINF:-1,Eleven Sports 5á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/60547
+#EXTINF:-1,Eleven Sports 5á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/60548
+#EXTINF:-1,Eleven Sports 6
+http://arrepiado.xyz:8080/ASilvestre10/101112/97
+#EXTINF:-1,Eleven Sports 6á¶ á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/60549
+#EXTINF:-1,RTP Arena
+http://arrepiado.xyz:8080/ASilvestre10/101112/28370
+#EXTINF:-1,Ginx
+http://arrepiado.xyz:8080/ASilvestre10/101112/37214
+#EXTINF:-1,Gametooná´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/37095
+#EXTINF:-1,Eurosport 1
+http://arrepiado.xyz:8080/ASilvestre10/101112/94
+#EXTINF:-1,Eurosport 1á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/93
+#EXTINF:-1,Eurosport 2
+http://arrepiado.xyz:8080/ASilvestre10/101112/92
+#EXTINF:-1,Eurosport 2á´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/77597
+#EXTINF:-1,PFC
+http://arrepiado.xyz:8080/ASilvestre10/101112/61
+#EXTINF:-1,Porto Canal
+http://arrepiado.xyz:8080/ASilvestre10/101112/59
+#EXTINF:-1,Porto Canalá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1998
+#EXTINF:-1,Sporting TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/28
+#EXTINF:-1,Sporting TVá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/4855
+#EXTINF:-1,Fight Network HD
+http://arrepiado.xyz:8080/ASilvestre10/101112/1997
+#EXTINF:-1,Fight Sportsá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68651
+#EXTINF:-1,FightBoxá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68652
+#EXTINF:-1,SPORT.TV NBA
+http://arrepiado.xyz:8080/ASilvestre10/101112/29
+#EXTINF:-1,WRC
+http://arrepiado.xyz:8080/ASilvestre10/101112/35890
+#EXTINF:-1,RedBull TVá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/4859
+#EXTINF:-1,Motorvision
+http://arrepiado.xyz:8080/ASilvestre10/101112/71
+#EXTINF:-1,Fuel TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/83
+#EXTINF:-1,NOS Studios
+http://arrepiado.xyz:8080/ASilvestre10/101112/12136
+#EXTINF:-1,NOS Studiosá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/63
+#EXTINF:-1,TVCine TOP
+http://arrepiado.xyz:8080/ASilvestre10/101112/29842
+#EXTINF:-1,TVCine TOPá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/18
+#EXTINF:-1,TVCine EDITION
+http://arrepiado.xyz:8080/ASilvestre10/101112/29843
+#EXTINF:-1,TVCine EDITIONá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/16
+#EXTINF:-1,TVCine EMOTION
+http://arrepiado.xyz:8080/ASilvestre10/101112/29844
+#EXTINF:-1,TVCine EMOTIONá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/14
+#EXTINF:-1,TVCine ACTION
+http://arrepiado.xyz:8080/ASilvestre10/101112/29845
+#EXTINF:-1,TVCine ACTIONá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/12
+#EXTINF:-1,Hollywood
+http://arrepiado.xyz:8080/ASilvestre10/101112/79
+#EXTINF:-1,Hollywoodá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/78
+#EXTINF:-1,Cinemundo
+http://arrepiado.xyz:8080/ASilvestre10/101112/112
+#EXTINF:-1,Cinemundoá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/2006
+#EXTINF:-1,FOX Movies
+http://arrepiado.xyz:8080/ASilvestre10/101112/87
+#EXTINF:-1,FOX Moviesá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/2011
+#EXTINF:-1,AXN Movies
+http://arrepiado.xyz:8080/ASilvestre10/101112/2004
+#EXTINF:-1,AXN Moviesá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/133
+#EXTINF:-1,SyFy
+http://arrepiado.xyz:8080/ASilvestre10/101112/27
+#EXTINF:-1,SyFyá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/2007
+#EXTINF:-1,AXN
+http://arrepiado.xyz:8080/ASilvestre10/101112/2003
+#EXTINF:-1,AXNá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/132
+#EXTINF:-1,Dizi
+http://arrepiado.xyz:8080/ASilvestre10/101112/37215
+#EXTINF:-1,AMC
+http://arrepiado.xyz:8080/ASilvestre10/101112/135
+#EXTINF:-1,AMCá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/134
+#EXTINF:-1,AXN White
+http://arrepiado.xyz:8080/ASilvestre10/101112/2005
+#EXTINF:-1,AXN Whiteá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/131
+#EXTINF:-1,FOX
+http://arrepiado.xyz:8080/ASilvestre10/101112/2008
+#EXTINF:-1,FOXá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/89
+#EXTINF:-1,FOX CRIME
+http://arrepiado.xyz:8080/ASilvestre10/101112/2009
+#EXTINF:-1,FOX CRIMEá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/90
+#EXTINF:-1,FOX Comedy
+http://arrepiado.xyz:8080/ASilvestre10/101112/91
+#EXTINF:-1,FOX Comedyá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/4858
+#EXTINF:-1,FOX LIFE
+http://arrepiado.xyz:8080/ASilvestre10/101112/2010
+#EXTINF:-1,FOX LIFEá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/88
+#EXTINF:-1,ID Investigation Discovery
+http://arrepiado.xyz:8080/ASilvestre10/101112/76
+#EXTINF:-1,AMC Crime 
+http://arrepiado.xyz:8080/ASilvestre10/101112/50876
+#EXTINF:-1,Discovery Channel
+http://arrepiado.xyz:8080/ASilvestre10/101112/107
+#EXTINF:-1,Discovery Channelá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/106
+#EXTINF:-1,Nat Geo Wild
+http://arrepiado.xyz:8080/ASilvestre10/101112/67
+#EXTINF:-1,Nat Geo Wildá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/35848
+#EXTINF:-1,National Geographic
+http://arrepiado.xyz:8080/ASilvestre10/101112/5467
+#EXTINF:-1,National Geographicá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/68
+#EXTINF:-1,History Channel
+http://arrepiado.xyz:8080/ASilvestre10/101112/80
+#EXTINF:-1,History Channelá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/22138
+#EXTINF:-1,Odisseia
+http://arrepiado.xyz:8080/ASilvestre10/101112/62
+#EXTINF:-1,Odisseiaá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/2013
+#EXTINF:-1,TCV Cabo Verde
+http://arrepiado.xyz:8080/ASilvestre10/101112/75762
+#EXTINF:-1,AMC Break
+http://arrepiado.xyz:8080/ASilvestre10/101112/126
+#EXTINF:-1,AMC Breaká´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/1989
+#EXTINF:-1,Crime+ Investigation
+http://arrepiado.xyz:8080/ASilvestre10/101112/108
+#EXTINF:-1,CACAPESCA
+http://arrepiado.xyz:8080/ASilvestre10/101112/116
+#EXTINF:-1,CACAPESCAá´´á´°
+http://arrepiado.xyz:8080/ASilvestre10/101112/8077
+#EXTINF:-1,CaÃ§aVision
+http://arrepiado.xyz:8080/ASilvestre10/101112/115
+#EXTINF:-1,Nautical Channel
+http://arrepiado.xyz:8080/ASilvestre10/101112/73702
+#EXTINF:-1,OPTO SIC
+http://arrepiado.xyz:8080/ASilvestre10/101112/70455
 
-#EXTINF:-1,PT: BTV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370420
