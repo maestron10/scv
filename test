@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1,==== Dale =====
-#EXTINF:-1,PT: BENFICA TV (BTV) FHD
-http://181.233.124.38:80/dale1/dale123/399240.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://181.233.124.38:80/dale1/dale123/399398.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://181.233.124.38:80/dale1/dale123/399401.ts
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://181.233.124.38:80/dale1/dale123/399404.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://181.233.124.38:80/dale1/dale123/399407.ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://181.233.124.38:80/dale1/dale123/399410.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://181.233.124.38:80/dale1/dale123/399286.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://181.233.124.38:80/dale1/dale123/399289.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://181.233.124.38:80/dale1/dale123/399292.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://181.233.124.38:80/dale1/dale123/399295.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://181.233.124.38:80/dale1/dale123/399298.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://181.233.124.38:80/dale1/dale123/399301.ts
-
 #EXTINF:-1,==== ProXiptv =====
 #EXTINF:-1,BENFICA TV FHD
 http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/95819.ts
@@ -104,43 +78,44 @@ http://arrepiado.xyz:8080/ASilvestre10/101112/14
 http://arrepiado.xyz:8080/ASilvestre10/101112/12
 #EXTINF:-1,==== webvps =====
 #EXTINF:-1,|.PT.S.| BENFICA TV
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58876.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58876.ts
 #EXTINF:-1,|.PT.S.| SPORT TV+
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58878.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58878.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 1
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58879.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58879.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 1 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/31368.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/31368.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 2
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58881.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58881.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 2 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58880.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58880.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 3
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58883.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58883.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 3 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58882.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58882.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 4
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58885.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58885.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 4 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58884.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0F/58884.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 5
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58887.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58887.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 5 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58886.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58886.ts
 #EXTINF:-1,|.PT.S.| ELEVEN SPORTS 1 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58888.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58888.ts
 #EXTINF:-1,|.PT.S.| ELEVEN SPORTS 2 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58889.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58889.ts
 #EXTINF:-1,|.PT.S.| ELEVEN SPORTS 3 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58890.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58890.ts
 #EXTINF:-1,|.PT.S.| ELEVEN SPORTS 4 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58891.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58891.ts
 #EXTINF:-1,|.PT.S.| ELEVEN SPORTS 5 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58892.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58892.ts
 #EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58893.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58893.ts
 #EXTINF:-1,|.PT.| BENFICA TV FHD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/95819.ts
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/95819.ts
+
 
 #EXTINF:-1,==== SysAdmin =====
 #EXTINF:-1,BENFICA TV
@@ -165,55 +140,6 @@ http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1506
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1509
 #EXTINF:-1,ELEVEN SPORTS 5
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1512
-#EXTINF:-1,==== Prazole =====
-#EXTINF:-1,PT: BTV
-http://prazole.top:8080/151664318988363009/321664318988363/25000
-#EXTINF:-1,SPORT TV 1
-http://prazole.top:8080/151664318988363009/321664318988363/24984
-#EXTINF:-1,SPORT TV 2
-http://prazole.top:8080/151664318988363009/321664318988363/24982
-#EXTINF:-1,SPORT TV 3
-http://prazole.top:8080/151664318988363009/321664318988363/24980
-#EXTINF:-1,SPORT TV 4
-http://prazole.top:8080/151664318988363009/321664318988363/24979
-#EXTINF:-1,SPORT TV 5
-http://prazole.top:8080/151664318988363009/321664318988363/24978
-#EXTINF:-1,SPORT TV 6
-http://prazole.top:8080/151664318988363009/321664318988363/29669
-#EXTINF:-1,ELEVEN SPORT 1
-http://prazole.top:8080/151664318988363009/321664318988363/25024
-#EXTINF:-1,ELEVEN SPORT 2
-http://prazole.top:8080/151664318988363009/321664318988363/25025
-#EXTINF:-1,ELEVEN SPORT 3
-http://prazole.top:8080/151664318988363009/321664318988363/25026
-#EXTINF:-1,ELEVEN SPORT 4
-http://prazole.top:8080/151664318988363009/321664318988363/25027
-#EXTINF:-1,ELEVEN SPORT 5
-http://prazole.top:8080/151664318988363009/321664318988363/25028
-
-#EXTINF:-1,==== Kuchini =====
-#EXTINF:-1,Benfica TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1497
-#EXTINF:-1,ELEVEN SPORTS 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1499
-#EXTINF:-1,ELEVEN SPORTS 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1503
-#EXTINF:-1,ELEVEN SPORTS 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1506
-#EXTINF:-1,ELEVEN SPORTS 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1509
-#EXTINF:-1,ELEVEN SPORTS 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1512
-#EXTINF:-1,SPORT TV 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1483
-#EXTINF:-1,SPORT TV 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1486
-#EXTINF:-1,SPORT TV 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1489
-#EXTINF:-1,SPORT TV 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1492
-#EXTINF:-1,SPORT TV 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1495
 #EXTINF:-1,=== aanax ===
 #EXTINF:-1,BENFICA TV
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
@@ -239,6 +165,34 @@ http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1506
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1509
 #EXTINF:-1,ELEVEN SPORTS 5
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1512
+#EXTINF:-1,=== maximo ===
+#EXTINF:-1,[PT]_Benfica TV
+http://live.maxcimo.com:8000/DavideSma/98000mc/4279
+#EXTINF:-1,[PT]_SPORT TV 1 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/460
+#EXTINF:-1,[PT]_SPORT TV 2 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/462
+#EXTINF:-1,[PT]_SPORT TV 3 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/464
+#EXTINF:-1,[PT]_SPORT TV 4 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/466
+#EXTINF:-1,[PT]_SPORT TV 5 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/467
+#EXTINF:-1,[PT]_SPORT TV 6 FHD
+http://live.maxcimo.com:8000/DavideSma/98000mc/43022
+#EXTINF:-1,[PT]_ELEVEN SPORTS 1 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/6502
+#EXTINF:-1,[PT]_ELEVEN SPORTS 2 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/6503
+#EXTINF:-1,[PT]_ELEVEN SPORTS 3 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/6504
+#EXTINF:-1,[PT]_ELEVEN SPORTS 4 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/7031
+#EXTINF:-1,[PT]_ELEVEN SPORTS 5 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/7032
+#EXTINF:-1,[PT]_ELEVEN SPORTS 6 HD
+http://live.maxcimo.com:8000/DavideSma/98000mc/7033
+
 
 #EXTINF:-1,=== bloodshoot ===
 #EXTINF:-1,Benfica
@@ -271,6 +225,80 @@ http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/62
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/65
 #EXTINF:-1,SPORT TV 6
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/40698
+#EXTINF:-1,==== Prazole =====
+#EXTINF:-1,PT: BTV
+http://prazole.top:8080/151664318988363009/321664318988363/25000
+#EXTINF:-1,SPORT TV 1
+http://prazole.top:8080/151664318988363009/321664318988363/24984
+#EXTINF:-1,SPORT TV 2
+http://prazole.top:8080/151664318988363009/321664318988363/24982
+#EXTINF:-1,SPORT TV 3
+http://prazole.top:8080/151664318988363009/321664318988363/24980
+#EXTINF:-1,SPORT TV 4
+http://prazole.top:8080/151664318988363009/321664318988363/24979
+#EXTINF:-1,SPORT TV 5
+http://prazole.top:8080/151664318988363009/321664318988363/24978
+#EXTINF:-1,SPORT TV 6
+http://prazole.top:8080/151664318988363009/321664318988363/29669
+#EXTINF:-1,ELEVEN SPORT 1
+http://prazole.top:8080/151664318988363009/321664318988363/25024
+#EXTINF:-1,ELEVEN SPORT 2
+http://prazole.top:8080/151664318988363009/321664318988363/25025
+#EXTINF:-1,ELEVEN SPORT 3
+http://prazole.top:8080/151664318988363009/321664318988363/25026
+#EXTINF:-1,ELEVEN SPORT 4
+http://prazole.top:8080/151664318988363009/321664318988363/25027
+#EXTINF:-1,ELEVEN SPORT 5
+http://prazole.top:8080/151664318988363009/321664318988363/25028
+#EXTINF:-1,==== Dale =====
+#EXTINF:-1,PT: BENFICA TV (BTV) FHD
+http://181.233.124.38:80/dale1/dale123/399240.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://181.233.124.38:80/dale1/dale123/399398.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://181.233.124.38:80/dale1/dale123/399401.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://181.233.124.38:80/dale1/dale123/399404.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://181.233.124.38:80/dale1/dale123/399407.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://181.233.124.38:80/dale1/dale123/399410.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://181.233.124.38:80/dale1/dale123/399286.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://181.233.124.38:80/dale1/dale123/399289.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://181.233.124.38:80/dale1/dale123/399292.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://181.233.124.38:80/dale1/dale123/399295.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://181.233.124.38:80/dale1/dale123/399298.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://181.233.124.38:80/dale1/dale123/399301.ts
+#EXTINF:-1,==== Kuchini =====
+#EXTINF:-1,Benfica TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1497
+#EXTINF:-1,ELEVEN SPORTS 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1512
+#EXTINF:-1,SPORT TV 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1483
+#EXTINF:-1,SPORT TV 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1486
+#EXTINF:-1,SPORT TV 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1489
+#EXTINF:-1,SPORT TV 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1492
+#EXTINF:-1,SPORT TV 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1495
+
 #EXTINF:-1,=== Sabunsci ===
 #EXTINF:-1,Benfica TV 
 http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/9642
