@@ -1,7 +1,85 @@
 #EXTM3U
-#EXTINF:-1,==== ProXiptv =====
+#EXTINF:-1,==== SmartSystem =====
+#EXTINF:-1,BENFICA TV
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73370
+#EXTINF:-1,BTV HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73371
+#EXTINF:-1,Eleven Sports 1 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73349
+#EXTINF:-1,Eleven Sports 2 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73350
+#EXTINF:-1,Eleven Sports 3 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73351
+#EXTINF:-1,Eleven Sports 4 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73352
+#EXTINF:-1,Eleven Sports 5 FHD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73353
+#EXTINF:-1,SPORT TV 1 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73362
+#EXTINF:-1,SPORT TV 2 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73364
+#EXTINF:-1,SPORT TV 3 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73366
+#EXTINF:-1,SPORT TV 3
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73367
+#EXTINF:-1,SPORT TV 4
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73368
+#EXTINF:-1,SPORT TV 5
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73369
 
-#EXTINF:-1,==== Ultra =====
+#EXTINF:-1,==== Resplice =====
+#EXTINF:-1,PT: Benfica TV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1497
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1512
+#EXTINF:-1,PT: SPORT TV 1
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1495
+==== Tex@epic =====
+#EXTINF:-1,BENFICA TV HD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9791
+#EXTINF:-1,BENFICA TV FHD 
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9792
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9742
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9743
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9744
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9750
+#EXTINF:-1,ELEVENS SPORTS 4 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9800
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9797
+#EXTINF:-1,SPORT TV 1
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/36979
+#EXTINF:-1,SPORT TV 1 HD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/37016
+#EXTINF:-1,SPORT TV2 HD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9731
+#EXTINF:-1,SPORT TV 3 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9733
+#EXTINF:-1,SPORT TV4 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9737
+#EXTINF:-1,SPORT TV5 FHD
+http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/9739
+
 
 #EXTINF:-1,==== Silvestre =====
 #EXTINF:-1,Benfica TV
@@ -10,6 +88,16 @@ http://arrepiado.xyz:8080/ASilvestre10/101112/122
 http://arrepiado.xyz:8080/ASilvestre10/101112/123
 #EXTINF:-1,BENFICA TV
 http://arrepiado.xyz:8080/ASilvestre10/101112/5443
+#EXTINF:-1,Eleven Sports 1
+http://arrepiado.xyz:8080/ASilvestre10/101112/102
+#EXTINF:-1,Eleven Sports 2
+http://arrepiado.xyz:8080/ASilvestre10/101112/101
+#EXTINF:-1,Eleven Sports 3
+http://arrepiado.xyz:8080/ASilvestre10/101112/366
+#EXTINF:-1,Eleven Sports 4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1991
+#EXTINF:-1,Eleven Sports 5
+http://arrepiado.xyz:8080/ASilvestre10/101112/60548
 #EXTINF:-1,SPORT.TV1
 http://arrepiado.xyz:8080/ASilvestre10/101112/39
 #EXTINF:-1,SPORT.TV1 
@@ -22,16 +110,6 @@ http://arrepiado.xyz:8080/ASilvestre10/101112/33
 http://arrepiado.xyz:8080/ASilvestre10/101112/1992
 #EXTINF:-1,SPORT.TV5
 http://arrepiado.xyz:8080/ASilvestre10/101112/1993
-#EXTINF:-1,Eleven Sports 1
-http://arrepiado.xyz:8080/ASilvestre10/101112/102
-#EXTINF:-1,Eleven Sports 2
-http://arrepiado.xyz:8080/ASilvestre10/101112/101
-#EXTINF:-1,Eleven Sports 3
-http://arrepiado.xyz:8080/ASilvestre10/101112/366
-#EXTINF:-1,Eleven Sports 4
-http://arrepiado.xyz:8080/ASilvestre10/101112/1991
-#EXTINF:-1,Eleven Sports 5
-http://arrepiado.xyz:8080/ASilvestre10/101112/60548
 #EXTINF:-1,TVCine TOP
 http://arrepiado.xyz:8080/ASilvestre10/101112/18
 #EXTINF:-1,TVCine EDITION
@@ -81,7 +159,7 @@ http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58892.ts
 http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58893.ts
 
 
-#EXTINF:-1,==== SysAdmin =====
+
 
 #EXTINF:-1,=== aanax ===
 #EXTINF:-1,BENFICA TV
@@ -355,7 +433,6 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/1448
 http://37.49.230.42:8080/stadnik/6a627b52a9/1452
 #EXTINF:-1,UK: Sky Sports F1
 http://37.49.230.42:8080/stadnik/6a627b52a9/265
-
 #EXTINF:-1,=== Mirea ===
 #EXTINF:-1,PORT| BTV HD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281521
@@ -408,3 +485,27 @@ http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57125.ts
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/57126.ts
 #EXTINF:-1,DAZN F1 HD
 http://tv.streamid.tv:8080/live/nicolaspastrian628265/c7TnfsYQQU/161977.ts
+#EXTINF:-1,==== Canada =====
+#EXTINF:-1,BTV FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399240
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399286
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399289
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399292
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399295
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399298
+#EXTINF:-1,SPORT TV 1 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399398
+#EXTINF:-1,SPORT TV 2 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399401
+#EXTINF:-1,SPORT TV 3 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399404
+#EXTINF:-1,SPORT TV 4 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399407
+#EXTINF:-1,SPORT TV 5 FHD
+http://live.iptvcanada.tv:80/k8ec3yzmwc/8477962832/399410
+
