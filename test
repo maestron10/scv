@@ -1,44 +1,8 @@
 #EXTM3U
 #EXTINF:-1,==== ProXiptv =====
-#EXTINF:-1,BENFICA TV FHD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/95819.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/31368.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58880.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58882.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58884.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58886.ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58888.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58889.ts
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58890.ts
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58891.ts
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58892.ts
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58893.ts
+
 #EXTINF:-1,==== Ultra =====
-#EXTINF:-1,BENFICA TV
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/33362
-#EXTINF:-1,ELEVEN SPORTS 1 PT
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/570
-#EXTINF:-1,ELEVEN SPORTS 2 PT
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/571
-#EXTINF:-1,SPORT TV 1 PT 
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/573
-#EXTINF:-1,SPORT TV 2 PT 
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/574
-#EXTINF:-1,SPORT TV 3 PT 
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/575
-#EXTINF:-1,SPORT TV 4 PT 
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/576
+
 #EXTINF:-1,==== Silvestre =====
 #EXTINF:-1,Benfica TV
 http://arrepiado.xyz:8080/ASilvestre10/101112/122
@@ -77,69 +41,48 @@ http://arrepiado.xyz:8080/ASilvestre10/101112/14
 #EXTINF:-1,TVCine ACTION
 http://arrepiado.xyz:8080/ASilvestre10/101112/12
 #EXTINF:-1,==== webvps =====
-#EXTINF:-1,|.PT.S.| BENFICA TV
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58876.ts
-#EXTINF:-1,|.PT.S.| SPORT TV+
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58878.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 1
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58879.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 1 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/31368.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 2
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58881.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58880.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 3
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58883.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58882.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 4
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58885.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 4 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0F/58884.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 5
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58887.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58886.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 1 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58888.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 2 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58889.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 3 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58890.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 4 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58891.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 5 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58892.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
-http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58893.ts
-#EXTINF:-1,|.PT.| BENFICA TV FHD
+#EXTINF:-1,BENFICA TV FHD
 http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/95819.ts
+#EXTINF:-1,BENFICA TV
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58876.ts
+#EXTINF:-1,SPORT TV+
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58878.ts
+#EXTINF:-1,SPORT TV 1
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58879.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/31368.ts
+#EXTINF:-1,SPORT TV 2
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58881.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58880.ts
+#EXTINF:-1,SPORT TV 3
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58883.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58882.ts
+#EXTINF:-1,SPORT TV 4
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58885.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0F/58884.ts
+#EXTINF:-1,SPORT TV 5
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58887.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58886.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58888.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58889.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58890.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58891.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58892.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://tv.pro-ott.com:25443/live/979369KWN8/FBLVDUR6C0/58893.ts
 
 
 #EXTINF:-1,==== SysAdmin =====
-#EXTINF:-1,BENFICA TV
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1497
-#EXTINF:-1,SPORT TV 1
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1483
-#EXTINF:-1,SPORT TV 2
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1486
-#EXTINF:-1,SPORT TV 3
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1489
-#EXTINF:-1,SPORT TV 4
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1492
-#EXTINF:-1,SPORT TV 5
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1495
-#EXTINF:-1,ELEVEN SPORTS 1
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1499
-#EXTINF:-1,ELEVEN SPORTS 2
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1503
-#EXTINF:-1,ELEVEN SPORTS 3
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1506
-#EXTINF:-1,ELEVEN SPORTS 4
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1509
-#EXTINF:-1,ELEVEN SPORTS 5
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/1512
+
 #EXTINF:-1,=== aanax ===
 #EXTINF:-1,BENFICA TV
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
@@ -166,34 +109,32 @@ http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1509
 #EXTINF:-1,ELEVEN SPORTS 5
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1512
 #EXTINF:-1,=== maximo ===
-#EXTINF:-1,[PT]_Benfica TV
+#EXTINF:-1,Benfica TV
 http://live.maxcimo.com:8000/DavideSma/98000mc/4279
-#EXTINF:-1,[PT]_SPORT TV 1 HD
+#EXTINF:-1,SPORT TV 1 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/460
-#EXTINF:-1,[PT]_SPORT TV 2 HD
+#EXTINF:-1,SPORT TV 2 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/462
-#EXTINF:-1,[PT]_SPORT TV 3 HD
+#EXTINF:-1,SPORT TV 3 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/464
-#EXTINF:-1,[PT]_SPORT TV 4 HD
+#EXTINF:-1,SPORT TV 4 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/466
-#EXTINF:-1,[PT]_SPORT TV 5 HD
+#EXTINF:-1,SPORT TV 5 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/467
-#EXTINF:-1,[PT]_SPORT TV 6 FHD
+#EXTINF:-1,SPORT TV 6 FHD
 http://live.maxcimo.com:8000/DavideSma/98000mc/43022
-#EXTINF:-1,[PT]_ELEVEN SPORTS 1 HD
+#EXTINF:-1,ELEVEN SPORTS 1 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/6502
-#EXTINF:-1,[PT]_ELEVEN SPORTS 2 HD
+#EXTINF:-1,ELEVEN SPORTS 2 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/6503
-#EXTINF:-1,[PT]_ELEVEN SPORTS 3 HD
+#EXTINF:-1,ELEVEN SPORTS 3 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/6504
-#EXTINF:-1,[PT]_ELEVEN SPORTS 4 HD
+#EXTINF:-1,ELEVEN SPORTS 4 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/7031
-#EXTINF:-1,[PT]_ELEVEN SPORTS 5 HD
+#EXTINF:-1,ELEVEN SPORTS 5 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/7032
-#EXTINF:-1,[PT]_ELEVEN SPORTS 6 HD
+#EXTINF:-1,ELEVEN SPORTS 6 HD
 http://live.maxcimo.com:8000/DavideSma/98000mc/7033
-
-
 #EXTINF:-1,=== bloodshoot ===
 #EXTINF:-1,Benfica
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/68
@@ -226,7 +167,7 @@ http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/65
 #EXTINF:-1,SPORT TV 6
 http://x.bloodshot.eu:8080/aaeZDdKVwp/uSEMht6AvD/40698
 #EXTINF:-1,==== Prazole =====
-#EXTINF:-1,PT: BTV
+#EXTINF:-1,BTV
 http://prazole.top:8080/151664318988363009/321664318988363/25000
 #EXTINF:-1,SPORT TV 1
 http://prazole.top:8080/151664318988363009/321664318988363/24984
@@ -276,28 +217,6 @@ http://181.233.124.38:80/dale1/dale123/399298.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
 http://181.233.124.38:80/dale1/dale123/399301.ts
 #EXTINF:-1,==== Kuchini =====
-#EXTINF:-1,Benfica TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1497
-#EXTINF:-1,ELEVEN SPORTS 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1499
-#EXTINF:-1,ELEVEN SPORTS 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1503
-#EXTINF:-1,ELEVEN SPORTS 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1506
-#EXTINF:-1,ELEVEN SPORTS 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1509
-#EXTINF:-1,ELEVEN SPORTS 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1512
-#EXTINF:-1,SPORT TV 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1483
-#EXTINF:-1,SPORT TV 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1486
-#EXTINF:-1,SPORT TV 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1489
-#EXTINF:-1,SPORT TV 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1492
-#EXTINF:-1,SPORT TV 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1495
 
 #EXTINF:-1,=== Sabunsci ===
 #EXTINF:-1,Benfica TV 
@@ -377,7 +296,7 @@ http://novo1.xyz:8080/testehome/Ew5muOY2uI/16
 http://novo1.xyz:8080/testehome/Ew5muOY2uI/14
 #EXTINF:-1,TVCine ACTION 
 http://novo1.xyz:8080/testehome/Ew5muOY2uI/12
-#EXTINF:-1,NOS Studiosá´´á´°
+#EXTINF:-1,NOS Studios
 http://novo1.xyz:8080/testehome/Ew5muOY2uI/63
 #EXTINF:-1,===C4N ===
 #EXTINF:-1,PT: ELEVEN SPORTS 1
@@ -436,31 +355,7 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/1448
 http://37.49.230.42:8080/stadnik/6a627b52a9/1452
 #EXTINF:-1,UK: Sky Sports F1
 http://37.49.230.42:8080/stadnik/6a627b52a9/265
-#EXTINF:-1,=== aanax ===
-#EXTINF:-1,Benfica TV 
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1497
-#EXTINF:-1,Eleven 1 
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1499
-#EXTINF:-1,Eleven 2 
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1503
-#EXTINF:-1,Eleven 3
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1506
-#EXTINF:-1,Eleven 4
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1509
-#EXTINF:-1,Eleven 5
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1512
-#EXTINF:-1,SPORT.TV1 
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1483
-#EXTINF:-1,SPORT.TV2
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1486
-#EXTINF:-1,SPORT.TV3 
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1489
-#EXTINF:-1,SPORT.TV4 
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1492
-#EXTINF:-1,SPORT.TV5
-http://sysadminhost.net:8080/stadnik/6a627b52a9/1495
-#EXTINF:-1,UK: SKY SPORT F1
-http://sysadminhost.net:8080/stadnik/6a627b52a9/265
+
 #EXTINF:-1,=== Mirea ===
 #EXTINF:-1,PORT| BTV HD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281521
