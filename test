@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1, ====Exc@UnableX====
+#EXTINF:-1,||PT|| SPORT TV 1  LOCAL
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36979
+#EXTINF:-1,||PT|| SPORT TV 1 4k
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37016
+#EXTINF:-1,||PT|| SPORT TV2 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9731
+#EXTINF:-1,||PT|| SPORT TV3 FHD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9734
+#EXTINF:-1,||PT|| SPORT TV4 FHD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9737
+#EXTINF:-1,||PT|| SPORT TV5 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9740
+#EXTINF:-1,||PT|| ELEVEN SPORTS 1 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9743
+#EXTINF:-1,||PT|| ELEVEN SPORTS 2 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9746
+#EXTINF:-1,||PT|| ELEVEN SPORTS 3 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9749
+#EXTINF:-1,||PT|| ELEVENS SPORTS 4 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9799
+#EXTINF:-1,||PT|| ELEVEN SPORTS 5 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9796
+#EXTINF:-1,||PT|| ELEVEN SPORTS 6 HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9794
+#EXTINF:-1,||PT|| BENFICA TV HD
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9791
+#EXTINF:-1,||PT|| BENFICA TV FHD (NOS)
+http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9792
+
+
+
 #EXTINF:-1, ====aanax====
 #EXTINF:-1,BENFICA TV
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
