@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-1, ====aanax====
+#EXTINF:-1,BENFICA TV
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
+#EXTINF:-1, SPORT TV 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
+#EXTINF:-1, SPORT TV 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
+#EXTINF:-1,SPORT TV 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1489
+#EXTINF:-1,SPORT TV 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1492
+#EXTINF:-1,SPORT TV 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1495
+#EXTINF:-1,SPORT TV 6
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/281487
+#EXTINF:-1,ELEVEN SPORTS 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1512
 #EXTINF:-1, ====Mundo====
 #EXTINF:-1,PORT| SPORTST V PORTUGAL 1 HD
 http://mundorestream.com:8080/1128221512/yUFEAr88Lv/91039
