@@ -1,10 +1,82 @@
 #EXTM3U
-#EXTINF:-1,PT: SPORT TV 1 HD
-
-#EXTINF:-1,PT: SPORT TV 2 HD
-
-#EXTINF:-1,PT: SPORT TV 3 HD
-
-#EXTINF:-1,PT: SPORT TV 4
-
-#EXTINF:-1,PT: SPORT TV 5
+#EXTINF:-1,==== Silvestre =====
+#EXTINF:-1,Benfica TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/122
+#EXTINF:-1,Benfica TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/123
+#EXTINF:-1,BENFICA TV
+http://arrepiado.xyz:8080/ASilvestre10/101112/5443
+#EXTINF:-1,Eleven Sports 1
+http://arrepiado.xyz:8080/ASilvestre10/101112/102
+#EXTINF:-1,Eleven Sports 2
+http://arrepiado.xyz:8080/ASilvestre10/101112/101
+#EXTINF:-1,Eleven Sports 3
+http://arrepiado.xyz:8080/ASilvestre10/101112/366
+#EXTINF:-1,Eleven Sports 4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1991
+#EXTINF:-1,Eleven Sports 5
+http://arrepiado.xyz:8080/ASilvestre10/101112/60548
+#EXTINF:-1,SPORT.TV1
+http://arrepiado.xyz:8080/ASilvestre10/101112/39
+#EXTINF:-1,SPORT.TV1 
+http://arrepiado.xyz:8080/ASilvestre10/101112/5438
+#EXTINF:-1,SPORT.TV2
+http://arrepiado.xyz:8080/ASilvestre10/101112/36
+#EXTINF:-1,SPORT.TV3
+http://arrepiado.xyz:8080/ASilvestre10/101112/33
+#EXTINF:-1,SPORT.TV4
+http://arrepiado.xyz:8080/ASilvestre10/101112/1992
+#EXTINF:-1,SPORT.TV5
+http://arrepiado.xyz:8080/ASilvestre10/101112/1993
+#EXTINF:-1,=== aanax ===
+#EXTINF:-1,BENFICA TV
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
+#EXTINF:-1, SPORT TV 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
+#EXTINF:-1, SPORT TV 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
+#EXTINF:-1,SPORT TV 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1489
+#EXTINF:-1,SPORT TV 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1492
+#EXTINF:-1,SPORT TV 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1495
+#EXTINF:-1,SPORT TV 6
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/281487
+#EXTINF:-1,ELEVEN SPORTS 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1512
+#EXTINF:-1,=== Novo ===
+#EXTINF:-1,Benfica TV 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/123
+#EXTINF:-1,Benfica TV 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/5443
+#EXTINF:-1,Eleven 1 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/102
+#EXTINF:-1,Eleven 2 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/101
+#EXTINF:-1,Eleven 3
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/366
+#EXTINF:-1,Eleven 4
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/1991
+#EXTINF:-1,Eleven 5
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/60548
+#EXTINF:-1,SPORT.TV1 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/39
+#EXTINF:-1,SPORT.TV2
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/36
+#EXTINF:-1,SPORT.TV3 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/33
+#EXTINF:-1,SPORT.TV4 
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/1992
+#EXTINF:-1,SPORT.TV5
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/1993
+#EXTINF:-1,SKY SPORTS F1
+http://novo1.xyz:8080/testehome/Ew5muOY2uI/73670
