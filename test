@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF:-1, ====Exc@UnableX====
+#EXTINF:-1, ====Live====
+#EXTINF:0, ELEVEN SPORTS 1 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, ELEVEN SPORTS 2 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, ELEVEN SPORTS 3 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, ELEVEN SPORTS 4 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, ELEVEN SPORTS 5 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, SPORT TV 1 HD
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, SPORT TV 2 HD
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, SPORT TV 3 HD
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0, SPORT TV 4 HD
+http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, ===Eccnage====
 #EXTINF:-1,||PT|| SPORT TV 1  LOCAL
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36979
 #EXTINF:-1,||PT|| SPORT TV 1 4k
