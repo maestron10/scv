@@ -1,1 +1,47 @@
 #EXTM3U
+#EXTINF:-1, ====Mundo====
+#EXTINF:-1,PORT| SPORTST V PORTUGAL 1 HD
+http://mundorestream.com:8080/1128221512/yUFEAr88Lv/91039
+#EXTINF:-1,PORTUGAL| SPORTS TV 1 FHD
+http://mundorestream.com:8080/1128221512/yUFEAr88Lv/91040
+#EXTINF:-1, ====hakopsi====
+#EXTINF:-1,PT: SPORT TV 1
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2815
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2819
+#EXTINF:-1,PT: SPORT TV 2
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2818
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2822
+#EXTINF:-1,PT: SPORT TV 3
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2821
+#EXTINF:-1,PT: SPORT TV 4
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2824
+#EXTINF:-1,PT: SPORT TV 5
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2827
+#EXTINF:-1,PT: BENFICA TV
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2845
+#EXTINF:-1,PT: BTV HD
+http://1.hakosip.xyz:8080/tJDzMVetpS/6PxkRe76r8/2846
+#EXTINF:-1, ====line rs====
+#EXTINF:-1,PT -  SPORT TV 1 HD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812987
+#EXTINF:-1,PT - SPORT TV 1 UHD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/250585
+#EXTINF:-1,PT -  SPORT TV 2 SD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812983
+#EXTINF:-1,PT -  SPORT TV 2 HD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812988
+#EXTINF:-1,PT - SPORT TV 2 UHD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/250584
+#EXTINF:-1,PT -  SPORT TV 3 SD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812984
+#EXTINF:-1,PT -  SPORT TV 3 HD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812989
+#EXTINF:-1,PT - SPORT TV 3 UHD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/250583
+#EXTINF:-1,PT -  SPORT TV 4 SD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812985
+#EXTINF:-1,PT -  SPORT TV 4 HD
+http://line.rs4ott.com:80/xr4ao6h3jw/i4udycit0z/812990
+
