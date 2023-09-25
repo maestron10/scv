@@ -18,6 +18,40 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SPORT TV 4 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1, ===varios====
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61981
+#EXTINF:-1,BENFICA TV FHD PT
+http://clientsportals.com:80/oQUCFpEeFq/u5C1DYYr/68985
+#EXTINF:-1,BTV 1
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77953
+#EXTINF:-1,BTV 1 FHD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/78167
+#EXTINF:-1,BTV FHD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77956
+#EXTINF:-1,BTV HD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77954
+#EXTINF:-1,SPORT TV 1 HD PT
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/234820
+#EXTINF:-1,SPORT TV 2 HD PT
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/234821
+#EXTINF:-1,SPORT TV 3 HD PT
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/234822
+#EXTINF:-1,SPORT TV 4 HD PT
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/234823
+#EXTINF:-1,SPORT TV 5 HD PT
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/234824
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77963
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77969
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/174470
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/174471
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77976
+
 
 #EXTINF:-1, ===Eccnage====
 #EXTINF:-1,||PT|| SPORT TV 1  LOCAL
