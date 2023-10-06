@@ -112,8 +112,31 @@ http://mundorestream.com:8080/1128221512/yUFEAr88Lv/91039
 #EXTINF:-1,PORTUGAL| SPORTS TV 1 FHD
 http://mundorestream.com:8080/1128221512/yUFEAr88Lv/91040
 
-
-#EXTINF:-1, ====dominio====
+#EXTINF:-1, ====aanax====
+#EXTINF:0 type="stream" channelId="2834", BENFICA TV
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1497
+#EXTINF:0 type="stream" channelId="1582", SPORT TV 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
+#EXTINF:0 type="stream" channelId="1584", SPORT TV 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
+#EXTINF:0 type="stream" channelId="1585", SPORT TV 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1489
+#EXTINF:0 type="stream" channelId="1586", SPORT TV 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1492
+#EXTINF:0 type="stream" channelId="2862", SPORT TV 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1495
+#EXTINF:0 type="stream" channelId="-1", SPORT TV 6
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/281487
+#EXTINF:0 type="stream" channelId="3194", ELEVEN SPORTS 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1499
+#EXTINF:0 type="stream" channelId="3196", ELEVEN SPORTS 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1503
+#EXTINF:0 type="stream" channelId="3195", ELEVEN SPORTS 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1506
+#EXTINF:0 type="stream" channelId="3657", ELEVEN SPORTS 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1509
+#EXTINF:0 type="stream" channelId="4168", ELEVEN SPORTS 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1512
 
 
 #EXTINF:-1, ====hakopsi====
