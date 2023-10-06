@@ -1,466 +1,77 @@
 #EXTM3U
 #EXTINF:-1,===== Dale =====
 #EXTINF:-1,PT: SPORT TV 1 HD
-http://181.233.124.38:80/dale1/dale123/399398.ts
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 2 HD
-http://181.233.124.38:80/dale1/dale123/399401.ts
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 3 HD
-http://181.233.124.38:80/dale1/dale123/399404.ts
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 4
-http://181.233.124.38:80/dale1/dale123/399407.ts
+http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 5
-http://181.233.124.38:80/dale1/dale123/399410.ts
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/90
 PT: ELEVEN SPORTS 1
-http://181.233.124.38:80/dale1/dale123/399286.ts
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 PT: ELEVEN SPORTS 2
-http://181.233.124.38:80/dale1/dale123/399289.ts
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 PT: ELEVEN SPORTS 3
-http://181.233.124.38:80/dale1/dale123/399292.ts
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 PT: ELEVEN SPORTS 4
-http://181.233.124.38:80/dale1/dale123/399295.ts
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 PT: ELEVEN SPORTS 5
-http://181.233.124.38:80/dale1/dale123/399298.ts
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: BTV1
-http://181.233.124.38:80/dale1/dale123/399240.ts
-#EXTINF:-1,===== ProIPTV =====
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/31368.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58880.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58882.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58884.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58886.ts
-PT: ELEVEN SPORTS 1
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58888.ts
-PT: ELEVEN SPORTS 2
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58889.ts
-PT: ELEVEN SPORTS 3
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58890.ts
-PT: ELEVEN SPORTS 4
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58891.ts
-PT: ELEVEN SPORTS 5
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/58892.ts
-#EXTINF:-1,PT: BTV1
-http://pro.xviptv.com:25443/live/V18UzbOEOHyGE/A0wWBHX7VG/95819.ts
-#EXTINF:-1,===== Ultra =====
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/573
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/574
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/575
-#EXTINF:-1,PT: SPORT TV 4
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/576
-PT: ELEVEN SPORTS 1
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/570
-PT: ELEVEN SPORTS 2
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/571
-#EXTINF:-1,PT: BTV1
-http://ultrapremium.ch:8080/albanci.seru.i.pisaju.po.srbima.gamadima/albin.kurti.jebe.srpkinje/33362
-#EXTINF:-1,===== Silvestre =====
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://arrepiado.xyz:8080/ASilvestre10/101112/123
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://arrepiado.xyz:8080/ASilvestre10/101112/36
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://arrepiado.xyz:8080/ASilvestre10/101112/33
-#EXTINF:-1,PT: SPORT TV 4
-http://arrepiado.xyz:8080/ASilvestre10/101112/1992
-#EXTINF:-1,PT: SPORT TV 5
-http://arrepiado.xyz:8080/ASilvestre10/101112/1993
-PT: ELEVEN SPORTS 1
-http://arrepiado.xyz:8080/ASilvestre10/101112/102
-PT: ELEVEN SPORTS 2
-http://arrepiado.xyz:8080/ASilvestre10/101112/101
-PT: ELEVEN SPORTS 3
-http://arrepiado.xyz:8080/ASilvestre10/101112/366
-PT: ELEVEN SPORTS 4
-http://arrepiado.xyz:8080/ASilvestre10/101112/1991
-PT: ELEVEN SPORTS 5
-http://arrepiado.xyz:8080/ASilvestre10/101112/60548
-#EXTINF:-1,PT: BTV1
-http://arrepiado.xyz:8080/ASilvestre10/101112/122
-#EXTINF:-1,===== Chantal =====
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/31368.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58880.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58882.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58884.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58886.ts
-PT: ELEVEN SPORTS 1
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58888.ts
-PT: ELEVEN SPORTS 2
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58889.ts
-PT: ELEVEN SPORTS 3
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58890.ts
-PT: ELEVEN SPORTS 4
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58891.ts
-PT: ELEVEN SPORTS 5
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58892.ts
-#EXTINF:-1,PT: BTV1
-http://ipro.webvps.de:25443/live/Chantal38@fr/0ZHXQ35ZCF/58876.ts
-#EXTINF:-1,===== Global =====
-#EXTINF:-1,RTP1
-http://arrepiado.xyz:8080/ASilvestre10/101112/56
-#EXTINF:-1,RTP1á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/57
-#EXTINF:-1,RTP2
-http://arrepiado.xyz:8080/ASilvestre10/101112/54
-#EXTINF:-1,RTP2á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/55
-#EXTINF:-1,RTP3
-http://arrepiado.xyz:8080/ASilvestre10/101112/53
-#EXTINF:-1,RTP3á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68654
-#EXTINF:-1,SIC
-http://arrepiado.xyz:8080/ASilvestre10/101112/46
-#EXTINF:-1,SICá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/48
-#EXTINF:-1,TVI
-http://arrepiado.xyz:8080/ASilvestre10/101112/9
-#EXTINF:-1,TVIá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/139
-#EXTINF:-1,TVI FicÃ§Ã£o
-http://arrepiado.xyz:8080/ASilvestre10/101112/7
-#EXTINF:-1,TVI FicÃ§Ã£oá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/21423
-#EXTINF:-1,TVI Reality
-http://arrepiado.xyz:8080/ASilvestre10/101112/6
-#EXTINF:-1,TVI Realityá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/21424
-#EXTINF:-1,SIC Mulher
-http://arrepiado.xyz:8080/ASilvestre10/101112/45
-#EXTINF:-1,SIC Mulherá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/5454
-#EXTINF:-1,SIC Radical
-http://arrepiado.xyz:8080/ASilvestre10/101112/43
-#EXTINF:-1,SIC Radicalá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/5453
-#EXTINF:-1,Sic Caras	
-http://arrepiado.xyz:8080/ASilvestre10/101112/49
-#EXTINF:-1,SIC Carasá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68645
-#EXTINF:-1,TV Record
-http://arrepiado.xyz:8080/ASilvestre10/101112/20
-#EXTINF:-1,TV Recordá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/3135
-#EXTINF:-1,TV Globo
-http://arrepiado.xyz:8080/ASilvestre10/101112/82
-#EXTINF:-1,TV Globoá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/2002
-#EXTINF:-1,SIC NotÃ­cias
-http://arrepiado.xyz:8080/ASilvestre10/101112/44
-#EXTINF:-1,SIC NotÃ­ciasá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/2000
-#EXTINF:-1,CNN Portugal
-http://arrepiado.xyz:8080/ASilvestre10/101112/39826
-#EXTINF:-1,CNN Portugalá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/5451
-#EXTINF:-1,CMTV
-http://arrepiado.xyz:8080/ASilvestre10/101112/111
-#EXTINF:-1,CMTVá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/65958
-#EXTINF:-1,A Bola TV
-http://arrepiado.xyz:8080/ASilvestre10/101112/137
-#EXTINF:-1,A Bola TVá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/5459
-#EXTINF:-1,Canal 11
-http://arrepiado.xyz:8080/ASilvestre10/101112/2055
-#EXTINF:-1,Canal 11á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/121
-#EXTINF:-1,SAUDE +á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/37217
-#EXTINF:-1,LocalvisÃ£o
-http://arrepiado.xyz:8080/ASilvestre10/101112/2001
-#EXTINF:-1,Euronews
-http://arrepiado.xyz:8080/ASilvestre10/101112/95
-#EXTINF:-1,Lolly Kids
-http://arrepiado.xyz:8080/ASilvestre10/101112/27398
-#EXTINF:-1,Disney Channel
-http://arrepiado.xyz:8080/ASilvestre10/101112/105
-#EXTINF:-1,Disney Chanelá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68646
-#EXTINF:-1,Disney Junior
-http://arrepiado.xyz:8080/ASilvestre10/101112/104
-#EXTINF:-1,Diseny Juniorá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68647
-#EXTINF:-1,Cartoon Network
-http://arrepiado.xyz:8080/ASilvestre10/101112/117
-#EXTINF:-1,Cartoon Networká´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68649
-#EXTINF:-1,Cartonitoo
-http://arrepiado.xyz:8080/ASilvestre10/101112/77341
-#EXTINF:-1,Boomerang
-http://arrepiado.xyz:8080/ASilvestre10/101112/2014
-#EXTINF:-1,Panda
-http://arrepiado.xyz:8080/ASilvestre10/101112/120
-#EXTINF:-1,Pandaá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68648
-#EXTINF:-1,Panda Biggs
-http://arrepiado.xyz:8080/ASilvestre10/101112/127
-#EXTINF:-1,Panda Kids
-http://arrepiado.xyz:8080/ASilvestre10/101112/36498
-#EXTINF:-1,Baby TV
-http://arrepiado.xyz:8080/ASilvestre10/101112/130
-#EXTINF:-1,NICK JR	
-http://arrepiado.xyz:8080/ASilvestre10/101112/65
-#EXTINF:-1,Nickelodeon
-http://arrepiado.xyz:8080/ASilvestre10/101112/64
-#EXTINF:-1,SIC K
-http://arrepiado.xyz:8080/ASilvestre10/101112/47
-#EXTINF:-1,Sic Ká´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68650
-#EXTINF:-1,SPORT.TV+
-http://arrepiado.xyz:8080/ASilvestre10/101112/41
-#EXTINF:-1,SPORT.TV+á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1059
-#EXTINF:-1,Sport.TV4K UHD
-http://arrepiado.xyz:8080/ASilvestre10/101112/22627
-#EXTINF:-1,SPORT.TV1
-http://arrepiado.xyz:8080/ASilvestre10/101112/40
-#EXTINF:-1,Sport.TV1 á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/38
-#EXTINF:-1,SPORT.TV1á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/39
-#EXTINF:-1,SPORT.TV1 á´´Â²â¶âµ
-http://arrepiado.xyz:8080/ASilvestre10/101112/5438
-#EXTINF:-1,SPORT.TV2
-http://arrepiado.xyz:8080/ASilvestre10/101112/37
-#EXTINF:-1,Sport.TV2á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/35
-#EXTINF:-1,SPORT.TV2á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/36
-#EXTINF:-1,SPORT.TV2 á´´Â²â¶âµ
-http://arrepiado.xyz:8080/ASilvestre10/101112/5439
-#EXTINF:-1,SPORT.TV3
-http://arrepiado.xyz:8080/ASilvestre10/101112/34
-#EXTINF:-1,Sport.TV3 á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/32
-#EXTINF:-1,SPORT.TV3á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/33
-#EXTINF:-1,SPORT.TV3á´´Â²â¶âµ
-http://arrepiado.xyz:8080/ASilvestre10/101112/21427
-#EXTINF:-1,SPORT.TV4
-http://arrepiado.xyz:8080/ASilvestre10/101112/31
-#EXTINF:-1,Sport.TV4á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/363
-#EXTINF:-1,SPORT.TV4á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1992
-#EXTINF:-1,SPORT.TV5
-http://arrepiado.xyz:8080/ASilvestre10/101112/30
-#EXTINF:-1,Sport.TV5á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/362
-#EXTINF:-1,SPORT.TV5á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1993
-#EXTINF:-1,Sport.TV6á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/60546
-#EXTINF:-1,SPORT.TV6á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/36497
-#EXTINF:-1,Benfica TV	
-http://arrepiado.xyz:8080/ASilvestre10/101112/124
-#EXTINF:-1,Benfica TVá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/122
-#EXTINF:-1,Benfica TVá¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/123
-#EXTINF:-1,BENFICA TV á´´Â²â¶âµ
-http://arrepiado.xyz:8080/ASilvestre10/101112/5443
-#EXTINF:-1,Benfica TV 4K UHD
-http://arrepiado.xyz:8080/ASilvestre10/101112/16974
-#EXTINF:-1,Eleven Sports 1
-http://arrepiado.xyz:8080/ASilvestre10/101112/370
-#EXTINF:-1,Eleven Sports 1á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/667
-#EXTINF:-1,Eleven Sports 1á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/102
-#EXTINF:-1,Eleven Sports 1á´´Â²â¶âµ
-http://arrepiado.xyz:8080/ASilvestre10/101112/22442
-#EXTINF:-1,Eleven Sports 1 4K UHD
-http://arrepiado.xyz:8080/ASilvestre10/101112/16975
-#EXTINF:-1,Eleven Sports 2
-http://arrepiado.xyz:8080/ASilvestre10/101112/368
-#EXTINF:-1,Eleven Sports 2á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/367
-#EXTINF:-1,Eleven Sports 2á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/101
-#EXTINF:-1,Eleven Sports 3
-http://arrepiado.xyz:8080/ASilvestre10/101112/100
-#EXTINF:-1,Eleven Sports 3á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/365
-#EXTINF:-1,Eleven Sports 3á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/366
-#EXTINF:-1,Eleven Sports 4
-http://arrepiado.xyz:8080/ASilvestre10/101112/99
-#EXTINF:-1,Eleven Sports 4á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1990
-#EXTINF:-1,Eleven Sports 4á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1991
-#EXTINF:-1,Eleven Sports 5
-http://arrepiado.xyz:8080/ASilvestre10/101112/98
-#EXTINF:-1,Eleven Sports 5á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/60547
-#EXTINF:-1,Eleven Sports 5á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/60548
-#EXTINF:-1,Eleven Sports 6
-http://arrepiado.xyz:8080/ASilvestre10/101112/97
-#EXTINF:-1,Eleven Sports 6á¶ á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/60549
-#EXTINF:-1,RTP Arena
-http://arrepiado.xyz:8080/ASilvestre10/101112/28370
-#EXTINF:-1,Ginx
-http://arrepiado.xyz:8080/ASilvestre10/101112/37214
-#EXTINF:-1,Gametooná´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/37095
-#EXTINF:-1,Eurosport 1
-http://arrepiado.xyz:8080/ASilvestre10/101112/94
-#EXTINF:-1,Eurosport 1á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/93
-#EXTINF:-1,Eurosport 2
-http://arrepiado.xyz:8080/ASilvestre10/101112/92
-#EXTINF:-1,Eurosport 2á´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/77597
-#EXTINF:-1,PFC
-http://arrepiado.xyz:8080/ASilvestre10/101112/61
-#EXTINF:-1,Porto Canal
-http://arrepiado.xyz:8080/ASilvestre10/101112/59
-#EXTINF:-1,Porto Canalá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1998
-#EXTINF:-1,Sporting TV
-http://arrepiado.xyz:8080/ASilvestre10/101112/28
-#EXTINF:-1,Sporting TVá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/4855
-#EXTINF:-1,Fight Network HD
-http://arrepiado.xyz:8080/ASilvestre10/101112/1997
-#EXTINF:-1,Fight Sportsá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68651
-#EXTINF:-1,FightBoxá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68652
-#EXTINF:-1,SPORT.TV NBA
-http://arrepiado.xyz:8080/ASilvestre10/101112/29
-#EXTINF:-1,WRC
-http://arrepiado.xyz:8080/ASilvestre10/101112/35890
-#EXTINF:-1,RedBull TVá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/4859
-#EXTINF:-1,Motorvision
-http://arrepiado.xyz:8080/ASilvestre10/101112/71
-#EXTINF:-1,Fuel TV
-http://arrepiado.xyz:8080/ASilvestre10/101112/83
-#EXTINF:-1,NOS Studios
-http://arrepiado.xyz:8080/ASilvestre10/101112/12136
-#EXTINF:-1,NOS Studiosá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/63
-#EXTINF:-1,TVCine TOP
-http://arrepiado.xyz:8080/ASilvestre10/101112/29842
-#EXTINF:-1,TVCine TOPá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/18
-#EXTINF:-1,TVCine EDITION
-http://arrepiado.xyz:8080/ASilvestre10/101112/29843
-#EXTINF:-1,TVCine EDITIONá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/16
-#EXTINF:-1,TVCine EMOTION
-http://arrepiado.xyz:8080/ASilvestre10/101112/29844
-#EXTINF:-1,TVCine EMOTIONá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/14
-#EXTINF:-1,TVCine ACTION
-http://arrepiado.xyz:8080/ASilvestre10/101112/29845
-#EXTINF:-1,TVCine ACTIONá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/12
-#EXTINF:-1,Hollywood
-http://arrepiado.xyz:8080/ASilvestre10/101112/79
-#EXTINF:-1,Hollywoodá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/78
-#EXTINF:-1,Cinemundo
-http://arrepiado.xyz:8080/ASilvestre10/101112/112
-#EXTINF:-1,Cinemundoá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/2006
-#EXTINF:-1,FOX Movies
-http://arrepiado.xyz:8080/ASilvestre10/101112/87
-#EXTINF:-1,FOX Moviesá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/2011
-#EXTINF:-1,AXN Movies
-http://arrepiado.xyz:8080/ASilvestre10/101112/2004
-#EXTINF:-1,AXN Moviesá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/133
-#EXTINF:-1,SyFy
-http://arrepiado.xyz:8080/ASilvestre10/101112/27
-#EXTINF:-1,SyFyá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/2007
-#EXTINF:-1,AXN
-http://arrepiado.xyz:8080/ASilvestre10/101112/2003
-#EXTINF:-1,AXNá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/132
-#EXTINF:-1,Dizi
-http://arrepiado.xyz:8080/ASilvestre10/101112/37215
-#EXTINF:-1,AMC
-http://arrepiado.xyz:8080/ASilvestre10/101112/135
-#EXTINF:-1,AMCá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/134
-#EXTINF:-1,AXN White
-http://arrepiado.xyz:8080/ASilvestre10/101112/2005
-#EXTINF:-1,AXN Whiteá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/131
-#EXTINF:-1,FOX
-http://arrepiado.xyz:8080/ASilvestre10/101112/2008
-#EXTINF:-1,FOXá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/89
-#EXTINF:-1,FOX CRIME
-http://arrepiado.xyz:8080/ASilvestre10/101112/2009
-#EXTINF:-1,FOX CRIMEá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/90
-#EXTINF:-1,FOX Comedy
-http://arrepiado.xyz:8080/ASilvestre10/101112/91
-#EXTINF:-1,FOX Comedyá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/4858
-#EXTINF:-1,FOX LIFE
-http://arrepiado.xyz:8080/ASilvestre10/101112/2010
-#EXTINF:-1,FOX LIFEá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/88
-#EXTINF:-1,ID Investigation Discovery
-http://arrepiado.xyz:8080/ASilvestre10/101112/76
-#EXTINF:-1,AMC Crime 
-http://arrepiado.xyz:8080/ASilvestre10/101112/50876
-#EXTINF:-1,Discovery Channel
-http://arrepiado.xyz:8080/ASilvestre10/101112/107
-#EXTINF:-1,Discovery Channelá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/106
-#EXTINF:-1,Nat Geo Wild
-http://arrepiado.xyz:8080/ASilvestre10/101112/67
-#EXTINF:-1,Nat Geo Wildá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/35848
-#EXTINF:-1,National Geographic
-http://arrepiado.xyz:8080/ASilvestre10/101112/5467
-#EXTINF:-1,National Geographicá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/68
-#EXTINF:-1,History Channel
-http://arrepiado.xyz:8080/ASilvestre10/101112/80
-#EXTINF:-1,History Channelá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/22138
-#EXTINF:-1,Odisseia
-http://arrepiado.xyz:8080/ASilvestre10/101112/62
-#EXTINF:-1,Odisseiaá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/2013
-#EXTINF:-1,TCV Cabo Verde
-http://arrepiado.xyz:8080/ASilvestre10/101112/75762
-#EXTINF:-1,AMC Break
-http://arrepiado.xyz:8080/ASilvestre10/101112/126
-#EXTINF:-1,AMC Breaká´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/1989
-#EXTINF:-1,Crime+ Investigation
-http://arrepiado.xyz:8080/ASilvestre10/101112/108
-#EXTINF:-1,CACAPESCA
-http://arrepiado.xyz:8080/ASilvestre10/101112/116
-#EXTINF:-1,CACAPESCAá´´á´°
-http://arrepiado.xyz:8080/ASilvestre10/101112/8077
-#EXTINF:-1,CaÃ§aVision
-http://arrepiado.xyz:8080/ASilvestre10/101112/115
-#EXTINF:-1,Nautical Channel
-http://arrepiado.xyz:8080/ASilvestre10/101112/73702
-#EXTINF:-1,OPTO SIC
-http://arrepiado.xyz:8080/ASilvestre10/101112/70455
-
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61981
+#EXTINF:-1, ===Humberto====
+#EXTINF:-1,SPORT TV 1 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/79
+#EXTINF:-1,SPORT TV 1 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/80
+#EXTINF:-1,SPORT TV 2 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/82
+#EXTINF:-1,SPORT TV 2 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/83
+#EXTINF:-1,SPORT TV 3 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/85
+#EXTINF:-1,SPORT TV 3 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/86
+#EXTINF:-1,SPORT TV 4 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/88
+#EXTINF:-1,SPORT TV 4 [HEVC]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/63136
+#EXTINF:-1,SPORT TV 5 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/90
+#EXTINF:-1,SPORT TV 5 [HEVC]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/63137
+#EXTINF:-1,SPORT TV 6 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/101411
+#EXTINF:-1,BTV [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/72
+#EXTINF:-1,BTV [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/73
+#EXTINF:-1,BTV [HEVC]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/63132
+#EXTINF:-1,ELEVEN SPORTS 1 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/93
+#EXTINF:-1,ELEVEN SPORTS 1 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/94
+#EXTINF:-1,ELEVEN SPORTS 2 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/96
+#EXTINF:-1,ELEVEN SPORTS 2 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/97
+#EXTINF:-1,ELEVEN SPORTS 3 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/99
+#EXTINF:-1,ELEVEN SPORTS 3 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/100
+#EXTINF:-1,ELEVEN SPORTS 4 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/65712
+#EXTINF:-1,ELEVEN SPORTS 4 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/101
+#EXTINF:-1,ELEVEN SPORTS 5 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/65714
+#EXTINF:-1,ELEVEN SPORTS 5 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/102
+#EXTINF:-1,ELEVEN SPORTS 6 [HD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/65715
+#EXTINF:-1,ELEVEN SPORTS 6 [FHD]
+http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/103
