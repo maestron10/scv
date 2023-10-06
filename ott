@@ -10,15 +10,15 @@ http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 5
 http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/90
-PT: ELEVEN SPORTS 1
+#EXTINF:-1,PT: ELEVEN SPORTS 1
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-PT: ELEVEN SPORTS 2
+#EXTINF:-1,PT: ELEVEN SPORTS 2
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-PT: ELEVEN SPORTS 3
+#EXTINF:-1,PT: ELEVEN SPORTS 3
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-PT: ELEVEN SPORTS 4
+#EXTINF:-1,PT: ELEVEN SPORTS 4
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-PT: ELEVEN SPORTS 5
+#EXTINF:-1,PT: ELEVEN SPORTS 5
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: BTV1
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61981
