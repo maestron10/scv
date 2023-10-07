@@ -1,69 +1,16 @@
 #EXTM3U
 #EXTINF:-1,=== formule ===
-#EXTINF:-1,SPORT.TV1 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5333.ts
-#EXTINF:-1,SPORT.TV4 
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5344.ts
-#EXTINF:-1,=== xplatinmedia ===
-#EXTINF:-1,SPORT.TV1 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/74083
-#EXTINF:-1,SPORT.TV4 
-http://xplatinmedia.com:8080/@mattncrissy/dujvFWrZPTWKfuTXfijxHpqKu4IgIl/9534
-#EXTINF:-1,=== Sabunsci ===
-#EXTINF:-1,SPORT.TV1 
-http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/16056
-#EXTINF:-1,SPORT.TV4 
-http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/16053
-#EXTINF:-1,=== Novo ===
-#EXTINF:-1,SPORT.TV1 
-http://novo1.xyz:8080/testehome/Ew5muOY2uI/39
-#EXTINF:-1,SPORT.TV4 
-http://novo1.xyz:8080/testehome/Ew5muOY2uI/1992
-#EXTINF:-1,SKY SPORTS F1
-http://novo1.xyz:8080/testehome/Ew5muOY2uI/73670
-#EXTINF:-1,===C4N ===
-#EXTINF:-1,SPORTV 1 HD
-http://c4n.fun:80/C05053743/967734/1521402.ts
-#EXTINF:-1,SPORTV 4 HD
-http://c4n.fun:80/C05053743/967734/1521405.ts
-#EXTINF:-1,=== 37 ===
-#EXTINF:-1,SPORT.TV1 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1483
-#EXTINF:-1,SPORT.TV4 
-http://37.49.230.42:8080/stadnik/6a627b52a9/1492
-#EXTINF:-1,=== JoseView ===
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370392
-#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370393
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370394
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370405
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/370406
-#EXTINF:-1,=== boriraja ===
-#EXTINF:-1,SPORT.TV1 
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370394
-#EXTINF:-1,SPORT.TV4 
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/370405
-#EXTINF:-1,=== Marcelo ===
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://splaytv.io:80/Marcelo984258235/hbgy45df/139557
-#EXTINF:-1,PT: Sport TV 1 HD
-http://splaytv.io:80/Marcelo984258235/hbgy45df/140380
-#EXTINF:-1,PT: Sport TV 4 FHD
-http://splaytv.io:80/Marcelo984258235/hbgy45df/139563
-#EXTINF:-1,PT: Sport TV 4 HD
-http://splaytv.io:80/Marcelo984258235/hbgy45df/140985
-#EXTINF:-1,=== Tourbox ===
-#EXTINF:-1,SPORT TV 1 PT UHD
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/659
-#EXTINF:-1,SPORT TV 4 PT UHD
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/656
-#EXTINF:-1,=== conexa ===
-#EXTINF:-1,SPORT.TV1 
-http://conexaoonline.top:80/IVONE123/IVONE321/261071
+#EXTINF:-1,SPORT.TV4
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1492
 #EXTINF:-1,SPORT.TV4 
 http://conexaoonline.top:80/IVONE123/IVONE321/261067
-
+#EXTINF:-1,UK - SKY SPORTS F1 FHD
+http://atg100.xyz:80/sunny1114c/23616F5A257DCF5/17289
+#EXTINF:-1,PT: SPORT TV 4
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73368
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/73362
+#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1492
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://live.iptvcanada.tv:80/apr6vd2kmc/2449322473/399407.ts
