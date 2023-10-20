@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,=aca3b===
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | 4K - H265",BAND Sports FHD [H265]
+http://splaytv.club:80/troca-p2/VAj9zkp0Ah/83371
 #EXTINF:-1,DAZNF1 4K
 http://proiptvdigic.com:8080/DMOIPTVMARIUS27/DBpaxhEPVRZg/63525
 #EXTINF:-1,DAZN F1 HDBR
