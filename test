@@ -25,6 +25,65 @@ http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370392
+#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370393
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370394
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370397
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370399
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370402
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370403
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370405
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370406
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370409
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370410
+
+#EXTINF:-1,PT: BENFICA TV FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370420
+#EXTINF:-1,PT: BENFICA TV FHD (MEO)
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370421
+#EXTINF:-1,PT: BENFICA TV FHD (NOS)
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370422
+#EXTINF:-1,PT: BENFICA TV UHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370423
+#EXTINF:-1,PT: BENFICA TV HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370424
+#EXTINF:-1,PT: ELEVEN SPORT 1 FHD VIP
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370428
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370429
+#EXTINF:-1,PT: ELEVEN SPORT 2 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370431
+#EXTINF:-1,PT: ELEVEN SPORT 2 FHD VIP
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370432
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370433
+#EXTINF:-1,PT: ELEVEN SPORT 3 FHD VIP
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370434
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370435
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370437
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370438
+#EXTINF:-1,PT: ELEVEN SPORT 5 FHD VIP
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370439
+#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370440
+#EXTINF:-1,PT: ELEVEN SPORT 6 FHD VIP
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370441
+#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370442
 
 
 #EXTINF:-1, ===Humberto====
