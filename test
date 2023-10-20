@@ -47,7 +47,6 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370406
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370409
 #EXTINF:-1,PT: SPORT TV 5 HD
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370410
-
 #EXTINF:-1,PT: BENFICA TV FHD
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370420
 #EXTINF:-1,PT: BENFICA TV FHD (MEO)
@@ -84,6 +83,21 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370440
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370441
 #EXTINF:-1,PT: ELEVEN SPORT 6 HD
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370442
+#EXTINF:-1, ===Hubs====
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
+#EXTINF:-1,PT - Sport TV 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
+#EXTINF:-1,PT - SPORT TV 3 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
 
 
 #EXTINF:-1, ===Humberto====
