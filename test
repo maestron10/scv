@@ -18,12 +18,8 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SPORT TV 4 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, ===varios====
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="United Kingdom",Sky Sports F1 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/387655
 #EXTINF:-1, ===mozza====
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370392
@@ -98,35 +94,50 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
 #EXTINF:-1,PT - BTV HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
-#EXTINF:-1, ===Vilamarante====
-#EXTINF:-1,PT: BTV
-http://assista.pro:80/0333686557/Vilamariante1/284976
-#EXTINF:-1,PT: Eleven Sports 1
-http://assista.pro:80/0333686557/Vilamariante1/284965
-#EXTINF:-1,PT: Eleven Sports 2
-http://assista.pro:80/0333686557/Vilamariante1/284966
-#EXTINF:-1,PT: Eleven Sports 3
-http://assista.pro:80/0333686557/Vilamariante1/284967
-#EXTINF:-1,PT: Eleven Sports 4
-http://assista.pro:80/0333686557/Vilamariante1/284968
-#EXTINF:-1,PT: Eleven Sports 5
-http://assista.pro:80/0333686557/Vilamariante1/284969
-#EXTINF:-1,PT: Eleven Sports 6
-http://assista.pro:80/0333686557/Vilamariante1/284970
-#EXTINF:-1 group-title="Sports",Sport TV 1
-http://assista.pro:80/0333686557/Vilamariante1/284957
-#EXTINF:-1 group-title="Sports",Sport TV 2
-http://assista.pro:80/0333686557/Vilamariante1/284958
-#EXTINF:-1 group-title="Sports",Sport TV 3
-http://assista.pro:80/0333686557/Vilamariante1/284959
-#EXTINF:-1 group-title="Sports",Sport TV 4
-http://assista.pro:80/0333686557/Vilamariante1/284960
-#EXTINF:-1 group-title="Sports",Sport TV 5
-http://assista.pro:80/0333686557/Vilamariante1/284961
-#EXTINF:-1 group-title="Sports",Sport TV 6
-http://assista.pro:80/0333686557/Vilamariante1/284962
-#EXTINF:-1,UK: SKY SPORT F1
-http://assista.pro:80/0333686557/Vilamariante1/285018
+#EXTINF:-1, ===ultramax====
+#EXTINF:-1,PT BENFICA TV HD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414903
+#EXTINF:-1,PT Eleven Sports 1 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415172
+#EXTINF:-1,PT ELEVEN SPORTS 2 (MEO)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414929
+#EXTINF:-1,PT Eleven Sports 2 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415173
+#EXTINF:-1,PT ELEVEN SPORTS 3 (MEO)
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414931
+#EXTINF:-1,PT Eleven Sports 3 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415174
+#EXTINF:-1,PT ELEVEN SPORTS 4
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414933
+#EXTINF:-1,PT Eleven Sports 4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415175
+#EXTINF:-1,PT ELEVEN SPORTS 5
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414935
+#EXTINF:-1,PT Eleven Sports 5 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415176
+#EXTINF:-1,PT ELEVEN SPORTS 6
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414937
+#EXTINF:-1,PT Eleven Sports 6 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415177
+#EXTINF:-1,PT SPORT TV1
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414977
+#EXTINF:-1,PT SPORT TV1 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415046
+#EXTINF:-1,PT SPORT TV2 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415120
+#EXTINF:-1,PT SPORT TV3
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414979
+#EXTINF:-1,PT SPORT TV3 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415121
+#EXTINF:-1,PT SPORT TV4
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414980
+#EXTINF:-1,PT SPORT TV4 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415123
+#EXTINF:-1,PT SPORT TV5
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414981
+#EXTINF:-1,PT SPORT TV5 FHD
+http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415122
+
 #EXTINF:-1, ===Humberto====
 #EXTINF:-1,SPORT TV 1 [HD]
 http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/79
