@@ -104,6 +104,34 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370440
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370441
 #EXTINF:-1,PT: ELEVEN SPORT 6 HD
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370442
+#EXTINF:-1, ===LinePowers====
+#EXTINF:-1,PT| SPORT TV 1 HEVC
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118447
+#EXTINF:-1,PT| SPORT TV 2 HEVC
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118446
+#EXTINF:-1,PT| SPORT TV 3 HEVC
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118445
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/107433
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/148667
+#EXTINF:-1,PT| SPORT TV 6 FHD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/712739
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HEVC
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118459
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HEVC
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118458
+#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/122484
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/122485
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+h#EXTINF:-1,PT| BENFICA TV HD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/983567
+#EXTINF:-1,PT| BTV 1 HD
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/107511
+#EXTINF:-1,PT| BTV HEVC
+http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118461
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - SPORT TV 1 HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
@@ -156,9 +184,17 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766205
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766204
 #EXTINF:-1,SPORT TV 5 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766207
-
-
-#EXTINF:-1, ===gediz====
+#EXTINF:-1, ===TouroBox====
+#EXTINF:-1,SPORT TV 1 HD PT
+http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
+#EXTINF:-1,SPORT TV 2 HD PT
+http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/168
+#EXTINF:-1,SPORT TV 3 HD PT
+http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/169
+#EXTINF:-1,SPORT TV 4 HD PT
+http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/170
+#EXTINF:-1,SPORT TV 5 HD PT
+http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/171
 
 
 #EXTINF:-1, ===aledesi====
@@ -182,6 +218,8 @@ http://one.alidesi.org:80/halim55/55halim/63902
 http://one.alidesi.org:80/halim55/55halim/63903
 #EXTINF:-1,PT: SPORT TV 6
 http://one.alidesi.org:80/halim55/55halim/79937
+
+
 
 #EXTINF:-1, ===Pandar====
 #EXTINF:-1,|PT| BENFICA TV HD
@@ -217,83 +255,4 @@ http://pandar.cc:25461/Franz0511/D5ES4YITZG/95416
 #EXTINF:-1,|PT| SPORT TV 6 HD
 http://pandar.cc:25461/Franz0511/D5ES4YITZG/200526
 
-#EXTINF:-1, ===ultramax====
-#EXTINF:-1,PT BENFICA TV HD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414903
-#EXTINF:-1,PT Eleven Sports 1 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415172
-#EXTINF:-1,PT ELEVEN SPORTS 2 (MEO)
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414929
-#EXTINF:-1,PT Eleven Sports 2 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415173
-#EXTINF:-1,PT ELEVEN SPORTS 3 (MEO)
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414931
-#EXTINF:-1,PT Eleven Sports 3 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415174
-#EXTINF:-1,PT ELEVEN SPORTS 4
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414933
-#EXTINF:-1,PT Eleven Sports 4 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415175
-#EXTINF:-1,PT ELEVEN SPORTS 5
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414935
-#EXTINF:-1,PT Eleven Sports 5 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415176
-#EXTINF:-1,PT ELEVEN SPORTS 6
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414937
-#EXTINF:-1,PT Eleven Sports 6 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415177
-#EXTINF:-1,PT SPORT TV1
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414977
-#EXTINF:-1,PT SPORT TV1 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415046
-#EXTINF:-1,PT SPORT TV2 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415120
-#EXTINF:-1,PT SPORT TV3
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414979
-#EXTINF:-1,PT SPORT TV3 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415121
-#EXTINF:-1,PT SPORT TV4
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414980
-#EXTINF:-1,PT SPORT TV4 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415123
-#EXTINF:-1,PT SPORT TV5
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/414981
-#EXTINF:-1,PT SPORT TV5 FHD
-http://ultratvmax.xyz:2086/a8NjtS6Jf8/rVc7uWDn82/415122
-
-#EXTINF:-1, ===lion OTT====
-#EXTINF:-1,[PT] SPORT TV 1 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250585
-#EXTINF:-1,[PT] SPORT TV 2 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250584
-#EXTINF:-1,[PT] SPORT TV 3 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250583
-#EXTINF:-1,[PT] SPORT TV 4 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250582
-#EXTINF:-1,[PT] SPORT TV 5 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250581
-#EXTINF:-1,[PT] SPORT TV 6 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/632985
-#EXTINF:-1,[PT] SPORT TV NBA UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250580
-#EXTINF:-1,[PT] NBA TV
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250610
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250642
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250641
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250640
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250639
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250638
-#EXTINF:-1,[PT] ELEVEN SPORTS 6 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250637
-#EXTINF:-1,[PT] BTV
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/652404
-#EXTINF:-1,[PT] BTV HD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/652403
-#EXTINF:-1,[PT] BTV UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250658
 
