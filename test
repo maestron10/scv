@@ -45,65 +45,15 @@ http://92.114.85.99:8000/play/a027
 http://92.114.85.99:8000/play/a028
 
 
-#EXTINF:-1, ===mozza====
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370392
-#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370393
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370394
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370397
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370399
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370402
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370403
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370405
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370406
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370409
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370410
-#EXTINF:-1,PT: BENFICA TV FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370420
-#EXTINF:-1,PT: BENFICA TV FHD (MEO)
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370421
-#EXTINF:-1,PT: BENFICA TV FHD (NOS)
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370422
-#EXTINF:-1,PT: BENFICA TV UHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370423
-#EXTINF:-1,PT: BENFICA TV HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370424
-#EXTINF:-1,PT: ELEVEN SPORT 1 FHD VIP
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370428
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370429
-#EXTINF:-1,PT: ELEVEN SPORT 2 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370431
-#EXTINF:-1,PT: ELEVEN SPORT 2 FHD VIP
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370432
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370433
-#EXTINF:-1,PT: ELEVEN SPORT 3 FHD VIP
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370434
-#EXTINF:-1,PT: ELEVEN SPORT 3 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370435
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370437
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370438
-#EXTINF:-1,PT: ELEVEN SPORT 5 FHD VIP
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370439
-#EXTINF:-1,PT: ELEVEN SPORT 5 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370440
-#EXTINF:-1,PT: ELEVEN SPORT 6 FHD VIP
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370441
-#EXTINF:-1,PT: ELEVEN SPORT 6 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370442
+#EXTINF:-1, ===f1====
+#EXTINF:-1,UK:* Sky Sports F1 FHD
+http://topbox.tv:80/MTzN5a5L42/wQgM3D0sYR/7951
+#EXTINF:-1,DAZN F1 HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa5485/60350
+#EXTINF:-1,ES:DAZN F1 HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa5485/12397
+
+
 #EXTINF:-1, ===LinePowers====
 #EXTINF:-1,PT| SPORT TV 1 HEVC
 http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118447
@@ -132,6 +82,7 @@ http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/983567
 http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/107511
 #EXTINF:-1,PT| BTV HEVC
 http://line.premiumpowers.net:80/10a66e160b/tsdsy6bgol/118461
+
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - SPORT TV 1 HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
@@ -147,6 +98,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
 #EXTINF:-1,PT - BTV HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
+
 #EXTINF:-1, ===Ricksbs====
 #EXTINF:-1,ELEVEN SPORTS 1 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138421
@@ -184,6 +136,7 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766205
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766204
 #EXTINF:-1,SPORT TV 5 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766207
+
 #EXTINF:-1, ===TouroBox====
 #EXTINF:-1,SPORT TV 1 HD PT
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
