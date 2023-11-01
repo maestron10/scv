@@ -9,8 +9,6 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 4
 http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,PT: SPORT TV 5
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/90
 #EXTINF:-1,PT: ELEVEN SPORTS 1
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: ELEVEN SPORTS 2
@@ -21,168 +19,29 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: ELEVEN SPORTS 5
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,PT: BTV1
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61981
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370394
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370399
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370403
-#EXTINF:-1,PT: SPORT TV 4
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370406
-#EXTINF:-1,PT: SPORT TV 5
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370410
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370429
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370433
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370435
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370437
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370440
-#EXTINF:-1,PT: BTV1
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/370424
-#EXTINF:-1, ===Hubs====
-#EXTINF:-1,PT - SPORT TV 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
-#EXTINF:-1,PT - Sport TV 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
-#EXTINF:-1,PT - SPORT TV 3 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
-#EXTINF:-1,PT - SPORT TV 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
-#EXTINF:-1,PT - Sport TV 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
-#EXTINF:-1,PT - Benfica TV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
-#EXTINF:-1,PT - BTV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
-#EXTINF:-1, ===lion OTT====
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250585
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250584
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250583
-#EXTINF:-1,PT: SPORT TV 4
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250582
-#EXTINF:-1,PT: SPORT TV 5
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250581
-#EXTINF:-1,[PT] SPORT TV 6 UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/632985
-#EXTINF:-1,[PT] SPORT TV NBA UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250580
-#EXTINF:-1,[PT] NBA TV
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250610
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250642
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250641
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250640
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250639
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250638
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250637
-#EXTINF:-1,[PT] BTV
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/652404
-#EXTINF:-1,[PT] BTV HD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/652403
-#EXTINF:-1,[PT] BTV UHD
-http://dm.lion-ott.com:80/dPYE8670/FbUW7482/250658
-
-
-#EXTINF:-1, ===ultramax====
-#EXTINF:-1,PT BENFICA TV HD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414903
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415172
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415173
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415174
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414933
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415176
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414937
-#EXTINF:-1,PT Eleven Sports 6 FHD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415177
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414977
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415046
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415120
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414979
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415121
-#EXTINF:-1,PT: SPORT TV 4
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414980
-#EXTINF:-1,PT: SPORT TV 4
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415123
-#EXTINF:-1,PT SPORT TV5
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/414981
-#EXTINF:-1,PT SPORT TV5 FHD
-http://ultratvmax.xyz:2086/WtHpuKcB7a/fJbg464Zuj/415122
-
-#EXTINF:-1, ===Humberto====
-#EXTINF:-1,SPORT TV 1 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/79
-#EXTINF:-1,SPORT TV 1 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/80
-#EXTINF:-1,SPORT TV 2 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/82
-#EXTINF:-1,SPORT TV 2 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/83
-#EXTINF:-1,SPORT TV 3 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/85
-#EXTINF:-1,SPORT TV 3 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/86
-#EXTINF:-1,SPORT TV 4 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/88
-#EXTINF:-1,SPORT TV 4 [HEVC]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/63136
-#EXTINF:-1,SPORT TV 5 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/90
-#EXTINF:-1,SPORT TV 5 [HEVC]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/63137
-#EXTINF:-1,SPORT TV 6 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/101411
-#EXTINF:-1,BTV [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/72
-#EXTINF:-1,BTV [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/73
-#EXTINF:-1,BTV [HEVC]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/63132
-#EXTINF:-1,ELEVEN SPORTS 1 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/93
-#EXTINF:-1,ELEVEN SPORTS 1 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/94
-#EXTINF:-1,ELEVEN SPORTS 2 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/96
-#EXTINF:-1,ELEVEN SPORTS 2 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/97
-#EXTINF:-1,ELEVEN SPORTS 3 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/99
-#EXTINF:-1,ELEVEN SPORTS 3 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/100
-#EXTINF:-1,ELEVEN SPORTS 4 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/65712
-#EXTINF:-1,ELEVEN SPORTS 4 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/101
-#EXTINF:-1,ELEVEN SPORTS 5 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/65714
-#EXTINF:-1,ELEVEN SPORTS 5 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/102
-#EXTINF:-1,ELEVEN SPORTS 6 [HD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/65715
-#EXTINF:-1,ELEVEN SPORTS 6 [FHD]
-http://invale.party:80/humbertooliveira01/6g7KmdJ5KXpN/103
+#EXTINF:0,Benfica TV
+http://92.114.85.99:8000/play/a00f
+#EXTINF:0,PT: ELEVEN SPORTS 1
+http://92.114.85.99:8000/play/a00n
+#EXTINF:0,PT: ELEVEN SPORTS 2
+http://92.114.85.99:8000/play/a00q
+#EXTINF:0,PT: ELEVEN SPORTS 3
+http://92.114.85.99:8000/play/a023
+#EXTINF:0,PT: ELEVEN SPORTS 4
+http://92.114.85.99:8000/play/a021
+#EXTINF:0,PT: ELEVEN SPORTS 5
+http://92.114.85.99:8000/play/a022
+#EXTINF:0,PT: ELEVEN SPORTS 6
+http://92.114.85.99:8000/play/a024
+#EXTINF:0,PT: SPORT TV 1 HD
+http://92.114.85.99:8000/play/a00c
+#EXTINF:0,PT: SPORT TV 2 HD
+http://92.114.85.99:8000/play/a029
+#EXTINF:0,PT: SPORT TV 3 HD
+http://92.114.85.99:8000/play/a02a
+#EXTINF:0,SPORT TV 4
+http://line.premiumpowers.net:80/9fa32586a8/07g3o0qd1m/107433
+#EXTINF:0,PT: SPORT TV 5
+http://92.114.85.99:8000/play/a027
+#EXTINF:0,PT: SPORT TV 6
+http://92.114.85.99:8000/play/a028
