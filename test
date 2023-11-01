@@ -10,7 +10,7 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, ELEVEN SPORTS 5 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0, SPORT TV 1 HD
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SPORT TV 2 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -33,7 +33,7 @@ http://92.114.85.99:8000/play/a021
 http://92.114.85.99:8000/play/a022
 #EXTINF:-1,Eleven 6 🇵🇹
 http://92.114.85.99:8000/play/a024
-#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://92.114.85.99:8000/play/a00c
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://92.114.85.99:8000/play/a029
@@ -55,7 +55,7 @@ http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa54
 
 
 #EXTINF:-1, ===LinePowers====
-#EXTINF:-1,PT| SPORT TV 1 HEVC
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://line.premiumpowers.net:80/9fa32586a8/07g3o0qd1m/118447
 #EXTINF:-1,PT| SPORT TV 2 HEVC
 http://line.premiumpowers.net:80/9fa32586a8/07g3o0qd1m/118446
@@ -83,7 +83,11 @@ http://line.premiumpowers.net:80/9fa32586a8/07g3o0qd1m/107511
 http://line.premiumpowers.net:80/9fa32586a8/07g3o0qd1m/118461
 
 #EXTINF:-1, ===Hubs====
-#EXTINF:-1,PT - SPORT TV 1 HD
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
 #EXTINF:-1,PT - Sport TV 2
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
@@ -93,28 +97,12 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
 #EXTINF:-1,PT - Sport TV 5
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
-#EXTINF:-1,PT - Benfica TV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
-#EXTINF:-1,PT - BTV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
 
 #EXTINF:-1, ===HumIptv====
 #EXTINF:-1,PT: BTV FHD
 http://humiptv.live:8080/live/429383/429383/210152.ts
 #EXTINF:-1,PT: BTV HD
 http://humiptv.live:8080/live/429383/429383/210153.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://humiptv.live:8080/live/429383/429383/210126.ts
-#EXTINF:-1,PT: SPORT TV1 HD
-http://humiptv.live:8080/live/429383/429383/314.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://humiptv.live:8080/live/429383/429383/315.ts
-#EXTINF:-1,PT: SPORT TV3 HD
-http://humiptv.live:8080/live/429383/429383/316.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://humiptv.live:8080/live/429383/429383/210139.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://humiptv.live:8080/live/429383/429383/318.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
 http://humiptv.live:8080/live/429383/429383/210159.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
@@ -125,6 +113,19 @@ http://humiptv.live:8080/live/429383/429383/210168.ts
 http://humiptv.live:8080/live/429383/429383/210172.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
 http://humiptv.live:8080/live/429383/429383/210176.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://humiptv.live:8080/live/429383/429383/210126.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://humiptv.live:8080/live/429383/429383/314.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://humiptv.live:8080/live/429383/429383/315.ts
+#EXTINF:-1,PT: SPORT TV3 HD
+http://humiptv.live:8080/live/429383/429383/316.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://humiptv.live:8080/live/429383/429383/210139.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://humiptv.live:8080/live/429383/429383/318.ts
+
 #EXTINF:-1, ===Evolved====
 #EXTINF:-1,PT: Benfica TV
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/506100
@@ -138,7 +139,7 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495209
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495210
 #EXTINF:-1,PT: ELEVEN SPORTS 5
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495211
-#EXTINF:-1,PT: SPORT TV1
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495278
 #EXTINF:-1,PT: SPORT TV2
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495279
@@ -162,7 +163,7 @@ http://hostengine.live//cXyB4sZmSb/Pqh83Fk2s8/58552
 http://hostengine.live/cXyB4sZmSb/Pqh83Fk2s8/58553
 #EXTINF:-1,PT : ELEVEN SPORTS 5
 http://hostengine.live/cXyB4sZmSb/Pqh83Fk2s8/58554
-#EXTINF:-1,PT : SPORT TV 1
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://hostengine.live/cXyB4sZmSb/Pqh83Fk2s8/58592
 #EXTINF:-1,PT : SPORT TV 2
 http://hostengine.livecXyB4sZmSb/Pqh83Fk2s8/58593
@@ -174,7 +175,7 @@ http://hostengine.live/cXyB4sZmSb/Pqh83Fk2s8/58595
 http://hostengine.live/cXyB4sZmSb/Pqh83Fk2s8/205120
 
 #EXTINF:-1, ===TouroBox====
-#EXTINF:-1,SPORT TV 1 HD PT
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
 #EXTINF:-1,SPORT TV 2 HD PT
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/168
@@ -195,7 +196,7 @@ http://one.alidesi.org:80/halim55/55halim/57953
 http://one.alidesi.org:80/halim55/55halim/57954
 #EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
 http://one.alidesi.org:80/halim55/55halim/57955
-#EXTINF:-1,PT: SPORT TV 1
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://one.alidesi.org:80/halim55/55halim/63899
 #EXTINF:-1,PT: SPORT TV 2
 http://one.alidesi.org:80/halim55/55halim/63900
