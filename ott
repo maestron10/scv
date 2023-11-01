@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,===== Dale =====
+#EXTINF:-1,PT: Dale 
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
