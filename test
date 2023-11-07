@@ -22,6 +22,33 @@ http://ua-iptv.com:8080/Perkins/Perkins/303158
 http://ua-iptv.com:8080/Perkins/Perkins/303159
 #EXTINF:-1,PT: SPORT TV5
 http://ua-iptv.com:8080/Perkins/Perkins/303160
+#EXTINF:-1, ===emipian====
+#EXTINF:-1,PT: BTV HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159487
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159470
+#EXTINF:-1,PT: Eleven Sports 2
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159471
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159472
+#EXTINF:-1,PT: Eleven Sports 3
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159473
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159474
+#EXTINF:-1,PT: Eleven Sports 4
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159475
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159476
+#EXTINF:-1,PT: Sport Tv 1 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159458
+#EXTINF:-1,PT: Sport Tv 2 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159460
+#EXTINF:-1,PT: Sport Tv 3 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159462
+#EXTINF:-1,PT: Sport Tv 4 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159464
+#EXTINF:-1,PT: Sport Tv 5 HD
+http://emipian.info:8080/W8767/UwZBdhQ4hFNw/159466
 
 
 
