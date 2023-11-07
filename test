@@ -18,7 +18,7 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0, SPORT TV 4
 http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, ====Play====
+#EXTINF:-1, ====Play====off
 #EXTINF:0,PT: Benfica TV
 http://92.114.85.99:8000/play/a00f
 #EXTINF:-1,PT: ELEVEN SPORTS 1
@@ -54,7 +54,7 @@ http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa54
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa5485/12397
 
 
-#EXTINF:-1, ===LinePowers====
+#EXTINF:-1, ===LinePowers====off
 #EXTINF:-1,PT| BENFICA TV HD
 http://line.premiumpowers.net:80/9fa32586a8/07g3o0qd1m/983567
 #EXTINF:-1,PT| BTV 1 HD
@@ -150,7 +150,7 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495281
 #EXTINF:-1,PT: SPORT TV5
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495282
 
-#EXTINF:-1, ===Hostengine====
+#EXTINF:-1, ===Hostengine====off
 #EXTINF:-1,PT : BENFICA TV
 http://hostengine.live/cXyB4sZmSb/Pqh83Fk2s8/176361
 #EXTINF:-1,PT: ELEVEN SPORTS 1
