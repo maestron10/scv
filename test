@@ -45,13 +45,29 @@ http://92.114.85.99:8000/play/a027
 http://92.114.85.99:8000/play/a028
 
 
-#EXTINF:-1, ===f1====
-#EXTINF:-1,UK:* Sky Sports F1 FHD
-http://topbox.tv:80/MTzN5a5L42/wQgM3D0sYR/7951
-#EXTINF:-1,DAZN F1 HD
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa5485/60350
-#EXTINF:-1,ES:DAZN F1 HD
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa5485/12397
+#EXTINF:-1, ===perkings====
+#EXTINF:-1,PT: BTV1
+http://ua-iptv.com:8080/Perkins/Perkins/303052
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://ua-iptv.com:8080/Perkins/Perkins/303085
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://ua-iptv.com:8080/Perkins/Perkins/303086
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://ua-iptv.com:8080/Perkins/Perkins/303087
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://ua-iptv.com:8080/Perkins/Perkins/303088
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://ua-iptv.com:8080/Perkins/Perkins/303089
+#EXTINF:-1,PT: SPORT TV1
+http://ua-iptv.com:8080/Perkins/Perkins/303156
+#EXTINF:-1,PT: SPORT TV2
+http://ua-iptv.com:8080/Perkins/Perkins/303157
+#EXTINF:-1,PT: SPORT TV3
+http://ua-iptv.com:8080/Perkins/Perkins/303158
+#EXTINF:-1,PT: SPORT TV4
+http://ua-iptv.com:8080/Perkins/Perkins/303159
+#EXTINF:-1,PT: SPORT TV5
+http://ua-iptv.com:8080/Perkins/Perkins/303160
 
 
 #EXTINF:-1, ===LinePowers====off
