@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1, ===justwi====
 #EXTINF:-1,PT: BTV
 http://justwi.top:8080/681693249146107/51693249146/25000
@@ -29,7 +28,6 @@ http://justwi.top:8080/681693249146107/51693249146/24979
 http://justwi.top:8080/681693249146107/51693249146/24978
 #EXTINF:-1,PT: SPORT TV 6
 http://justwi.top:8080/681693249146107/51693249146/29669
-
 #EXTINF:-1, ===TCY====
 #EXTINF:-1,PT: BTV FHD
 http://62.182.85.60:8080/TcyL3jTH/23434a24322fr/307465
@@ -53,8 +51,56 @@ http://62.182.85.60:8080/TcyL3jTH/23434a24322fr/306962
 http://62.182.85.60:8080/TcyL3jTH/23434a24322fr/307945
 #EXTINF:-1,PT: Sport TV 5 FHD
 http://62.182.85.60:8080/TcyL3jTH/23434a24322fr/307948
-
-
+#EXTINF:-1, ===Resplice====
+#EXTINF:-1,PT: Benfica TV
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1497
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1515
+#EXTINF:-1,PT: SPORT TV 1
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/281487
+#EXTINF:-1, ===Aflax====
+#EXTINF:-1,Benfica TV
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1497
+#EXTINF:-1,ELEVEN SPORTS 1
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1512
+#EXTINF:-1,SPORT TV 1
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1483
+#EXTINF:-1,SPORT TV 2
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1486
+#EXTINF:-1,SPORT TV 3
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1489
+#EXTINF:-1,SPORT TV 4
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1492
+#EXTINF:-1,SPORT TV 5
+http://aflaxtv.xyz:8080/multi8513/bca587ee/1495
 #EXTINF:-1, ===perkings====
 #EXTINF:-1,PT: BTV1
 http://ua-iptv.com:8080/Perkins/Perkins/303052
@@ -148,7 +194,6 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
 #EXTINF:-1,PT - Sport TV 5
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
-
 #EXTINF:-1, ===HumIptv====
 #EXTINF:-1,PT: BTV FHD
 http://humiptv.live:8080/live/429383/429383/210152.ts
@@ -225,8 +270,6 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495280
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495281
 #EXTINF:-1,PT: SPORT TV5
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495282
-
-
 #EXTINF:-1, ===TouroBox====
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
@@ -238,8 +281,6 @@ http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/169
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/170
 #EXTINF:-1,SPORT TV 5 HD PT
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/171
-
-
 #EXTINF:-1, ===aledesi====
 #EXTINF:-1,PT: ELEVEN SPORTS 1
 http://one.alidesi.org:80/halim55/55halim/2734
