@@ -11,3 +11,6 @@ http://humiptv.live:8080/live/429383/429383/210152.ts
 http://humiptv.live:8080/live/429383/429383/210153.ts
 #EXTINF:-1,|PT| BENFICA TV HD
 http://xtream.pandar.tv:88/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/200525
+#EXTINF:-1,=== IptvTree ===
+#EXTINF:-1,Benfica TV 
+http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/1497
