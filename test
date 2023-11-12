@@ -38,57 +38,23 @@ http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31198
 http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159876
 #EXTINF:-1,PT: Sport TV 5 FHD
 http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/285192
-#EXTINF:-1, ===Start365====
-#EXTINF:-1,PT| BTV 1 HD
-http://startv365.com:80/0664251418/9924187372/165605
-#EXTINF:-1,PT| ELEVEN SPORT 1 HD
-http://startv365.com:80/0664251418/9924187372/165619
-#EXTINF:-1,PT| ELEVEN SPORT 2 HD
-http://startv365.com:80/0664251418/9924187372/165654
-#EXTINF:-1,PT| ELEVEN SPORT 3 HD
-http://startv365.com:80/0664251418/9924187372/165603
-#EXTINF:-1,PT| ELEVEN SPORT 4 HD
-http://startv365.com:80/0664251418/9924187372/165620
-#EXTINF:-1,PT| ELEVEN SPORT 5 HD
-http://startv365.com:80/0664251418/9924187372/165655
-#EXTINF:-1,ELEVEN SPORT 6 HD
-http://startv365.com:80/0664251418/9924187372/165604
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://startv365.com:80/0664251418/9924187372/165647
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://startv365.com:80/0664251418/9924187372/165648
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://startv365.com:80/0664251418/9924187372/165649
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://startv365.com:80/0664251418/9924187372/165650
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://startv365.com:80/0664251418/9924187372/165651
-#EXTINF:-1,PT| SPORT TV 6 HD
-http://startv365.com:80/0664251418/9924187372/400229659
+#EXTINF:-1, ===Hubs====
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 
-#EXTINF:-1, ===Gediz====
-#EXTINF:-1,PT:  BENFICA TV
-http://gediz.online:8080/EYL7548/SER5286F/350705
-#EXTINF:-1,ELEVEN SPORT 1 
-http://gediz.online:8080/EYL7548/SER5286F/286361
-#EXTINF:-1,ELEVEN SPORT 2
-http://gediz.online:8080/EYL7548/SER5286F/286362
-#EXTINF:-1,ELEVEN SPORTS 3
-http://gediz.online:8080/EYL7548/SER5286F/350718
-#EXTINF:-1,ELEVEN SPORTS 4
-http://gediz.online:8080/EYL7548/SER5286F/350717
-#EXTINF:-1,ELEVEN SPORTS 5
-http://gediz.online:8080/EYL7548/SER5286F/350716
-#EXTINF:-1,SPORT TV 1
-http://gediz.online:8080/EYL7548/SER5286F/286356
-#EXTINF:-1,SPORT TV 2
-http://gediz.online:8080/EYL7548/SER5286F/286357
-#EXTINF:-1,SPORT TV 3 
-http://gediz.online:8080/EYL7548/SER5286F/286358
-#EXTINF:-1,SPORT TV 4 
-http://gediz.online:8080/EYL7548/SER5286F/286359
-#EXTINF:-1,SPORT TV 5 
-http://gediz.online:8080/EYL7548/SER5286F/286360
+
 #EXTINF:-1, ===Resplice====
 #EXTINF:-1,PT: Benfica TV
 http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1497
@@ -139,21 +105,7 @@ http://aflaxtv.xyz:8080/multi8513/bca587ee/1489
 http://aflaxtv.xyz:8080/multi8513/bca587ee/1492
 #EXTINF:-1,SPORT TV 5
 http://aflaxtv.xyz:8080/multi8513/bca587ee/1495
-#EXTINF:-1, ===Hubs====
-#EXTINF:-1,PT - Benfica TV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
-#EXTINF:-1,PT - BTV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
-#EXTINF:-1,PT - SPORT TV 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
-#EXTINF:-1,PT - Sport TV 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
+
 #EXTINF:-1, ===TouroBox====
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
