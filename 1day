@@ -1,0 +1,11 @@
+#EXTM3U
+EXTINF:-1, ====Live====
+#EXTINF:-1,PT: BTV
+http://justwi.top:8080/681693249146107/51693249146/25000
+#EXTINF:-1,PT: Benfica
+http://justwi.top:8080/681693249146107/51693249146/57353
+#EXTINF:-1, ===HumIptv====
+#EXTINF:-1,PT: BTV FHD
+http://humiptv.live:8080/live/429383/429383/210152.ts
+#EXTINF:-1,PT: BTV HD
+http://humiptv.live:8080/live/429383/429383/210153.ts
