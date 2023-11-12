@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1, ===MichelTV====
 #EXTINF:-1,PT: BENFICA TV
 http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31202
@@ -53,6 +54,32 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
 #EXTINF:-1,PT - Sport TV 5
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
+#EXTINF:-1, ==sibfungold====
+#EXTINF:-1,PT: Benfica TV FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49967
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54740
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54741
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53509
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53510
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53511
+#EXTINF:-1,PT: SPORT TV 1 FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/280
+#EXTINF:-1,PT: SPORT TV 2 FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/281
+#EXTINF:-1,PT: SPORT TV 3 FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/282
+#EXTINF:-1,PT: SPORT TV 4 FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/283
+#EXTINF:-1,PT: SPORT TV 5 FullHD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/284
+
+
+
 #EXTINF:-1, ===Gediz====
 #EXTINF:-1,PT:  BENFICA TV
 http://gediz.online:8080/EYL7548/SER5286F/350705
@@ -138,4 +165,3 @@ http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/169
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/170
 #EXTINF:-1,SPORT TV 5 HD PT
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/171
-
