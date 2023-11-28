@@ -1,44 +1,28 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1, ===MichelTV====
-#EXTINF:-1,PT: BENFICA TV
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31202
-#EXTINF:-1,PT: BTV HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31203
-#EXTINF:-1,PT: BENFICA TV 1
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/274566
-#EXTINF:-1,PT | Eleven Sport 1  HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159771
-#EXTINF:-1,PT | Eleven Sport 1 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159772
-#EXTINF:-1,PT | Eleven Sport 2  HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159774
-#EXTINF:-1,PT | Eleven Sport 2 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159775
-#EXTINF:-1,PT | Eleven Sport 3 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159779
-#EXTINF:-1,PT | Eleven Sport 3 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159777
-#EXTINF:-1,PT | Eleven Sport  4 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/285190
-#EXTINF:-1,PT | Eleven Sport 4 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159781
-#EXTINF:-1,PT | Eleven Sport 5 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159784
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31194
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31195
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31197
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31196
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/31198
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/159876
-#EXTINF:-1,PT: Sport TV 5 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/285192
+#EXTINF:-1, ===Remco====
+#EXTINF:-1,[PT] BENFICA TV FHD
+http://117.55.202.141:80/Remco/Bitbuster/167
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://117.55.202.141:80/Remco/Bitbuster/176
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD
+http://117.55.202.141:80/Remco/Bitbuster/178
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 FHD
+http://117.55.202.141:80/Remco/Bitbuster/181
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD
+http://117.55.202.141:80/Remco/Bitbuster/182
+#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD
+http://117.55.202.141:80/Remco/Bitbuster/183
+#EXTINF:-1,[PT] SPORT TV 1 FHD
+http://117.55.202.141:80/Remco/Bitbuster/168
+#EXTINF:-1,[PT] SPORT TV 2 FHD
+http://117.55.202.141:80/Remco/Bitbuster/169
+#EXTINF:-1,[PT] SPORT TV 3 HD
+http://117.55.202.141:80/Remco/Bitbuster/170
+#EXTINF:-1,[PT] SPORT TV 4 HD
+http://117.55.202.141:80/Remco/Bitbuster/172
+#EXTINF:-1,[PT] SPORT TV 5 HD
+http://117.55.202.141:80/Remco/Bitbuster/173
+
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - Benfica TV HD
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
@@ -78,93 +62,14 @@ http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/283
 #EXTINF:-1,PT: SPORT TV 5 FullHD
 http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/284
 #EXTINF:-1, ==Petrus====
-#EXTINF:-1,[PT] BENFICA TV FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/167
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://bandookk.xyz:80/tv-foryou/Petrus/176
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-http://bandookk.xyz:80/tv-foryou/Petrus/177
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/178
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 SD
-http://bandookk.xyz:80/tv-foryou/Petrus/179
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-http://bandookk.xyz:80/tv-foryou/Petrus/180
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/181
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/182
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/183
-#EXTINF:-1,[PT] SPORT TV 1 FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/168
-#EXTINF:-1,[PT] SPORT TV 2 FHD
-http://bandookk.xyz:80/tv-foryou/Petrus/169
-#EXTINF:-1,[PT] SPORT TV 3 HD
-http://bandookk.xyz:80/tv-foryou/Petrus/170
-#EXTINF:-1,[PT] SPORT TV 3
-http://bandookk.xyz:80/tv-foryou/Petrus/171
-#EXTINF:-1,[PT] SPORT TV 4 HD
-http://bandookk.xyz:80/tv-foryou/Petrus/172
-#EXTINF:-1,[PT] SPORT TV 5 HD
-http://bandookk.xyz:80/tv-foryou/Petrus/173
-#EXTINF:-1,[PT] SPORT TV +
-http://bandookk.xyz:80/tv-foryou/Petrus/174
-#EXTINF:-1,[PT] SPORTTV NBA HD
-http://bandookk.xyz:80/tv-foryou/Petrus/175
 
 
 
 #EXTINF:-1, ===Gediz====
-#EXTINF:-1,PT:  BENFICA TV
-http://gediz.online:8080/EYL7548/SER5286F/350705
-#EXTINF:-1,ELEVEN SPORT 1 
-http://gediz.online:8080/EYL7548/SER5286F/286361
-#EXTINF:-1,ELEVEN SPORT 2
-http://gediz.online:8080/EYL7548/SER5286F/286362
-#EXTINF:-1,ELEVEN SPORTS 3
-http://gediz.online:8080/EYL7548/SER5286F/350718
-#EXTINF:-1,ELEVEN SPORTS 4
-http://gediz.online:8080/EYL7548/SER5286F/350717
-#EXTINF:-1,ELEVEN SPORTS 5
-http://gediz.online:8080/EYL7548/SER5286F/350716
-#EXTINF:-1,SPORT TV 1
-http://gediz.online:8080/EYL7548/SER5286F/286356
-#EXTINF:-1,SPORT TV 2
-http://gediz.online:8080/EYL7548/SER5286F/286357
-#EXTINF:-1,SPORT TV 3 
-http://gediz.online:8080/EYL7548/SER5286F/286358
-#EXTINF:-1,SPORT TV 4 
-http://gediz.online:8080/EYL7548/SER5286F/286359
-#EXTINF:-1,SPORT TV 5 
-http://gediz.online:8080/EYL7548/SER5286F/286360
+
 #EXTINF:-1, ===Resplice====
 #EXTINF:-1,PT: Benfica TV
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1497
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1515
-#EXTINF:-1,PT: SPORT TV 1
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://37.49.225.117:8080/resplice/wdLIS4d9758INyuX/281487
+
 #EXTINF:-1, ===Aflax====
 #EXTINF:-1,Benfica TV
 http://aflaxtv.xyz:8080/multi8513/bca587ee/1497
