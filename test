@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1, ===Remco====
-#EXTINF:-1,[PT] BENFICA TV FHD
-http://117.55.202.141:80/Remco/Bitbuster/167
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://117.55.202.141:80/Remco/Bitbuster/176
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD
-http://117.55.202.141:80/Remco/Bitbuster/178
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 FHD
-http://117.55.202.141:80/Remco/Bitbuster/181
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD
-http://117.55.202.141:80/Remco/Bitbuster/182
-#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD
-http://117.55.202.141:80/Remco/Bitbuster/183
-#EXTINF:-1,[PT] SPORT TV 1 FHD
-http://117.55.202.141:80/Remco/Bitbuster/168
-#EXTINF:-1,[PT] SPORT TV 2 FHD
-http://117.55.202.141:80/Remco/Bitbuster/169
-#EXTINF:-1,[PT] SPORT TV 3 HD
-http://117.55.202.141:80/Remco/Bitbuster/170
-#EXTINF:-1,[PT] SPORT TV 4 HD
-http://117.55.202.141:80/Remco/Bitbuster/172
-#EXTINF:-1,[PT] SPORT TV 5 HD
-http://117.55.202.141:80/Remco/Bitbuster/173
+#EXTINF:-1, ===Splay====
+#EXTINF:-1,PT: Benfica TV 1 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/139487
+#EXTINF:-1,PT: Eleven Sport 1 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/140386
+#EXTINF:-1,PT: Eleven Sport 2 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/140388
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/140391
+#EXTINF:-1,PT: Eleven Sport 4 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/140393
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/140394
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/139557
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/139559
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/139561
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/139563
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/139565
 
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - Benfica TV HD
