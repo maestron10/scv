@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTINF:-1, Benfica 
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/176307.ts
+#EXTINF:-1,PT: BENFICA TV (BTV) FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399240.ts
+#EXTINF:-1,PT: BENFICA TV FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/219188.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399286.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399289.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399292.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399295.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399298.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399301.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399398.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399401.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399404.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399407.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399410.ts
+
 #EXTINF:-1, ===Esuni====
 #EXTINF:-1,PT: BTV 1 HD
 http://esuniptvstream.com:88/02059581913588/9f8e7ee6c4f188d6/95396
