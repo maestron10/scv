@@ -1,33 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Benfica 
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/176307.ts
-#EXTINF:-1,PT: BENFICA TV (BTV) FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399240.ts
-#EXTINF:-1,PT: BENFICA TV FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/219188.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399286.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399289.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399292.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399295.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399298.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399301.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399398.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399401.ts
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399404.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399407.ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://ky-iptv.com:80/N66Q8m38XK/da6ZdYv817/399410.ts
-
 #EXTINF:-1, ===Esuni====
 #EXTINF:-1,PT: BTV 1 HD
 http://esuniptvstream.com:88/02059581913588/9f8e7ee6c4f188d6/95396
@@ -93,32 +64,6 @@ http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/200526
 #EXTINF:-1,PT: NBA TV
 http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95417
 #EXTINF:-1, === Quality ====
-#EXTINF:-1,PT: BENFICA TV fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26125
-#EXTINF:-1,PT: Dazn Eleven 1 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26126
-#EXTINF:-1,PT: Dazn Eleven 2 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26127
-#EXTINF:-1,PT: Dazn Eleven 3 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26128
-#EXTINF:-1,PT: Dazn Eleven 4 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26129
-#EXTINF:-1,PT: Dazn Eleven 5 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26130
-#EXTINF:-1,PT: Dazn Eleven 6 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26131
-#EXTINF:-1,PT: SPORT TV 1 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26119
-#EXTINF:-1,PT: SPORT TV 2 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26120
-#EXTINF:-1,PT: SPORT TV 3 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26121
-#EXTINF:-1,PT: SPORT TV 4 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26122
-#EXTINF:-1,PT: SPORT TV 5 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26123
-#EXTINF:-1,PT: SPORT TV 6 fibra
-http://the.qualityplus.xyz:8880/PadreNavarro/SFEv538vGqQDCGr/26124
 
 #EXTINF:-1, === Sansanet ====
 #EXTINF:-1,PT: BTV 1 HD
@@ -191,40 +136,6 @@ http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/283
 #EXTINF:-1,PT: SPORT TV 5 FullHD
 http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/284
 #EXTINF:-1, ==fairgo====
-#EXTINF:-1,PT: BTV HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17256.ts
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17239.ts
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17241.ts
-#EXTINF:-1,PT: Eleven Sports 3 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17243.ts
-#EXTINF:-1,PT: Eleven Sports 4 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17245.ts
-#EXTINF:-1,PT: Eleven Sports 5 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17247.ts
-#EXTINF:-1,PT: Eleven Sports 6 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17249.ts
-#EXTINF:-1,PT: Sport Tv 1 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17227.ts
-#EXTINF:-1,PT: Sport Tv 2 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17229.ts
-#EXTINF:-1,PT: Sport Tv 3 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17231.ts
-#EXTINF:-1,PT: Sport Tv 4 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17233.ts
-#EXTINF:-1,PT: Sport Tv 5 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17235.ts
-#EXTINF:-1,PT: Sport Tv 6 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17237.ts
-#EXTINF:-1,PT: Eleven Sport Extra 1 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17250.ts
-#EXTINF:-1,PT: Eleven Sport Extra 2 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17251.ts
-#EXTINF:-1,PT: Eleven Sport Extra 3 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17252.ts
-#EXTINF:-1,PT: Eleven Sport Extra 4 HD
-http://fairsgo.net:8080/live/Georgescu-marian/9cHxqQSRwLzbQwwL/17253.ts
 
 
 #EXTINF:-1, ===Jesus====
@@ -252,29 +163,17 @@ http://nxt.plus:8080/jesus01/jesus01/23428
 http://nxt.plus:8080/jesus01/jesus01/23431
 #EXTINF:-1,SPORT TV 5
 http://nxt.plus:8080/jesus01/jesus01/23432
-#EXTINF:-1, ===Aflax====
-#EXTINF:-1,Benfica TV
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1497
-#EXTINF:-1,ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1499
-#EXTINF:-1,ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1503
-#EXTINF:-1,ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1506
-#EXTINF:-1,ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1509
-#EXTINF:-1,ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1512
-#EXTINF:-1,SPORT TV 1
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1483
-#EXTINF:-1,SPORT TV 2
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1486
-#EXTINF:-1,SPORT TV 3
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1489
-#EXTINF:-1,SPORT TV 4
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1492
-#EXTINF:-1,SPORT TV 5
-http://aflaxtv.xyz:8080/multi8513/bca587ee/1495
+#EXTINF:-1, ===Mainxplus====
+http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/167
+#EXTINF:-1,SPORT TV 2 HD PT
+http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/168
+#EXTINF:-1,SPORT TV 3 HD PT
+http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/169
+#EXTINF:-1,SPORT TV 4 HD PT
+http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/170
+#EXTINF:-1,SPORT TV 5 HD PT
+http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/171
+
 #EXTINF:-1, ===TouroBox====
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
