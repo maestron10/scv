@@ -135,9 +135,23 @@ http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/282
 http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/283
 #EXTINF:-1,PT: SPORT TV 5 FullHD
 http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/284
-#EXTINF:-1, ==fairgo====
-
-
+#EXTINF:-1, ===SHLS====
+#EXTINF:-1,PT | SPORT TV1 
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | SPORT TV2
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | SPORT TV3
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | ELEVEN 1 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | ELEVEN 2 HD 
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | ELEVEN 3 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | ELEVEN 4 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT | ELEVEN 5 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1, ===Jesus====
 #EXTINF:-1,PT | ELEVEN 1 HD
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/222100
