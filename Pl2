@@ -1,29 +1,183 @@
 #EXTM3U
-#EXTINF:-1, ===Start365====
-#EXTINF:-1,PT| BTV 1 HD
-http://startv365.com:80/0664251418/9924187372/165605
-#EXTINF:-1,PT| ELEVEN SPORT 1 HD
-http://startv365.com:80/0664251418/9924187372/165619
-#EXTINF:-1,PT| ELEVEN SPORT 2 HD
-http://startv365.com:80/0664251418/9924187372/165654
-#EXTINF:-1,PT| ELEVEN SPORT 3 HD
-http://startv365.com:80/0664251418/9924187372/165603
-#EXTINF:-1,PT| ELEVEN SPORT 4 HD
-http://startv365.com:80/0664251418/9924187372/165620
-#EXTINF:-1,PT| ELEVEN SPORT 5 HD
-http://startv365.com:80/0664251418/9924187372/165655
-#EXTINF:-1,ELEVEN SPORT 6 HD
-http://startv365.com:80/0664251418/9924187372/165604
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://startv365.com:80/0664251418/9924187372/165647
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://startv365.com:80/0664251418/9924187372/165648
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://startv365.com:80/0664251418/9924187372/165649
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://startv365.com:80/0664251418/9924187372/165650
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://startv365.com:80/0664251418/9924187372/165651
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/1
+#EXTINF:-1,RTP 2
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/2
+#EXTINF:-1,SIC
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/3
+#EXTINF:-1,TVI
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/4
+#EXTINF:-1,TVI FICCAO
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/5
+#EXTINF:-1,TVI REALITY
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/6
+#EXTINF:-1,SIC NOTICIAS
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/7
+#EXTINF:-1,TVI 24
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/8
+#EXTINF:-1,RTP 3
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/9
+#EXTINF:-1,CMTV
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/10
+#EXTINF:-1,SIC MULHER
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/11
+#EXTINF:-1,SIC CARAS
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/12
+#EXTINF:-1,SIC RADICAL
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/13
+#EXTINF:-1,CANAL Q
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/14
+#EXTINF:-1,PORTO CANAL
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/15
+#EXTINF:-1,RTP MEMORIA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/16
+#EXTINF:-1,RTP AFRICA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/17
+#EXTINF:-1,CANCAO NOVA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/18
+#EXTINF:-1,ARTV
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/19
+#EXTINF:-1,---INTERNACIONAIS---
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/20
+#EXTINF:-1,TV GLOBO
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/21
+#EXTINF:-1,TV RECORD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/23
+#EXTINF:-1,------DESPORTO------
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/24
+#EXTINF:-1,ELEVEN SPORTS 1
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/25
+#EXTINF:-1,ELEVEN SPORTS 2
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/26
+#EXTINF:-1,ELEVEN SPORTS 3
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/27
+#EXTINF:-1,ELEVEN SPORTS 4
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/28
+#EXTINF:-1,ELEVEN SPORTS 5
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/29
+#EXTINF:-1,ELEVEN SPORTS 6
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/30
+#EXTINF:-1,SporTV 1
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/31
+#EXTINF:-1,SporTV 2
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/32
+#EXTINF:-1,SporTV 3
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/33
+#EXTINF:-1,SporTV 4
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/35
+#EXTINF:-1,SporTV 5
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/36
+#EXTINF:-1,SporTV 6
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/37
+#EXTINF:-1,SporTV +
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/39
+#EXTINF:-1,BENFICA TV HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/40
+#EXTINF:-1,SPORTING TV
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/42
+#EXTINF:-1,ABOLA TV
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/43
+#EXTINF:-1,CANAL 11
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/44
+#EXTINF:-1,EUROSPORT 1 HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/45
+#EXTINF:-1,EUROSPORT 2
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/46
+#EXTINF:-1,PFC
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/47
+#EXTINF:-1,------INFANTIL------
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/49
+#EXTINF:-1,DISNEY CHANNEL
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/50
+#EXTINF:-1,DISNEY JUNIOR
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/51
+#EXTINF:-1,NICKELODEON
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/52
+#EXTINF:-1,CARTON NETWORK
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/53
+#EXTINF:-1,CANAL PANDA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/54
+#EXTINF:-1,BIGGS
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/55
+#EXTINF:-1,SIC K
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/56
+#EXTINF:-1,-------CINEMA-------
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/59
+#EXTINF:-1,TVCine TOP HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/60
+#EXTINF:-1,TVCine EDITION HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/61
+#EXTINF:-1,TVCine EMOTION HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/62
+#EXTINF:-1,TVCine ACTION HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/63
+#EXTINF:-1,NOS STUDIOS
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/64
+#EXTINF:-1,HOLLYWOOD HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/65
+#EXTINF:-1,CINEMUNDO
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/66
+#EXTINF:-1,AMC
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/67
+#EXTINF:-1,FOX MOVIES
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/68
+#EXTINF:-1,--------SERIES--------
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/70
+#EXTINF:-1,AXN HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/71
+#EXTINF:-1,AXN WHITE HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/72
+#EXTINF:-1,AXN MOVIES HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/73
+#EXTINF:-1,FOX HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/74
+#EXTINF:-1,FOXLIFE HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/75
+#EXTINF:-1,FOX CRIME HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/76
+#EXTINF:-1,FOX COMEDY
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/77
+#EXTINF:-1,SYFY
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/78
+#EXTINF:-1,---DOCUMENTARIOS---
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/79
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/80
+#EXTINF:-1,NATGEOWILD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/81
+#EXTINF:-1,DISCOVERY CHANNEL
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/82
+#EXTINF:-1,ODISSEIA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/83
+#EXTINF:-1,HISTORIA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/84
+#EXTINF:-1,------LIFESTYLE------
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/85
+#EXTINF:-1,TLC
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/86
+#EXTINF:-1,24 KITCHEN HD
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/88
+#EXTINF:-1,E!ENTERTAINMENT
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/89
+#EXTINF:-1,CAZAVISION
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/91
+#EXTINF:-1,CACA E PESCA
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/92
+#EXTINF:-1,BLAZE
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/93
+#EXTINF:-1,-------MUSICA-------
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/94
+#EXTINF:-1,MTV PORTUGAL
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/95
+#EXTINF:-1,MCM POP
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/96
+#EXTINF:-1,TRACE TV
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/97
+#EXTINF:-1,MTV 00s
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/98
+#EXTINF:-1,AFRO MUSIC
+http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/99
 #EXTINF:-1,PT| SPORT TV 6 HD
 http://startv365.com:80/0664251418/9924187372/400229659
 
