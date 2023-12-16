@@ -1,16 +1,15 @@
 #EXTM3U
 EXTINF:-1, ====Live====
-#EXTINF:-1,PT: BTV
-http://justwi.top:8080/681693249146107/51693249146/25000
-#EXTINF:-1,PT: Benfica
-http://justwi.top:8080/681693249146107/51693249146/57353
-#EXTINF:-1, ===HumIptv====
-#EXTINF:-1,PT: BTV FHD
-http://humiptv.live:8080/live/429383/429383/210152.ts
-#EXTINF:-1,PT: BTV HD
-http://humiptv.live:8080/live/429383/429383/210153.ts
-#EXTINF:-1,|PT| BENFICA TV HD
-http://xtream.pandar.tv:88/c4:2a:fe:89:01:89/YU3Lxasqn9lbTvL/200525
-#EXTINF:-1,=== IptvTree ===
-#EXTINF:-1,Benfica TV 
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/1497
+#EXTINF:-1, ===Mainxplus====
+#EXTINF:-1,SPORT TV 1 HD PT
+http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/167
+#EXTINF:-1, ===TouroBox====
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
+#EXTINF:-1, ===SHLS====
+#EXTINF:-1,PT | SPORT TV1 
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://esuniptvstream.com:88/02059581913588/9f8e7ee6c4f188d6/95408
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95408
