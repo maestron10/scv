@@ -66,36 +66,6 @@ http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95417
 #EXTINF:-1, === Quality ====
 
 #EXTINF:-1, === Sansanet ====
-#EXTINF:-1,PT: BTV 1 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95396
-#EXTINF:-1,|PT| BENFICA TV HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/200525
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95418
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95419
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95420
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95421
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95422
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95423
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95408
-#EXTINF:-1,PT: SPORT TV 1 HD NOS
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95409
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95411
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95413
-#EXTINF:-1,PT: SPORT TV 4
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95415
-#EXTINF:-1,PT: SPORT TV 5
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/95416
-#EXTINF:-1,|PT| SPORT TV 6 HD
-http://sansat.net:88/CVNFS582L5QFD7Z/UTYBQVBNUVBC7QZ/200526
 
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - Benfica TV HD
@@ -113,28 +83,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
 #EXTINF:-1,PT - Sport TV 5
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 #EXTINF:-1, ==sibfungold====
-#EXTINF:-1,PT: Benfica TV FullHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49967
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54740
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54741
-#EXTINF:-1,PT: Eleven Sports 3 FHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53509
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53510
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/53511
-#EXTINF:-1,PT: SPORT TV 1 FullHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/280
-#EXTINF:-1,PT: SPORT TV 2 FullHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/281
-#EXTINF:-1,PT: SPORT TV 3 FullHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/282
-#EXTINF:-1,PT: SPORT TV 4 FullHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/283
-#EXTINF:-1,PT: SPORT TV 5 FullHD
-http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/284
+
 #EXTINF:-1, ===SHLS====
 #EXTINF:-1,PT | SPORT TV1 
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
