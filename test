@@ -78,7 +78,6 @@ http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/62952
 http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/62953
 #EXTINF:-1,4K | ELEVEN SPORTS 6 
 http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/62954
-
 #EXTINF:-1,PT | SPORT TV 1
 http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/63013
 #EXTINF:-1,PT | SPORT TV 2
@@ -89,10 +88,35 @@ http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/63015
 http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/63016
 #EXTINF:-1,PT | SPORT TV 5
 http://line.clear-ocean.link:80/GxBDcbUsi/PG6KM5mBqR/63017
-
-
-
-#EXTINF:-1, === Sansanet ====
+#EXTINF:-1, === fungold ====
+#EXTINF:-1,PT: Benfica Tv
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1481
+#EXTINF:-1,PT: Benfica TV
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1497
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1515
+#EXTINF:-1,PT: SPORT TV 1
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/281487
 
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - Benfica TV HD
