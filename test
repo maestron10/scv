@@ -150,20 +150,8 @@ http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/1495
 http://013tv.com:8080/fungold2023/k8mc3ZPHrYUNKGTM/281487
 
 #EXTINF:-1, ===Hubs====
-#EXTINF:-1,PT - Benfica TV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61981
-#EXTINF:-1,PT - BTV HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61984
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
-#EXTINF:-1,PT - SPORT TV 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
-#EXTINF:-1,PT - Sport TV 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
+
+
 #EXTINF:-1, ==sibfungold====
 
 #EXTINF:-1, ===SHLS====
@@ -220,17 +208,7 @@ http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/170
 #EXTINF:-1,SPORT TV 5 HD PT
 http://main.xplus2-main.xyz:2082/xplus-2-QniV8LZeMn/0itsF2puuE/171
 
-#EXTINF:-1, ===TouroBox====
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/167
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/168
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/169
-#EXTINF:-1,SPORT TV 4 HD PT
-http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/170
-#EXTINF:-1,SPORT TV 5 HD PT
-http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/171
+#EXTINF:-1, ===Mainxplus2====
 #EXTINF:-1,SPORT TV 1 HD PT
 http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/167
 #EXTINF:-1,SPORT TV 2 HD PT
@@ -241,6 +219,8 @@ http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/169
 http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/170
 #EXTINF:-1,SPORT TV 5 HD PT
 http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/171
+
+#EXTINF:-1, ===Gameplay====
 #EXTINF:-1,SPORT TV 01
 http://gameplay.p2sweb.me:80/xavs32/4521ars/250108
 #EXTINF:-1,SPORT TV 02
