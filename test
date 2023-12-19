@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1, ==proOne====
 #EXTINF:-1,|.PT.S.O| BENFICA TV
 http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58876.ts
 #EXTINF:-1,|.PT.| BENFICA TV FHD
@@ -25,8 +26,33 @@ http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58882.ts
 http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58884.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 5 HD
 http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58886.ts
-
-
+#EXTINF:-1, ==Osorio====
+#EXTINF:-1,PT|, Benfica TV HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187483
+#EXTINF:-1,PT|, Benfica TV HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187484
+#EXTINF:-1,PT|, Eleven Sports 1 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187469
+#EXTINF:-1,PT|, Eleven Sports 2 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187472
+#EXTINF:-1,PT|,Eleven Sports 3 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187475
+#EXTINF:-1,PT|, Eleven Sports 4 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187477
+#EXTINF:-1,PT|, Eleven Sports 5 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187479
+#EXTINF:-1,PT|, Sport TV 1 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187453
+#EXTINF:-1,PT|, Sport TV 2 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187456
+#EXTINF:-1,PT|, Sport TV 3 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187459
+#EXTINF:-1,PT|, Sport TV 4 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187462
+#EXTINF:-1,PT|, Sport TV 5 HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/187464
+#EXTINF:-1,BRA: STAR+ Espn HD
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/151835
 
 #EXTINF:-1, ==pdsrv====
 #EXTINF:-1,PT: BENFICA TV FHDÂ¹
