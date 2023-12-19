@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTINF:-1,|.PT.S.O| BENFICA TV
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58876.ts
+#EXTINF:-1,|.PT.| BENFICA TV FHD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/95819.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 1 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58888.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 2 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58889.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 3 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58890.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 4 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58891.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 5 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58892.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58893.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 1 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/31368.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58880.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58882.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 4 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58884.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58886.ts
+
+
+
 #EXTINF:-1, ==pdsrv====
 #EXTINF:-1,PT: BENFICA TV FHDÂ¹
 http://pdsrv.io:80/Williampi/pizzoni344/130198
