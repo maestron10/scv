@@ -1,1 +1,81 @@
 #EXTM3U
+#EXTINF:-1,=== IPTVMedia ===
+#EXTINF:-1,Benfica TV
+http://iptvmedia.live:8080/F30928/80c0ec7a/1497
+#EXTINF:-1,ELEVEN SPORTS 1
+http://iptvmedia.live:8080/F30928/80c0ec7a/1499
+#EXTINF:-1,ELEVEN SPORTS 2
+http://iptvmedia.live:8080/F30928/80c0ec7a/1503
+#EXTINF:-1,ELEVEN SPORTS 3
+http://iptvmedia.live:8080/F30928/80c0ec7a/1506
+#EXTINF:-1,ELEVEN SPORTS 4
+http://iptvmedia.live:8080/F30928/80c0ec7a/1509
+#EXTINF:-1,ELEVEN SPORTS 5
+http://iptvmedia.live:8080/F30928/80c0ec7a/1512
+#EXTINF:-1,ELEVEN SPORTS 6
+http://iptvmedia.live:8080/F30928/80c0ec7a/1515
+#EXTINF:-1,SPORT TV 1
+http://iptvmedia.live:8080/F30928/80c0ec7a/1483
+#EXTINF:-1,SPORT TV 2
+http://iptvmedia.live:8080/F30928/80c0ec7a/1486
+#EXTINF:-1,SPORT TV 3
+http://iptvmedia.live:8080/F30928/80c0ec7a/1489
+#EXTINF:-1,SPORT TV 4
+http://iptvmedia.live:8080/F30928/80c0ec7a/1492
+#EXTINF:-1,SPORT TV 5
+http://iptvmedia.live:8080/F30928/80c0ec7a/1495
+#EXTINF:-1,SPORT TV 6
+http://iptvmedia.live:8080/F30928/80c0ec7a/281487
+#EXTINF:-1,TVCine Action
+http://iptvmedia.live:8080/F30928/80c0ec7a/1452
+#EXTINF:-1,TVCine Edition
+http://iptvmedia.live:8080/F30928/80c0ec7a/82254
+#EXTINF:-1,TVCine Emotion
+http://iptvmedia.live:8080/F30928/80c0ec7a/1448
+#EXTINF:-1,TVCine Top
+http://iptvmedia.live:8080/F30928/80c0ec7a/1446
+#EXTINF:-1,AXN
+http://iptvmedia.live:8080/F30928/80c0ec7a/1469
+#EXTINF:-1,Nos Studios
+http://iptvmedia.live:8080/F30928/80c0ec7a/1454
+#EXTINF:-1,RTP Ãfrica
+http://iptvmedia.live:8080/F30928/80c0ec7a/1424
+#EXTINF:-1,Netflix
+http://iptvmedia.live:8080/F30928/80c0ec7a/24517
+#EXTINF:-1,=== Trendy ===
+#EXTINF:-1,PT| BENFICA TV HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/983567
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107495
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107494
+#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/122484
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/122485
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/122486
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107436
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107435
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107434
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107433
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/148667
+#EXTINF:-1,PT| TVCINE ACTION HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107420
+#EXTINF:-1,PT| TVCINE EDITION HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107422
+#EXTINF:-1,PT| TVCINE EMOTION HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107421
+#EXTINF:-1,PT| TVCINE TOP HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107423
+#EXTINF:-1,PT| AXN HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107517
+#EXTINF:-1,PT| NOS STUDIOS HD
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107459
+#EXTINF:-1,PT| RTP AFRICA
+http://trendystream.me:80/14323d4eba/b9b2a1915427/107453
