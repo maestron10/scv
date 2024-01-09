@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTINF:-1,=== zuihaode ===
+#EXTINF:-1,Portugal | Benfica TV HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/112180
+#EXTINF:-1,Portugal | ELEVEN SPORTS 1 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76710
+#EXTINF:-1,Portugal | ELEVEN SPORTS 2 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76711
+#EXTINF:-1,Portugal | ELEVEN SPORTS 3 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76712
+#EXTINF:-1,Portugal | ELEVEN SPORTS 4 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76714
+#EXTINF:-1,Portugal | ELEVEN SPORTS 5 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76716
+#EXTINF:-1,Portugal | ELEVEN SPORTS 6 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76718
+#EXTINF:-1,Portugal | SPORT TV 1 UHD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76682
+#EXTINF:-1,Portugal | SPORT TV 2 UHD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76683
+#EXTINF:-1,Portugal | SPORT TV 3 UHD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76684
+#EXTINF:-1,Portugal | SPORT TV 4 | FHD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76768
+#EXTINF:-1,Portugal | SPORT TV 5 HD
+http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76747
+
+
+
+
 #EXTINF:-1,=== IPTVMedia ===
 #EXTINF:-1,Benfica TV
 http://iptvmedia.live:8080/F30928/80c0ec7a/1497
