@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1,=== bernardo ===
+#EXTINF:-1,||PT|| Benfica TV FHDÃ‚Â¹
+http://cartatv.es:8080/Bernardo/123456789/582719
+#EXTINF:-1,||PT|| Benfica TV FHDÃ‚Â²
+http://cartatv.es:8080/Bernardo/123456789/582720
+#EXTINF:-1,||PT|| Eleven Sport 1  HD
+http://cartatv.es:8080/Bernardo/123456789/582703
+#EXTINF:-1,||PT|| Eleven Sport 2  HD
+http://cartatv.es:8080/Bernardo/123456789/582706
+#EXTINF:-1,||PT|| Eleven Sport 3 HD
+http://cartatv.es:8080/Bernardo/123456789/582710
+#EXTINF:-1,||PT|| Eleven Sport 4 FHD
+http://cartatv.es:8080/Bernardo/123456789/582713
+#EXTINF:-1,||PT|| Eleven Sport 5 HD
+http://cartatv.es:8080/Bernardo/123456789/582715
+#EXTINF:-1,||PT|| Sport TV 1  HD
+http://cartatv.es:8080/Bernardo/123456789/582683
+#EXTINF:-1,||PT|| Sport TV 2 HD
+http://cartatv.es:8080/Bernardo/123456789/582688
+#EXTINF:-1,||PT|| Sport TV 3  HD
+http://cartatv.es:8080/Bernardo/123456789/582690
+#EXTINF:-1,||PT|| Sport TV 4  HD
+http://cartatv.es:8080/Bernardo/123456789/582694
+#EXTINF:-1,||PT|| Sport TV 5 HD
+http://cartatv.es:8080/Bernardo/123456789/582697
+#EXTINF:-1,||PT|| Sport TV 6 FHD
+http://cartatv.es:8080/Bernardo/123456789/582700
+
+
+
 #EXTINF:-1,=== zuihaode ===
 #EXTINF:-1,Portugal | Benfica TV HD
 http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/112180
