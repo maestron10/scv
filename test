@@ -1,5 +1,63 @@
 #EXTM3U
 #EXTINF:-1,=== bernardo ===
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370394
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370399
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370403
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370406
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370410
+#EXTINF:-1,PT: BENFICA TV HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370424
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370429
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370433
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370435
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370437
+#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370440
+#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370442
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370450
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370453
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370456
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370459
+#EXTINF:-1,PT: TVCINE TOP HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370462
+#EXTINF:-1,=== ofd===
+#EXTINF:-1,PT: BENFICA TV FHD
+http://304266218183762590.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/762590.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HEVC
+http://304266218183729527.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/729527.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HEVC
+http://304266218183318939.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/318939.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://304266218183552898.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/552898.ts
+#EXTINF:-1,PT: ELEVEN SPORT 4 FHD
+http://304266218183755729.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/755729.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://304266218183763668.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/763668.ts
+#EXTINF:-1,PT: SPORT TV 2 HEVC
+http://304266218183318977.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/318977.ts
+#EXTINF:-1,PT: SPORT TV 3 HEVC
+http://304266218183318982.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/318982.ts
+#EXTINF:-1,PT: SPORT TV 4 HD FHD
+http://304266218183755868.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/755868.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://304266218183763669.ofd112.xyz:80/play/vi0121739/n4hNXtVMCK/763669.ts
+
+
+#EXTINF:-1,=== bernardo ===
 #EXTINF:-1,||PT|| Benfica TV FHDÃ‚Â¹
 http://cartatv.es:8080/Bernardo/123456789/582719
 #EXTINF:-1,||PT|| Benfica TV FHDÃ‚Â²
@@ -30,30 +88,7 @@ http://cartatv.es:8080/Bernardo/123456789/582700
 
 
 #EXTINF:-1,=== zuihaode ===
-#EXTINF:-1,Portugal | Benfica TV HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/112180
-#EXTINF:-1,Portugal | ELEVEN SPORTS 1 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76710
-#EXTINF:-1,Portugal | ELEVEN SPORTS 2 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76711
-#EXTINF:-1,Portugal | ELEVEN SPORTS 3 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76712
-#EXTINF:-1,Portugal | ELEVEN SPORTS 4 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76714
-#EXTINF:-1,Portugal | ELEVEN SPORTS 5 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76716
-#EXTINF:-1,Portugal | ELEVEN SPORTS 6 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76718
-#EXTINF:-1,Portugal | SPORT TV 1 UHD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76682
-#EXTINF:-1,Portugal | SPORT TV 2 UHD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76683
-#EXTINF:-1,Portugal | SPORT TV 3 UHD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76684
-#EXTINF:-1,Portugal | SPORT TV 4 | FHD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76768
-#EXTINF:-1,Portugal | SPORT TV 5 HD
-http://zuihaode.site:8080/Jeffjota/ddZA7Tvh4F/76747
+
 #EXTINF:-1,=== 152.89 ===
 #EXTINF:-1,PT011:Benfica TV 1 FHD
 http://152.89.62.76:8880/3ca06183n05/fr6tg7yusv/3239
@@ -93,135 +128,6 @@ http://152.89.62.76:8880/3ca06183n05/fr6tg7yusv/3179
 http://152.89.62.76:8880/3ca06183n05/fr6tg7yusv/3178
 #EXTINF:-1,PT092:NOS Studios
 http://152.89.62.76:8880/3ca06183n05/fr6tg7yusv/29398
-#EXTINF:-1,=== Maria ===
-#EXTINF:-1,PT - BENFICA TV
-http://dns.p2.wtf:80/maria1305/1305maria/220241
-#EXTINF:-1,PT - ELEVEN SPORTS 1
-http://dns.p2.wtf:80/maria1305/1305maria/220086
-#EXTINF:-1,PT - ELEVEN SPORTS 2
-http://dns.p2.wtf:80/maria1305/1305maria/220338
-#EXTINF:-1,PT - ELEVEN SPORTS 3
-http://dns.p2.wtf:80/maria1305/1305maria/220339
-#EXTINF:-1,PT - ELEVEN SPORTS 4
-http://dns.p2.wtf:80/maria1305/1305maria/220340
-#EXTINF:-1,PT - ELEVEN SPORTS 5
-http://dns.p2.wtf:80/maria1305/1305maria/220341
-#EXTINF:-1,PT - SPORT TV1
-http://dns.p2.wtf:80/maria1305/1305maria/220215
-#EXTINF:-1,PT - SPORT TV2
-http://dns.p2.wtf:80/maria1305/1305maria/220287
-#EXTINF:-1,PT - SPORT TV3
-http://dns.p2.wtf:80/maria1305/1305maria/220288
-#EXTINF:-1,PT - SPORT TV4
-http://dns.p2.wtf:80/maria1305/1305maria/220290
-#EXTINF:-1,PT - SPORT TV5
-http://dns.p2.wtf:80/maria1305/1305maria/220289
-#EXTINF:-1,=== Maria NOS ===
-#EXTINF:-1,PT (NOS) - BTV1
-http://dns.p2.wtf:80/maria1305/1305maria/219920
-#EXTINF:-1,PT (NOS) - ELEVEN SPORTS 1
-http://dns.p2.wtf:80/maria1305/1305maria/219953
-#EXTINF:-1,PT (NOS) - ELEVEN SPORTS 2
-http://dns.p2.wtf:80/maria1305/1305maria/219954
-#EXTINF:-1,PT (NOS) - ELEVEN SPORTS 3
-http://dns.p2.wtf:80/maria1305/1305maria/219955
-#EXTINF:-1,PT (NOS) - ELEVEN SPORTS 4
-http://dns.p2.wtf:80/maria1305/1305maria/219956
-#EXTINF:-1,PT (NOS) - ELEVEN SPORTS 5
-http://dns.p2.wtf:80/maria1305/1305maria/219957
-#EXTINF:-1,PT (NOS) - ELEVEN SPORTS 6
-http://dns.p2.wtf:80/maria1305/1305maria/219958
-#EXTINF:-1,PT (NOS) - SPORT TV1
-http://dns.p2.wtf:80/maria1305/1305maria/220024
-#EXTINF:-1,PT (NOS) - SPORT TV2
-http://dns.p2.wtf:80/maria1305/1305maria/220025
-#EXTINF:-1,PT (NOS) - SPORT TV3
-http://dns.p2.wtf:80/maria1305/1305maria/220026
-#EXTINF:-1,PT (NOS) - SPORT TV4
-http://dns.p2.wtf:80/maria1305/1305maria/220027
-#EXTINF:-1,PT (NOS) - SPORT TV5
-http://dns.p2.wtf:80/maria1305/1305maria/220028
 
 
-
-
-#EXTINF:-1,=== IPTVMedia ===
-#EXTINF:-1,Benfica TV
-http://iptvmedia.live:8080/F30928/80c0ec7a/1497
-#EXTINF:-1,ELEVEN SPORTS 1
-http://iptvmedia.live:8080/F30928/80c0ec7a/1499
-#EXTINF:-1,ELEVEN SPORTS 2
-http://iptvmedia.live:8080/F30928/80c0ec7a/1503
-#EXTINF:-1,ELEVEN SPORTS 3
-http://iptvmedia.live:8080/F30928/80c0ec7a/1506
-#EXTINF:-1,ELEVEN SPORTS 4
-http://iptvmedia.live:8080/F30928/80c0ec7a/1509
-#EXTINF:-1,ELEVEN SPORTS 5
-http://iptvmedia.live:8080/F30928/80c0ec7a/1512
-#EXTINF:-1,ELEVEN SPORTS 6
-http://iptvmedia.live:8080/F30928/80c0ec7a/1515
-#EXTINF:-1,SPORT TV 1
-http://iptvmedia.live:8080/F30928/80c0ec7a/1483
-#EXTINF:-1,SPORT TV 2
-http://iptvmedia.live:8080/F30928/80c0ec7a/1486
-#EXTINF:-1,SPORT TV 3
-http://iptvmedia.live:8080/F30928/80c0ec7a/1489
-#EXTINF:-1,SPORT TV 4
-http://iptvmedia.live:8080/F30928/80c0ec7a/1492
-#EXTINF:-1,SPORT TV 5
-http://iptvmedia.live:8080/F30928/80c0ec7a/1495
-#EXTINF:-1,SPORT TV 6
-http://iptvmedia.live:8080/F30928/80c0ec7a/281487
-#EXTINF:-1,TVCine Action
-http://iptvmedia.live:8080/F30928/80c0ec7a/1452
-#EXTINF:-1,TVCine Edition
-http://iptvmedia.live:8080/F30928/80c0ec7a/82254
-#EXTINF:-1,TVCine Emotion
-http://iptvmedia.live:8080/F30928/80c0ec7a/1448
-#EXTINF:-1,TVCine Top
-http://iptvmedia.live:8080/F30928/80c0ec7a/1446
-#EXTINF:-1,AXN
-http://iptvmedia.live:8080/F30928/80c0ec7a/1469
-#EXTINF:-1,Nos Studios
-http://iptvmedia.live:8080/F30928/80c0ec7a/1454
-#EXTINF:-1,RTP Ãfrica
-http://iptvmedia.live:8080/F30928/80c0ec7a/1424
-#EXTINF:-1,Netflix
-http://iptvmedia.live:8080/F30928/80c0ec7a/24517
-#EXTINF:-1,=== Trendy ===
-#EXTINF:-1,PT| BENFICA TV HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/983567
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107495
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107494
-#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/122484
-#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/122485
-#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/122486
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107436
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107435
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107434
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107433
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/148667
-#EXTINF:-1,PT| TVCINE ACTION HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107420
-#EXTINF:-1,PT| TVCINE EDITION HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107422
-#EXTINF:-1,PT| TVCINE EMOTION HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107421
-#EXTINF:-1,PT| TVCINE TOP HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107423
-#EXTINF:-1,PT| AXN HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107517
-#EXTINF:-1,PT| NOS STUDIOS HD
-http://trendystream.me:80/14323d4eba/b9b2a1915427/107459
-#EXTINF:-1,PT| RTP AFRICA
 http://trendystream.me:80/14323d4eba/b9b2a1915427/107453
