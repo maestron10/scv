@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1,PT: BTV FHD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130471
+#EXTINF:-1,PT: BTV HD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130472
+#EXTINF:-1,PT: BTV SD
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130473
+#EXTINF:-1,PT: BTV [ B ]
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130474
+
 #EXTINF:-1, ===SHLS====
 #EXTINF:-1,PT | SPORT TV1 
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
