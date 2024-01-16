@@ -29,6 +29,9 @@ http://152.89.62.76:8880/1msk040003/73378271/29370
 http://152.89.62.76:8880/1msk040003/73378271/29369
 #EXTINF:-1,PT122:Eleven Sports 6 FHD
 http://152.89.62.76:8880/1msk040003/73378271/29368
+#EXTINF:-1,PT081:TVI Reality
+http://152.89.62.76:8880/1msk040003/73378271/29409
+
 
 #EXTINF:-1,=== dominio ===
 #EXTINF:-1,PT: BTV HD
@@ -55,11 +58,8 @@ http://dominoiptv.com:2082/Hamedealeesa12/wAFfuTvhGWc9/224086
 http://dominoiptv.com:2082/Hamedealeesa12/wAFfuTvhGWc9/224088
 #EXTINF:-1,PT: Sport TV 6 HD
 http://dominoiptv.com:2082/Hamedealeesa12/wAFfuTvhGWc9/224090
-
-#EXTINF:-1,=== zuihaode ===
-
-
-
+#EXTINF:-1,PT: TVI REALITY
+http://dominoiptv.com:2082/Hamedealeesa12/wAFfuTvhGWc9/257278
 
 #EXTINF:-1,=== posvilar ===
 #EXTINF:-1,PT: SPORT TV 1 HD
@@ -96,6 +96,9 @@ http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370456
 http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370459
 #EXTINF:-1,PT: TVCINE TOP HD
 http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370462
+#EXTINF:-1,PT: TVI REALITY
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370576
+
 #EXTINF:-1,=== panela ===
 #EXTINF:-1,BTV FHD
 http://dns.panela.online:80/amandafr/amdfr0064/220823
@@ -123,4 +126,6 @@ http://dns.panela.online:80/amandafr/amdfr0064/166528
 http://dns.panela.online:80/amandafr/amdfr0064/336088
 #EXTINF:-1,SPORT TV 6 FHD
 http://dns.panela.online:80/amandafr/amdfr0064/336089
+#EXTINF:-1,TVI REALITY 
+http://dns.panela.online:80/amandafr/amdfr0064/323005
 
