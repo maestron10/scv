@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,=== 152===
 #EXTINF:-1,PT011:Benfica TV 1 FHD
 http://152.89.62.76:8880/1msk040003/73378271/3239
@@ -61,71 +60,4 @@ http://dominoiptv.com:2082/Hamedealeesa12/wAFfuTvhGWc9/224090
 #EXTINF:-1,PT: TVI REALITY
 http://dominoiptv.com:2082/Hamedealeesa12/wAFfuTvhGWc9/257278
 
-#EXTINF:-1,=== posvilar ===
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370394
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370399
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370403
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370406
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370410
-#EXTINF:-1,PT: BENFICA TV HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370424
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370429
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370433
-#EXTINF:-1,PT: ELEVEN SPORT 3 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370435
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370437
-#EXTINF:-1,PT: ELEVEN SPORT 5 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370440
-#EXTINF:-1,PT: ELEVEN SPORT 6 HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370442
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370450
-#EXTINF:-1,PT: TVCINE ACTION HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370453
-#EXTINF:-1,PT: TVCINE EDITION HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370456
-#EXTINF:-1,PT: TVCINE EMOTION HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370459
-#EXTINF:-1,PT: TVCINE TOP HD
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370462
-#EXTINF:-1,PT: TVI REALITY
-http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370576
-
-#EXTINF:-1,=== panela ===
-#EXTINF:-1,BTV FHD
-http://dns.panela.online:80/amandafr/amdfr0064/220823
-#EXTINF:-1,BTV TV HD
-http://dns.panela.online:80/amandafr/amdfr0064/220824
-#EXTINF:-1,ELEVEN SPORTS 1 FULL HD
-http://dns.panela.online:80/amandafr/amdfr0064/220799
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/297605
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/297607
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/220802
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/220803
-#EXTINF:-1,SPORT TV 1 FULL HD
-http://dns.panela.online:80/amandafr/amdfr0064/220817
-#EXTINF:-1,SPORT TV 2  FHD
-http://dns.panela.online:80/amandafr/amdfr0064/166526
-#EXTINF:-1,SPORT TV 3  FHD
-http://dns.panela.online:80/amandafr/amdfr0064/166527
-#EXTINF:-1,SPORT TV 4 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/166528
-#EXTINF:-1,SPORT TV 5 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/336088
-#EXTINF:-1,SPORT TV 6 FHD
-http://dns.panela.online:80/amandafr/amdfr0064/336089
-#EXTINF:-1,TVI REALITY 
-http://dns.panela.online:80/amandafr/amdfr0064/323005
 
