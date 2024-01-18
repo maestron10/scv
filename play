@@ -1,14 +1,7 @@
 #EXTM3U
-#EXTINF:-1,PT: BTV FHD
-http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130471
-#EXTINF:-1,PT: BTV HD
-http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130472
-#EXTINF:-1,PT: BTV SD
-http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130473
-#EXTINF:-1,PT: BTV [ B ]
-http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/130474
-
-
+#EXTINF:-1, ==BTV====
+#EXTINF:-1,BTV
+http://23.131.184.114:80/Orlando/1234/585450
 #EXTINF:-1, ==strzzi====
 #EXTINF:-1,BTV 4K
 http://c.strzzi.site:80/69754976031509/237915368574/2985176
@@ -67,41 +60,46 @@ http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58882.ts
 http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58884.ts
 #EXTINF:-1,|.PT.S.| SPORT TV 5 HD
 http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58886.ts
-#EXTINF:-1, ===Esuni====
+#EXTINF:-1,=== posvilar ===
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370394
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370399
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370403
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370406
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370410
+#EXTINF:-1,PT: BENFICA TV HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370424
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370429
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370433
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370435
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370437
+#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370440
+#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370442
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370450
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370453
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370456
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370459
+#EXTINF:-1,PT: TVCINE TOP HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370462
+#EXTINF:-1,PT: TVI REALITY
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370576
 
 #EXTINF:-1, === Mr Dream  ====
-#EXTINF:-1,PT: BTV 1 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95396
-#EXTINF:-1,|PT| BENFICA TV HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/200525
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95418
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95419
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95420
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95421
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95422
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95423
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95408
-#EXTINF:-1,PT: SPORT TV 1 HD NOS
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95409
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95411
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95413
-#EXTINF:-1,PT: SPORT TV 4
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95415
-#EXTINF:-1,PT: SPORT TV 5
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95416
-#EXTINF:-1,|PT| SPORT TV 6 HD
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/200526
-#EXTINF:-1,PT: NBA TV
-http://iptv.mr-dream.eu:88/f6NcbdLc8Sw/DTU1MS1Slg6eOlp/95417
+
 #EXTINF:-1, ==nxt====
 #EXTINF:-1,ELEVEN SPORTS 1
 http://nxt.plus:8080/painxcd/331075/168836
@@ -121,9 +119,50 @@ http://nxt.plus:8080/painxcd/331075/23426
 http://nxt.plus:8080/painxcd/331075/23428
 #EXTINF:-1,SPORT TV 4
 http://nxt.plus:8080/painxcd/331075/23431
+#EXTINF:-1,=== echx ===
+#EXTINF:-1,||PT|| BENFICA TV HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9791
+#EXTINF:-1,||PT|| BENFICA TV FHD (NOS)
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9792
+#EXTINF:-1,||PT|| ELEVEN SPORTS 1 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9743
+#EXTINF:-1,||PT|| ELEVEN SPORTS 2 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9744
+#EXTINF:-1,||PT|| ELEVEN SPORTS 3 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9750
+#EXTINF:-1,||PT|| ELEVENS SPORTS 4 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9800
+#EXTINF:-1,||PT|| ELEVEN SPORTS 5 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9797
+#EXTINF:-1,||PT|| SPORT TV 1 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36979
+#EXTINF:-1,||pt|| SPORT TV 2 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36980
+#EXTINF:-1,||PT|| SPORT TV3 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36981
+#EXTINF:-1,||PT|| SPORT TV4 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
+#EXTINF:-1,||PT|| SPORT TV5 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
 
+#EXTINF:-1,||PT|| DAZN 1 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9742
 
 #EXTINF:-1, ===Hubs====
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61984
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62071
+#EXTINF:-1,PT - Sport TV 2
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62079
+#EXTINF:-1,PT - SPORT TV 3 
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/74595
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62074
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62082
 
 
 #EXTINF:-1, ==sibfungold====
