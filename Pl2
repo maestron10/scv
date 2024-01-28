@@ -1,211 +1,273 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,RTP 1
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/1
-#EXTINF:-1,RTP 2
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/2
-#EXTINF:-1,SIC
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/3
-#EXTINF:-1,TVI
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/4
-#EXTINF:-1,TVI FICCAO
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/5
-#EXTINF:-1,TVI REALITY
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/6
-#EXTINF:-1,SIC NOTICIAS
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/7
-#EXTINF:-1,TVI 24
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/8
-#EXTINF:-1,RTP 3
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/9
-#EXTINF:-1,CMTV
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/10
-#EXTINF:-1,SIC MULHER
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/11
-#EXTINF:-1,SIC CARAS
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/12
-#EXTINF:-1,SIC RADICAL
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/13
-#EXTINF:-1,CANAL Q
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/14
-#EXTINF:-1,PORTO CANAL
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/15
-#EXTINF:-1,RTP MEMORIA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/16
-#EXTINF:-1,RTP AFRICA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/17
-#EXTINF:-1,CANCAO NOVA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/18
-#EXTINF:-1,ARTV
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/19
-#EXTINF:-1,---INTERNACIONAIS---
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/20
-#EXTINF:-1,TV GLOBO
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/21
-#EXTINF:-1,TV RECORD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/23
-#EXTINF:-1,------DESPORTO------
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/24
+#EXTINF:-1, ==BTV====
+#EXTINF:-1,BTV
+http://23.131.184.114:80/Orlando/1234/585450
+#EXTINF:-1, ==strzzi====
+#EXTINF:-1,BTV 4K
+http://c.strzzi.site:80/69754976031509/237915368574/2985176
+#EXTINF:-1,BTV FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985177
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985190
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985193
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985196
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985199
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985202
+#EXTINF:-1,SPORT TV 1 4K
+http://c.strzzi.site:80/69754976031509/237915368574/2985226
+#EXTINF:-1,SPORT TV 1 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985227
+#EXTINF:-1,SPORT TV 1 HD
+http://c.strzzi.site:80/69754976031509/237915368574/2985228
+#EXTINF:-1,SPORT TV 2 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985231
+#EXTINF:-1,SPORT TV 3 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985235
+#EXTINF:-1,SPORT TV 4 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985239
+#EXTINF:-1,SPORT TV 5 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985243
+#EXTINF:-1,SPORT TV 6 FHD
+http://c.strzzi.site:80/69754976031509/237915368574/2985247
+#EXTINF:-1, ==proOne====
+#EXTINF:-1,|.PT.S.O| BENFICA TV
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58876.ts
+#EXTINF:-1,|.PT.| BENFICA TV FHD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/95819.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 1 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58888.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 2 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58889.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 3 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58890.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 4 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58891.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 5 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58892.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58893.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 1 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/31368.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58880.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58882.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 4 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58884.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
+http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58886.ts
+#EXTINF:-1,=== posvilar ===
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370394
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370399
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370403
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370406
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370410
+#EXTINF:-1,PT: BENFICA TV HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370424
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370429
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370433
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370435
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370437
+#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370440
+#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370442
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370450
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370453
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370456
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370459
+#EXTINF:-1,PT: TVCINE TOP HD
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370462
+#EXTINF:-1,PT: TVI REALITY
+http://posnovilar.online:2082/P23010549/rKjguDN3BHWy/370576
+
+#EXTINF:-1, === Mr Dream  ====
+
+#EXTINF:-1, ==nxt====
 #EXTINF:-1,ELEVEN SPORTS 1
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/25
+http://nxt.plus:8080/painxcd/331075/168836
 #EXTINF:-1,ELEVEN SPORTS 2
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/26
+http://nxt.plus:8080/painxcd/331075/168837
 #EXTINF:-1,ELEVEN SPORTS 3
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/27
+http://nxt.plus:8080/painxcd/331075/168838
 #EXTINF:-1,ELEVEN SPORTS 4
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/28
+http://nxt.plus:8080/painxcd/331075/168839
 #EXTINF:-1,ELEVEN SPORTS 5
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/29
-#EXTINF:-1,ELEVEN SPORTS 6
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/30
-#EXTINF:-1,SporTV 1
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/31
-#EXTINF:-1,SporTV 2
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/32
-#EXTINF:-1,SporTV 3
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/33
-#EXTINF:-1,SporTV 4
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/35
-#EXTINF:-1,SporTV 5
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/36
-#EXTINF:-1,SporTV 6
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/37
-#EXTINF:-1,SporTV +
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/39
-#EXTINF:-1,BENFICA TV HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/40
-#EXTINF:-1,SPORTING TV
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/42
-#EXTINF:-1,ABOLA TV
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/43
-#EXTINF:-1,CANAL 11
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/44
-#EXTINF:-1,EUROSPORT 1 HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/45
-#EXTINF:-1,EUROSPORT 2
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/46
-#EXTINF:-1,PFC
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/47
-#EXTINF:-1,------INFANTIL------
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/49
-#EXTINF:-1,DISNEY CHANNEL
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/50
-#EXTINF:-1,DISNEY JUNIOR
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/51
-#EXTINF:-1,NICKELODEON
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/52
-#EXTINF:-1,CARTON NETWORK
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/53
-#EXTINF:-1,CANAL PANDA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/54
-#EXTINF:-1,BIGGS
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/55
-#EXTINF:-1,SIC K
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/56
-#EXTINF:-1,-------CINEMA-------
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/59
-#EXTINF:-1,TVCine TOP HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/60
-#EXTINF:-1,TVCine EDITION HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/61
-#EXTINF:-1,TVCine EMOTION HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/62
-#EXTINF:-1,TVCine ACTION HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/63
-#EXTINF:-1,NOS STUDIOS
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/64
-#EXTINF:-1,HOLLYWOOD HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/65
-#EXTINF:-1,CINEMUNDO
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/66
-#EXTINF:-1,AMC
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/67
-#EXTINF:-1,FOX MOVIES
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/68
-#EXTINF:-1,--------SERIES--------
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/70
-#EXTINF:-1,AXN HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/71
-#EXTINF:-1,AXN WHITE HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/72
-#EXTINF:-1,AXN MOVIES HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/73
-#EXTINF:-1,FOX HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/74
-#EXTINF:-1,FOXLIFE HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/75
-#EXTINF:-1,FOX CRIME HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/76
-#EXTINF:-1,FOX COMEDY
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/77
-#EXTINF:-1,SYFY
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/78
-#EXTINF:-1,---DOCUMENTARIOS---
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/79
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/80
-#EXTINF:-1,NATGEOWILD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/81
-#EXTINF:-1,DISCOVERY CHANNEL
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/82
-#EXTINF:-1,ODISSEIA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/83
-#EXTINF:-1,HISTORIA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/84
-#EXTINF:-1,------LIFESTYLE------
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/85
-#EXTINF:-1,TLC
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/86
-#EXTINF:-1,24 KITCHEN HD
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/88
-#EXTINF:-1,E!ENTERTAINMENT
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/89
-#EXTINF:-1,CAZAVISION
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/91
-#EXTINF:-1,CACA E PESCA
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/92
-#EXTINF:-1,BLAZE
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/93
-#EXTINF:-1,-------MUSICA-------
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/94
-#EXTINF:-1,MTV PORTUGAL
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/95
-#EXTINF:-1,MCM POP
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/96
-#EXTINF:-1,TRACE TV
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/97
-#EXTINF:-1,MTV 00s
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/98
-#EXTINF:-1,AFRO MUSIC
-http://adiclgic.dyndns.org:4321/PauloCasa/paulocasa/99
-#EXTINF:-1,PT| SPORT TV 6 HD
-http://startv365.com:80/0664251418/9924187372/400229659
+http://nxt.plus:8080/painxcd/331075/168840
+#EXTINF:-1,SPORT TV 1 
+http://nxt.plus:8080/painxcd/331075/23424
+#EXTINF:-1,SPORT TV 2
+http://nxt.plus:8080/painxcd/331075/23426
+#EXTINF:-1,SPORT TV 3
+http://nxt.plus:8080/painxcd/331075/23428
+#EXTINF:-1,SPORT TV 4
+http://nxt.plus:8080/painxcd/331075/23431
+#EXTINF:-1,=== echx ===
+#EXTINF:-1,||PT|| BENFICA TV HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9791
+#EXTINF:-1,||PT|| BENFICA TV FHD (NOS)
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9792
+#EXTINF:-1,||PT|| ELEVEN SPORTS 1 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9743
+#EXTINF:-1,||PT|| ELEVEN SPORTS 2 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9744
+#EXTINF:-1,||PT|| ELEVEN SPORTS 3 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9750
+#EXTINF:-1,||PT|| ELEVENS SPORTS 4 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9800
+#EXTINF:-1,||PT|| ELEVEN SPORTS 5 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9797
+#EXTINF:-1,||PT|| SPORT TV 1 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36979
+#EXTINF:-1,||pt|| SPORT TV 2 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36980
+#EXTINF:-1,||PT|| SPORT TV3 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36981
+#EXTINF:-1,||PT|| SPORT TV4 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
+#EXTINF:-1,||PT|| SPORT TV5 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
 
-#EXTINF:-1, ===IPTVtree====
-#EXTINF:-1,PT: Benfica TV
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1497
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1515
-#EXTINF:-1,PT: SPORT TV 1
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/281487
+#EXTINF:-1,||PT|| DAZN 1 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9742
+#EXTINF:-1,=== echx ===
+#EXTINF:-1,||PT|| BENFICA TV HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9791
+#EXTINF:-1,||PT|| BENFICA TV FHD (NOS)
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9792
+#EXTINF:-1,||PT|| ELEVEN SPORTS 1 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9743
+#EXTINF:-1,||PT|| ELEVEN SPORTS 2 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9744
+#EXTINF:-1,||PT|| ELEVEN SPORTS 3 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9750
+#EXTINF:-1,||PT|| ELEVENS SPORTS 4 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9800
+#EXTINF:-1,||PT|| ELEVEN SPORTS 5 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9797
+#EXTINF:-1,||PT|| SPORT TV 1 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36979
+#EXTINF:-1,||pt|| SPORT TV 2 HD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36980
+#EXTINF:-1,||PT|| SPORT TV3 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36981
+#EXTINF:-1,||PT|| SPORT TV4 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
+#EXTINF:-1,||PT|| SPORT TV5 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
 
+#EXTINF:-1,||PT|| DAZN 1 FHD
+http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9742
+
+#EXTINF:-1, ===Hubs====
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61984
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62071
+#EXTINF:-1,PT - Sport TV 2
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62079
+#EXTINF:-1,PT - SPORT TV 3 
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/74595
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62074
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62082
+
+
+#EXTINF:-1, ==sibfungold====
+
+#EXTINF:-1, === Wanice ====
+#EXTINF:-1,PT011:Benfica TV 1 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3239
+#EXTINF:-1,PT012:Benfica TV 1 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3238
+#EXTINF:-1,PT157:Eleven Sports 1 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/49966
+#EXTINF:-1,PT159:Eleven Sports 2 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/49032
+#EXTINF:-1,PT119:Eleven Sports 3 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/29371
+#EXTINF:-1,PT120:Eleven Sports 4 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/29370
+#EXTINF:-1,PT058:Sport TV 1 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3192
+#EXTINF:-1,PT059:Sport TV 2 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3191
+#EXTINF:-1,PT060:Sport TV 3 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3190
+#EXTINF:-1,PT061:Sport TV 4 HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3189
+#EXTINF:-1,PT158:SPORT TV 5 FHD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/49958
+#EXTINF:-1,PT069:TV Cine Top
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3181
+#EXTINF:-1,PT070:TV Cine Emotion
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3180
+#EXTINF:-1,PT071:TV Cine Action
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3179
+#EXTINF:-1,PT072:TV Cine Edition
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/3178
+#EXTINF:-1,BR033:ESPN HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/2499
+
+#EXTINF:-1, ===SHLS====
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1, ===Jesus====
+
+#EXTINF:-1, ===Mainxplus2====
+#EXTINF:-1,SPORT TV 1 HD PT
+http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/167
+#EXTINF:-1,SPORT TV 2 HD PT
+http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/168
+#EXTINF:-1,SPORT TV 3 HD PT
+http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/169
+#EXTINF:-1,SPORT TV 4 HD PT
+http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/170
+#EXTINF:-1,SPORT TV 5 HD PT
+http://main.xplus2-main.xyz:2082/LIST-MIGIRATION-v2JbSD2IZy/xcHJAW0xYr/171
