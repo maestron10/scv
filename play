@@ -28,7 +28,24 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Be
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1, ===vennetv====
-
+#EXTINF:-1,PT: Benfica TV FullHD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49967
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54740
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54741
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53509
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54742
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53510
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54743
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53511
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54744
 
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - Benfica TV HD
@@ -47,6 +64,8 @@ http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62074
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62082
 
 #EXTINF:-1, ===SHLS====
+#EXTINF:0 ,BTV 1 HD
+http://213.13.16.138/shls/LIVE$Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 ,SPORT TV 1 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 ,SPORT TV 2 HD
@@ -55,26 +74,13 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 ,SPORT TV 6 HD
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-
 #EXTINF:0,DAZN ELEVEN 1 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0,DAZN ELEVEN 1 HD
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
-#EXTINF:0 ,DANZ ELEVEN 1 HD
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0,DAZN ELEVEN 2 HD
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 ,DANZ ELEVEN 3 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 ,DANZ ELEVEN 4 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 ,DANZ ELEVEN 5 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
-
