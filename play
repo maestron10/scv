@@ -26,6 +26,33 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$El
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
 #EXTINF:-1,PT - tvi Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1, ===Tpires====
+#EXTINF:-1,BTV 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/31
+#EXTINF:-1,BTV 1
+http://tlpires.com:8080/ganhar5/36282b8j68f/30
+#EXTINF:-1,ELEVEN 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/231
+#EXTINF:-1,ELEVEN 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/232
+#EXTINF:-1,ELEVEN 3
+http://tlpires.com:8080/ganhar5/36282b8j68f/233
+#EXTINF:-1,ELEVEN 4
+http://tlpires.com:8080/ganhar5/36282b8j68f/234
+#EXTINF:-1,ELEVEN 5
+http://tlpires.com:8080/ganhar5/36282b8j68f/235
+#EXTINF:-1,SPORT TV 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/25
+#EXTINF:-1,SPORT TV 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/26
+#EXTINF:-1,SPORT TV 3 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/27
+#EXTINF:-1,SPORT TV 4 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/23
+#EXTINF:-1,SPORT TV 5 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/24
+#EXTINF:-1,TVI REALITY
+http://tlpires.com:8080/ganhar5/36282b8j68f/15
 
 #EXTINF:-1, ===vennetv====
 #EXTINF:-1,PT: Benfica TV FullHD
