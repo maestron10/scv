@@ -106,6 +106,96 @@ http://213.13.16.138/shls/LIVE%24Nat_Geo_Wild_HD/index.m3u8?device=TVOS_Live&sta
 http://213.13.16.138/shls/LIVE%24RTP_Memoria/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1, SIC Radical
 http://213.13.16.138/shls/LIVE%24SIC_Radical_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1,------tlpires------
+#EXTINF:-1,RTP 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/1001
+#EXTINF:-1,RTP 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/1002
+#EXTINF:-1,SIC HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/1003
+#EXTINF:-1,TVI HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/1004
+#EXTINF:-1,RTP 3
+http://tlpires.com:8080/ganhar5/36282b8j68f/8
+#EXTINF:-1,SIC NOTICIAS
+http://tlpires.com:8080/ganhar5/36282b8j68f/5
+#EXTINF:-1,CNN Portugal
+http://tlpires.com:8080/ganhar5/36282b8j68f/7
+#EXTINF:-1,CMTV
+http://tlpires.com:8080/ganhar5/36282b8j68f/11
+#EXTINF:-1,TVI REALITY
+http://tlpires.com:8080/ganhar5/36282b8j68f/15
+#EXTINF:-1,SIC MULHER
+http://tlpires.com:8080/ganhar5/36282b8j68f/6
+#EXTINF:-1,SIC RADICAL
+http://tlpires.com:8080/ganhar5/36282b8j68f/9
+#EXTINF:-1,PORTO CANAL
+http://tlpires.com:8080/ganhar5/36282b8j68f/12
+#EXTINF:-1,A BOLA
+http://tlpires.com:8080/ganhar5/36282b8j68f/17
+#EXTINF:-1,CANAL 11 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/37
+#EXTINF:-1,SPORT TV+
+http://tlpires.com:8080/ganhar5/36282b8j68f/33
+#EXTINF:-1,BTV 1
+http://tlpires.com:8080/ganhar5/36282b8j68f/30
+#EXTINF:-1,BTV 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/31
+#EXTINF:-1,ELEVEN 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/231
+#EXTINF:-1,ELEVEN 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/232
+#EXTINF:-1,ELEVEN 3
+http://tlpires.com:8080/ganhar5/36282b8j68f/233
+#EXTINF:-1,ELEVEN 4
+http://tlpires.com:8080/ganhar5/36282b8j68f/234
+#EXTINF:-1,ELEVEN 5
+http://tlpires.com:8080/ganhar5/36282b8j68f/235
+#EXTINF:-1,ELEVEN 6
+http://tlpires.com:8080/ganhar5/36282b8j68f/236
+#EXTINF:-1,SPORT TV 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/25
+#EXTINF:-1,SPORT TV 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/26
+#EXTINF:-1,SPORT TV 3 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/27
+#EXTINF:-1,SPORT TV 4 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/23
+#EXTINF:-1,SPORT TV 5 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/24
+#EXTINF:-1,SPORTING TV
+http://tlpires.com:8080/ganhar5/36282b8j68f/34
+#EXTINF:-1,TVCINE TOP HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/75
+#EXTINF:-1,TVCINE EDITION HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/76
+#EXTINF:-1,TVCINE EMOTION HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/77
+#EXTINF:-1,TVCINE ACTION HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/78
+#EXTINF:-1,AMC HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/54
+#EXTINF:-1,HOLLYWOOD
+http://tlpires.com:8080/ganhar5/36282b8j68f/57
+#EXTINF:-1,CINEMUNDO
+http://tlpires.com:8080/ganhar5/36282b8j68f/59
+#EXTINF:-1,FOX HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/90
+#EXTINF:-1,FOX COMEDY
+http://tlpires.com:8080/ganhar5/36282b8j68f/67
+#EXTINF:-1,FOX MOVIES
+http://tlpires.com:8080/ganhar5/36282b8j68f/68
+#EXTINF:-1,FOX LIFE HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/82
+#EXTINF:-1,FOX CRIME HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/92
+#EXTINF:-1,AXN HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/87
+#EXTINF:-1,AXN MOVIES HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/83
+#EXTINF:-1,AXN WHITE HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/94
 #EXTINF:-1,------|Wanice|------
 #EXTINF:-1,PT001:A&E
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/3249
