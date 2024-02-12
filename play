@@ -90,6 +90,32 @@ http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62074
 #EXTINF:-1,PT - Sport TV 5
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62082
 
+#EXTINF:-1, ===Bmc media====
+#EXTINF:-1,PT: BTV
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56774
+#EXTINF:-1,PT: ELEVEN SPORT 1
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56790
+#EXTINF:-1,PT: ELEVEN SPORT 2
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56791
+#EXTINF:-1,PT: ELEVEN SPORT 3
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56792
+#EXTINF:-1,PT: ELEVEN SPORT 4
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56793
+#EXTINF:-1,PT: ELEVEN SPORT 5
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56794
+#EXTINF:-1,PT: SPORT TV 1
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56841
+#EXTINF:-1,PT: SPORT TV 2
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56842
+#EXTINF:-1,PT: SPORT TV 3 [Live During Events Only]
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56843
+#EXTINF:-1,PT: SPORT TV 4
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56844
+#EXTINF:-1,PT: SPORT TV 5
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56845
+#EXTINF:-1,PT: TVI REALITY
+https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56861
+
 #EXTINF:-1, ===SHLS====
 #EXTINF:0 ,BTV 1 HD
 http://213.13.16.138/shls/LIVE$Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
