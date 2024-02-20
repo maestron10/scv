@@ -53,27 +53,29 @@ http://tlpires.com:8080/ganhar5/36282b8j68f/23
 http://tlpires.com:8080/ganhar5/36282b8j68f/24
 #EXTINF:-1,TVI REALITY
 http://tlpires.com:8080/ganhar5/36282b8j68f/15
-
-#EXTINF:-1, ===vennetv====
-#EXTINF:-1,PT: Benfica TV FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49967
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54740
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54741
-#EXTINF:-1,PT: Eleven Sports 3 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53509
-#EXTINF:-1,PT: Eleven Sports 3 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54742
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53510
-#EXTINF:-1,PT: Eleven Sports 4 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54743
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53511
-#EXTINF:-1,PT: Eleven Sports 5 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54744
-
+#EXTINF:-1, ===985====
+#EXTINF:-1,PT: BTV HD
+http://985967179672783213.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/783213
+#EXTINF:-1,PT: DAZN ELEVEN 1 
+http://985967179672775152.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/775152
+#EXTINF:-1,PT: DAZN ELEVEN 2 
+http://985967179672775153.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/775153
+#EXTINF:-1,PT: DAZN ELEVEN 3 
+http://985967179672755728.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/755728
+#EXTINF:-1,PT: DAZN ELEVEN 4 
+http://985967179672775157.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/775157
+#EXTINF:-1,PT: DAZN ELEVEN 5 
+http://985967179672775158.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/775158
+#EXTINF:-1,PT: SPORT TV 1 
+http://985967179672623298.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/623298
+#EXTINF:-1,PT: SPORT TV 2 
+http://985967179672737448.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/737448
+#EXTINF:-1,PT: SPORT TV 3 
+http://985967179672339545.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/339545
+#EXTINF:-1,PT: SPORT TV 4
+http://985967179672400103.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/400103
+#EXTINF:-1,PT: TVI REALITY 
+http://985967179672782990.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/782990
 #EXTINF:-1, ===Hubs====
 #EXTINF:-1,PT - Benfica TV HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61981
