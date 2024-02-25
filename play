@@ -26,6 +26,34 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$El
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
 #EXTINF:-1,PT - tvi Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+
+#EXTINF:-1, ===m3u====
+#EXTINF: -1 group-title="Ungrouped", Sport TV1
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341824
+#EXTINF: -1 group-title="Ungrouped", Sport TV2
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341825
+#EXTINF: -1 group-title="Ungrouped", Sport TV3
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341826
+#EXTINF: -1 group-title="Ungrouped", Sport TV4
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341827
+#EXTINF: -1 group-title="Ungrouped", Sport TV5
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341828
+#EXTINF: -1 group-title="Ungrouped", Eleven1
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341829
+#EXTINF: -1 group-title="Ungrouped", Eleven2
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341830
+#EXTINF: -1 group-title="Ungrouped", Eleven3
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341831
+#EXTINF: -1 group-title="Ungrouped", Eleven4
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341832
+#EXTINF: -1 group-title="Ungrouped", Eleven5
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341833
+#EXTINF: -1 group-title="Ungrouped", Eleven6
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341834
+#EXTINF: -1 group-title="Ungrouped", Benfica TV
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341835
+
+
 #EXTINF:-1, ===Tpires====
 #EXTINF:-1,BTV 1 HD
 http://tlpires.com:8080/ganhar5/36282b8j68f/31
