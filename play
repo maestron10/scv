@@ -53,34 +53,6 @@ https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341834
 #EXTINF: -1 group-title="Ungrouped", Benfica TV
 https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341835
 
-
-#EXTINF:-1, ===Tpires====
-#EXTINF:-1,BTV 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/31
-#EXTINF:-1,BTV 1
-http://tlpires.com:8080/ganhar5/36282b8j68f/30
-#EXTINF:-1,ELEVEN 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/231
-#EXTINF:-1,ELEVEN 2 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/232
-#EXTINF:-1,ELEVEN 3
-http://tlpires.com:8080/ganhar5/36282b8j68f/233
-#EXTINF:-1,ELEVEN 4
-http://tlpires.com:8080/ganhar5/36282b8j68f/234
-#EXTINF:-1,ELEVEN 5
-http://tlpires.com:8080/ganhar5/36282b8j68f/235
-#EXTINF:-1,SPORT TV 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/25
-#EXTINF:-1,SPORT TV 2 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/26
-#EXTINF:-1,SPORT TV 3 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/27
-#EXTINF:-1,SPORT TV 4 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/23
-#EXTINF:-1,SPORT TV 5 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/24
-#EXTINF:-1,TVI REALITY
-http://tlpires.com:8080/ganhar5/36282b8j68f/15
 #EXTINF:-1, ===985====
 #EXTINF:-1,PT: BTV HD
 http://985967179672783213.ofd0219.xyz:80/5S2NYAJPKG/PU@74Jv345/783213
@@ -146,6 +118,54 @@ https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56845
 #EXTINF:-1,PT: TVI REALITY
 https://bmcmedia.live:2083/VSV.reload/wZVSZ65prP/56861
 
+#EXTINF:-1, ===mi====
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://53374523575776599.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/776599.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HEVC" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 1 HEVC
+http://53374523575729527.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/729527.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HEVC
+http://53374523575748992.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/748992.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 3 HEVC
+http://53374523575660566.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/660566.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 4 FHD
+http://53374523575777268.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/777268.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
+http://53374523575744514.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/744514.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+http://53374523575744516.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/744516.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HEVC
+http://53374523575773023.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/773023.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://asiagrandiptv.us/logo//SPORTTV2.jpeg" group-title="Portugal",PT: SPORT TV 2 HD
+http://53374523575737448.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/737448.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://53374523575775898.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/775898.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://asiagrandiptv.us/logo//SPORTTV4.png" group-title="Portugal",PT: SPORT TV 4 FHD
+http://53374523575400103.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/400103.ts
+
+#EXTINF:-1, ===PPV====
+#EXTINF:-1,ELEVEN SPORTS FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7459
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7456
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7453
+#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7449
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7447
+#EXTINF:-1,SPORT TV 1 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7439
+#EXTINF:-1,SPORT TV 2 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7435
+#EXTINF:-1,SPORT TV 3 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7433
+#EXTINF:-1,SPORT TV 4 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7430
+#EXTINF:-1,SPORT TV 5 FHD (PPV)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7427
+
+
+
 
 #EXTINF:-1, ===SHLS====
 #EXTINF:0 ,BTV 1 HD
@@ -168,3 +188,31 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 ,DANZ ELEVEN 5 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, ===Tpires====
+#EXTINF:-1,BTV 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/31
+#EXTINF:-1,BTV 1
+http://tlpires.com:8080/ganhar5/36282b8j68f/30
+#EXTINF:-1,ELEVEN 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/231
+#EXTINF:-1,ELEVEN 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/232
+#EXTINF:-1,ELEVEN 3
+http://tlpires.com:8080/ganhar5/36282b8j68f/233
+#EXTINF:-1,ELEVEN 4
+http://tlpires.com:8080/ganhar5/36282b8j68f/234
+#EXTINF:-1,ELEVEN 5
+http://tlpires.com:8080/ganhar5/36282b8j68f/235
+#EXTINF:-1,SPORT TV 1 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/25
+#EXTINF:-1,SPORT TV 2 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/26
+#EXTINF:-1,SPORT TV 3 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/27
+#EXTINF:-1,SPORT TV 4 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/23
+#EXTINF:-1,SPORT TV 5 HD
+http://tlpires.com:8080/ganhar5/36282b8j68f/24
+#EXTINF:-1,TVI REALITY
+http://tlpires.com:8080/ganhar5/36282b8j68f/15
