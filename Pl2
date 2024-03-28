@@ -1,75 +1,61 @@
 #EXTM3U
-#EXTINF:-1, ==proOne====
-#EXTINF:-1,|.PT.S.O| BENFICA TV
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58876.ts
-#EXTINF:-1,|.PT.| BENFICA TV FHD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/95819.ts
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 1 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58888.ts
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 2 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58889.ts
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 3 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58890.ts
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 4 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58891.ts
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 5 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58892.ts
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58893.ts
-#EXTINF:-1,|.PT.S.O| SPORT TV 1 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/31368.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58880.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58882.ts
-#EXTINF:-1,|.PT.S.O| SPORT TV 4 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58884.ts
-#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
-http://pro.one-iptv.com:25443/live/1839AQJ2K2/9VIGYV8OGT/58886.ts
-
-#EXTINF:-1, ==nxt====
-#EXTINF:-1,ELEVEN SPORTS 1
-http://nxt.plus:8080/painxcd/331075/168836
-#EXTINF:-1,ELEVEN SPORTS 2
-http://nxt.plus:8080/painxcd/331075/168837
-#EXTINF:-1,ELEVEN SPORTS 3
-http://nxt.plus:8080/painxcd/331075/168838
-#EXTINF:-1,ELEVEN SPORTS 4
-http://nxt.plus:8080/painxcd/331075/168839
-#EXTINF:-1,ELEVEN SPORTS 5
-http://nxt.plus:8080/painxcd/331075/168840
-#EXTINF:-1,SPORT TV 1 
-http://nxt.plus:8080/painxcd/331075/23424
-#EXTINF:-1,SPORT TV 2
-http://nxt.plus:8080/painxcd/331075/23426
-#EXTINF:-1,SPORT TV 3
-http://nxt.plus:8080/painxcd/331075/23428
-#EXTINF:-1,SPORT TV 4
-http://nxt.plus:8080/painxcd/331075/23431
-#EXTINF:-1,=== echx ===
-#EXTINF:-1,||PT|| BENFICA TV HD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9791
-#EXTINF:-1,||PT|| BENFICA TV FHD (NOS)
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9792
-#EXTINF:-1,||PT|| ELEVEN SPORTS 1 HD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9743
-#EXTINF:-1,||PT|| ELEVEN SPORTS 2 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9744
-#EXTINF:-1,||PT|| ELEVEN SPORTS 3 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9750
-#EXTINF:-1,||PT|| ELEVENS SPORTS 4 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9800
-#EXTINF:-1,||PT|| ELEVEN SPORTS 5 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9797
-#EXTINF:-1,||PT|| SPORT TV 1 HD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36979
-#EXTINF:-1,||pt|| SPORT TV 2 HD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36980
-#EXTINF:-1,||PT|| SPORT TV3 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36981
-#EXTINF:-1,||PT|| SPORT TV4 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
-#EXTINF:-1,||PT|| SPORT TV5 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/36982
-#EXTINF:-1,||PT|| DAZN 1 FHD
-http://31.43.191.49:25461/exch@iptvpk/nLTe6XztDc8JDHFSKDJFIUBJKSMKLJLJKSBJ/9742
+#EXTINF:-1, ===Dani====
+#EXTINF:-1, Sport TV1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Sport TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Sport TV3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Sport TV4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Sport TV5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Sport TV1 ( Full HD )
+https://server11.net/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=5cfb642bde570ea72d803322d805de711a415a9a-9d7632087576873ce18725383bbfefcc-1711294214-1711290614
+#EXTINF:-1, Sport TV2 ( Full HD )
+https://server11.net/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=26ac78ddb1089a8f6ed00e7219d999565b9ddce8-f1dd5854ade7c0bbacda9f5a729f63a4-1711294228-1711290628
+#EXTINF:-1, Sport TV3 ( Full HD )
+https://server11.net/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f7aa015a2b4e8fcfff2ef22eaffb8bebc7e6a1e8-931ddb6eec93d73dc44f8720aaad7744-1711294236-1711290636
+#EXTINF:-1, Sport TV4 ( Full HD )
+https://server11.net/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=9acfc9b32029ce92bc5a5a6fa0392d017c758b15-8e66ac43dabb9cd462a2d5d4c75d0d9c-1711294244-1711290644
+#EXTINF:-1, Sport TV5 ( Full HD )
+https://server11.net/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=740ccfa486ae258d9be25550b5cd0c556432f34f-54cdc91cd4b803462fee87bedd9bc374-1711294251-1711290651
+#EXTINF:-1, Eleven1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Eleven2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Eleven3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Eleven4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Eleven5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Eleven6
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1, Benfica TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1, ===m3u====
+#EXTINF: -1 group-title="Ungrouped", Benfica TV
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341835
+#EXTINF: -1 group-title="Ungrouped", Sport TV1
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341824
+#EXTINF: -1 group-title="Ungrouped", Sport TV2
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341825
+#EXTINF: -1 group-title="Ungrouped", Sport TV3
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341826
+#EXTINF: -1 group-title="Ungrouped", Sport TV4
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341827
+#EXTINF: -1 group-title="Ungrouped", Sport TV5
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341828
+#EXTINF: -1 group-title="Ungrouped", Eleven1
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341829
+#EXTINF: -1 group-title="Ungrouped", Eleven2
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341830
+#EXTINF: -1 group-title="Ungrouped", Eleven3
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341831
+#EXTINF: -1 group-title="Ungrouped", Eleven4
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341832
+#EXTINF: -1 group-title="Ungrouped", Eleven5
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341833
+#EXTINF: -1 group-title="Ungrouped", Eleven6
+https://m3u-editor.com/serve/17183170-d408-11ee-83c3-29694703be15/1097341834
