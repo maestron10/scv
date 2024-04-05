@@ -68,6 +68,45 @@ http://newreality2020.com:25461/primodiogo/16092021/94844
 http://newreality2020.com:25461/primodiogo/16092021/94845
 #EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER MEO" tvg-logo="https://img.iol.pt/preset/6597d83cd34e65afa2f951be/og/tvi" group-title="Portugal",BIG BROTHER MEO
 http://newreality2020.com:25461/primodiogo/16092021/94796
+#EXTINF:-1, ===Hmontasser====
+#EXTINF:-1,||PT|| BENFICA TV FHD (NOS)
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9792.ts
+#EXTINF:-1,||PT|| BENFICA TV HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9791.ts
+#EXTINF:-1,||PT|| ELEVEN SPORTS 1 HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9743.ts
+#EXTINF:-1,||PT|| ELEVEN SPORTS 2 HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9746.ts
+#EXTINF:-1,||PT|| ELEVEN SPORTS 3 HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9749.ts
+#EXTINF:-1,||PT|| ELEVENS SPORTS 4 FHD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9800.ts
+#EXTINF:-1,||PT|| ELEVEN SPORTS 5 FHD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9797.ts
+#EXTINF:-1,||PT|| ELEVEN SPORTS 6 FHD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9795.ts
+#EXTINF:-1,||PT|| SPORT TV 1  
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/36979.ts
+#EXTINF:-1,||PT|| SPORT TV1 SD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9728.ts
+#EXTINF:-1,||PT|| SPORT TV2 HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9731.ts
+#EXTINF:-1,||PT|| SPORT TV3 HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9735.ts
+#EXTINF:-1,||PT|| SPORT TV5 HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9740.ts
+#EXTINF:-1,||PT|| TV CINE ACTION HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9823.ts
+#EXTINF:-1,||PT|| TV CINE EMOTION HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9826.ts
+#EXTINF:-1,||PT|| TV CINE EDITION HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9829.ts
+#EXTINF:-1,||PT|| TV CINE TOP HD
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9832.ts
+#EXTINF:-1,||PT|| TVI REALITY
+http://31.43.191.49:25461/live/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/9725.ts
+
+
 #EXTINF:-1, ===ojpc====
 #EXTINF: -1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="OJPC HD", BTVᶠᴴᴰ
 http://ojpc.live:8080/jKQJLCyF2d/Q8E9qUJVRD/70
@@ -113,10 +152,6 @@ http://ojpc.live:8080/jKQJLCyF2d/Q8E9qUJVRD/25
 http://ojpc.live:8080/jKQJLCyF2d/Q8E9qUJVRD/27
 
 
-#EXTINF:-1, ===Sibfull====
-
-
-
 
 #EXTINF:-1, ===985====
 
@@ -137,14 +172,6 @@ http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/62074
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/62082
 #EXTINF:-1,PT - TVI Reality
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/62108
-
-
-#EXTINF:-1, ===Bernardo====
-
-
-#EXTINF:-1, ===PPV====
-
-
 
 
 #EXTINF:-1, ===SHLS====
@@ -169,4 +196,4 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:0 ,DANZ ELEVEN 5 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1, ===Tpires====
+
