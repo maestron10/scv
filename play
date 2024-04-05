@@ -31,6 +31,43 @@ http://mohdtv.com:8880/voby3949/54128273/49958
 http://mohdtv.com:8880/voby3949/54128273/29409
 
 
+#EXTINF:-1, ===NewRealitty====
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv.png" group-title="Portugal",BTV 
+http://newreality2020.com:25461/primodiogo/16092021/94848
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv_hd.png" group-title="Portugal",BTV 
+http://newreality2020.com:25461/primodiogo/16092021/94849
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="https://i.imgur.com/BuIok7w.png" group-title="Portugal",BTV 
+http://newreality2020.com:25461/primodiogo/16092021/94850
+#EXTINF:-1 tvg-id="BTV1 HD" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv_hd.png" group-title="Portugal",BTV 
+http://newreality2020.com:25461/primodiogo/16092021/94851
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 " tvg-logo="https://i.imgur.com/aTv8yyU.png" group-title="Portugal",ELEVEN SPORTS 1 
+http://newreality2020.com:25461/primodiogo/16092021/94853
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name=" ELEVEN SPORTS 2 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven2.png" group-title="Portugal", ELEVEN SPORTS 2 HD
+http://newreality2020.com:25461/primodiogo/16092021/94856
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven3.png" group-title="Portugal",ELEVEN SPORTS 3 HD
+http://newreality2020.com:25461/primodiogo/16092021/94858
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven4.png" group-title="Portugal",ELEVEN SPORTS 4 HD
+http://newreality2020.com:25461/primodiogo/16092021/94860
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.imgur.com/NSZepYR.png" group-title="Portugal",ELEVEN SPORTS 5 HD
+http://newreality2020.com:25461/primodiogo/16092021/94861
+#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/5aEgAt6.png" group-title="Portugal", ELEVEN SPORTS 6 HD
+http://newreality2020.com:25461/primodiogo/16092021/94863
+#EXTINF:-1 tvg-id="Sport TV1" tvg-name="SPORT TV 1 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-1-rebrand.png" group-title="Portugal",SPORT TV 1 FHD
+http://newreality2020.com:25461/primodiogo/16092021/94837
+#EXTINF:-1 tvg-id="Sport TV2" tvg-name="SPORT TV 2 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-2-rebrand.png" group-title="Portugal",SPORT TV 2 
+http://newreality2020.com:25461/primodiogo/16092021/94839
+#EXTINF:-1 tvg-id="SPORT TV3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-3-rebrand.png" group-title="Portugal",SPORT TV 3 HD
+http://newreality2020.com:25461/primodiogo/16092021/94840
+#EXTINF:-1 tvg-id="Sport TV4" tvg-name="SPORT TV 4 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-4-rebrand.png" group-title="Portugal",SPORT TV 4 
+http://newreality2020.com:25461/primodiogo/16092021/94842
+#EXTINF:-1 tvg-id="Sport TV4" tvg-name="SPORT TV 4 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-4-rebrand.png" group-title="Portugal",SPORT TV 4 
+http://newreality2020.com:25461/primodiogo/16092021/94843
+#EXTINF:-1 tvg-id="SPORT TV5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-5-rebrand.png" group-title="Portugal",SPORT TV 5 HD
+http://newreality2020.com:25461/primodiogo/16092021/94844
+#EXTINF:-1 tvg-id="Sport TV6" tvg-name="SPORT TV 6 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-6-rebrand.png" group-title="Portugal",SPORT TV 6 
+http://newreality2020.com:25461/primodiogo/16092021/94845
+#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER MEO" tvg-logo="https://img.iol.pt/preset/6597d83cd34e65afa2f951be/og/tvi" group-title="Portugal",BIG BROTHER MEO
+http://newreality2020.com:25461/primodiogo/16092021/94796
 #EXTINF:-1, ===ojpc====
 #EXTINF: -1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="OJPC HD", BTVᶠᴴᴰ
 http://ojpc.live:8080/jKQJLCyF2d/Q8E9qUJVRD/70
@@ -75,61 +112,8 @@ http://ojpc.live:8080/jKQJLCyF2d/Q8E9qUJVRD/25
 #EXTINF: -1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="OJPC HD", NOS STUDIOSᴴᴰ
 http://ojpc.live:8080/jKQJLCyF2d/Q8E9qUJVRD/27
 
-#EXTINF:-1, ===ASDF====
-#EXTINF:-1,PT011:Benfica TV 1 FHD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3239
-#EXTINF:-1,PT012:Benfica TV 1 HD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3238
-#EXTINF:-1,PT157:Eleven Sports 1 FHD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/49966
-#EXTINF:-1,PT159:Eleven Sports 2 FHD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/49032
-#EXTINF:-1,PT119:Eleven Sports 3 FHD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/29371
-#EXTINF:-1,PT120:Eleven Sports 4 FHD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/29370
-#EXTINF:-1,PT121:Eleven Sports 5 SD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/29369
-#EXTINF:-1,PT058:Sport TV 1 HD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3192
-#EXTINF:-1,PT059:Sport TV 2 HD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3191
-#EXTINF:-1,PT060:Sport TV 3 HD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3190
-#EXTINF:-1,PT061:Sport TV 4 HD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3189
-#EXTINF:-1,PT062:Sport TV 5 HD
-http://31.42.185.54:8880/asdf2344/580cde0058e1/3188
-#EXTINF:-1,PT081:TVI Reality
-http://31.42.185.54:8880/asdf2344/580cde0058e1/29409
 
 #EXTINF:-1, ===Sibfull====
-#EXTINF:-1,|.PT.| BENFICA TV FHD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/95819
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 1 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58888
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 2 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58889
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 3 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58890
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 4 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58891
-#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 5 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58892
-#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58893
-#EXTINF:-1,|.PT.S.O| SPORT TV 1 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/31368
-#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58880
-#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58882
-#EXTINF:-1,|.PT.S.O| SPORT TV 4 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58884
-#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
-http://tvpro.vprotv.com:25443/V1737b3E7VBfl/ICFAJlxaJ7/58886
-#EXTINF:-1,|.PT.O| TVI REALITY HD
-http://tvpro.vprotv.com:25443/live/V1737b3E7VBfl/ICFAJlxaJ7/58847.ts
 
 
 
