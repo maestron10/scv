@@ -1,27 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ===Cord====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://cord-cutter.net:8080/7MArer2/382185/136726
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/7MArer2/382185/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://cord-cutter.net:8080/7MArer2/382185/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://cord-cutter.net:8080/7MArer2/382185/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://cord-cutter.net:8080/7MArer2/382185/167745
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://cord-cutter.net:8080/7MArer2/382185/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://cord-cutter.net:8080/7MArer2/382185/167747
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/7MArer2/382185/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/7MArer2/382185/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/7MArer2/382185/167750
-#EXTINF:-1,PT: TVI REALITY
-http://cord-cutter.net:8080/7MArer2/382185/164861
+
 
 #EXTINF:-1, ===Voby====
 #EXTINF: -1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="OJPC HD", BTVᶠᴴᴰ
@@ -117,7 +96,7 @@ http://312081733628816095.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/816095.ts
 #EXTINF:-1,PT: SPORT TV 4 FHD
 http://312081733628798249.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/798249.ts
 #EXTINF:-1,PT: TVI REALITY HEVC
-http://312081733628816098.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/816098.ts
+http://312081733628816098.ofdt0409.xyz:80/vi504551/QPjpV8Epfj/816098
 
 #EXTINF:-1, ===ibi====
 #EXTINF:-1,PT: BENFICA TV FHD
