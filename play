@@ -104,6 +104,39 @@ http://mohdtv.com:8880/voby3949/54128273/49958
 #EXTINF:-1,PT081:TVI Reality
 http://mohdtv.com:8880/voby3949/54128273/29409
 
+#EXTINF:-1, ===p2ppt====
+#EXTINF:-1,BTV FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1529
+#EXTINF:-1,BTV TV HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1530
+#EXTINF:-1,Eleven Sports 1 FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2377
+#EXTINF:-1,Eleven Sports 2 FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2385
+#EXTINF:-1,Eleven Sports 3 FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2391
+#EXTINF:-1,Eleven Sports 4 FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2398
+#EXTINF:-1,Eleven Sports 5 FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2405
+#EXTINF:-1,Eleven Sports 6 FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2411
+#EXTINF:-1,Sport TV 1 Full HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1514
+#EXTINF:-1,Sport TV 2 Full HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1517
+#EXTINF:-1,Sport TV 3 Full HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1520
+#EXTINF:-1,Sport TV 4 Full HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1523
+#EXTINF:-1,Sport TV 5 Full HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1526
+#EXTINF:-1,BTV FHD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1529
+#EXTINF:-1,BTV TV HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1530
+#EXTINF:-1,TVI Reality HD
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/1489
 
 #EXTINF:-1, ===NewRealitty====
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv.png" group-title="Portugal",BTV 
