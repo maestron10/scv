@@ -1,5 +1,41 @@
 #EXTM3U
 #EXTINF:-1, ===Cord====
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/stadnik2/7082341272/1483
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/stadnik2/7082341272/1486
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/stadnik2/7082341272/1489
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/283
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/stadnik2/7082341272/1492
+
+#EXTINF:-1, ===sibful====
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/286
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49967
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54740
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54741
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53509
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53510
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53511
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/280
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/281
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/282
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/283
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/284
 
 
 #EXTINF:-1, ===Voby====
@@ -71,32 +107,6 @@ http://newreality2020.com:25461/primodiogo/16092021/94845
 #EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER MEO" tvg-logo="https://img.iol.pt/preset/6597d83cd34e65afa2f951be/og/tvi" group-title="Portugal",BIG BROTHER MEO
 http://newreality2020.com:25461/primodiogo/16092021/94796
 
-
-#EXTINF:-1, ===312====
-#EXTINF:-1,PT: BTV HD
-http://312081733628802448.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/802448.ts
-#EXTINF:-1,PT: DAZN ELEVEN 1 FHD
-http://312081733628785363.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/785363.ts
-#EXTINF:-1,PT: ELEVEN SPORT 2 FHD
-http://312081733628812645.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/812645.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://312081733628802464.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/802464.ts
-#EXTINF:-1,PT: DAZN ELEVEN 4 FHD
-http://312081733628775157.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/775157.ts
-#EXTINF:-1,PT: DAZN ELEVEN 5 FHD
-http://312081733628775158.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/775158.ts
-#EXTINF:-1,PT: DAZN ELEVEN 6 FHD
-http://312081733628775160.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/775160.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://312081733628623298.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/623298.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://312081733628816093.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/816093.ts
-#EXTINF:-1,PT: SPORT TV 3 HEVC
-http://312081733628816095.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/816095.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://312081733628798249.ofdt0409.xyz:80/play/vi504551/QPjpV8Epfj/798249.ts
-#EXTINF:-1,PT: TVI REALITY HEVC
-http://312081733628816098.ofdt0409.xyz:80/vi504551/QPjpV8Epfj/816098
 
 #EXTINF:-1, ===ibi====
 #EXTINF:-1,PT: BENFICA TV FHD
