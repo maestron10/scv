@@ -1,15 +1,41 @@
 #EXTM3U
-#EXTINF:-1, ===Cord====
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1, ===myteve====
+#EXTINF:-1,PT: Benfica TV
+http://myteve.online:8080/stadnik2/7082341272/1497
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://myteve.online:8080/stadnik2/7082341272/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://myteve.online:8080/stadnik2/7082341272/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://myteve.online:8080/stadnik2/7082341272/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://myteve.online:8080/stadnik2/7082341272/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://myteve.online:8080/stadnik2/7082341272/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://myteve.online:8080/stadnik2/7082341272/1515
+#EXTINF:-1,PT: SPORT TV 1
 http://myteve.online:8080/stadnik2/7082341272/1483
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,PT: SPORT TV 2
 http://myteve.online:8080/stadnik2/7082341272/1486
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,PT: SPORT TV 3
 http://myteve.online:8080/stadnik2/7082341272/1489
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/283
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,PT: SPORT TV 4
 http://myteve.online:8080/stadnik2/7082341272/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://myteve.online:8080/stadnik2/7082341272/1495
+#EXTINF:-1,PT: TVCine Action
+http://myteve.online:8080/stadnik2/7082341272/1452
+#EXTINF:-1,PT: TVCine Edition
+http://myteve.online:8080/stadnik2/7082341272/82254
+#EXTINF:-1,PT: TVCine Emotion
+http://myteve.online:8080/stadnik2/7082341272/1448
+#EXTINF:-1,PT: TVCine Top
+http://myteve.online:8080/stadnik2/7082341272/1446
+#EXTINF:-1,PT: TVI Reality
+http://myteve.online:8080/stadnik2/7082341272/1423
+
+
 
 #EXTINF:-1, ===sibful====
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
