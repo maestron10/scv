@@ -35,43 +35,41 @@ http://myteve.online:8080/stadnik2/7082341272/1446
 #EXTINF:-1,PT: TVI Reality
 http://myteve.online:8080/stadnik2/7082341272/1423
 
-
-
-#EXTINF:-1, ===sibful====
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/286
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49967
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54740
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54741
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53509
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53510
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53511
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/280
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/281
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/282
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/283
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/284
-#EXTINF:-1,PT: TVI REALITY HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/731
-#EXTINF:-1,PT: TV CINE ACTION FullHD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/270
-#EXTINF:-1,PT: TV CINE EDITION FullHD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/269
-#EXTINF:-1,PT: TV CINE Emotion  FullHD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/268
-#EXTINF:-1,PT: TV CINE TOP  FullHD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/267
+#EXTINF:-1, ===4k====
+#EXTINF:-1,PT: Benfica TV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/983567
+#EXTINF:-1,PT: Benfica TV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107511
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107495
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107494
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122484
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122485
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122486
+#EXTINF:-1,PT: SPORT TV 1
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107436
+#EXTINF:-1,PT: SPORT TV 2
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107435
+#EXTINF:-1,PT: SPORT TV 3
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107434
+#EXTINF:-1,PT: SPORT TV 4
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107433
+#EXTINF:-1,PT: SPORT TV 5
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148667
+#EXTINF:-1,PT: TVCine Top
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107423
+#EXTINF:-1,PT: TVCine Action
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107420
+#EXTINF:-1,PT: TVCine Emotion
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107421
+#EXTINF:-1,PT: TVCine Edition
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107422
+#EXTINF:-1,PT: TVI Reality
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122490
 
 
 #EXTINF:-1, ===Voby====
@@ -308,4 +306,38 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:0 ,DANZ ELEVEN 5 HD
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-
+#EXTINF:-1, ===sibful====
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/286
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49967
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54740
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54741
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53509
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53510
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53511
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/280
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/281
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/282
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/283
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/284
+#EXTINF:-1,PT: TVI REALITY HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/731
+#EXTINF:-1,PT: TV CINE ACTION FullHD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/270
+#EXTINF:-1,PT: TV CINE EDITION FullHD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/269
+#EXTINF:-1,PT: TV CINE Emotion  FullHD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/268
+#EXTINF:-1,PT: TV CINE TOP  FullHD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/267
