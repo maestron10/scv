@@ -1,766 +1,326 @@
 #EXTM3U
 #EXTINF:-1,------|shls|------
-#EXTINF:-1, RTP1
-http://213.13.16.138/shls/LIVE%24RTP1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, RTP2
-http://213.13.16.138/shls/LIVE%24RTP_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, SIC
-http://213.13.16.138/shls/LIVE%24SIC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, TVI
-http://213.13.16.138/shls/LIVE%24TVI_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, RTP3
-http://213.13.16.138/shls/LIVE%24RTP_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, SIC Notícias
-http://213.13.16.138/shls/LIVE%24SIC_Noticias_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, CNN Portugal
-http://213.13.16.138/shls/LIVE%24TVI24_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, CMTV
-http://213.13.16.138/shls/LIVE%24CMTVHD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Porto Canal
-http://213.13.16.138/shls/LIVE%24Porto_Canal_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, SIC Mulher
-http://213.13.16.138/shls/LIVE%24SIC_Mulher_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, 11
-http://213.13.16.138/shls/LIVE%24C11_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, A Bola TV
-http://213.13.16.138/shls/LIVE%24ABOLA_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV +
-http://213.13.16.138/shls/LIVE%24SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV1
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV2
-http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV3
-http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV4
-http://213.13.16.138/shls/LIVE%24SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV5
-http://213.13.16.138/shls/LIVE%24SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sport TV6
-http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, BTV
-http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eleven 1
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eleven 2
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eleven 3
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eleven 4
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eleven 5
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eleven 6
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Sporting TV HD
-http://213.13.16.138/shls/LIVE%24Sporting_TV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eurosport 1
-http://213.13.16.138/shls/LIVE%24Eurosport_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Eurosport 2
-http://213.13.16.138/shls/LIVE%24Eurosport_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, TVCine Top
-http://213.13.16.138/shls/LIVE%24TVCine_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, TVCine Edition
-http://213.13.16.138/shls/LIVE%24TVCine_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, TVCine Emotion
-http://213.13.16.138/shls/LIVE%24TVCine_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, TVCine Action
-http://213.13.16.138/shls/LIVE%24TVCine_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Cinemundo
-http://213.13.16.138/shls/LIVE%24Cinemundo_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Hollywood
-http://213.13.16.138/shls/LIVE%24Hollywood_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, FOX Movies
-http://213.13.16.138/shls/LIVE%24FOX_Movies_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, AMC
-http://213.13.16.138/shls/LIVE%24AMC_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, AXN Movies HD
-http://213.13.16.138/shls/LIVE%24AXN_Black_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, MEO VideoClube
-http://213.13.16.138/shls/LIVE%24MEO_VideoClube_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, FOX
-http://213.13.16.138/shls/LIVE%24FOX_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, FOX Life
-http://213.13.16.138/shls/LIVE%24FOX_Life_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, FOX Crime
-http://213.13.16.138/shls/LIVE%24FOX_Crime_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, FOX Comedy
-http://213.13.16.138/shls/LIVE%24FOX_Comedy_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, AXN HD
-http://213.13.16.138/shls/LIVE%24AXN_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, AXN White HD
-http://213.13.16.138/shls/LIVE%24AXN_White_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, SyFy
-http://213.13.16.138/shls/LIVE%24SyFy_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Promo TVCine HD
-http://213.13.16.138/shls/LIVE%24TVSeries_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, História
-http://213.13.16.138/shls/LIVE%24Historia_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, Odisseia
-http://213.13.16.138/shls/LIVE%24Odisseia_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, National Geographic
-http://213.13.16.138/shls/LIVE%24National_Geographic_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, National Geographic Wild
-http://213.13.16.138/shls/LIVE%24Nat_Geo_Wild_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, RTP Memória
-http://213.13.16.138/shls/LIVE%24RTP_Memoria/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1, SIC Radical
-http://213.13.16.138/shls/LIVE%24SIC_Radical_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1,------tlpires------
-#EXTINF:-1,RTP 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/1001
-#EXTINF:-1,RTP 2 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/1002
-#EXTINF:-1,SIC HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/1003
-#EXTINF:-1,TVI HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/1004
-#EXTINF:-1,RTP 3
-http://tlpires.com:8080/ganhar5/36282b8j68f/8
-#EXTINF:-1,SIC NOTICIAS
-http://tlpires.com:8080/ganhar5/36282b8j68f/5
-#EXTINF:-1,CNN Portugal
-http://tlpires.com:8080/ganhar5/36282b8j68f/7
-#EXTINF:-1,CMTV
-http://tlpires.com:8080/ganhar5/36282b8j68f/11
-#EXTINF:-1,TVI REALITY
-http://tlpires.com:8080/ganhar5/36282b8j68f/15
-#EXTINF:-1,SIC MULHER
-http://tlpires.com:8080/ganhar5/36282b8j68f/6
-#EXTINF:-1,SIC RADICAL
-http://tlpires.com:8080/ganhar5/36282b8j68f/9
-#EXTINF:-1,PORTO CANAL
-http://tlpires.com:8080/ganhar5/36282b8j68f/12
-#EXTINF:-1,A BOLA
-http://tlpires.com:8080/ganhar5/36282b8j68f/17
-#EXTINF:-1,CANAL 11 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/37
-#EXTINF:-1,SPORT TV+
-http://tlpires.com:8080/ganhar5/36282b8j68f/33
-#EXTINF:-1,BTV 1
-http://tlpires.com:8080/ganhar5/36282b8j68f/30
-#EXTINF:-1,BTV 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/31
-#EXTINF:-1,ELEVEN 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/231
-#EXTINF:-1,ELEVEN 2 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/232
-#EXTINF:-1,ELEVEN 3
-http://tlpires.com:8080/ganhar5/36282b8j68f/233
-#EXTINF:-1,ELEVEN 4
-http://tlpires.com:8080/ganhar5/36282b8j68f/234
-#EXTINF:-1,ELEVEN 5
-http://tlpires.com:8080/ganhar5/36282b8j68f/235
-#EXTINF:-1,ELEVEN 6
-http://tlpires.com:8080/ganhar5/36282b8j68f/236
-#EXTINF:-1,SPORT TV 1 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/25
-#EXTINF:-1,SPORT TV 2 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/26
-#EXTINF:-1,SPORT TV 3 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/27
-#EXTINF:-1,SPORT TV 4 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/23
-#EXTINF:-1,SPORT TV 5 HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/24
-#EXTINF:-1,SPORTING TV
-http://tlpires.com:8080/ganhar5/36282b8j68f/34
-#EXTINF:-1,TVCINE TOP HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/75
-#EXTINF:-1,TVCINE EDITION HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/76
-#EXTINF:-1,TVCINE EMOTION HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/77
-#EXTINF:-1,TVCINE ACTION HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/78
-#EXTINF:-1,AMC HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/54
-#EXTINF:-1,HOLLYWOOD
-http://tlpires.com:8080/ganhar5/36282b8j68f/57
-#EXTINF:-1,CINEMUNDO
-http://tlpires.com:8080/ganhar5/36282b8j68f/59
-#EXTINF:-1,FOX HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/90
-#EXTINF:-1,FOX COMEDY
-http://tlpires.com:8080/ganhar5/36282b8j68f/67
-#EXTINF:-1,FOX MOVIES
-http://tlpires.com:8080/ganhar5/36282b8j68f/68
-#EXTINF:-1,FOX LIFE HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/82
-#EXTINF:-1,FOX CRIME HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/92
-#EXTINF:-1,AXN HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/87
-#EXTINF:-1,AXN MOVIES HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/83
-#EXTINF:-1,AXN WHITE HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/94
-#EXTINF:-1,------|Wanice|------
-#EXTINF:-1,PT001:A&E
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3249
-#EXTINF:-1,PT002:A Bola TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3248
-#EXTINF:-1,PT003:Afro Music
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3247
-#EXTINF:-1,PT004:AMC
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3246
-#EXTINF:-1,PT005:ARTV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3245
-#EXTINF:-1,PT006:AXN
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3244
-#EXTINF:-1,PT007:AXN Black
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3243
-#EXTINF:-1,PT008:AXN White
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3242
-#EXTINF:-1,PT009:Baby First
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3241
-#EXTINF:-1,PT010:Baby TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3240
-#EXTINF:-1,PT011:Benfica TV 1 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3239
-#EXTINF:-1,PT012:Benfica TV 1 HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3238
-#EXTINF:-1,PT013:Benfica TV 1 SD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3237
-#EXTINF:-1,PT014:Deutsche Welle
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3236
-#EXTINF:-1,PT015:Canal Panda
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3235
-#EXTINF:-1,PT016:Cartoon Network
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3234
-#EXTINF:-1,PT017:Casa E Pesca
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3233
-#EXTINF:-1,PT018:CBS Reality
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3232
-#EXTINF:-1,PT019:Cine Mundo
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3231
-#EXTINF:-1,PT020:Discovery Channel
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3230
-#EXTINF:-1,PT021:Discovery Showcase
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3229
-#EXTINF:-1,PT024:E! Entertainment
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3226
-#EXTINF:-1,PT025:Euro Sport 1
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3225
-#EXTINF:-1,PT026:Euro Sport 2
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3224
-#EXTINF:-1,PT027:Eurosport new
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3223
-#EXTINF:-1,PT028:Fox Comedy
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3222
-#EXTINF:-1,PT029:Fox Crime
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3221
-#EXTINF:-1,PT030:Fox
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3220
-#EXTINF:-1,PT031:Fox Life
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3219
-#EXTINF:-1,PT032:Fox Movies
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3218
-#EXTINF:-1,PT033:Fuel TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3217
-#EXTINF:-1,PT034:Globo
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3216
-#EXTINF:-1,PT035:Historia
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3215
-#EXTINF:-1,PT036:Hollywood
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3214
-#EXTINF:-1,PT037:Jim Jam
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3213
-#EXTINF:-1,PT038:Netflix
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3212
-#EXTINF:-1,PT039:MOV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3211
-#EXTINF:-1,PT040:Motors TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3210
-#EXTINF:-1,PT041:Motorvision
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3209
-#EXTINF:-1,PT043:MTV Portuga
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3207
-#EXTINF:-1,PT044:NAT GEO Wild
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3206
-#EXTINF:-1,PT045:NAT GEO
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3205
-#EXTINF:-1,PT046:Nickelodeon
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3204
-#EXTINF:-1,PT047:Odisseia
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3203
-#EXTINF:-1,PT048:Panda Biggs
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3202
-#EXTINF:-1,PT049:PFC
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3201
-#EXTINF:-1,PT050:Porto Canal
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3200
-#EXTINF:-1,PT051:RTP 1
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3199
-#EXTINF:-1,PT052:RTP 2
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3198
-#EXTINF:-1,PT053:RTP 3
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3197
-#EXTINF:-1,PT054:SIC
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3196
-#EXTINF:-1,PT055:SIC Mulher
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3195
-#EXTINF:-1,PT056:SIC Noticias
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3194
-#EXTINF:-1,PT057:SIC Radical
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3193
-#EXTINF:-1,PT058:Sport TV 1 HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3192
-#EXTINF:-1,PT059:Sport TV 2 HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3191
-#EXTINF:-1,PT060:Sport TV 3 HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3190
-#EXTINF:-1,PT061:Sport TV 4 HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3189
-#EXTINF:-1,PT062:Sport TV 5 HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3188
-#EXTINF:-1,PT063:SPORT TV+
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3187
-#EXTINF:-1,PT064:Sporting TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3186
-#EXTINF:-1,PT065:SYFY
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3185
-#EXTINF:-1,PT066:TLC
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3184
-#EXTINF:-1,PT067:Toros TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3183
-#EXTINF:-1,PT068:Travel Channel
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3182
-#EXTINF:-1,PT069:TV Cine Top
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3181
-#EXTINF:-1,PT070:TV Cine Emotion
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3180
-#EXTINF:-1,PT071:TV Cine Action
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3179
-#EXTINF:-1,PT072:TV Cine Edition
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3178
-#EXTINF:-1,PT073:TV Galicia
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3177
-#EXTINF:-1,PT074:Globo Now
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3176
-#EXTINF:-1,PT075:TV Record
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3175
-#EXTINF:-1,PT076:TVC Series
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3174
-#EXTINF:-1,PT077:TVI
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3173
-#EXTINF:-1,PT078:TVI 24
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3172
-#EXTINF:-1,PT079:VH1
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3171
-#EXTINF:-1,PT080:VH1 Classic
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/3170
-#EXTINF:-1,PT081:TVI Reality
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29409
-#EXTINF:-1,PT082:TVC HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29408
-#EXTINF:-1,PT083:Foods Network
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29407
-#EXTINF:-1,PT084:Clubbing TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29406
-#EXTINF:-1,PT085:TV Manamaputo
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29405
-#EXTINF:-1,PT086:RTP Africa
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29404
-#EXTINF:-1,PT087:RTP ACORES
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29403
-#EXTINF:-1,PT088:RTP MADEIRA
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29402
-#EXTINF:-1,PT089:Nickelodeon
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29401
-#EXTINF:-1,PT090:Somos
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29400
-#EXTINF:-1,PT091:KIKA
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29399
-#EXTINF:-1,PT092:NOS Studios
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29398
-#EXTINF:-1,PT093:EUROSPORT
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29397
-#EXTINF:-1,PT095:Galeria
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29395
-#EXTINF:-1,PT096:CANAL Q
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29394
-#EXTINF:-1,PT097:24 Kitchen
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29393
-#EXTINF:-1,PT098:SPORT TV 1 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29392
-#EXTINF:-1,PT099:SPORT TV 2 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29391
-#EXTINF:-1,PT100:SPORT TV 3 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29390
-#EXTINF:-1,PT101:SPORT TV 4 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29389
-#EXTINF:-1,PT102:SPORT TV 1 SD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29388
-#EXTINF:-1,PT103:SPORT TV 2 SD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29387
-#EXTINF:-1,PT104:SPORT TV 3 SD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29386
-#EXTINF:-1,PT105:SPORT TV 4 SD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29385
-#EXTINF:-1,PT158:SPORT TV 5 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/49958
-#EXTINF:-1,PT106:Blaze
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29384
-#EXTINF:-1,PT107:Bloomberg
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29383
-#EXTINF:-1,PT108:Caca E Pesca
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29382
-#EXTINF:-1,PT109:TVI Ficcao HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29381
-#EXTINF:-1,PT110:MCM POP
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29380
-#EXTINF:-1,PT111:Trace Urban
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29379
-#EXTINF:-1,PT112:Canal 11
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29378
-#EXTINF:-1,PT113:CMTV FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29377
-#EXTINF:-1,PT114:Cancao Nova
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29376
-#EXTINF:-1,PT115:CNN
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29375
-#EXTINF:-1,PT116:Crime & Investigation
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29374
-#EXTINF:-1,PT118:TPA
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29372
-#EXTINF:-1,PT157:Eleven Sports 1 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/49966
-#EXTINF:-1,PT159:Eleven Sports 2 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/49032
-#EXTINF:-1,PT121:ELEVEN SPORTS 3 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29369
-#EXTINF:-1,PT122:ELEVEN SPORTS 4 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29368
-#EXTINF:-1,PT123:Investigation Discovery HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29367
-#EXTINF:-1,PT124:Sport TV NBA
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29366
-#EXTINF:-1,PT125:DOG TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29365
-#EXTINF:-1,PT126:FOX NEWS
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29364
-#EXTINF:-1,PT127:Caca Vision
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29363
-#EXTINF:-1,PT128:Fine Living
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29362
-#EXTINF:-1,PT129:TVM Anaru
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29361
-#EXTINF:-1,PT130:Euronews
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29360
-#EXTINF:-1,PT131:A3 Cine
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29359
-#EXTINF:-1,PT132:Fight Network
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29358
-#EXTINF:-1,PT133:Antena 3 Internacional
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29357
-#EXTINF:-1,PT134:BIGGS
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29356
-#EXTINF:-1,PT136:Nick Jr
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29354
-#EXTINF:-1,PT137:Alma Lusa
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29353
-#EXTINF:-1,PT138:MEZZO HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29352
-#EXTINF:-1,PT139:MTV HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29351
-#EXTINF:-1,PT140:Zap Viva HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29350
-#EXTINF:-1,PT141:NBA FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29349
-#EXTINF:-1,PT142:Localvisao
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29348
-#EXTINF:-1,PT143:Record News
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29347
-#EXTINF:-1,PT144:Canal Cocina
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29346
-#EXTINF:-1,PT145:PANDA HD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29345
-#EXTINF:-1,PT147:CBS Reality
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29343
-#EXTINF:-1,PT148:LUXE TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29342
-#EXTINF:-1,PT149:SIC Kids
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29341
-#EXTINF:-1,PT150:BVN
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29340
-#EXTINF:-1,PT151:Kuriakos TV
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29339
-#EXTINF:-1,PT152:TV FATIMA
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29338
-#EXTINF:-1,PT153:SIC Caras
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29337
-#EXTINF:-1,PT154:Game Toon
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29336
-#EXTINF:-1,PT155:A3 Series
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29335
-#EXTINF:-1,PT156:Eleven Sports 5 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29334
-#EXTINF:-1,PT157:Eleven Sports 1 SD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/49966
-#EXTINF:-1,PT158:SPORT TV 5 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/49958
-#EXTINF:-1,PT159:Eleven Sports 6 FHD
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/49032
-#EXTINF:-1,------|Arruba|------
-#EXTINF:-1,PT: A Bola TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1420
-#EXTINF:-1,PT: A&E
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/279741
-#EXTINF:-1,PT: ADB TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/299412
-#EXTINF:-1,PT: Advance SIC
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/290666
-#EXTINF:-1,PT: Afro Music Channel
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1536
-#EXTINF:-1,PT: Alma Lusa
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/264642
-#EXTINF:-1,PT: AMC
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1473
-#EXTINF:-1,PT: Apaixonados Series
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/286834
-#EXTINF:-1,PT: AR TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/9629
-#EXTINF:-1,PT: AR TV Canal Parlamento
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/300645
-#EXTINF:-1,PT: AXN
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1469
-#EXTINF:-1,PT: AXN Black
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/278653
-#EXTINF:-1,PT: AXN Movies
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1471
-#EXTINF:-1,PT: AXN White
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1467
-#EXTINF:-1,PT: Baby TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1441
-#EXTINF:-1,PT: Benfica TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1497
-#EXTINF:-1,PT: Biggs
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1439
-#EXTINF:-1,PT: Blaze
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/3996
-#EXTINF:-1,PT: Bloomberg
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/5933
-#EXTINF:-1,PT: Boomerang
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/24529
-#EXTINF:-1,PT: Campo Pequeno
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/28029
-#EXTINF:-1,PT: Canal 11
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1480
-#EXTINF:-1,PT: CANAL 180
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/146057
-#EXTINF:-1,PT: Canal Hollywood
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1455
-#EXTINF:-1,PT: Canal Macau
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/197872
-#EXTINF:-1,PT: Canal Nos
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/278550
-#EXTINF:-1,PT: Canal Panda
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1438
-#EXTINF:-1,PT: Canal Q
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1430
-#EXTINF:-1,PT: Canal Vida
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/298639
-#EXTINF:-1,PT: Cancao Nova
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/290766
-#EXTINF:-1,PT: Cartoon Network
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1440
-#EXTINF:-1,PT: Cartoonito
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/300637
-#EXTINF:-1,PT: Casa e Cozinha
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/6097
-#EXTINF:-1,PT: Caza y Pesca
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/297997
-#EXTINF:-1,PT: CaÃ§avision
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/13956
-#EXTINF:-1,PT: CBS Reality
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1528
-#EXTINF:-1,PT: Cine Mundo
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1477
-#EXTINF:-1,PT: CINEMA FANTASIA
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/286838
-#EXTINF:-1,PT: CINEMA JACKIE CHAN
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/286832
-#EXTINF:-1,PT: CM TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1412
-#EXTINF:-1,PT: CNN Portugal
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1414
-#EXTINF:-1,PT: Crime District
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/298636
-#EXTINF:-1,PT: Crime+ Investigation
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/5928
-#EXTINF:-1,PT: Discovery World
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/296226
-#EXTINF:-1,PT: Disney Channel
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1434
-#EXTINF:-1,PT: Disney Junior
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1435
-#EXTINF:-1,PT: Disney+
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/226084
-#EXTINF:-1,PT: Disney+ Pixar
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/298019
-#EXTINF:-1,PT: Dizi Channel
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/300240
-#EXTINF:-1,PT: E!
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1526
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1515
-#EXTINF:-1,PT: euronews
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/4007
-#EXTINF:-1,PT: Eurosport 1
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1517
-#EXTINF:-1,PT: Eurosport 2
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1518
-#EXTINF:-1,PT: FASHIONTV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/2656
-#EXTINF:-1,PT: Food Network
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/2044
-#EXTINF:-1,PT: FOX
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1461
-#EXTINF:-1,PT: Fox Comedy
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1465
-#EXTINF:-1,PT: Fox Crime
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1463
-#EXTINF:-1,PT: Fox Life
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1459
-#EXTINF:-1,PT: FOX Movies
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1457
-#EXTINF:-1,PT: Fuel TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1521
-#EXTINF:-1,PT: Historia
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1525
-#EXTINF:-1,PT: Investigation Discovery
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/5914
-#EXTINF:-1,PT: JimJam
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1442
-#EXTINF:-1,PT: Kuriakos Kids
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/10828
-#EXTINF:-1,PT: Kuriakos TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/9697
-#EXTINF:-1,PT: MEO Destaques
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/265256
-#EXTINF:-1,PT: MEO Videoclube
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/265255
-#EXTINF:-1,PT: Motorvision TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/4012
-#EXTINF:-1,PT: MTV Live
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/198683
-#EXTINF:-1,PT: MTV Portugal
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1534
-#EXTINF:-1,PT: NAT GEO
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1530
-#EXTINF:-1,PT: NAT GEO Wild
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1531
-#EXTINF:-1,PT: NBA TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/296750
-#EXTINF:-1,PT: Netflix
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/24517
-#EXTINF:-1,PT: Nick Junior
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/9693
-#EXTINF:-1,PT: nickelodeon
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1436
-#EXTINF:-1,PT: Nos Studios
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1454
-#EXTINF:-1,PT: Odisseia
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1532
-#EXTINF:-1,PT: OPTO
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/299728
-#EXTINF:-1,PT: PANDA Kids
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/290678
-#EXTINF:-1,PT: Porto Canal
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1419
-#EXTINF:-1,PT: Queens United TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/299377
-#EXTINF:-1,PT: Record TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/298700
-#EXTINF:-1,PT: RTP 1
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1404
-#EXTINF:-1,PT: RTP 2
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1406
-#EXTINF:-1,PT: RTP 3
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1418
-#EXTINF:-1,PT: RTP Arena
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/290673
-#EXTINF:-1,PT: RTP AÃ§ores
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/2055
-#EXTINF:-1,PT: RTP Internacional
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/278418
-#EXTINF:-1,PT: RTP Madeira
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/278558
-#EXTINF:-1,PT: RTP MemÃ³ria
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1425
-#EXTINF:-1,PT: RTP Ãfrica
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1424
-#EXTINF:-1,PT: SAUDE+
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/81973
-#EXTINF:-1,PT: SIC
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1408
-#EXTINF:-1,PT: SIC Caras
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/5910
-#EXTINF:-1,PT: SIC Internacional
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/297535
-#EXTINF:-1,PT: SIC K
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/4021
-#EXTINF:-1,PT: SIC Mulher
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1427
-#EXTINF:-1,PT: SIC Noticias
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1416
-#EXTINF:-1,PT: SIC Novelas
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/299727
-#EXTINF:-1,PT: SIC Radical
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1429
-#EXTINF:-1,PT: SPORT TV +
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1481
-#EXTINF:-1,PT: SPORT TV 1
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/281487
-#EXTINF:-1,PT: SPORT TV NBA
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/2051
-#EXTINF:-1,PT: Sporting TV
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1519
-#EXTINF:-1,PT: SYFY Portugal
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1475
-#EXTINF:-1,PT: TCV Internacional
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/299134
-#EXTINF:-1,PT: TLC
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1479
-#EXTINF:-1,PT: TPA NotÃ­cias
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/298022
-#EXTINF:-1,PT: Travel Channel
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1529
-#EXTINF:-1,PT: Travelxp
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/301244
-#EXTINF:-1,PT: TV Mana 1
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/298811
-#EXTINF:-1,PT: TVCine Action
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1452
-#EXTINF:-1,PT: TVCine Edition
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/82254
-#EXTINF:-1,PT: TVCine Emotion
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1448
-#EXTINF:-1,PT: TVCine Top
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1446
-#EXTINF:-1,PT: TVCine+
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/278686
-#EXTINF:-1,PT: TVI
-http://iptvaruba.com:8080/7e4b0dbd/1dd755dc3f/1410
+#EXTINF:-1,PT| RTP 1 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107451
+#EXTINF:-1,PT| RTP 1 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118450
+#EXTINF:-1,PT| RTP 1
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107452
+#EXTINF:-1,PT| RTP 2 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107449
+#EXTINF:-1,PT| RTP 2 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118449
+#EXTINF:-1,PT| RTP 2
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107450
+#EXTINF:-1,PT| SIC HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107442
+#EXTINF:-1,PT| SIC HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118448
+#EXTINF:-1,PT| SIC (NA)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/101868
+#EXTINF:-1,PT| SIC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107444
+#EXTINF:-1,PT| SIC INTERNATIONAL
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/863881
+#EXTINF:-1,PT| SIC NOVELAS
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1430557
+#EXTINF:-1,PT| TVI HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107525
+#EXTINF:-1,PT| TVI HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118467
+#EXTINF:-1,PT| TVI (NA)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/101869
+#EXTINF:-1,PT| TVI
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107417
+#EXTINF:-1,PT| TVI INTERNATIONAL
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107528
+#EXTINF:-1,PT| TVI AFRICA
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1430558
+#EXTINF:-1,PT| TVI FICCAO FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378345
+#EXTINF:-1,PT| TVI FICCAO
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107415
+#EXTINF:-1,PT| TVI REALITY HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122490
+#EXTINF:-1,PT| TVI REALITY
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107414
+#EXTINF:-1,PT| SIC MULHER HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379383
+#EXTINF:-1,PT| SIC MULHER
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107440
+#EXTINF:-1,PT| SIC CARAS FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379384
+#EXTINF:-1,PT| SIC CARAS
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107443
+#EXTINF:-1,PT| SIC RADICAL FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379382
+#EXTINF:-1,PT| SIC RADICAL
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107438
+#EXTINF:-1,PT| CANAL Q
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107508
+#EXTINF:-1,PT| PORTO CANAL HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368056
+#EXTINF:-1,PT| PORTO CANAL
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107454
+#EXTINF:-1,PT| RTP ACORES
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107447
+#EXTINF:-1,PT| RTP AFRICA
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107453
+#EXTINF:-1,PT| RTP MEMORIA
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107445
+#EXTINF:-1,PT| RTP INTERNACIONAL HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/970733
+#EXTINF:-1,PT| RTP INT. (NA)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107410
+#EXTINF:-1,PT| RTP INT. (AFR)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/970725
+#EXTINF:-1,PT| RTP MADEIRA
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107446
+#EXTINF:-1,PT| TVI REALITY  MOSAICO
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378350
+#EXTINF:-1,PT| S PLUS HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378343
+#EXTINF:-1,PT| CASA E COZINHA HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379381
+#EXTINF:-1,PT| AZORES TV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1112663
+#EXTINF:-1,### PT NOTICIAS ###
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118429
+#EXTINF:-1,PT| SIC NOTICIAS HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368055
+#EXTINF:-1,PT| SIC NOTICIAS
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107439
+#EXTINF:-1,PT| CNN PORTUGAL HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/388012
+#EXTINF:-1,PT| CNN PORTUGAL
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107416
+#EXTINF:-1,PT| CMTV HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368054
+#EXTINF:-1,PT| CMTV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107503
+#EXTINF:-1,PT| RTP 3 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107529
+#EXTINF:-1,PT| RTP 3
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107448
+#EXTINF:-1,PT| ARTV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107519
+#EXTINF:-1,PT| PARLAMENTO
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107457
+#EXTINF:-1,PT| TV GALICIA
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107425
+#EXTINF:-1,PT| TVE 24H
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107419
+#EXTINF:-1,PT| TVE INTERNATIONAL
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107418
+#EXTINF:-1,PT| CNBC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107502
+#EXTINF:-1,PT| BLOOMBERG
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107512
+#EXTINF:-1,PT| EURONEWS HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107489
+#EXTINF:-1,### PT DESPORTO ###
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118430
+#EXTINF:-1,PT| CANAL 11 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107524
+#EXTINF:-1,PT| CANAL 11 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118466
+#EXTINF:-1,PT| SPORT TV + HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107437
+#EXTINF:-1,PT| SPORT TV+ HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368058
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107436
+#EXTINF:-1,PT| SPORT TV 1 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118447
+#EXTINF:-1,PT| SPORT TV 1 SD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148671
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107435
+#EXTINF:-1,PT| SPORT TV 2 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118446
+#EXTINF:-1,PT| SPORT TV 2 SD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148670
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107434
+#EXTINF:-1,PT| SPORT TV 3 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118445
+#EXTINF:-1,PT| SPORT TV 3 SD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148669
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107433
+#EXTINF:-1,PT| SPORT TV 4 SD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148668
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148667
+#EXTINF:-1,PT| SPORT TV 6 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/712739
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107495
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118459
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107494
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118458
+#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122484
+#EXTINF:-1,PT| ELEVEN SPORTS 3
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107493
+#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122485
+#EXTINF:-1,PT| ELEVEN SPORTS 4
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107492
+#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122486
+#EXTINF:-1,PT| ELEVEN SPORTS 5
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107491
+#EXTINF:-1,PT| ELEVEN SPORTS 6
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107490
+#EXTINF:-1,PT| BENFICA TV HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/983567
+#EXTINF:-1,PT| BTV 1 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107511
+#EXTINF:-1,PT| BTV HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118461
+#EXTINF:-1,PT| SPORTING TV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107430
+#EXTINF:-1,PT| A BOLA TV HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107522
+#EXTINF:-1,PT| PFC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107456
+#EXTINF:-1,PT| PFC (NA)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/156351
+#EXTINF:-1,PT| SPORT TV NBA HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107431
+#EXTINF:-1,PT| SPORT TV NBA HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118444
+#EXTINF:-1,PT| EUROSPORT 1 HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107488
+#EXTINF:-1,PT| EUROSPORT 1 HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118457
+#EXTINF:-1,PT| EUROSPORT 2
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107487
+#EXTINF:-1,PT| FUEL TV
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107479
+#EXTINF:-1,PT| MOTORVISION
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107468
+#EXTINF:-1,### PT FILMES E SÃ‰RIES ###
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118431
+#EXTINF:-1,PT| TVCINE TOP HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107423
+#EXTINF:-1,PT| TVCINE TOP HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118442
+#EXTINF:-1,PT| TVCINE EDITION HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107422
+#EXTINF:-1,PT| TVCINE EDITION HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118441
+#EXTINF:-1,PT| TVCINE EMOTION HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107421
+#EXTINF:-1,PT| TVCINE EMOTION HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118440
+#EXTINF:-1,PT| TVCINE ACTION HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107420
+#EXTINF:-1,PT| TVCINE ACTION HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118439
+#EXTINF:-1,PT| NOS STUDIOS HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107459
+#EXTINF:-1,PT| NOS STUDIOS HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118451
+#EXTINF:-1,PT| HOLLYWOOD HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107475
+#EXTINF:-1,PT| HOLLYWOOD HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118453
+#EXTINF:-1,PT| CINEMUNDO HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107504
+#EXTINF:-1,PT| AMC HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107520
+#EXTINF:-1,PT| AMC HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122487
+#EXTINF:-1,PT| STAR MOVIES
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107482
+#EXTINF:-1,PT| STAR LIFE HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107413
+#EXTINF:-1,PT| STAR HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107484
+#EXTINF:-1,PT| STAR HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118455
+#EXTINF:-1,PT| STAR CRIME HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107485
+#EXTINF:-1,PT| STAR CRIME HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118456
+#EXTINF:-1,PT| STAR LIFE HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118454
+#EXTINF:-1,PT| STAR COMEDY
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107486
+#EXTINF:-1,PT| STAR COMEDY HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/951549
+#EXTINF:-1,PT| AXN HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107517
+#EXTINF:-1,PT| AXN HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118463
+#EXTINF:-1,PT| AXN WHITE HEVC
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118462
+#EXTINF:-1,PT| AXN WHITE HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107516
+#EXTINF:-1,PT| AXN MOVIES HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1069313
+#EXTINF:-1,PT| SYFY HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122488
+#EXTINF:-1,PT| SYFY
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107429
+#EXTINF:-1,PT| TVA HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1058186
+#EXTINF:-1,### PT EXCLUSIVO ###
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378327
+#EXTINF:-1,PT| FILMES DE NETFLIX 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028885
+#EXTINF:-1,PT| FILMES DE NETFLIX 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028886
+#EXTINF:-1,PT| FILMES DE PRIME 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028887
+#EXTINF:-1,PT| FILMES DE PRIME 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028888
+#EXTINF:-1,PT| FILMES DE DISNEY 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028878
+#EXTINF:-1,PT| FILMES DE DISNEY 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028879
+#EXTINF:-1,PT| FILMES DE APPLE 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028874
+#EXTINF:-1,PT| FILMES DE APPLE 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028875
+#EXTINF:-1,PT| FILMES DE HBO FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028884
+#EXTINF:-1,PT| FILMES DE AÃ‡ÃƒO 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028870
+#EXTINF:-1,PT| FILMES DE AÃ‡ÃƒO 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028871
+#EXTINF:-1,PT| FILMES DE COMÃ‰DIA 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028876
+#EXTINF:-1,PT| FILMES DE COMÃ‰DIA 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028877
+#EXTINF:-1,PT| FILMES DE ANIMAÃ‡ÃƒO 1 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028872
+#EXTINF:-1,PT| FILMES DE ANIMAÃ‡ÃƒO 2 FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028873
+#EXTINF:-1,PT| FILMES DE TERROR FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028889
+#EXTINF:-1,PT| FILMES DE FICÃ‡ÃƒO FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028882
+#EXTINF:-1,PT| FILMES DE HARRY POTTER FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028883
+#EXTINF:-1,PT| FILMES DE DRAMÃTICA FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028881
+#EXTINF:-1,PT| FILMES DE DOCUMENTÃRIA FHD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028880
+#EXTINF:-1,PT|  CINEMA AÃ‡ÃƒO (EX)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378324
+#EXTINF:-1,PT| JOAO KLEBER (EX)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425321
+#EXTINF:-1,PT| FOLCLORE-DESGARRADAS (EX)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425320
+#EXTINF:-1,PT| FICÃ‡ÃƒO CIENTÃFICA (EX)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425319
+#EXTINF:-1,PT| APAIXONADOS POR SERIES (EX)
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425317
+#EXTINF:-1,PT| LOCALVISAO HD
+http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425316
