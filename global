@@ -1,7 +1,30 @@
 #EXTM3U
 #EXTINF:0,ESPN 4 BR HD
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
-
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 1 4K 
+http://zeestb1.online/ZeeSTB.php?id=4925
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 2 4K 
+http://zeestb1.online/ZeeSTB.php?id=4926
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 3 4K 
+http://zeestb1.online/ZeeSTB.php?id=4927
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 4 4K 
+http://zeestb1.online/ZeeSTB.php?id=4928
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 5 4K 
+http://zeestb1.online/ZeeSTB.php?id=4929
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",BENFICA TV 1 HD 
+http://zeestb1.online/ZeeSTB.php?id=47608
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 1 4K H265 
+http://zeestb1.online/ZeeSTB.php?id=4837
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 2 H265 
+http://zeestb1.online/ZeeSTB.php?id=4838
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 2 4K H265 
+http://zeestb1.online/ZeeSTB.php?id=4839
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 3 H265 
+http://zeestb1.online/ZeeSTB.php?id=4841
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 4 HD 
+http://zeestb1.online/ZeeSTB.php?id=4842
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 5 HD 
+http://zeestb1.online/ZeeSTB.php?id=4843
 #EXTINF:-1,------|shls|------
 #EXTINF:-1,PT| RTP 1 HD
 http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107451
