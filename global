@@ -1,352 +1,278 @@
 #EXTM3U
 #EXTINF:0,ESPN 4 BR HD
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 1 4K 
-http://zeestb1.online/ZeeSTB.php?id=4925
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 2 4K 
-http://zeestb1.online/ZeeSTB.php?id=4926
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 3 4K 
-http://zeestb1.online/ZeeSTB.php?id=4927
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 4 4K 
-http://zeestb1.online/ZeeSTB.php?id=4928
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",SPORT TV 5 4K 
-http://zeestb1.online/ZeeSTB.php?id=4929
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",BENFICA TV 1 HD 
-http://zeestb1.online/ZeeSTB.php?id=47608
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 1 4K H265 
-http://zeestb1.online/ZeeSTB.php?id=4837
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 2 H265 
-http://zeestb1.online/ZeeSTB.php?id=4838
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 2 4K H265 
-http://zeestb1.online/ZeeSTB.php?id=4839
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 3 H265 
-http://zeestb1.online/ZeeSTB.php?id=4841
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 4 HD 
-http://zeestb1.online/ZeeSTB.php?id=4842
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="https://i.ibb.co/XjM7Dt6/photo-2024-04-23-09-57-19.jpg"" group-title="PORTUGUESE | PORTUGAL",ELEVEN SPORTS 5 HD 
-http://zeestb1.online/ZeeSTB.php?id=4843
+
 #EXTINF:-1,------|shls|------
-#EXTINF:-1,PT| RTP 1 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107451
-#EXTINF:-1,PT| RTP 1 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118450
-#EXTINF:-1,PT| RTP 1
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107452
-#EXTINF:-1,PT| RTP 2 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107449
-#EXTINF:-1,PT| RTP 2 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118449
-#EXTINF:-1,PT| RTP 2
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107450
-#EXTINF:-1,PT| SIC HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107442
-#EXTINF:-1,PT| SIC HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118448
-#EXTINF:-1,PT| SIC (NA)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/101868
-#EXTINF:-1,PT| SIC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107444
-#EXTINF:-1,PT| SIC INTERNATIONAL
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/863881
-#EXTINF:-1,PT| SIC NOVELAS
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1430557
-#EXTINF:-1,PT| TVI HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107525
-#EXTINF:-1,PT| TVI HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118467
-#EXTINF:-1,PT| TVI (NA)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/101869
-#EXTINF:-1,PT| TVI
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107417
-#EXTINF:-1,PT| TVI INTERNATIONAL
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107528
-#EXTINF:-1,PT| TVI AFRICA
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1430558
-#EXTINF:-1,PT| TVI FICCAO FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378345
-#EXTINF:-1,PT| TVI FICCAO
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107415
-#EXTINF:-1,PT| TVI REALITY HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122490
-#EXTINF:-1,PT| TVI REALITY
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107414
-#EXTINF:-1,PT| SIC MULHER HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379383
-#EXTINF:-1,PT| SIC MULHER
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107440
-#EXTINF:-1,PT| SIC CARAS FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379384
-#EXTINF:-1,PT| SIC CARAS
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107443
-#EXTINF:-1,PT| SIC RADICAL FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379382
-#EXTINF:-1,PT| SIC RADICAL
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107438
-#EXTINF:-1,PT| CANAL Q
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107508
-#EXTINF:-1,PT| PORTO CANAL HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368056
-#EXTINF:-1,PT| PORTO CANAL
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107454
-#EXTINF:-1,PT| RTP ACORES
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107447
-#EXTINF:-1,PT| RTP AFRICA
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107453
-#EXTINF:-1,PT| RTP MEMORIA
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107445
-#EXTINF:-1,PT| RTP INTERNACIONAL HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/970733
-#EXTINF:-1,PT| RTP INT. (NA)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107410
-#EXTINF:-1,PT| RTP INT. (AFR)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/970725
-#EXTINF:-1,PT| RTP MADEIRA
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107446
-#EXTINF:-1,PT| TVI REALITY  MOSAICO
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378350
-#EXTINF:-1,PT| S PLUS HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378343
-#EXTINF:-1,PT| CASA E COZINHA HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/379381
-#EXTINF:-1,PT| AZORES TV
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1112663
-#EXTINF:-1,### PT NOTICIAS ###
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118429
-#EXTINF:-1,PT| SIC NOTICIAS HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368055
-#EXTINF:-1,PT| SIC NOTICIAS
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107439
-#EXTINF:-1,PT| CNN PORTUGAL HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/388012
-#EXTINF:-1,PT| CNN PORTUGAL
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107416
-#EXTINF:-1,PT| CMTV HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368054
-#EXTINF:-1,PT| CMTV
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107503
-#EXTINF:-1,PT| RTP 3 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107529
-#EXTINF:-1,PT| RTP 3
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107448
-#EXTINF:-1,PT| ARTV
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107519
-#EXTINF:-1,PT| PARLAMENTO
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107457
-#EXTINF:-1,PT| TV GALICIA
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107425
-#EXTINF:-1,PT| TVE 24H
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107419
-#EXTINF:-1,PT| TVE INTERNATIONAL
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107418
-#EXTINF:-1,PT| CNBC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107502
-#EXTINF:-1,PT| BLOOMBERG
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107512
-#EXTINF:-1,PT| EURONEWS HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107489
-#EXTINF:-1,### PT DESPORTO ###
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118430
-#EXTINF:-1,PT| CANAL 11 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107524
-#EXTINF:-1,PT| CANAL 11 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118466
-#EXTINF:-1,PT| SPORT TV + HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107437
-#EXTINF:-1,PT| SPORT TV+ HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/368058
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107436
-#EXTINF:-1,PT| SPORT TV 1 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118447
-#EXTINF:-1,PT| SPORT TV 1 SD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148671
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107435
-#EXTINF:-1,PT| SPORT TV 2 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118446
-#EXTINF:-1,PT| SPORT TV 2 SD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148670
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107434
-#EXTINF:-1,PT| SPORT TV 3 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118445
-#EXTINF:-1,PT| SPORT TV 3 SD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148669
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107433
-#EXTINF:-1,PT| SPORT TV 4 SD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148668
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148667
-#EXTINF:-1,PT| SPORT TV 6 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/712739
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107495
-#EXTINF:-1,PT| ELEVEN SPORTS 1 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118459
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107494
-#EXTINF:-1,PT| ELEVEN SPORTS 2 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118458
-#EXTINF:-1,PT| ELEVEN SPORTS 3 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122484
-#EXTINF:-1,PT| ELEVEN SPORTS 3
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107493
-#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122485
-#EXTINF:-1,PT| ELEVEN SPORTS 4
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107492
-#EXTINF:-1,PT| ELEVEN SPORTS 5 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122486
-#EXTINF:-1,PT| ELEVEN SPORTS 5
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107491
-#EXTINF:-1,PT| ELEVEN SPORTS 6
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107490
-#EXTINF:-1,PT| BENFICA TV HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/983567
-#EXTINF:-1,PT| BTV 1 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107511
-#EXTINF:-1,PT| BTV HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118461
-#EXTINF:-1,PT| SPORTING TV
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107430
-#EXTINF:-1,PT| A BOLA TV HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107522
-#EXTINF:-1,PT| PFC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107456
-#EXTINF:-1,PT| PFC (NA)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/156351
-#EXTINF:-1,PT| SPORT TV NBA HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107431
-#EXTINF:-1,PT| SPORT TV NBA HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118444
-#EXTINF:-1,PT| EUROSPORT 1 HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107488
-#EXTINF:-1,PT| EUROSPORT 1 HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118457
-#EXTINF:-1,PT| EUROSPORT 2
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107487
-#EXTINF:-1,PT| FUEL TV
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107479
-#EXTINF:-1,PT| MOTORVISION
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107468
-#EXTINF:-1,### PT FILMES E SÃ‰RIES ###
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118431
-#EXTINF:-1,PT| TVCINE TOP HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107423
-#EXTINF:-1,PT| TVCINE TOP HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118442
-#EXTINF:-1,PT| TVCINE EDITION HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107422
-#EXTINF:-1,PT| TVCINE EDITION HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118441
-#EXTINF:-1,PT| TVCINE EMOTION HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107421
-#EXTINF:-1,PT| TVCINE EMOTION HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118440
-#EXTINF:-1,PT| TVCINE ACTION HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107420
-#EXTINF:-1,PT| TVCINE ACTION HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118439
-#EXTINF:-1,PT| NOS STUDIOS HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107459
-#EXTINF:-1,PT| NOS STUDIOS HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118451
-#EXTINF:-1,PT| HOLLYWOOD HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107475
-#EXTINF:-1,PT| HOLLYWOOD HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118453
-#EXTINF:-1,PT| CINEMUNDO HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107504
-#EXTINF:-1,PT| AMC HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107520
-#EXTINF:-1,PT| AMC HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122487
-#EXTINF:-1,PT| STAR MOVIES
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107482
-#EXTINF:-1,PT| STAR LIFE HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107413
-#EXTINF:-1,PT| STAR HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107484
-#EXTINF:-1,PT| STAR HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118455
-#EXTINF:-1,PT| STAR CRIME HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107485
-#EXTINF:-1,PT| STAR CRIME HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118456
-#EXTINF:-1,PT| STAR LIFE HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118454
-#EXTINF:-1,PT| STAR COMEDY
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107486
-#EXTINF:-1,PT| STAR COMEDY HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/951549
-#EXTINF:-1,PT| AXN HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107517
-#EXTINF:-1,PT| AXN HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118463
-#EXTINF:-1,PT| AXN WHITE HEVC
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/118462
-#EXTINF:-1,PT| AXN WHITE HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107516
-#EXTINF:-1,PT| AXN MOVIES HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1069313
-#EXTINF:-1,PT| SYFY HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122488
-#EXTINF:-1,PT| SYFY
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107429
-#EXTINF:-1,PT| TVA HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1058186
-#EXTINF:-1,### PT EXCLUSIVO ###
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378327
-#EXTINF:-1,PT| FILMES DE NETFLIX 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028885
-#EXTINF:-1,PT| FILMES DE NETFLIX 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028886
-#EXTINF:-1,PT| FILMES DE PRIME 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028887
-#EXTINF:-1,PT| FILMES DE PRIME 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028888
-#EXTINF:-1,PT| FILMES DE DISNEY 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028878
-#EXTINF:-1,PT| FILMES DE DISNEY 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028879
-#EXTINF:-1,PT| FILMES DE APPLE 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028874
-#EXTINF:-1,PT| FILMES DE APPLE 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028875
-#EXTINF:-1,PT| FILMES DE HBO FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028884
-#EXTINF:-1,PT| FILMES DE AÃ‡ÃƒO 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028870
-#EXTINF:-1,PT| FILMES DE AÃ‡ÃƒO 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028871
-#EXTINF:-1,PT| FILMES DE COMÃ‰DIA 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028876
-#EXTINF:-1,PT| FILMES DE COMÃ‰DIA 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028877
-#EXTINF:-1,PT| FILMES DE ANIMAÃ‡ÃƒO 1 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028872
-#EXTINF:-1,PT| FILMES DE ANIMAÃ‡ÃƒO 2 FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028873
-#EXTINF:-1,PT| FILMES DE TERROR FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028889
-#EXTINF:-1,PT| FILMES DE FICÃ‡ÃƒO FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028882
-#EXTINF:-1,PT| FILMES DE HARRY POTTER FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028883
-#EXTINF:-1,PT| FILMES DE DRAMÃTICA FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028881
-#EXTINF:-1,PT| FILMES DE DOCUMENTÃRIA FHD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/1028880
-#EXTINF:-1,PT|  CINEMA AÃ‡ÃƒO (EX)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/378324
-#EXTINF:-1,PT| JOAO KLEBER (EX)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425321
-#EXTINF:-1,PT| FOLCLORE-DESGARRADAS (EX)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425320
-#EXTINF:-1,PT| FICÃ‡ÃƒO CIENTÃFICA (EX)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425319
-#EXTINF:-1,PT| APAIXONADOS POR SERIES (EX)
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425317
-#EXTINF:-1,PT| LOCALVISAO HD
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/425316
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="" group-title="Generaristas [PT]", RTP 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1604
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1600
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="" group-title="Generaristas [PT]", RTP 2 
+http://dns.acaidopara.net:8080/5087405929/7405929508/1603
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1599
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="" group-title="Generaristas [PT]", SIC HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/10224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", SIC
+http://dns.acaidopara.net:8080/5087405929/7405929508/1480
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="" group-title="Generaristas [PT]", TVI HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", TVI
+http://dns.acaidopara.net:8080/5087405929/7405929508/1484
+#EXTINF:-1 tvg-id="CMTV" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", CMTV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/10230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", CMTV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1494
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/1479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/899601
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", SIC Noticias
+http://dns.acaidopara.net:8080/5087405929/7405929508/10226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", SIC Noticias
+http://dns.acaidopara.net:8080/5087405929/7405929508/1493
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="Tvi 24 PT" tvg-logo="" group-title="Generaristas [PT]", CNN
+http://dns.acaidopara.net:8080/5087405929/7405929508/899603
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="Tvi 24 PT" tvg-logo="" group-title="Generaristas [PT]", CNN
+http://dns.acaidopara.net:8080/5087405929/7405929508/75838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", Porto Canal
+http://dns.acaidopara.net:8080/5087405929/7405929508/1497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP Acores
+http://dns.acaidopara.net:8080/5087405929/7405929508/1498
+#EXTINF:-1 tvg-id="RtpAfrica.pt" tvg-name="Rtp África PT" tvg-logo="" group-title="Generaristas [PT]", Rtp África
+http://dns.acaidopara.net:8080/5087405929/7405929508/1501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP Madeira
+http://dns.acaidopara.net:8080/5087405929/7405929508/1500
+#EXTINF:-1 tvg-id="" tvg-name="TCVi" tvg-logo="https://rtc.cv/upload/img/programas/tcv_logo.png" group-title="Generaristas [PT]", Tcv Internacional
+http://dns.acaidopara.net:8080/5087405929/7405929508/899602
+
+
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1489
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality
+http://dns.acaidopara.net:8080/5087405929/7405929508/1488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Caça e Pesca
+http://dns.acaidopara.net:8080/5087405929/7405929508/1583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Cacavision
+http://dns.acaidopara.net:8080/5087405929/7405929508/1584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Toros TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Caras HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/51991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Caras
+http://dns.acaidopara.net:8080/5087405929/7405929508/1491
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Mulher HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/10227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Mulher
+http://dns.acaidopara.net:8080/5087405929/7405929508/1490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Radical HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/10225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Radical
+http://dns.acaidopara.net:8080/5087405929/7405929508/1492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", TVI Ficção
+http://dns.acaidopara.net:8080/5087405929/7405929508/51992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", TVI Ficção
+http://dns.acaidopara.net:8080/5087405929/7405929508/1487çã
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", TLC
+http://dns.acaidopara.net:8080/5087405929/7405929508/1587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", 24 Kitchen
+http://dns.acaidopara.net:8080/5087405929/7405929508/1586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", 24 Kitchen
+http://dns.acaidopara.net:8080/5087405929/7405929508/12779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", E! 
+http://dns.acaidopara.net:8080/5087405929/7405929508/1588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", National Geographic
+http://dns.acaidopara.net:8080/5087405929/7405929508/1576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Nat Geo 
+http://dns.acaidopara.net:8080/5087405929/7405929508/1578
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Odisseia
+http://dns.acaidopara.net:8080/5087405929/7405929508/1579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Historia
+http://dns.acaidopara.net:8080/5087405929/7405929508/1577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Discovery Channel
+http://dns.acaidopara.net:8080/5087405929/7405929508/1574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/au/CrimeAndInvestigation.au.png" group-title="Entretenimento [PT]", Crime 
+http://dns.acaidopara.net:8080/5087405929/7405929508/1571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Fuel TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", MotorVision TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/thumb_RTParena_positivo.jpg" group-title="Entretenimento [PT]", RTP Arena
+http://dns.acaidopara.net:8080/5087405929/7405929508/52023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", RTP Memoria
+http://dns.acaidopara.net:8080/5087405929/7405929508/1499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV + HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/51993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV +
+http://dns.acaidopara.net:8080/5087405929/7405929508/10795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/1522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4
+http://dns.acaidopara.net:8080/5087405929/7405929508/1525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5
+http://dns.acaidopara.net:8080/5087405929/7405929508/1528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" group-title="Desporto [PT]", Sport TV 6 HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/68314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="Desporto [PT]", Sport TV 6 
+http://dns.acaidopara.net:8080/5087405929/7405929508/68315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", NBA 
+http://dns.acaidopara.net:8080/5087405929/7405929508/45258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sporting TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/2373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/2381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/2387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4
+http://dns.acaidopara.net:8080/5087405929/7405929508/2395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5
+http://dns.acaidopara.net:8080/5087405929/7405929508/2401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 6 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 6 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 6
+http://dns.acaidopara.net:8080/5087405929/7405929508/2407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Canal 11 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", A Bola TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eurosport 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eurosport 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Fight Network
+http://dns.acaidopara.net:8080/5087405929/7405929508/1538
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Top HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Top 
+http://dns.acaidopara.net:8080/5087405929/7405929508/1545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Edition HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Edition
+http://dns.acaidopara.net:8080/5087405929/7405929508/1547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Emotion HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Emotion 
+http://dns.acaidopara.net:8080/5087405929/7405929508/1549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Action HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Action
+http://dns.acaidopara.net:8080/5087405929/7405929508/1551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN
+http://dns.acaidopara.net:8080/5087405929/7405929508/1554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN White HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN White
+http://dns.acaidopara.net:8080/5087405929/7405929508/1558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX
+http://dns.acaidopara.net:8080/5087405929/7405929508/1560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX Movies HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Fox Life HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX Comedy HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX Crime HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Hollywood  HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Hollywood
+http://dns.acaidopara.net:8080/5087405929/7405929508/1567
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="Nos Studios PT" tvg-logo="" group-title="Filmes [PT]", Nos Studios HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/45491
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Cinemundo
+http://dns.acaidopara.net:8080/5087405929/7405929508/1569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AMC
+http://dns.acaidopara.net:8080/5087405929/7405929508/1568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Syfy
+http://dns.acaidopara.net:8080/5087405929/7405929508/1570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO HD BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/24781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/901855
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Mundi HD BR Leg 
+http://dns.acaidopara.net:8080/5087405929/7405929508/2344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Mundi BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/901856
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Plus BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/901865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Signature BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/901857
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Xtreme BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/901858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Star Channel HD BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/24779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Star Channel BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/2338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Action BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/2346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Pipoca BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/2350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Premium BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/2352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Touch BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/2354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Warner HD BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/2367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TNT Series BR Leg
+http://dns.acaidopara.net:8080/5087405929/7405929508/901861
+
