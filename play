@@ -9,10 +9,8 @@ http://1111.wf:80/464331343/8857723/273452
 http://1111.wf:80/464331343/8857723/273453
 #EXTINF:-1,PT: Eleven Sport 6 HD
 http://1111.wf:80/464331343/8857723/273454
-#EXTINF:-1,PT: SPORT TV 1
-http://offshore.lat:8080/play/mw1jQF04XfZyVNF4AWnYbHrY5XgIFgbWQ_S781pn7A0
-#EXTINF:-1,PT: SPORT TV 4
-http://offshore.lat:8080/play/mw1jQF04XfZyVNF4AWnYbMIFZ04MHnS2mP28ruhrzVQ
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT | TVI REALITY
+http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9389
 
 #EXTINF:-1, ===ultra-box====
 #EXTINF:-1,PT: Benfica TV
@@ -40,6 +38,54 @@ http://ultra-box.club:80/1rP6WPa23M76910/7vx2GA7BlA/7801
 #EXTINF:-1,TVI REALITY HD
 http://ultra-box.club:80/1rP6WPa23M76910/7vx2GA7BlA/5098
 
+#EXTINF:-1, ===shortdns====
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49081
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="PT: Eleven Sp0rts 1 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts1.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 1 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49075
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="PT: Eleven Sp0rts 2" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts2.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 2
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49082
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="PT: Eleven Sp0rts 2 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts2.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 2 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49076
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="PT: Eleven Sp0rts 3" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts3.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 3
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49083
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="PT: Eleven Sp0rts 3 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts3.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 3 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49077
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="PT: Eleven Sp0rts 4" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts4.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 4
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49084
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="PT: Eleven Sp0rts 4 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts4.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 4 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49078
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="PT: Eleven Sp0rts 5" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts5.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 5
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49085
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="PT: Eleven Sp0rts 5 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts5.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 5 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49079  
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49069
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49063
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 2
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49070
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sp0rt TV 2 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv2hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 2 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49064
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 3
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49071
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sp0rt TV 3 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv3hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 3 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49065
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49072
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49066
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 5
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49073
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sp0rt TV 5 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv5hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 5 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49067
+#EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 6
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49074
+#EXTINF:-1 tvg-ID="sporttv6.pt" tvg-name="PT: Sp0rt TV 6 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv6hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 6 HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/49068
+#EXTINF:-1 tvg-ID="benficatv.pt" tvg-name="PT: Benfica TV" tvg-logo="https://filedb.me/picons/portugal/btv-pt.png" group-title="Portugal - Desporto",PT: Benfica TV
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/33011
+#EXTINF:-1 tvg-ID="benficatv.pt" tvg-name="PT: Benfica TV HD" tvg-logo="https://filedb.me/picons/portugal/btv-pt.png" group-title="Portugal - Desporto",PT: Benfica TV HD
+http://s1.shortdns.xyz:80/AR4B69PSV8/A6iOw91z8o/23841
 
 #EXTINF:-1, ===smart====
 #EXTINF:-1,PT: Benfica TV
@@ -134,12 +180,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/21424
 
 
 #EXTINF:-1, ===tktop====
-#EXTINF:-1,PT: Benfica TV
-http://949897870371799120.tkop413.xyz:80/play/QG64216853/3354284958/799120.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://379438849340802455.tkop413.xyz:80/play/vi119460/uC6vQgPpsYn/802455.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://379438849340802457.tkop413.xyz:80/play/vi119460/uC6vQgPpsYn/802457.ts
+
 
 #EXTINF:-1, ==ACAIDOPARA====
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
@@ -169,39 +210,8 @@ http://dns.acaidopara.net:8080/5087405929/7405929508/1526
 #EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality HD
 http://dns.acaidopara.net:8080/5087405929/7405929508/1489
 
-#EXTINF:-1, ===4k====
-#EXTINF:-1,PT: Benfica TV
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107511
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107495
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107494
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122484
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122485
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122486
-#EXTINF:-1,PT: SPORT TV 1
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107436
-#EXTINF:-1,PT: SPORT TV 2
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107435
-#EXTINF:-1,PT: SPORT TV 3
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107434
-#EXTINF:-1,PT: SPORT TV 4
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107433
-#EXTINF:-1,PT: SPORT TV 5
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/148667
-#EXTINF:-1,PT: TVCine Top
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107423
-#EXTINF:-1,PT: TVCine Action
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107420
-#EXTINF:-1,PT: TVCine Emotion
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107421
-#EXTINF:-1,PT: TVCine Edition
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/107422
-#EXTINF:-1,PT: TVI Reality
-http://4ksuper.live:80/b7b8c490e690/9ba37c198c8d/122490
+
+
 #EXTINF:-1, ===mohdtv====
 #EXTINF:-1,PT: Benfica TV
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/3238
