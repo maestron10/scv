@@ -1,5 +1,39 @@
 #EXTM3U
 #EXTINF:-1, ===Dani====
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1515
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT:) SOP TV 1 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SportTV_1.png" group-title="Admin.Newstarttv",PT:) SOP TV 1 HD
+http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/43004
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="PT: Sport Tv 1 FHD " tvg-logo="http://paradyse.xyz:8880/images/bab3ba5b1011990bee63a8438964fca8.png" group-title="Goldsolution",PT: Sport Tv 1 FHD 
+http://goldsolution.xyz:8880/BulLe_sEye/ji8LE7bFeq/4092
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PlateVPC/SPORTV%201%20FULL%20HD.png" group-title="PlateVPC",PT: SPORT TV 1 FHD
+http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/107
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1  ᶠᴴᴰ" tvg-logo="https://cm-inter.xyz/Logos/Foca4you_2/SPORT-TV-1%20(4).png" group-title="Foca4you",SPORT TV 1  ᶠᴴᴰ
+http://foca4you.xyz:80/play/C8PNBFFGbcDX3oFtZ7otch5fNnNzSl7PHpXXbcBe_GI/ts
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1 FHD" tvg-logo="http://images.tugaon.cyou:8080/images/7cfb4c34451c4fc4605563fa3877ecbe.png" group-title="Pr3st2v",SPORT TV 1 FHD
+http://pr3st2v.fortior.cyou:8080/JoseCortezTP3/ZrUPRffJ4wwG/48
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1ᶠᴴᴰ" tvg-logo="http://51.159.103.45/LOGOSPT/sporttv1hd.png" group-title="Caooss",SPORT.TV1ᶠᴴᴰ
+http://caooss.xyz:8080/SHLXiaomi/XiaomiSHL/70467
+
+
+
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2 HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1518
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT:) SOP TV 2 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SportTV_2.png" group-title="Admin.Newstarttv",PT:) SOP TV 2 HD
+http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/11
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: Sport Tv 2 FHD " tvg-logo="http://paradyse.xyz:8880/images/83f7e863c31248076a783bcd61d9991c.png" group-title="Goldsolution",PT: Sport Tv 2 FHD 
+http://goldsolution.xyz:8880/BulLe_sEye/ji8LE7bFeq/4094
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PlateVPC/SPORTV%202%20FULL%20HD.png" group-title="PlateVPC",PT: SPORT TV 2 FHD
+http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/110
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Foca4you",SPORT TV 2 ᶠᴴᴰ
+http://foca4you.xyz:80/play/C8PNBFFGbcDX3oFtZ7otcmZBUMzbDN8qItcZU63tb5o/ts
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="SPORT TV 2 FHD" tvg-logo="http://images.tugaon.cyou:8080/images/b601d6b00736c3df9c8ce2f6967591c3.png" group-title="Pr3st2v",SPORT TV 2 FHD
+http://pr3st2v.fortior.cyou:8080/JoseCortezTP3/ZrUPRffJ4wwG/55
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT.TV2ᶠᴴᴰ" tvg-logo="http://51.159.103.45/LOGOSPT/sporttv2hd.png" group-title="Caooss",SPORT.TV2ᶠᴴᴰ
+http://caooss.xyz:8080/SHLXiaomi/XiaomiSHL/70471
+
+
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="2juntos",PT: SPORT TV 1 HD
 http://2juntos.xyz:8080/Resthd/aUw6eed/23853
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="2juntos",PT: SPORT TV 1 FHD
@@ -32,8 +66,6 @@ http://op.dolipa.com:8080/gracio/UAEGxUfgaV/1200
 http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/107
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="http://cm-inter.xyz/Logos/ZéPequeno_1/sport-tv1.png" group-title="ZéPequeno",SPORT TV 1 ᶠᴴᴰ
 http://zepequeno.xyz:8080/franca/franca/283763
-#EXTINF:-1 group-title="AfonsoTv",SPORT TV 1 ᶠᴴᴰ
-http://tvafonso.xyz:80/CARLOSCARDOSO/pTzj7BmFXM/44227
 
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="2juntos",PT: SPORT TV 4 HD
 http://2juntos.xyz:8080/Resthd/aUw6eed/23862
