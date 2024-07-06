@@ -67,6 +67,9 @@ http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/107
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="http://cm-inter.xyz/Logos/ZéPequeno_1/sport-tv1.png" group-title="ZéPequeno",SPORT TV 1 ᶠᴴᴰ
 http://zepequeno.xyz:8080/franca/franca/283763
 
+
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4 HD
+http://s1.shortdns.xyz:80/V7T9NFRZS8/Rb95zR68co/49066
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="2juntos",PT: SPORT TV 4 HD
 http://2juntos.xyz:8080/Resthd/aUw6eed/23862
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="2juntos",PT: SPORT TV 4 FHD
