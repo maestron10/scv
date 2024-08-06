@@ -36,3 +36,7 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501444&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501446&extension=ts&play_token=3jmk7xP6JV
 #EXTINF:-1 ,EUROSPORT 2 HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501448&extension=ts&play_token=J5OgG11ADL
+#EXTINF:-1 ,SIC HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501304&extension=ts&play_token=kIjgwiY5vn
+#EXTINF:-1 ,RTP 1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501299&extension=ts&play_token=96U9NdFHiI
