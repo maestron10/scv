@@ -1,138 +1,37 @@
 #EXTM3U
-#EXTINF:-1, ===Dani====
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1515
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT:) SOP TV 1 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SportTV_1.png" group-title="Admin.Newstarttv",PT:) SOP TV 1 HD
-http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/43004
-#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="PT: Sport Tv 1 FHD " tvg-logo="http://paradyse.xyz:8880/images/bab3ba5b1011990bee63a8438964fca8.png" group-title="Goldsolution",PT: Sport Tv 1 FHD 
-http://goldsolution.xyz:8880/BulLe_sEye/ji8LE7bFeq/4092
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PlateVPC/SPORTV%201%20FULL%20HD.png" group-title="PlateVPC",PT: SPORT TV 1 FHD
-http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/107
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1  ᶠᴴᴰ" tvg-logo="https://cm-inter.xyz/Logos/Foca4you_2/SPORT-TV-1%20(4).png" group-title="Foca4you",SPORT TV 1  ᶠᴴᴰ
-http://foca4you.xyz:80/play/C8PNBFFGbcDX3oFtZ7otch5fNnNzSl7PHpXXbcBe_GI/ts
-#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1 FHD" tvg-logo="http://images.tugaon.cyou:8080/images/7cfb4c34451c4fc4605563fa3877ecbe.png" group-title="Pr3st2v",SPORT TV 1 FHD
-http://pr3st2v.fortior.cyou:8080/JoseCortezTP3/ZrUPRffJ4wwG/48
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT.TV1ᶠᴴᴰ" tvg-logo="http://51.159.103.45/LOGOSPT/sporttv1hd.png" group-title="Caooss",SPORT.TV1ᶠᴴᴰ
-http://caooss.xyz:8080/SHLXiaomi/XiaomiSHL/70467
-
-
-
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1518
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT:) SOP TV 2 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SportTV_2.png" group-title="Admin.Newstarttv",PT:) SOP TV 2 HD
-http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/11
-#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="PT: Sport Tv 2 FHD " tvg-logo="http://paradyse.xyz:8880/images/83f7e863c31248076a783bcd61d9991c.png" group-title="Goldsolution",PT: Sport Tv 2 FHD 
-http://goldsolution.xyz:8880/BulLe_sEye/ji8LE7bFeq/4094
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PlateVPC/SPORTV%202%20FULL%20HD.png" group-title="PlateVPC",PT: SPORT TV 2 FHD
-http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/110
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="Foca4you",SPORT TV 2 ᶠᴴᴰ
-http://foca4you.xyz:80/play/C8PNBFFGbcDX3oFtZ7otcmZBUMzbDN8qItcZU63tb5o/ts
-#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="SPORT TV 2 FHD" tvg-logo="http://images.tugaon.cyou:8080/images/b601d6b00736c3df9c8ce2f6967591c3.png" group-title="Pr3st2v",SPORT TV 2 FHD
-http://pr3st2v.fortior.cyou:8080/JoseCortezTP3/ZrUPRffJ4wwG/55
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT.TV2ᶠᴴᴰ" tvg-logo="http://51.159.103.45/LOGOSPT/sporttv2hd.png" group-title="Caooss",SPORT.TV2ᶠᴴᴰ
-http://caooss.xyz:8080/SHLXiaomi/XiaomiSHL/70471
-
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="2juntos",PT: SPORT TV 1 HD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23853
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="2juntos",PT: SPORT TV 1 FHD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23854
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT:) SOP TV 1 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SportTV_1.png" group-title="Admin.Newstarttv",PT:) SOP TV 1 HD
-http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/43004
-#EXTINF:-1 xui-id="104691" tvg-id="" tvg-name="Sport Tv 1 HD" tvg-logo="http://95.216.29.186:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREnV53u70WEtmbHCLF5SotNG.png" group-title="Amb2021",Sport Tv 1 HD
-http://amb2021.one:80/play/xzUbheJF0xROQLGe-swcmRENxGaVzLsJOJWPXeM2zB3sALGW9m793CDWdymSiFfS
-#EXTINF:-1 group-title="Alienserver",SPORT TV 1 HD
-http://alienserver.best:8080/G9TG3PAFMVLf/YnHvdRKMX2Lq/38
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 [FHD]" tvg-logo="http://185.141.61.130/logos2024/SPORT%20TV%201%20HD.png" group-title="Chefedoze12",SPORT TV 1 [FHD]
-http://chefedoze12.xyz:80/paulocardoso11111/gr1uaWF/80
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 [HD]" tvg-logo="http://185.141.61.130/logos2024/SPORT%20TV%201%20HD.png" group-title="Gangdosofa",SPORT TV 1 [HD]
-http://gangdosofa.stream:80/tPTQkCFTnT/jpEW9mYppz/79
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport TV 1 ᶠᴴᴰ⚜️" tvg-logo="http://dreamtvgold.com:8080/images/dsAt8cMDBjbP3mVNdeYR4aRWZ4UEsCgdumG9fC_ceXbMyGjT8DgELiOd-5ImcbI4.png" group-title="Gold4ever",Sport TV 1 ᶠᴴᴰ⚜️
-http://dreamtvgold.com:8080/CarlitosOliveira/3Mef2MymCE/68
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sp0rt TV 1 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv1hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 1 HD
-http://s1.shortdns.xyz:80/MN6H8QBKC4/j4e67M8Mfh/49063
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4000.jpg?55380" group-title="PT| DESPORTO",PT: SPORT TV 1
-http://unions92006.cdngold.me:80/Diana/815c95f463/386381
-#EXTINF:-1 tvg-id="sptv1hd.tv.vodafone.pt" tvg-name="SPΘRT TV 1 FHD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20Chefedoze12%20novos/SPORTTV1HD.png" group-title="Cbrlig",SPΘRT TV 1 FHD
-http://cbrlig.com:8080/Jorge123/Jorge123/197883
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 [FHD]" tvg-logo="http://185.141.61.130/logos2024/SPORT%20TV%201%20HD.png" group-title="FoxVpn",SPORT TV 1 [FHD]
-http://foxvpn.vip:80/tPTQkCFTnT/jpEW9mYppz/80
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 [FHD]" tvg-logo="http://185.141.61.130/logos2024/SPORT%20TV%201%20HD.png" group-title="Invale.Party",SPORT TV 1 [FHD]
-http://invale.party:80/paulosalgado/dBCSLkDNW/80
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1 Full HD" tvg-logo="http://pycon.oirza.com/piconpt/picon/1_0_1_1C3_68_53_CE40000_0_0_0.png" group-title="Op.Dolipa",PT: Sport TV 1 Full HD
-http://op.dolipa.com:8080/gracio/UAEGxUfgaV/1200
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PlateVPC/SPORTV%201%20FULL%20HD.png" group-title="PT Ringo",PT: SPORT TV 1 FHD
-http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/107
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="http://cm-inter.xyz/Logos/ZéPequeno_1/sport-tv1.png" group-title="ZéPequeno",SPORT TV 1 ᶠᴴᴰ
-http://zepequeno.xyz:8080/franca/franca/283763
-
-
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4 HD
-http://s1.shortdns.xyz:80/V7T9NFRZS8/Rb95zR68co/49066
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="2juntos",PT: SPORT TV 4 HD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23862
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="2juntos",PT: SPORT TV 4 FHD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23863
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT:) SOP TV 4 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/SportTV_4.png" group-title="Admin.Newstarttv",PT:) SOP TV 4 HD
-http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/991
-#EXTINF:-1 xui-id="82579" tvg-id="SPORT.TV 4 HD" tvg-name="Sport Tv 4 HD-SD" tvg-logo="http://95.216.29.186:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElNNAjGetCShyQqEhB-V-lH.png" group-title="Amb2021",Sport Tv 4 HD-SD
-http://amb2021.one:80/play/xzUbheJF0xROQLGe-swcmRENxGaVzLsJOJWPXeM2zB1CE9eGUmV8Tx0-NdVtAWHw
-#EXTINF:-1 group-title="AfonsoTv",SPORT TV 4 ᶠᴴᴰ
-http://tvafonso.xyz:80/CARLOSCARDOSO/pTzj7BmFXM/44230
-#EXTINF:-1 group-title="Alienserver",SPORT TV 4 HD
-http://alienserver.best:8080/G9TG3PAFMVLf/YnHvdRKMX2Lq/47
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 [FHD]" tvg-logo="http://185.141.61.130/logostv/sport-tv4.png" group-title="Chefedoze12",SPORT TV 4 [FHD]
-http://chefedoze12.xyz:80/paulocardoso11111/gr1uaWF/88
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 [FHD]" tvg-logo="http://185.141.61.130/logostv/sport-tv4.png" group-title="Gangdosofa",SPORT TV 4 [FHD]
-http://gangdosofa.stream:80/tPTQkCFTnT/jpEW9mYppz/88
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport TV 4 ⁴ᴷ⭐" tvg-logo="http://dreamtvgold.com:8080/images/dsAt8cMDBjbP3mVNdeYR4ShtjSB_t0r9ZDmMYT5fQhPSVQ5VJLqpJ1VXcI4tjWwZ.png" group-title="Gold4ever",Sport TV 4 ⁴ᴷ⭐
-http://dreamtvgold.com:8080/CarlitosOliveira/3Mef2MymCE/79
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sp0rt TV 4 HD" tvg-logo="http://filedb.me/picons/portugal/ptsp0rttv4hd.png" group-title="Portugal - Desporto",PT: Sp0rt TV 4 HD
-http://s1.shortdns.xyz:80/MN6H8QBKC4/j4e67M8Mfh/49066
-#EXTINF:-1 tvg-id="" tvg-name="SPΘRT TV 4-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/Chefedoze12%20low/SPORTV%204-low.png" group-title="Cbrlig",SPΘRT TV 4-265 HD
-http://cbrlig.com:8080/Jorge123/Jorge123/193694
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 [FHD]" tvg-logo="http://185.141.61.130/logostv/sport-tv4.png" group-title="FoxVpn",SPORT TV 4 [FHD]
-http://foxvpn.vip:80/tPTQkCFTnT/jpEW9mYppz/88
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 [FHD]" tvg-logo="http://185.141.61.130/logostv/sport-tv4.png" group-title="Landrugo",SPORT TV 4 [FHD]
-http://landrugo.xyz:80/tinho99/mM95ycwcEjBm/88
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://pycon.oirza.com/piconpt/1_0_1_1C5_68_53_FFFF0000_0_0_0.png" group-title="Op.Dolipa",PT: Sport TV 4 HD
-http://op.dolipa.com:8080/gracio/UAEGxUfgaV/1241
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PlateVPC/SPORTV%204%20FULL%20%20HD.png" group-title="PT Ringo",PT: SPORT TV 4 FHD
-http://ip.platevpc.xyz:8080/EET7HC7xRf/ThTUow1G3r/115
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="http://cm-inter.xyz/Logos/ZéPequeno_1/sport-tv4.png" group-title="ZéPequeno",SPORT TV 4 ᶠᴴᴰ
-http://zepequeno.xyz:8080/franca/franca/283774
-
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1500.png" group-title="2juntos",PT: ELEVEN 1 HD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23874
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1500.png" group-title="2juntos",PT: ELEVEN 1 FHD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23875
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT:) ELV SPTS 1 HD" tvg-logo="http://admin.newstarttv.pro:2082/Logotipos/Eleven_Sports_1.png" group-title="Admin.Newstarttv",PT:) ELV SPTS 1 HD
-http://admin.newstarttv.cf:8080/MonteiroGri/grijo1234/7
-#EXTINF:-1 xui-id="42510" tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://95.216.29.186:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtRElHyt8PZKfqIHOAmde1cYP5m9a1vJcrokFdCDr36qpUAA.png" group-title="Amb2021",Eleven Sports 1 HD
-http://amb2021.one:80/play/xzUbheJF0xROQLGe-swcmRENxGaVzLsJOJWPXeM2zB0mWcdNTgC7SgHktMOQZNIG
-#EXTINF:-1 group-title="Alienserver",ELEVEN SPORTS 1  HD
-http://alienserver.best:8080/G9TG3PAFMVLf/YnHvdRKMX2Lq/53
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 [FHD]" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-1.png" group-title="Chefedoze12",ELEVEN SPORTS 1 [FHD]
-http://chefedoze12.xyz:80/paulocardoso11111/gr1uaWF/94
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 [FHD]" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-1.png" group-title="Gangdosofa",ELEVEN SPORTS 1 [FHD]
-http://gangdosofa.stream:80/tPTQkCFTnT/jpEW9mYppz/94
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Dazn Eleven 1 ⁴ᴷ⭐" tvg-logo="http://dreamtvgold.com:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjkEpJuIARBdOv895oc_GN7uLELhC9MM22-xqTxC5R2Nz6sy5Z7gMt3n4vI-6pI1uP5wda3Nb8MeH9Lck0MqZt4w.png" group-title="Gold4ever",Dazn Eleven 1 ⁴ᴷ⭐
-http://dreamtvgold.com:8080/CarlitosOliveira/3Mef2MymCE/85
-#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="PT: Eleven Sp0rts 1 HD" tvg-logo="https://filedb.me/picons/portugal/ptelevensp0rts1.png" group-title="Portugal - Desporto",PT: Eleven Sp0rts 1 HD
-http://s1.shortdns.xyz:80/MN6H8QBKC4/j4e67M8Mfh/49075
-
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: BTV FHD" tvg-logo="https://ottadvertisingsales.com/wp-content/uploads/2020/12/Benfica-TV-ad-rates.png" group-title="2juntos",PT: BTV FHD
-http://2juntos.xyz:8080/Resthd/aUw6eed/23869
-#EXTINF:-1 xui-id="42527" tvg-id="BTV1hd" tvg-name="BTV HD" tvg-logo="http://95.216.29.186:80/images/1PXfFcDm2qeHZGKGfKDZu2JP-Fg4I2XkWd-GgMUtREkjR5vttRPFf8AaKWXMt9G8.png" group-title="Amb2021",BTV HD
-http://amb2021.one:80/play/xzUbheJF0xROQLGe-swcmRENxGaVzLsJOJWPXeM2zB0VH6HsnipkwZJrB_zQW5O6
-#EXTINF:-1 group-title="Alienserver",BTV 1 HD
-http://alienserver.best:8080/G9TG3PAFMVLf/YnHvdRKMX2Lq/62
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="BTV [FHD]" tvg-logo="http://185.141.61.130/logos2024/BTV%20HD.png" group-title="Chefedoze12",BTV [FHD]
-http://chefedoze12.xyz:80/paulocardoso11111/gr1uaWF/73
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="BTV [HD]" tvg-logo="http://185.141.61.130/logos2024/BTV%20HD.png" group-title="Gangdosofa",BTV [HD]
-http://gangdosofa.stream:80/tPTQkCFTnT/jpEW9mYppz/72
-#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="Benfica TV ᶠᴴᴰ⚜️" tvg-logo="http://www.mediafire.com/convkey/b564/z5p0r52zpp774f4zg.jpg" group-title="Gold4ever",Benfica TV ᶠᴴᴰ⚜️
-http://dreamtvgold.com:8080/CarlitosOliveira/3Mef2MymCE/106
-#EXTINF:-1 tvg-ID="benficatv.pt" tvg-name="PT: Benfica TV HD" tvg-logo="https://filedb.me/picons/portugal/btv-pt.png" group-title="Portugal - Desporto",PT: Benfica TV HD
-http://s1.shortdns.xyz:80/MN6H8QBKC4/j4e67M8Mfh/23841
+#EXTINF:-1 ,BENFICA TV BTV
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=636425&extension=ts&play_token=fvQKKyE9yl
+#EXTINF:-1 ,BTV HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501418&extension=ts&play_token=I5sgeat3V1
+#EXTINF:-1 ,SPORTING TV HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501420&extension=ts&play_token=ZJFU2uI4Sc
+#EXTINF:-1 ,SPORT TV 1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501422&extension=ts&play_token=hNNIUxZ7qz
+#EXTINF:-1 ,SPORT TV 2 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501424&extension=ts&play_token=hixRbuP9Ur
+#EXTINF:-1 ,SPORT TV 3 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501426&extension=ts&play_token=sWIG9wP5Hk
+#EXTINF:-1 ,SPORT TV 4 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501428&extension=ts&play_token=41v2SqmZj0
+#EXTINF:-1 ,SPORT TV 5 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501430&extension=ts&play_token=NdCawqTVMp
+#EXTINF:-1 ,SPORT TV 6 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501431&extension=ts&play_token=lWvGdCWmRo
+#EXTINF:-1 ,SPORT TV NBA HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501432&extension=ts&play_token=Z7Z6uAMC50
+#EXTINF:-1 ,ELEVEN SPORTS 1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501434&extension=ts&play_token=Z2FSiuyjon
+#EXTINF:-1 ,ELEVEN SPORTS 2 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501436&extension=ts&play_token=iR6Jg9sYfg
+#EXTINF:-1 ,ELEVEN SPORTS 3 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501438&extension=ts&play_token=hsR5F1bL0u
+#EXTINF:-1 ,ELEVEN SPORTS 4 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501440&extension=ts&play_token=83t2mKlhxb
+#EXTINF:-1 ,ELEVEN SPORTS 5 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501442&extension=ts&play_token=RUxj7QX2Cl
+#EXTINF:-1 ,ELEVEN SPORTS 6 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501444&extension=ts&play_token=qWbFUj9SOa
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501446&extension=ts&play_token=3jmk7xP6JV
+#EXTINF:-1 ,EUROSPORT 2 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501448&extension=ts&play_token=J5OgG11ADL
