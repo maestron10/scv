@@ -1,42 +1,7 @@
 #EXTM3U
-#EXTINF:-1, ===Optimus====
-#EXTINF:-1 ,BENFICA TV BTV
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=636425&extension=ts&play_token=fvQKKyE9yl
-#EXTINF:-1 ,BTV HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501418&extension=ts&play_token=I5sgeat3V1
-#EXTINF:-1 ,SPORTING TV HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501420&extension=ts&play_token=ZJFU2uI4Sc
-#EXTINF:-1 ,SPORT TV 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501422&extension=ts&play_token=hNNIUxZ7qz
-#EXTINF:-1 ,SPORT TV 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501424&extension=ts&play_token=hixRbuP9Ur
-#EXTINF:-1 ,SPORT TV 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501426&extension=ts&play_token=sWIG9wP5Hk
-#EXTINF:-1 ,SPORT TV 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501428&extension=ts&play_token=41v2SqmZj0
-#EXTINF:-1 ,SPORT TV 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501430&extension=ts&play_token=NdCawqTVMp
-#EXTINF:-1 ,SPORT TV 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501431&extension=ts&play_token=lWvGdCWmRo
-#EXTINF:-1 ,SPORT TV NBA HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501432&extension=ts&play_token=Z7Z6uAMC50
-#EXTINF:-1 ,ELEVEN SPORTS 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501434&extension=ts&play_token=Z2FSiuyjon
-#EXTINF:-1 ,ELEVEN SPORTS 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501436&extension=ts&play_token=iR6Jg9sYfg
-#EXTINF:-1 ,ELEVEN SPORTS 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501438&extension=ts&play_token=hsR5F1bL0u
-#EXTINF:-1 ,ELEVEN SPORTS 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501440&extension=ts&play_token=83t2mKlhxb
-#EXTINF:-1 ,ELEVEN SPORTS 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501442&extension=ts&play_token=RUxj7QX2Cl
-#EXTINF:-1 ,ELEVEN SPORTS 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501444&extension=ts&play_token=qWbFUj9SOa
-#EXTINF:-1 ,EUROSPORT 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501446&extension=ts&play_token=3jmk7xP6JV
-#EXTINF:-1 ,EUROSPORT 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501448&extension=ts&play_token=J5OgG11ADL
-#EXTINF:-1 ,SIC HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501304&extension=ts&play_token=kIjgwiY5vn
-#EXTINF:-1 ,RTP 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AA:58:87&stream=501299&extension=ts&play_token=96U9NdFHiI
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/X5xRz0/944877/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/X5xRz0/944877/167743
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://cord-cutter.net:8080/X5xRz0/944877/136726
