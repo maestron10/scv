@@ -1,7 +1,21 @@
 #EXTM3U
+
+
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://cord-cutter.net:8080/X5xRz0/944877/167742
 #EXTINF:-1,PT: SPORT TV 2 HD
 http://cord-cutter.net:8080/X5xRz0/944877/167743
 #EXTINF:-1,PT BENFICA TV HD  (P)
 http://cord-cutter.net:8080/X5xRz0/944877/136726
+#EXTINF:-1,SIC FHD PT
+http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/2696
+#EXTINF:-1,SportTV 1 HD PT
+http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/7425
+#EXTINF:-1,SportTV 1 FHD PT
+http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/3618
+#EXTINF:-1,BTV 1 HD PT
+http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/2767
+#EXTINF:-1,BTV 1 ( Mobile ) PT
+http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/75460
+#EXTINF:-1,BTV 1 FHD PT
+http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/2766
