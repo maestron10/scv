@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 1 FHD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 1 FHD
+http://fortv.cc:8080/6p1EkK/694038/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 1 FHD
+http://fortv.cc:8080/5jcvQu/558834/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 1 FHD
+http://1tv41.icu:8080/30065823/63154294/167742
 
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://cord-cutter.net:8080/X5xRz0/944877/167742
