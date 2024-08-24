@@ -1,29 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 1 FHD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 1 FHD
-http://fortv.cc:8080/6p1EkK/694038/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 1 FHD
-http://fortv.cc:8080/5jcvQu/558834/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 1 FHD
-http://1tv41.icu:8080/30065823/63154294/167742
 
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/X5xRz0/944877/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://cord-cutter.net:8080/X5xRz0/944877/167743
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://cord-cutter.net:8080/X5xRz0/944877/136726
-#EXTINF:-1,SIC FHD PT
-http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/2696
-#EXTINF:-1,SportTV 1 HD PT
-http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/7425
-#EXTINF:-1,SportTV 1 FHD PT
-http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/3618
-#EXTINF:-1,BTV 1 HD PT
-http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/2767
-#EXTINF:-1,BTV 1 ( Mobile ) PT
-http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/75460
-#EXTINF:-1,BTV 1 FHD PT
-http://hanaiptv.com:8080/12win24032104/sRPadUZ8YK/2766
