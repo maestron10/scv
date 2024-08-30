@@ -39,5 +39,21 @@ http://delb66.xyz:80/Recall738/40CADF30C735/68417
 http://delb66.xyz:80/Recall738/40CADF30C735/68336
 #EXTINF:-1,PT - BENFICA TV HD
 http://delb66.xyz:80/Recall738/40CADF30C735/68416
+#EXTINF:-1 group-title="TV",PT098:SPORT TV 1 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29392
+#EXTINF:-1 group-title="TV",PT099:SPORT TV 2 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29391
+#EXTINF:-1 group-title="TV",PT100:SPORT TV 3 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29390
+#EXTINF:-1 group-title="TV",PT101:SPORT TV 4 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29389
+#EXTINF:-1 group-title="TV",PT012:Benfica TV 1 HD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/3238
+#EXTINF:-1 group-title="TV",PT157:Eleven Sports 1 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/49966
 
+#EXTINF:-1 group-title="TV",PT119:Eleven Sports 3 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29371
+#EXTINF:-1 group-title="TV",PT120:Eleven Sports 4 FHD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29370
 
