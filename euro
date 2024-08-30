@@ -1,8 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica" tvg-logo="" group-title="PT | PORTUGAL(linha 2) VIP",PT: Benfica
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/97148
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | ESPORTES VIP",PT: Eleven 1
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99475
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | ESPORTES VIP",PT: Eleven 2
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99476
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | ESPORTES VIP",PT: Eleven 3
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99477
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="PT | ESPORTES VIP",PT: Eleven 4
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99478
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 5" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport5.png" group-title="PT | ESPORTES VIP",PT: Eleven 5
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99479
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport6.png" group-title="PT | ESPORTES VIP",PT: Eleven 6
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99480
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | ESPORTES VIP",PT: SPORT TV +
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99483
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 1 HD
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99484
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 2 HD
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99485
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 3 HD
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99486
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 4 HD
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99487
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | ESPORTES VIP",PT: Sport TV 5 HD
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99488
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="PT | ESPORTES VIP",PT: Sport TV 6 HD
+http://vipatdom.top:8080/VIP0112169502644021/a96175e3b008/99489
+
+#EXTINF:-1,PT - BENFICA TV HD
+http://delb66.xyz:80/Recall738/40CADF30C735/68416
 #EXTINF:-1,PT - BTV FHD
 http://delb66.xyz:80/Recall738/40CADF30C735/763939
+#EXTINF:-1,PT - SPORT TV 1 UHD
+http://delb66.xyz:80/Recall738/40CADF30C735/68336
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://delb66.xyz:80/Recall738/40CADF30C735/68419
 #EXTINF:-1,PT - SPORT TV 2 FHD
 http://delb66.xyz:80/Recall738/40CADF30C735/764059
+#EXTINF:-1,PT - SPORT TV 2 HD
+http://delb66.xyz:80/Recall738/40CADF30C735/68418
+#EXTINF:-1,PT - SPORT TV 3 HD
+http://delb66.xyz:80/Recall738/40CADF30C735/68417
 #EXTINF:-1,PT - SPORT TV 4 FHD
 http://delb66.xyz:80/Recall738/40CADF30C735/764062
 #EXTINF:-1,PT - SPORT TV 5 FHD
@@ -29,16 +68,9 @@ http://delb66.xyz:80/Recall738/40CADF30C735/68307
 http://delb66.xyz:80/Recall738/40CADF30C735/323599
 #EXTINF:-1,PT - ELEVEN SPORTS 6 HD
 http://delb66.xyz:80/Recall738/40CADF30C735/323600
-#EXTINF:-1,PT - SPORT TV 1 HD
-http://delb66.xyz:80/Recall738/40CADF30C735/68419
-#EXTINF:-1,PT - SPORT TV 2 HD
-http://delb66.xyz:80/Recall738/40CADF30C735/68418
-#EXTINF:-1,PT - SPORT TV 3 HD
-http://delb66.xyz:80/Recall738/40CADF30C735/68417
-#EXTINF:-1,PT - SPORT TV 1 UHD
-http://delb66.xyz:80/Recall738/40CADF30C735/68336
-#EXTINF:-1,PT - BENFICA TV HD
-http://delb66.xyz:80/Recall738/40CADF30C735/68416
+
+#EXTINF:-1 group-title="TV",PT012:Benfica TV 1 HD
+http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/3238
 #EXTINF:-1 group-title="TV",PT098:SPORT TV 1 FHD
 http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29392
 #EXTINF:-1 group-title="TV",PT099:SPORT TV 2 FHD
@@ -47,11 +79,8 @@ http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29391
 http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29390
 #EXTINF:-1 group-title="TV",PT101:SPORT TV 4 FHD
 http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29389
-#EXTINF:-1 group-title="TV",PT012:Benfica TV 1 HD
-http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/3238
 #EXTINF:-1 group-title="TV",PT157:Eleven Sports 1 FHD
 http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/49966
-
 #EXTINF:-1 group-title="TV",PT119:Eleven Sports 3 FHD
 http://mohdtv.com:8880/ALLChannels48B02D5E90EC/02892613/29371
 #EXTINF:-1 group-title="TV",PT120:Eleven Sports 4 FHD
