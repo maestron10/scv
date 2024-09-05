@@ -1,278 +1,357 @@
 #EXTM3U
-#EXTINF:0,ESPN 4 BR HD
-http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/66
-
-#EXTINF:-1,------|shls|------
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="" group-title="Generaristas [PT]", RTP 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1604
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 1
-http://dns.acaidopara.net:8080/5087405929/7405929508/1600
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="" group-title="Generaristas [PT]", RTP 2 
-http://dns.acaidopara.net:8080/5087405929/7405929508/1603
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 2
-http://dns.acaidopara.net:8080/5087405929/7405929508/1599
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="" group-title="Generaristas [PT]", SIC HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/10224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", SIC
-http://dns.acaidopara.net:8080/5087405929/7405929508/1480
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="" group-title="Generaristas [PT]", TVI HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1483
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", TVI
-http://dns.acaidopara.net:8080/5087405929/7405929508/1484
-#EXTINF:-1 tvg-id="CMTV" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", CMTV HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/10230
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", CMTV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1494
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 3
-http://dns.acaidopara.net:8080/5087405929/7405929508/1479
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 3
-http://dns.acaidopara.net:8080/5087405929/7405929508/899601
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", SIC Noticias
-http://dns.acaidopara.net:8080/5087405929/7405929508/10226
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", SIC Noticias
-http://dns.acaidopara.net:8080/5087405929/7405929508/1493
-#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="Tvi 24 PT" tvg-logo="" group-title="Generaristas [PT]", CNN
-http://dns.acaidopara.net:8080/5087405929/7405929508/899603
-#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="Tvi 24 PT" tvg-logo="" group-title="Generaristas [PT]", CNN
-http://dns.acaidopara.net:8080/5087405929/7405929508/75838
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", Porto Canal
-http://dns.acaidopara.net:8080/5087405929/7405929508/1497
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP Acores
-http://dns.acaidopara.net:8080/5087405929/7405929508/1498
-#EXTINF:-1 tvg-id="RtpAfrica.pt" tvg-name="Rtp África PT" tvg-logo="" group-title="Generaristas [PT]", Rtp África
-http://dns.acaidopara.net:8080/5087405929/7405929508/1501
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP Madeira
-http://dns.acaidopara.net:8080/5087405929/7405929508/1500
-#EXTINF:-1 tvg-id="" tvg-name="TCVi" tvg-logo="https://rtc.cv/upload/img/programas/tcv_logo.png" group-title="Generaristas [PT]", Tcv Internacional
-http://dns.acaidopara.net:8080/5087405929/7405929508/899602
-
-
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1489
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality
-http://dns.acaidopara.net:8080/5087405929/7405929508/1488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Caça e Pesca
-http://dns.acaidopara.net:8080/5087405929/7405929508/1583
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Cacavision
-http://dns.acaidopara.net:8080/5087405929/7405929508/1584
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Toros TV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Caras HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/51991
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Caras
-http://dns.acaidopara.net:8080/5087405929/7405929508/1491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Mulher HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/10227
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Mulher
-http://dns.acaidopara.net:8080/5087405929/7405929508/1490
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Radical HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/10225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", SIC Radical
-http://dns.acaidopara.net:8080/5087405929/7405929508/1492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", TVI Ficção
-http://dns.acaidopara.net:8080/5087405929/7405929508/51992
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", TVI Ficção
-http://dns.acaidopara.net:8080/5087405929/7405929508/1487çã
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", TLC
-http://dns.acaidopara.net:8080/5087405929/7405929508/1587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", 24 Kitchen
-http://dns.acaidopara.net:8080/5087405929/7405929508/1586
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", 24 Kitchen
-http://dns.acaidopara.net:8080/5087405929/7405929508/12779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", E! 
-http://dns.acaidopara.net:8080/5087405929/7405929508/1588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", National Geographic
-http://dns.acaidopara.net:8080/5087405929/7405929508/1576
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Nat Geo 
-http://dns.acaidopara.net:8080/5087405929/7405929508/1578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Odisseia
-http://dns.acaidopara.net:8080/5087405929/7405929508/1579
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Historia
-http://dns.acaidopara.net:8080/5087405929/7405929508/1577
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Discovery Channel
-http://dns.acaidopara.net:8080/5087405929/7405929508/1574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/au/CrimeAndInvestigation.au.png" group-title="Entretenimento [PT]", Crime 
-http://dns.acaidopara.net:8080/5087405929/7405929508/1571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", Fuel TV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", MotorVision TV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1541
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/thumb_RTParena_positivo.jpg" group-title="Entretenimento [PT]", RTP Arena
-http://dns.acaidopara.net:8080/5087405929/7405929508/52023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento [PT]", RTP Memoria
-http://dns.acaidopara.net:8080/5087405929/7405929508/1499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV + HD 
-http://dns.acaidopara.net:8080/5087405929/7405929508/51993
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV +
-http://dns.acaidopara.net:8080/5087405929/7405929508/10795
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1514
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1515
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1
-http://dns.acaidopara.net:8080/5087405929/7405929508/1516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1517
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1518
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2
-http://dns.acaidopara.net:8080/5087405929/7405929508/1519
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3
-http://dns.acaidopara.net:8080/5087405929/7405929508/1522
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1523
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1524
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4
-http://dns.acaidopara.net:8080/5087405929/7405929508/1525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1526
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1527
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5
-http://dns.acaidopara.net:8080/5087405929/7405929508/1528
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" group-title="Desporto [PT]", Sport TV 6 HD 
-http://dns.acaidopara.net:8080/5087405929/7405929508/68314
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="Desporto [PT]", Sport TV 6 
-http://dns.acaidopara.net:8080/5087405929/7405929508/68315
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", NBA 
-http://dns.acaidopara.net:8080/5087405929/7405929508/45258
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1529
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sporting TV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1533
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2375
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1
-http://dns.acaidopara.net:8080/5087405929/7405929508/2373
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2385
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2382
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2
-http://dns.acaidopara.net:8080/5087405929/7405929508/2381
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2391
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2390
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3
-http://dns.acaidopara.net:8080/5087405929/7405929508/2387
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4
-http://dns.acaidopara.net:8080/5087405929/7405929508/2395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2405
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2402
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5
-http://dns.acaidopara.net:8080/5087405929/7405929508/2401
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 6 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2411
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 6 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2409
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 6
-http://dns.acaidopara.net:8080/5087405929/7405929508/2407
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Canal 11 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2623
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", A Bola TV
-http://dns.acaidopara.net:8080/5087405929/7405929508/1535
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eurosport 1
-http://dns.acaidopara.net:8080/5087405929/7405929508/1536
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eurosport 2
-http://dns.acaidopara.net:8080/5087405929/7405929508/1537
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Fight Network
-http://dns.acaidopara.net:8080/5087405929/7405929508/1538
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Top HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1544
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Top 
-http://dns.acaidopara.net:8080/5087405929/7405929508/1545
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Edition HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1546
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Edition
-http://dns.acaidopara.net:8080/5087405929/7405929508/1547
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Emotion HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1548
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Emotion 
-http://dns.acaidopara.net:8080/5087405929/7405929508/1549
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Action HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1550
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Action
-http://dns.acaidopara.net:8080/5087405929/7405929508/1551
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1553
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN
-http://dns.acaidopara.net:8080/5087405929/7405929508/1554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN White HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1557
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AXN White
-http://dns.acaidopara.net:8080/5087405929/7405929508/1558
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1561
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX
-http://dns.acaidopara.net:8080/5087405929/7405929508/1560
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX Movies HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1565
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Fox Life HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1562
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX Comedy HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1563
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", FOX Crime HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1564
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Hollywood  HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1566
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Hollywood
-http://dns.acaidopara.net:8080/5087405929/7405929508/1567
-#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="Nos Studios PT" tvg-logo="" group-title="Filmes [PT]", Nos Studios HD 
-http://dns.acaidopara.net:8080/5087405929/7405929508/45491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Cinemundo
-http://dns.acaidopara.net:8080/5087405929/7405929508/1569
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", AMC
-http://dns.acaidopara.net:8080/5087405929/7405929508/1568
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Syfy
-http://dns.acaidopara.net:8080/5087405929/7405929508/1570
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO HD BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/24781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/901855
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Mundi HD BR Leg 
-http://dns.acaidopara.net:8080/5087405929/7405929508/2344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Mundi BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/901856
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Plus BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/901865
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Signature BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/901857
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", HBO Xtreme BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/901858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Star Channel HD BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/24779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Star Channel BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/2338
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Action BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/2346
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Pipoca BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/2350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Premium BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/2352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Telecine Touch BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/2354
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", Warner HD BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/2367
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TNT Series BR Leg
-http://dns.acaidopara.net:8080/5087405929/7405929508/901861
-
+#EXTINF:-1,RTP 3
+http://chiclets.pm:8080/jpss537/1004195/42780
+#EXTINF:-1,RTP MEMORIA
+http://chiclets.pm:8080/jpss537/1004195/19687
+#EXTINF:-1,RTP ACORES
+http://chiclets.pm:8080/jpss537/1004195/7386
+#EXTINF:-1,RTP MADEIRA
+http://chiclets.pm:8080/jpss537/1004195/7387
+#EXTINF:-1,RTP AFRICA
+http://chiclets.pm:8080/jpss537/1004195/7389
+#EXTINF:-1,TPA Internacional 
+http://chiclets.pm:8080/jpss537/1004195/99916
+#EXTINF:-1,TCV Internacional
+http://chiclets.pm:8080/jpss537/1004195/99915
+#EXTINF:-1,SIC NOVELAS
+http://chiclets.pm:8080/jpss537/1004195/59935
+#EXTINF:-1,SIC CARAS
+http://chiclets.pm:8080/jpss537/1004195/7281
+#EXTINF:-1,SIC CARAS HD
+http://chiclets.pm:8080/jpss537/1004195/7282
+#EXTINF:-1,SIC MULHER
+http://chiclets.pm:8080/jpss537/1004195/7283
+#EXTINF:-1,SIC RADICAL
+http://chiclets.pm:8080/jpss537/1004195/7284
+#EXTINF:-1,SIC RADICAL HD
+http://chiclets.pm:8080/jpss537/1004195/7285
+#EXTINF:-1,SIC NOTICIAS
+http://chiclets.pm:8080/jpss537/1004195/7267
+#EXTINF:-1,SIC NOTICIAS HD
+http://chiclets.pm:8080/jpss537/1004195/7268
+#EXTINF:-1,SIC K
+http://chiclets.pm:8080/jpss537/1004195/7376
+#EXTINF:-1,PT EXTRA: V+ [hevc]
+http://chiclets.pm:8080/jpss537/1004195/96430
+#EXTINF:-1,V+ HD
+http://chiclets.pm:8080/jpss537/1004195/7286
+#EXTINF:-1,TVI REALITY
+http://chiclets.pm:8080/jpss537/1004195/7287
+#EXTINF:-1,TVI REALITY | CAM 1
+http://chiclets.pm:8080/jpss537/1004195/59965
+#EXTINF:-1,TVI REALITY | CAM 2
+http://chiclets.pm:8080/jpss537/1004195/59966
+#EXTINF:-1,TVI REALITY | CAM 3
+http://chiclets.pm:8080/jpss537/1004195/59967
+#EXTINF:-1,TVI REALITY | CAM 4
+http://chiclets.pm:8080/jpss537/1004195/59968
+#EXTINF:-1,TVI REALITY | MOSAICO
+http://chiclets.pm:8080/jpss537/1004195/59964
+#EXTINF:-1,CNN Portugal
+http://chiclets.pm:8080/jpss537/1004195/7269
+#EXTINF:-1,CNN Portugal HD
+http://chiclets.pm:8080/jpss537/1004195/7270
+#EXTINF:-1,CMTV
+http://chiclets.pm:8080/jpss537/1004195/7272
+#EXTINF:-1,CMTV HD
+http://chiclets.pm:8080/jpss537/1004195/7273
+#EXTINF:-1,PT: News NOW HD
+http://chiclets.pm:8080/jpss537/1004195/118424
+#EXTINF:-1,Cartoonito
+http://chiclets.pm:8080/jpss537/1004195/55618
+#EXTINF:-1,NICK JR
+http://chiclets.pm:8080/jpss537/1004195/7368
+#EXTINF:-1,Nick Jr
+http://chiclets.pm:8080/jpss537/1004195/119509
+#EXTINF:-1,PANDA
+http://chiclets.pm:8080/jpss537/1004195/7369
+#EXTINF:-1,BIGGS
+http://chiclets.pm:8080/jpss537/1004195/51014
+#EXTINF:-1,NICKELODEON
+http://chiclets.pm:8080/jpss537/1004195/7370
+#EXTINF:-1,DISNEY JUNIOR
+http://chiclets.pm:8080/jpss537/1004195/7371
+#EXTINF:-1,DISNEY CHANNEL
+http://chiclets.pm:8080/jpss537/1004195/7372
+#EXTINF:-1,CARTOON NETWORK
+http://chiclets.pm:8080/jpss537/1004195/7373
+#EXTINF:-1,PANDA BIGGS
+http://chiclets.pm:8080/jpss537/1004195/7374
+#EXTINF:-1,KURIAKOS Kids
+http://chiclets.pm:8080/jpss537/1004195/59974
+#EXTINF:-1,BABY TV
+http://chiclets.pm:8080/jpss537/1004195/7375
+#EXTINF:-1,GLOBO
+http://chiclets.pm:8080/jpss537/1004195/7379
+#EXTINF:-1,GLOBO HD
+http://chiclets.pm:8080/jpss537/1004195/7378
+#EXTINF:-1,PT: GLOBO NEWS
+http://chiclets.pm:8080/jpss537/1004195/119344
+#EXTINF:-1,TV RECORD HD
+http://chiclets.pm:8080/jpss537/1004195/7380
+#EXTINF:-1,RECORD NEWS
+http://chiclets.pm:8080/jpss537/1004195/7381
+#EXTINF:-1,CANCAO NOVA
+http://chiclets.pm:8080/jpss537/1004195/59976
+#EXTINF:-1,EURONEWS
+http://chiclets.pm:8080/jpss537/1004195/63615
+#EXTINF:-1,ALJAZEERA
+http://chiclets.pm:8080/jpss537/1004195/63617
+#EXTINF:-1,ALMA LUSA
+http://chiclets.pm:8080/jpss537/1004195/63610
+#EXTINF:-1,AMC CRIME
+http://chiclets.pm:8080/jpss537/1004195/63613
+#EXTINF:-1,CAMPO PEQUENO
+http://chiclets.pm:8080/jpss537/1004195/63611
+#EXTINF:-1,KURIAKOS TV FHD
+http://chiclets.pm:8080/jpss537/1004195/59973
+#EXTINF:-1,TV GALICIA
+http://chiclets.pm:8080/jpss537/1004195/59977
+#EXTINF:-1,TVE INTERNACIONAL
+http://chiclets.pm:8080/jpss537/1004195/7384
+#EXTINF:-1,ID INVESTIGATION DISCOVERY  HD
+http://chiclets.pm:8080/jpss537/1004195/7390
+#EXTINF:-1,NAT GEO WILD HD
+http://chiclets.pm:8080/jpss537/1004195/7392
+#EXTINF:-1,NAT GEO HD
+http://chiclets.pm:8080/jpss537/1004195/7393
+#EXTINF:-1,DISCOVERY CHANNEL
+http://chiclets.pm:8080/jpss537/1004195/7394
+#EXTINF:-1,ODISSEIA
+http://chiclets.pm:8080/jpss537/1004195/7401
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://chiclets.pm:8080/jpss537/1004195/7358
+#EXTINF:-1,S+ SAUDE
+http://chiclets.pm:8080/jpss537/1004195/63614
+#EXTINF:-1,CANAL Q
+http://chiclets.pm:8080/jpss537/1004195/7402
+#EXTINF:-1,TRAVEL CHANNEL  HD
+http://chiclets.pm:8080/jpss537/1004195/7403
+#EXTINF:-1,E! ENTERTAINMENT
+http://chiclets.pm:8080/jpss537/1004195/7404
+#EXTINF:-1,24 KITCHEN HD
+http://chiclets.pm:8080/jpss537/1004195/19683
+#EXTINF:-1,HISTORIA
+http://chiclets.pm:8080/jpss537/1004195/19685
+#EXTINF:-1,TLC
+http://chiclets.pm:8080/jpss537/1004195/19684
+#EXTINF:-1,Top Tuga
+http://chiclets.pm:8080/jpss537/1004195/63679
+#EXTINF:-1,CLUBBING TV
+http://chiclets.pm:8080/jpss537/1004195/59975
+#EXTINF:-1,DEUTCHE WELLE
+http://chiclets.pm:8080/jpss537/1004195/59970
+#EXTINF:-1,GINX
+http://chiclets.pm:8080/jpss537/1004195/59969
+#EXTINF:-1,TV5 MONDE
+http://chiclets.pm:8080/jpss537/1004195/59972
+#EXTINF:-1,TRACE TOCA  HD
+http://chiclets.pm:8080/jpss537/1004195/7409
+#EXTINF:-1,VH1 MTV'00s
+http://chiclets.pm:8080/jpss537/1004195/7410
+#EXTINF:-1,MTV PORTUGAL  HD
+http://chiclets.pm:8080/jpss537/1004195/7411
+#EXTINF:-1,MCM POP
+http://chiclets.pm:8080/jpss537/1004195/7413
+#EXTINF:-1,AFRO MUSIC
+http://chiclets.pm:8080/jpss537/1004195/7414
+#EXTINF:-1,TRACE URBAN
+http://chiclets.pm:8080/jpss537/1004195/7415
+#EXTINF:-1,MCM TOP HD
+http://chiclets.pm:8080/jpss537/1004195/7416
+#EXTINF:-1,Canal 180
+http://chiclets.pm:8080/jpss537/1004195/39814
+#EXTINF:-1,PT: ARTV
+http://chiclets.pm:8080/jpss537/1004195/99913
+#EXTINF:-1,TVCINE TOP
+http://chiclets.pm:8080/jpss537/1004195/7340
+#EXTINF:-1,TVCINE TOP HD
+http://chiclets.pm:8080/jpss537/1004195/7341
+#EXTINF:-1,TVCINE EDITION
+http://chiclets.pm:8080/jpss537/1004195/7342
+#EXTINF:-1,TVCINE EDITION HD
+http://chiclets.pm:8080/jpss537/1004195/7343
+#EXTINF:-1,TVCINE EMOTION
+http://chiclets.pm:8080/jpss537/1004195/7344
+#EXTINF:-1,TVCINE EMOTION HD
+http://chiclets.pm:8080/jpss537/1004195/7345
+#EXTINF:-1,TVCINE ACTION
+http://chiclets.pm:8080/jpss537/1004195/7346
+#EXTINF:-1,TVCINE ACTION HD
+http://chiclets.pm:8080/jpss537/1004195/7347
+#EXTINF:-1,NOS Studios HD
+http://chiclets.pm:8080/jpss537/1004195/7336
+#EXTINF:-1,HOLLYWOOD
+http://chiclets.pm:8080/jpss537/1004195/7338
+#EXTINF:-1,HOLLYWOOD HD
+http://chiclets.pm:8080/jpss537/1004195/7339
+#EXTINF:-1,AXN
+http://chiclets.pm:8080/jpss537/1004195/7349
+#EXTINF:-1,AXN HD
+http://chiclets.pm:8080/jpss537/1004195/7348
+#EXTINF:-1,SYfY
+http://chiclets.pm:8080/jpss537/1004195/7352
+#EXTINF:-1,SYFY HD
+http://chiclets.pm:8080/jpss537/1004195/7353
+#EXTINF:-1,AMC
+http://chiclets.pm:8080/jpss537/1004195/7354
+#EXTINF:-1,AMC HD
+http://chiclets.pm:8080/jpss537/1004195/7355
+#EXTINF:-1,AMC BREAK
+http://chiclets.pm:8080/jpss537/1004195/51013
+#EXTINF:-1,CINEMUNDO
+http://chiclets.pm:8080/jpss537/1004195/7357
+#EXTINF:-1,CINEMUNDO HD
+http://chiclets.pm:8080/jpss537/1004195/7356
+#EXTINF:-1,AXN WHITE
+http://chiclets.pm:8080/jpss537/1004195/51009
+#EXTINF:-1,AXN WHITE HD
+http://chiclets.pm:8080/jpss537/1004195/7359
+#EXTINF:-1,AXN MOVIES HD
+http://chiclets.pm:8080/jpss537/1004195/7360
+#EXTINF:-1,STAR
+http://chiclets.pm:8080/jpss537/1004195/51010
+#EXTINF:-1,STAR HD
+http://chiclets.pm:8080/jpss537/1004195/7361
+#EXTINF:-1,STAR LIFE
+http://chiclets.pm:8080/jpss537/1004195/51011
+#EXTINF:-1,STAR LIFE HD
+http://chiclets.pm:8080/jpss537/1004195/7362
+#EXTINF:-1,STAR CRIME
+http://chiclets.pm:8080/jpss537/1004195/51012
+#EXTINF:-1,STAR CRIME HD
+http://chiclets.pm:8080/jpss537/1004195/7363
+#EXTINF:-1,STAR MOVIES
+http://chiclets.pm:8080/jpss537/1004195/7364
+#EXTINF:-1,STAR MOVIES HD
+http://chiclets.pm:8080/jpss537/1004195/7365
+#EXTINF:-1,STAR COMEDY
+http://chiclets.pm:8080/jpss537/1004195/7366
+#EXTINF:-1,STAR COMEDY HD
+http://chiclets.pm:8080/jpss537/1004195/7367
+#EXTINF:-1,Cine 24/24
+http://chiclets.pm:8080/jpss537/1004195/50164
+#EXTINF:-1,Cine 24/24 CrianÃ§as
+http://chiclets.pm:8080/jpss537/1004195/55837
+#EXTINF:-1,DAZN 1
+http://chiclets.pm:8080/jpss537/1004195/7289
+#EXTINF:-1,DAZN 1 HD
+http://chiclets.pm:8080/jpss537/1004195/7290
+#EXTINF:-1,DAZN 1 FHD
+http://chiclets.pm:8080/jpss537/1004195/29266
+#EXTINF:-1,DAZN 1 FHD Extra
+http://chiclets.pm:8080/jpss537/1004195/96325
+#EXTINF:-1,DAZN 2
+http://chiclets.pm:8080/jpss537/1004195/7293
+#EXTINF:-1,DAZN 2 HD
+http://chiclets.pm:8080/jpss537/1004195/7292
+#EXTINF:-1,DAZN 3 FHD
+http://chiclets.pm:8080/jpss537/1004195/130630
+#EXTINF:-1,DAZN 3 SD
+http://chiclets.pm:8080/jpss537/1004195/130629
+#EXTINF:-1,DAZN 3
+http://chiclets.pm:8080/jpss537/1004195/7295
+#EXTINF:-1,DAZN 3 HD
+http://chiclets.pm:8080/jpss537/1004195/7294
+#EXTINF:-1,DAZN 4 HD
+http://chiclets.pm:8080/jpss537/1004195/7296
+#EXTINF:-1,DAZN 5 HD
+http://chiclets.pm:8080/jpss537/1004195/7297
+#EXTINF:-1,DAZN 5 FHD
+http://chiclets.pm:8080/jpss537/1004195/119512
+#EXTINF:-1,DAZN 6 HD
+http://chiclets.pm:8080/jpss537/1004195/7298
+#EXTINF:-1,DAZN 6 FHD
+http://chiclets.pm:8080/jpss537/1004195/119513
+#EXTINF:-1,SPTV +
+http://chiclets.pm:8080/jpss537/1004195/7299
+#EXTINF:-1,SPTV + HD
+http://chiclets.pm:8080/jpss537/1004195/7300
+#EXTINF:-1,SPORT TV 1
+http://chiclets.pm:8080/jpss537/1004195/63896
+#EXTINF:-1,SPORT TV 1 HD
+http://chiclets.pm:8080/jpss537/1004195/63897
+#EXTINF:-1,SPORT TV 1 FHD
+http://chiclets.pm:8080/jpss537/1004195/63898
+#EXTINF:-1,SPORT TV 1 FHD Extra
+http://chiclets.pm:8080/jpss537/1004195/74825
+#EXTINF:-1,SPTV 2
+http://chiclets.pm:8080/jpss537/1004195/19596
+#EXTINF:-1,SPTV 2 HD
+http://chiclets.pm:8080/jpss537/1004195/7305
+#EXTINF:-1,SPTV 2 FHD
+http://chiclets.pm:8080/jpss537/1004195/27830
+#EXTINF:-1,SPTV 3
+http://chiclets.pm:8080/jpss537/1004195/7307
+#EXTINF:-1,SPTV 3 HD
+http://chiclets.pm:8080/jpss537/1004195/7308
+#EXTINF:-1,SPTV 3 FHD
+http://chiclets.pm:8080/jpss537/1004195/27827
+#EXTINF:-1,SPTV 4
+http://chiclets.pm:8080/jpss537/1004195/7310
+#EXTINF:-1,SPTV 4 HD
+http://chiclets.pm:8080/jpss537/1004195/7311
+#EXTINF:-1,SPTV 4 FHD
+http://chiclets.pm:8080/jpss537/1004195/27824
+#EXTINF:-1,SPTV 5
+http://chiclets.pm:8080/jpss537/1004195/7313
+#EXTINF:-1,SPTV 5 HD
+http://chiclets.pm:8080/jpss537/1004195/7314
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://chiclets.pm:8080/jpss537/1004195/121237
+#EXTINF:-1,SPTV 5 FHD
+http://chiclets.pm:8080/jpss537/1004195/27823
+#EXTINF:-1,SPTV 6 HD
+http://chiclets.pm:8080/jpss537/1004195/42781
+#EXTINF:-1,PT: Sport TV 6 FHD
+http://chiclets.pm:8080/jpss537/1004195/121235
+#EXTINF:-1,SPTV NBA HD
+http://chiclets.pm:8080/jpss537/1004195/7316
+#EXTINF:-1,PT EXTRA: SPORT TV NBA [hevc]
+http://chiclets.pm:8080/jpss537/1004195/96482
+#EXTINF:-1,PT: CANAL 11
+http://chiclets.pm:8080/jpss537/1004195/119510
+#EXTINF:-1,Canal 11 HD
+http://chiclets.pm:8080/jpss537/1004195/7317
+#EXTINF:-1,PT: BTV EXPERIENCE multi-cameras
+http://chiclets.pm:8080/jpss537/1004195/126383
+#EXTINF:-1,BTV
+http://chiclets.pm:8080/jpss537/1004195/7318
+#EXTINF:-1,BTV [hevc]
+http://chiclets.pm:8080/jpss537/1004195/96484
+#EXTINF:-1,BTV HD
+http://chiclets.pm:8080/jpss537/1004195/7319
+#EXTINF:-1,BTV FHD
+http://chiclets.pm:8080/jpss537/1004195/7320
+#EXTINF:-1,PORTO CANAL
+http://chiclets.pm:8080/jpss537/1004195/7321
+#EXTINF:-1,Porto Canal HD
+http://chiclets.pm:8080/jpss537/1004195/7322
+#EXTINF:-1,SPORTING TV
+http://chiclets.pm:8080/jpss537/1004195/7323
+#EXTINF:-1,SPORTING TV HD
+http://chiclets.pm:8080/jpss537/1004195/7324
+#EXTINF:-1,A BOLA TV
+http://chiclets.pm:8080/jpss537/1004195/7325
+#EXTINF:-1,A BOLA TV HD
+http://chiclets.pm:8080/jpss537/1004195/42779
+#EXTINF:-1,Eurosport 1
+http://chiclets.pm:8080/jpss537/1004195/7326
+#EXTINF:-1,EUROSPORT 1 HD
+http://chiclets.pm:8080/jpss537/1004195/7327
+#EXTINF:-1,EUROSPORT 2 HD
+http://chiclets.pm:8080/jpss537/1004195/7328
+#EXTINF:-1,FUEL TV HD
+http://chiclets.pm:8080/jpss537/1004195/7330
+#EXTINF:-1,MOTORVISION
+http://chiclets.pm:8080/jpss537/1004195/7332
+#EXTINF:-1,CACA E PESCA HD
+http://chiclets.pm:8080/jpss537/1004195/7333
+#EXTINF:-1,Cacavision
+http://chiclets.pm:8080/jpss537/1004195/7334
+#EXTINF:-1,TOROS TV HD
+http://chiclets.pm:8080/jpss537/1004195/7335
+#EXTINF:-1,REDBULL TV HD
+http://chiclets.pm:8080/jpss537/1004195/59978
+#EXTINF:-1,FIGHT NETWORK
+http://chiclets.pm:8080/jpss537/1004195/63612
