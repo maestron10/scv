@@ -1,91 +1,59 @@
 #EXTM3U
-#EXTINF:-1,=== fixhdelit ===
+#EXTINF:-1,=== banktop ===
+#EXTINF:-1,PT: BTV
+http://bankt.top:8080/2170981272619/21715003363040/25000
+#EXTINF:-1,PT: SPORT TV 1
+http://bankt.top:8080/2170981272619/21715003363040/24984
+#EXTINF:-1,PT: SPORT TV 2
+http://bankt.top:8080/2170981272619/21715003363040/24982
+#EXTINF:-1,PT: SPORT TV 3
+http://bankt.top:8080/2170981272619/21715003363040/24980
+#EXTINF:-1,PT: SPORT TV 4
+http://bankt.top:8080/2170981272619/21715003363040/24979
+#EXTINF:-1,PT: SPORT TV 5
+http://bankt.top:8080/2170981272619/21715003363040/24978
+#EXTINF:-1,PT: SPORT TV 6
+http://bankt.top:8080/2170981272619/21715003363040/29669
+#EXTINF:-1,PT: ELEVEN SPORT 1
+http://bankt.top:8080/2170981272619/21715003363040/25024
+#EXTINF:-1,PT: ELEVEN SPORT 2
+http://bankt.top:8080/2170981272619/21715003363040/25025
+#EXTINF:-1,PT: ELEVEN SPORT 3
+http://bankt.top:8080/2170981272619/21715003363040/25026
+#EXTINF:-1,PT: ELEVEN SPORT 4
+http://bankt.top:8080/2170981272619/21715003363040/25027
+#EXTINF:-1,PT: ELEVEN SPORT 5
+http://bankt.top:8080/2170981272619/21715003363040/25028
+#EXTINF:-1,PT: ELEVEN SPORT 6
+http://bankt.top:8080/2170981272619/21715003363040/24983
+#EXTINF:-1,PT: SPORT TV NBA
+http://bankt.top:8080/2170981272619/21715003363040/24981
+#EXTINF:-1,PT: A BOLA TV
+http://bankt.top:8080/2170981272619/21715003363040/24987
 
-#EXTINF:-1,HBO MAX 1
-http://pbrz.xyz:80/252525/252525/1597
-#EXTINF:-1,HBO MAX 2
-http://pbrz.xyz:80/252525/252525/1598
-
-
-#EXTINF:-1, ===NewRealitty====
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94848
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv_hd.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94849
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV " tvg-logo="https://i.imgur.com/BuIok7w.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94850
-#EXTINF:-1 tvg-id="BTV1 HD" tvg-name="BTV " tvg-logo="http://picons1.ddns.net:8080/picon/benfica_tv_hd.png" group-title="Portugal",BTV 
-http://newreality2020.com:25461/primodiogo/16092021/94851
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1 " tvg-logo="https://i.imgur.com/aTv8yyU.png" group-title="Portugal",ELEVEN SPORTS 1 
-http://newreality2020.com:25461/primodiogo/16092021/94853
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name=" ELEVEN SPORTS 2 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven2.png" group-title="Portugal", ELEVEN SPORTS 2 HD
-http://newreality2020.com:25461/primodiogo/16092021/94856
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven3.png" group-title="Portugal",ELEVEN SPORTS 3 HD
-http://newreality2020.com:25461/primodiogo/16092021/94858
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://picons1.ddns.net:8080/picon/eleven4.png" group-title="Portugal",ELEVEN SPORTS 4 HD
-http://newreality2020.com:25461/primodiogo/16092021/94860
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.imgur.com/NSZepYR.png" group-title="Portugal",ELEVEN SPORTS 5 HD
-http://newreality2020.com:25461/primodiogo/16092021/94861
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/5aEgAt6.png" group-title="Portugal", ELEVEN SPORTS 6 HD
-http://newreality2020.com:25461/primodiogo/16092021/94863
-#EXTINF:-1 tvg-id="Sport TV1" tvg-name="SPORT TV 1 FHD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-1-rebrand.png" group-title="Portugal",SPORT TV 1 FHD
-http://newreality2020.com:25461/primodiogo/16092021/94837
-#EXTINF:-1 tvg-id="Sport TV2" tvg-name="SPORT TV 2 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-2-rebrand.png" group-title="Portugal",SPORT TV 2 
-http://newreality2020.com:25461/primodiogo/16092021/94839
-#EXTINF:-1 tvg-id="SPORT TV3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-3-rebrand.png" group-title="Portugal",SPORT TV 3 HD
-http://newreality2020.com:25461/primodiogo/16092021/94840
-#EXTINF:-1 tvg-id="Sport TV4" tvg-name="SPORT TV 4 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-4-rebrand.png" group-title="Portugal",SPORT TV 4 
-http://newreality2020.com:25461/primodiogo/16092021/94842
-#EXTINF:-1 tvg-id="Sport TV4" tvg-name="SPORT TV 4 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-4-rebrand.png" group-title="Portugal",SPORT TV 4 
-http://newreality2020.com:25461/primodiogo/16092021/94843
-#EXTINF:-1 tvg-id="SPORT TV5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-5-rebrand.png" group-title="Portugal",SPORT TV 5 HD
-http://newreality2020.com:25461/primodiogo/16092021/94844
-#EXTINF:-1 tvg-id="Sport TV6" tvg-name="SPORT TV 6 " tvg-logo="http://picons1.ddns.net:8080/picon/sporttv-6-rebrand.png" group-title="Portugal",SPORT TV 6 
-http://newreality2020.com:25461/primodiogo/16092021/94845
-#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER MEO" tvg-logo="https://img.iol.pt/preset/6597d83cd34e65afa2f951be/og/tvi" group-title="Portugal",BIG BROTHER MEO
-http://newreality2020.com:25461/primodiogo/16092021/94796
-
-
-#EXTINF:-1, ===ibi====
-#EXTINF:-1,PT: BENFICA TV FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370420
-#EXTINF:-1,PT: BENFICA TV FHD (MEO)
-http://andhablfus.online:2082/ibi2308/ibi2308/370421
-#EXTINF:-1,PT: BENFICA TV FHD (NOS)
-http://andhablfus.online:2082/ibi2308/ibi2308/370422
-#EXTINF:-1,PT: ELEVEN SPORT 1 FHD VIP
-http://andhablfus.online:2082/ibi2308/ibi2308/370428
-#EXTINF:-1,PT: ELEVEN SPORT 2 FHD VIP
-http://andhablfus.online:2082/ibi2308/ibi2308/370432
-#EXTINF:-1,PT: ELEVEN SPORT 3 FHD VIP
-http://andhablfus.online:2082/ibi2308/ibi2308/370434
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370437
-#EXTINF:-1,PT: ELEVEN SPORT 5 FHD VIP
-http://andhablfus.online:2082/ibi2308/ibi2308/370439
-#EXTINF:-1,PT: ELEVEN SPORT 6 FHD VIP
-http://andhablfus.online:2082/ibi2308/ibi2308/370441
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370392
-#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
-http://andhablfus.online:2082/ibi2308/ibi2308/370393
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370397
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370402
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370405
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370409
-#EXTINF:-1,PT: TVCINE ACTION FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370452
-#EXTINF:-1,PT: TVCINE EDITION FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370455
-#EXTINF:-1,PT: TVCINE EMOTION FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370458
-#EXTINF:-1,PT: TVCINE TOP FHD
-http://andhablfus.online:2082/ibi2308/ibi2308/370461
-#EXTINF:-1,PT: TVI REALITY
-http://andhablfus.online:2082/ibi2308/ibi2308/370576
-
+#EXTINF:-1,=== debiee ===
+#EXTINF:-1,PT BENFICA TV 1
+http://ultrontv.xyz:80/Debbie123/Debbie78/205423
+#EXTINF:-1,PT SPORT TV 1
+http://ultrontv.xyz:80/Debbie123/Debbie78/205339
+#EXTINF:-1,PT SPORT TV 2 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205337
+#EXTINF:-1,PT SPORT TV 3 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205335
+#EXTINF:-1,PT SPORT TV 4 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205333
+#EXTINF:-1,PT SPORT TV 5 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205331
+#EXTINF:-1,PT ELEVEN SPORTS 1 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205400
+#EXTINF:-1,PT ELEVEN SPORTS 2 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205398
+#EXTINF:-1,PT ELEVEN SPORTS 3 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205396
+#EXTINF:-1,PT ELEVEN SPORTS 4 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205394
+#EXTINF:-1,PT ELEVEN SPORTS 5 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205392
+#EXTINF:-1,PT ELEVEN SPORTS 6 HD
+http://ultrontv.xyz:80/Debbie123/Debbie78/205390
 
