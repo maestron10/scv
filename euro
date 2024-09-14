@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://cord-cutter.net:8080/Nextdoor/Nextdoor/136726
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD 
 http://iptvplay.xyz:8080/nunoiptv/nuno123/123
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
@@ -12,7 +14,17 @@ http://cbrlig.com:8080/Jorge123/Jorge123/381
 
 
 
-#EXTINF:-1, ===Dodo====
+#EXTINF:-1, ===cord-cutten====
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/Nextdoor/Nextdoor/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/Nextdoor/Nextdoor/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/Nextdoor/Nextdoor/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/Nextdoor/Nextdoor/167745
+
+
 
 
 #EXTINF:-1, ===Estranjas====
