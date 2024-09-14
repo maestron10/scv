@@ -1,50 +1,87 @@
 #EXTM3U
-#EXTINF:-1,PT: BTV EXPERIENCE multi-cameras
-http://chiclets.pm:8080/jpss537/1004195/126383
-#EXTINF:-1,BTV [hevc]
-http://chiclets.pm:8080/jpss537/1004195/96484
-#EXTINF:-1,BTV HD
-http://chiclets.pm:8080/jpss537/1004195/7319
-#EXTINF:-1,BTV FHD
-http://chiclets.pm:8080/jpss537/1004195/7320
-#EXTINF:-1,SPORT TV 1 HD
-http://chiclets.pm:8080/jpss537/1004195/63897
-#EXTINF:-1,SPORT TV 1 FHD
-http://chiclets.pm:8080/jpss537/1004195/63898
-#EXTINF:-1,SPORT TV 1 FHD Extra
-http://chiclets.pm:8080/jpss537/1004195/74825
-#EXTINF:-1,SPTV 2 HD
-http://chiclets.pm:8080/jpss537/1004195/7305
-#EXTINF:-1,SPTV 2 FHD
-http://chiclets.pm:8080/jpss537/1004195/27830
-#EXTINF:-1,SPTV 3 HD
-http://chiclets.pm:8080/jpss537/1004195/7308
-#EXTINF:-1,SPTV 3 FHD
-http://chiclets.pm:8080/jpss537/1004195/27827
-#EXTINF:-1,SPTV 4 HD
-http://chiclets.pm:8080/jpss537/1004195/7311
-#EXTINF:-1,SPTV 4 FHD
-http://chiclets.pm:8080/jpss537/1004195/27824
-#EXTINF:-1,SPTV 5 HD
-http://chiclets.pm:8080/jpss537/1004195/7314
-#EXTINF:-1,PT: Sport TV 5 FHD
-http://chiclets.pm:8080/jpss537/1004195/121237
-#EXTINF:-1,PT: Sport TV 6 FHD
-http://chiclets.pm:8080/jpss537/1004195/121235
-#EXTINF:-1,DAZN 1 HD
-http://chiclets.pm:8080/jpss537/1004195/7290
-#EXTINF:-1,DAZN 1 FHD
-http://chiclets.pm:8080/jpss537/1004195/29266
-#EXTINF:-1,DAZN 2 HD
-http://chiclets.pm:8080/jpss537/1004195/7292
-#EXTINF:-1,DAZN 3 HD
-http://chiclets.pm:8080/jpss537/1004195/7294
-#EXTINF:-1,DAZN 4 HD
-http://chiclets.pm:8080/jpss537/1004195/7296
-#EXTINF:-1,DAZN 5 HD
-http://chiclets.pm:8080/jpss537/1004195/7297
-#EXTINF:-1,DAZN 6 HD
-http://chiclets.pm:8080/jpss537/1004195/7298
+#EXTINF:-1, ===Dodo====
+title="PORTUGAL XPTO",Sport tv 1 ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/61492.m3u8
+#EXTINF:-1 timeshift="4" tvg-id="sporttv1.pt" tvg-name="Sport TV 1 ᴴᴰ♥" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4XnFchE7xOcu86sgldse_HqiysS8IuVJJHAwLBrw7P2J.png" group-title="PORTUGAL XPTO",Sport TV 1 ᴴᴰ♥
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/69.m3u8
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport TV 1 ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4aRWZ4UEsCgdumG9fC_ceXbMyGjT8DgELiOd-5ImcbI4.png" group-title="PORTUGAL XPTO",Sport TV 1 ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/68.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 UHD⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4TCpu13g5L6x9-OHFuT7_EJSelQezhCK5RRX0CZWa-za.png" group-title="PORTUGAL XPTO",Sport TV 1 UHD⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/70.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD(LOWBITRATE)" tvg-name="Sport TV 2 ˢᵈ✠" tvg-logo="http://xpto4ever.io:8080/images/VmWzBFtnrvZybBSoEbFNLyWPeJtoU1kboHckvatKa27K40PIPSXOasxDA3pokI3XuAjXXioO76_csSxKqY1ffg.png" group-title="PORTUGAL XPTO",Sport TV 2 ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/63566.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="sporttv2.pt" tvg-name="Sport TV 2 ᴴᴰ♥" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4TIwNr6kJatf0SW0H2K5HQZdlcmJTOmaWNnLQsoEu1iP.png" group-title="PORTUGAL XPTO",Sport TV 2 ᴴᴰ♥
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/73.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2 ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4VrnF_zircaP61romx9E55OJ7JpBTO8g__S9usZGgFdH.png" group-title="PORTUGAL XPTO",Sport TV 2 ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/72.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2 ⁴ᴷ⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4VEB72NZCJHbp0Q_48k-BroIoW5Vvajz0sszXoooZAB9.png" group-title="PORTUGAL XPTO",Sport TV 2 ⁴ᴷ⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/71.m3u8
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport TV 3 ˢᵈ✠" tvg-logo="http://xpto4ever.io:8080/images/VmWzBFtnrvZybBSoEbFNLyWPeJtoU1kboHckvatKa27K40PIPSXOasxDA3pokI3XuAjXXioO76_csSxKqY1ffg.png" group-title="PORTUGAL XPTO",Sport TV 3 ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/63567.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="sporttv3.pt" tvg-name="Sport TV 3⚜️" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4Qvzp7ZK-CDyNDetK3pJSvADEFq1wqDLRnx_3qTamBIO.png" group-title="PORTUGAL XPTO",Sport TV 3⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/77.m3u8
+#EXTINF:-1 tvg-id="SPORTV3HD(LOWBITRATE)" tvg-name="SportTV 3 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4RL7ZG5S5YvSQjsmdFIVkJPrdD7BDIY7V00P8kdk4qx9.png" group-title="PORTUGAL XPTO",SportTV 3 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/78.m3u8
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport TV 3 ⁴ᴷ⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4cVdSj7ng_PzQDhy3bXeuTlitpHVfut7jCZaxlvPZGm0.png" group-title="PORTUGAL XPTO",Sport TV 3 ⁴ᴷ⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/76.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="SPORTV4HD" tvg-name="Sport TV 4 ˢᵈ✠" tvg-logo="http://xpto4ever.io:8080/images/VmWzBFtnrvZybBSoEbFNLyWPeJtoU1kboHckvatKa27K40PIPSXOasxDA3pokI3XuAjXXioO76_csSxKqY1ffg.png" group-title="PORTUGAL XPTO",Sport TV 4 ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/63568.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="SPORTV4HD" tvg-name="Sport TV 4 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4WEnk-M1lNSXf_0GMBClTYS3gID5_gL4hU9ZPjkncqIF.png" group-title="PORTUGAL XPTO",Sport TV 4 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/81.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport TV 4 ⁴ᴷ⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4ShtjSB_t0r9ZDmMYT5fQhPSVQ5VJLqpJ1VXcI4tjWwZ.png" group-title="PORTUGAL XPTO",Sport TV 4 ⁴ᴷ⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/79.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD(LOWBITRATE)" tvg-name="Sport TV 5 ˢᵈ✠" tvg-logo="http://xpto4ever.io:8080/images/VmWzBFtnrvZybBSoEbFNLyWPeJtoU1kboHckvatKa27K40PIPSXOasxDA3pokI3XuAjXXioO76_csSxKqY1ffg.png" group-title="PORTUGAL XPTO",Sport TV 5 ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/63569.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4SbUQNYZRN3CbzUbngzxfzAYZN-KbnO7Y-a3oyYfheK6.png" group-title="PORTUGAL XPTO",Sport TV 5 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/84.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 ⁴ᴷ⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4XwGjR_IwpJluY_rvQGEeANaiox5A50xO-tQ-9GZO6br.png" group-title="PORTUGAL XPTO",Sport TV 5 ⁴ᴷ⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/82.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="SPORT TV 6 LOW" tvg-name="Sport TV 6⭐" tvg-logo="http://xpto4ever.io:8080/images/PfmJWfpGLFe445PTJj2s9ZklnA9V-bd2mqHmxFonR5KZ1oytOMKg3neDujSBg4wkJd2iCCsqOMGdMVk9k1H0PpmCmeJthN25_tTwZtuhYj3cYgq1aK-ivuyHqIQJtlTh.jpg" group-title="PORTUGAL XPTO",Sport TV 6⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/43518.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="Sport TV 6 ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/PfmJWfpGLFe445PTJj2s9ZklnA9V-bd2mqHmxFonR5KZ1oytOMKg3neDujSBg4wkJd2iCCsqOMGdMVk9k1H0PpmCmeJthN25_tTwZtuhYj3cYgq1aK-ivuyHqIQJtlTh.jpg" group-title="PORTUGAL XPTO",Sport TV 6 ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/43519.m3u8
+#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="Dazn Eleven 1 ˢᵈ✠" tvg-logo="http://xpto4ever.io:8080/images/JqnkzuD0ACb--4h1b66zRF-q_XnaJyLnx868kJ5aHmbAaV9L3pI6xSv-3AiTiCjI-RK4RjmYtzOXPs77p78b4LQMC6V8fC5To4oggaPT9yMjBh_bCNiMlYFGRBe6fsYO.jpg" group-title="PORTUGAL XPTO",Dazn Eleven 1 ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/62637.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Dazn Eleven 1 ᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjkEpJuIARBdOv895oc_GN7uLELhC9MM22-xqTxC5R2Nz6sy5Z7gMt3n4vI-6pI1uP5wda3Nb8MeH9Lck0MqZt4w.png" group-title="PORTUGAL XPTO",Dazn Eleven 1 ᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/86.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Dazn Eleven 1 UHD⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjkEpJuIARBdOv895oc_GN7uLELhC9MM22-xqTxC5R2Nz6sy5Z7gMt3n4vI-6pI1uP5wda3Nb8MeH9Lck0MqZt4w.png" group-title="PORTUGAL XPTO",Dazn Eleven 1 UHD⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/85.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="elevensports2HD" tvg-name="Dazn Eleven 2 ✠" tvg-logo="http://xpto4ever.io:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj164PEXVw2BJzRJnlnX7rpm_IwKMd68NPym-YeOKK564CVvtEudpOyuLWVfuy-2BR.png" group-title="PORTUGAL XPTO",Dazn Eleven 2 ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/91.m3u8
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="Dazn Eleven 2 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj164PEXVw2BJzRJnlnX7rpm_IwKMd68NPym-YeOKK564CVvtEudpOyuLWVfuy-2BR.png" group-title="PORTUGAL XPTO",Dazn Eleven 2 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/92.m3u8
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Dazn Eleven 2 ⁴ᴷ⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj164PEXVw2BJzRJnlnX7rpm_IwKMd68NPym-YeOKK564CVvtEudpOyuLWVfuy-2BR.png" group-title="PORTUGAL XPTO",Dazn Eleven 2 ⁴ᴷ⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/90.m3u8
+#EXTINF:-1 timeshift="2" tvg-id="elevensports3HD" tvg-name="Dazn Eleven 3 ✠" tvg-logo="http://xpto4ever.io:8080/images/qH5-dSy6GV1J0EHfxR-zYr7VILdmMDkk8ZOAK6trc67nrhnta0KOBDu9XyJ2Pha3Yl1InujZNMXeaoZiWHP25_vea-kjF_LBWVvH1tHC5gw.png" group-title="PORTUGAL XPTO",Dazn Eleven 3 ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/94.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Dazn Eleven 3 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/qH5-dSy6GV1J0EHfxR-zYr7VILdmMDkk8ZOAK6trc67nrhnta0KOBDu9XyJ2Pha3Yl1InujZNMXeaoZiWHP25_vea-kjF_LBWVvH1tHC5gw.png" group-title="PORTUGAL XPTO",Dazn Eleven 3 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/95.m3u8
+#EXTINF:-1 tvg-id="elevensports3FHD" tvg-name="Dazn Eleven 3 ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/qH5-dSy6GV1J0EHfxR-zYr7VILdmMDkk8ZOAK6trc67nrhnta0KOBDu9XyJ2Pha3Yl1InujZNMXeaoZiWHP25_vea-kjF_LBWVvH1tHC5gw.png" group-title="PORTUGAL XPTO",Dazn Eleven 3 ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/93.m3u8
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="Dazn Eleven 4 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/qH5-dSy6GV1J0EHfxR-zYr7VILdmMDkk8ZOAK6trc67nrhnta0KOBDu9XyJ2Pha3Beye7A3t9wveIwf9jUAJnt5q7XyZ9lSHXSefmuobpucVVOjKGhVjoFaZ7BKoY3lUO2gw612BWAedhJDJP9eUBg.png" group-title="PORTUGAL XPTO",Dazn Eleven 4 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/96.m3u8
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Dazn Eleven 4 ✠" tvg-logo="http://xpto4ever.io:8080/images/qH5-dSy6GV1J0EHfxR-zYr7VILdmMDkk8ZOAK6trc67nrhnta0KOBDu9XyJ2Pha3Beye7A3t9wveIwf9jUAJnt5q7XyZ9lSHXSefmuobpucVVOjKGhVjoFaZ7BKoY3lUO2gw612BWAedhJDJP9eUBg.png" group-title="PORTUGAL XPTO",Dazn Eleven 4 ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/97.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Dazn Eleven 4 ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/qH5-dSy6GV1J0EHfxR-zYr7VILdmMDkk8ZOAK6trc67nrhnta0KOBDu9XyJ2Pha3Beye7A3t9wveIwf9jUAJnt5q7XyZ9lSHXSefmuobpucVVOjKGhVjoFaZ7BKoY3lUO2gw612BWAedhJDJP9eUBg.png" group-title="PORTUGAL XPTO",Dazn Eleven 4 ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/98.m3u8
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="Dazn Eleven 5 ᴴᴰ⭐" tvg-logo="http://xpto4ever.io:8080/images/JqnkzuD0ACb--4h1b66zRF-q_XnaJyLnx868kJ5aHmbAaV9L3pI6xSv-3AiTiCjI-RK4RjmYtzOXPs77p78b4LQMC6V8fC5To4oggaPT9yMjBh_bCNiMlYFGRBe6fsYO.jpg" group-title="PORTUGAL XPTO",Dazn Eleven 5 ᴴᴰ⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/99.m3u8
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Dazn Eleven 5 ✠" tvg-logo="http://xpto4ever.io:8080/images/JqnkzuD0ACb--4h1b66zRF-q_XnaJyLnx868kJ5aHmbAaV9L3pI6xSv-3AiTiCjI-RK4RjmYtzOXPs77p78b4LQMC6V8fC5To4oggaPT9yMjBh_bCNiMlYFGRBe6fsYO.jpg" group-title="PORTUGAL XPTO",Dazn Eleven 5 ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/100.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Dazn Eleven 5 ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/JqnkzuD0ACb--4h1b66zRF-q_XnaJyLnx868kJ5aHmbAaV9L3pI6xSv-3AiTiCjI-RK4RjmYtzOXPs77p78b4LQMC6V8fC5To4oggaPT9yMjBh_bCNiMlYFGRBe6fsYO.jpg" group-title="PORTUGAL XPTO",Dazn Eleven 5 ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/101.m3u8
+#EXTINF:-1 tvg-id="elevensports6LB" tvg-name="Dazn Eleven 6 ᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/JqnkzuD0ACb--4h1b66zRF-q_XnaJyLnx868kJ5aHmbAaV9L3pI6xSv-3AiTiCjI-RK4RjmYtzOXPs77p78b4LQMC6V8fC5To4oggaPT9yMjBh_bCNiMlYFGRBe6fsYO.jpg" group-title="PORTUGAL XPTO",Dazn Eleven 6 ᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/102.m3u8
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Dazn Eleven 6 ✠" tvg-logo="http://xpto4ever.io:8080/images/JqnkzuD0ACb--4h1b66zRF-q_XnaJyLnx868kJ5aHmbAaV9L3pI6xSv-3AiTiCjI-RK4RjmYtzOXPs77p78b4LQMC6V8fC5To4oggaPT9yMjBh_bCNiMlYFGRBe6fsYO.jpg" group-title="PORTUGAL XPTO",Dazn Eleven 6 ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/103.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="Benfica TV ˢᵈ✠" tvg-logo="http://xpto4ever.io:8080/images/dsAt8cMDBjbP3mVNdeYR4fZfzWY08hgG2HxUJbe6I2_Uzwb_xQR5d6CZb_fqQKWR.png" group-title="PORTUGAL XPTO",Benfica TV ˢᵈ✠
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/61460.m3u8
+#EXTINF:-1 timeshift="3" tvg-id="benficatv.pt" tvg-name="Benfica TV ᴴᴰ♥" tvg-logo="http://xpto4ever.io:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ34x94l1Jo0leVpk8noivH7mZyrFsRztwoixtAnGgUPDQ.png" group-title="PORTUGAL XPTO",Benfica TV ᴴᴰ♥
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/107.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="Benfica TV ᶠᴴᴰ⚜️" tvg-logo="http://xpto4ever.io:8080/images/Ucq1dntUxWPKzmbVWvCsm8I6KsULANOroF6FuvDE3TROV0iCHfdV3ke4AMevIOcTK1D-5GDkoKdbSWcQpuNV8g.jpg" group-title="PORTUGAL XPTO",Benfica TV ᶠᴴᴰ⚜️
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/106.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Benfica TV UHD⭐60 Hz⭐" tvg-logo="http://xpto4ever.io:8080/images/Ucq1dntUxWPKzmbVWvCsm8I6KsULANOroF6FuvDE3TROV0iCHfdV3ke4AMevIOcTK1D-5GDkoKdbSWcQpuNV8g.jpg" group-title="PORTUGAL XPTO",Benfica TV UHD⭐60 Hz⭐
+http://xpto4ever.io:8080/CarlitosOliveira/3Mef2MymCE/108.m3u8
 
 #EXTINF:-1, ===Duro====
 #EXTINF:-1,BENFICA TV | PT
@@ -71,32 +108,3 @@ http://duroturo2.ddns.net:80/votimspahiuchshehuimadh/Yhveynsgti0087vvdrynsbcgbb/
 http://duroturo2.ddns.net:80/votimspahiuchshehuimadh/Yhveynsgti0087vvdrynsbcgbb/175
 #EXTINF:-1,ELEVEN SPORTS 6 | PT
 http://duroturo2.ddns.net:80/votimspahiuchshehuimadh/Yhveynsgti0087vvdrynsbcgbb/177
-#EXTINF:-1, ===Ulneru====
-#EXTINF:-1,PT: BTV
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/25000
-#EXTINF:-1,PT: SPORT TV 1
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/24984
-#EXTINF:-1,PT: SPORT TV 2
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/24982
-#EXTINF:-1,PT: SPORT TV 3
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/24980
-#EXTINF:-1,PT: SPORT TV 4
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/24979
-#EXTINF:-1,PT: SPORT TV 5
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/24978
-#EXTINF:-1,PT: SPORT TV 6
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/29669
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/25024
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/25025
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/25026
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/25027
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/25028
-#EXTINF:-1,PT: ELEVEN SPORT 6
-http://ulneru.top:8080/1311719916343169/1b5de501db7d/24983
-
-
