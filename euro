@@ -1,17 +1,118 @@
 #EXTM3U
 
+#EXTINF:-1, ===cord-cutter====
 
+#EXTM3U
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
+http://cord-cutter.net:8080/70453597/56651433/167742
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
+http://cord-cutter.net:8080/70453597/56651433/167743
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
+http://cord-cutter.net:8080/70453597/56651433/167745
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eleven Sports 1 HD 
+http://cord-cutter.net:8080/70453597/56651433/35264
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/70453597/56651433/167748
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/70453597/56651433/167749
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/70453597/56651433/167750
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENFICA TV HD
+http://cord-cutter.net:8080/70453597/56651433/136726
+#EXTINF:-1, ===Formolo====
+#EXTINF:-1,Sport.TV1 ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/38
+#EXTINF:-1,SPORT.TV1ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/39
+#EXTINF:-1,SPORT.TV1 ᴴ²⁶⁵
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/5438
+#EXTINF:-1,SPORT.TV2
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/37
+#EXTINF:-1,Sport.TV2ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/35
+#EXTINF:-1,SPORT.TV2ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/36
+#EXTINF:-1,SPORT.TV2 ᴴ²⁶⁵
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/5439
+#EXTINF:-1,SPORT.TV3
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/34
+#EXTINF:-1,Sport.TV3 ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/32
+#EXTINF:-1,SPORT.TV3ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/33
+#EXTINF:-1,SPORT.TV3ᴴ²⁶⁵
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/21427
+#EXTINF:-1,SPORT.TV4
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/31
+#EXTINF:-1,Sport.TV4ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/363
+#EXTINF:-1,SPORT.TV4ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/1992
+#EXTINF:-1,SPORT.TV5
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/30
+#EXTINF:-1,Sport.TV5ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/362
+#EXTINF:-1,SPORT.TV5ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/1993
+#EXTINF:-1,Sport.TV6ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/60546
+#EXTINF:-1,SPORT.TV6ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/36497
+#EXTINF:-1,SPORT.TV7
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/89381
+#EXTINF:-1,SPORT.TV7ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/93122
+#EXTINF:-1,Benfica TV 4K UHD
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/16974
+#EXTINF:-1,Benfica TV	
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/124
+#EXTINF:-1,Benfica TVᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/122
+#EXTINF:-1,Benfica TVᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/123
+#EXTINF:-1,BENFICA TV ᴴ²⁶⁵
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/5443
+#EXTINF:-1,BTV Multicamarasᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/83711
+#EXTINF:-1,Dazn 1
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/370
+#EXTINF:-1,Dazn 1ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/667
+#EXTINF:-1,Dazn 1ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/102
+#EXTINF:-1,Dazn 1ᴴ²⁶⁵
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/22442
+#EXTINF:-1,Dazn 1 4K UHD
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/16975
+#EXTINF:-1,Dazn 2
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/368
+#EXTINF:-1,Dazn 2ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/367
+#EXTINF:-1,Dazn 2ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/101
+#EXTINF:-1,Dazn 3
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/100
+#EXTINF:-1,Dazn 3ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/365
+#EXTINF:-1,Dazn 3ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/366
+#EXTINF:-1,Dazn 4
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/99
+#EXTINF:-1,Dazn 4ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/1990
+#EXTINF:-1,Dazn 4ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/1991
+#EXTINF:-1,Dazn 5
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/98
+#EXTINF:-1,Dazn 5ᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/60547
+#EXTINF:-1,Dazn 5ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/60548
+#EXTINF:-1,Dazn 6
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/97
+#EXTINF:-1,Dazn 6ᶠᴴᴰ
+http://formolo.xyz:8080/PedroCoelho/gFmADXDWQvgx/60549
 
-#EXTINF:-1, ===Estranjas====
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPΘRT TV 5" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV5.png" group-title="Portugal ✠",SPΘRT TV 5
-http://cbrlig.com:8080/Jorge123/Jorge123/382
-#EXTINF:-1 tvg-id="" tvg-name="SPΘRT TV 5-265 HD" tvg-logo="http://logos.giize.com/logos/logos%20rui/portugal%20low/SPORTV%205-low.png" group-title="Portugal ✠",SPΘRT TV 5-265 HD
-http://cbrlig.com:8080/Jorge123/Jorge123/193695
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPΘRT TV 5 HD" tvg-logo="http://logos.ath.cx/logos/logos%20rui/logos%20portugal%20novos/SPORTTV5HD.png" group-title="Portugal ✠",SPΘRT TV 5 HD
-http://cbrlig.com:8080/Jorge123/Jorge123/383
-#EXTINF:-1,âš½  M+  LIGA CAMPEONES 3  FHD   (solo eventos )
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/399383
 
 #EXTINF:-1, ===Lord====
 
