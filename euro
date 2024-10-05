@@ -1,32 +1,122 @@
 #EXTM3U
 
-#EXTINF:-1, ===benfica====
-#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="PT: Esportes",BTV FHD
-http://eareat.com:80/Rafael4785/514YFKjaz/191272
-#EXTINF:-1 tvg-name="SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PT: Esportes",SPORT TV 5 FHD
-http://eareat.com:80/Rafael4785/514YFKjaz/191261.ts
-#EXTINF:-1 tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PT: Esportes",SPORT TV 1 HD
-http://eareat.com:80/Rafael4785/514YFKjaz/191243.ts
-#EXTINF:-1 tvg-name="SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PT: Esportes",SPORT TV 2 FHD
-http://eareat.com:80/Rafael4785/514YFKjaz/191249.ts
-#EXTINF:-1 tvg-name="SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PT: Esportes",SPORT TV 3 HD
-http://eareat.com:80/Rafael4785/514YFKjaz/191252.ts
-#EXTINF:-1 tvg-name="SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PT: Esportes",SPORT TV 4 FHD
-http://eareat.com:80/Rafael4785/514YFKjaz/191257.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="PT: Esportes",ELEVEN SPORTS 1 FHD
-http://eareat.com:80/Rafael4785/514YFKjaz/191278.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="PT: Esportes",ELEVEN SPORTS 2 HD
-http://eareat.com:80/Rafael4785/514YFKjaz/191281.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="PT: Esportes",ELEVEN SPORTS 3 HD
-http://eareat.com:80/Rafael4785/514YFKjaz/191284.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="PT: Esportes",ELEVEN SPORTS 4 HD
-http://eareat.com:80/Rafael4785/514YFKjaz/191287.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="PT: Esportes",ELEVEN SPORTS 5 HD
-http://eareat.com:80/Rafael4785/514YFKjaz/191290.ts
+#EXTINF:-1, ===Gabriel====
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cKgqcXC.png",[PT] SporTV 2
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147193.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cKgqcXC.png",[PT] SporTV 2
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147193.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cKgqcXC.png",[PT] SporTV 2
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147193.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/MFz21ZJ.png",[PT] SporTV 3
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147194.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/MFz21ZJ.png",[PT] SporTV 3
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147194.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/MFz21ZJ.png",[PT] SporTV 3
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147194.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/7ooybGP.png",[PT] SporTV 4
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147195.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/7ooybGP.png",[PT] SporTV 4
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147195.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/7ooybGP.png",[PT] SporTV 4
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147195.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147196.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147196.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147196.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/igorgse/rcqt6r4g8ug/147224.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147224.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/Cl4358669/e97mbqcbvle/147224.mpegts
+#EXTINF:-1, ===Suprino====
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/68419
+#EXTINF:-1,PT - SPORT TV 1 UHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/68336
+#EXTINF:-1,PT - SPORT TV 2 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/764059
+#EXTINF:-1,PT - SPORT TV 2 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/68418
+#EXTINF:-1,PT - SPORT TV 3 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/68417
+#EXTINF:-1,PT - SPORT TV 4 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/764062
+#EXTINF:-1,PT -  SPORT TV 4 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1030801
+#EXTINF:-1,PT - SPORT TV 5 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/764064
+#EXTINF:-1,PT -  SPORT TV 5 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1030803
+#EXTINF:-1,PT - DAZN 1 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763969
+#EXTINF:-1,PT - DAZN 2 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763971
+#EXTINF:-1,PT - DAZN 3 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763973
+#EXTINF:-1,PT - DAZN 4 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763975
+#EXTINF:-1,PT - DAZN 5 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763977
 
 
 #EXTINF:-1, ===cord-cutter====
-#EXTM3U
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
 http://cord-cutter.net:8080/70453597/56651433/167742
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
