@@ -1,59 +1,70 @@
 #EXTM3U
 #EXTINF:-1,=== banktop ===
-#EXTINF:-1,PT: BTV
-http://bankt.top:8080/2170981272619/21715003363040/25000
-#EXTINF:-1,PT: SPORT TV 1
-http://bankt.top:8080/2170981272619/21715003363040/24984
-#EXTINF:-1,PT: SPORT TV 2
-http://bankt.top:8080/2170981272619/21715003363040/24982
-#EXTINF:-1,PT: SPORT TV 3
-http://bankt.top:8080/2170981272619/21715003363040/24980
-#EXTINF:-1,PT: SPORT TV 4
-http://bankt.top:8080/2170981272619/21715003363040/24979
-#EXTINF:-1,PT: SPORT TV 5
-http://bankt.top:8080/2170981272619/21715003363040/24978
-#EXTINF:-1,PT: SPORT TV 6
-http://bankt.top:8080/2170981272619/21715003363040/29669
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://bankt.top:8080/2170981272619/21715003363040/25024
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://bankt.top:8080/2170981272619/21715003363040/25025
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://bankt.top:8080/2170981272619/21715003363040/25026
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://bankt.top:8080/2170981272619/21715003363040/25027
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://bankt.top:8080/2170981272619/21715003363040/25028
-#EXTINF:-1,PT: ELEVEN SPORT 6
-http://bankt.top:8080/2170981272619/21715003363040/24983
-#EXTINF:-1,PT: SPORT TV NBA
-http://bankt.top:8080/2170981272619/21715003363040/24981
-#EXTINF:-1,PT: A BOLA TV
-http://bankt.top:8080/2170981272619/21715003363040/24987
+#EXTINF:-1,PT | BTV HD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9541
+#EXTINF:-1,BTV FHD
+https://p13.lol:443/centra_live_a_b/n907iOxHult0/1782215
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://cord-cutter.net:8080/25464931/30585186/136726
+#EXTINF:-1,PT: BTV HD*
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/307953
 
-#EXTINF:-1,=== debiee ===
-#EXTINF:-1,PT BENFICA TV 1
-http://ultrontv.xyz:80/Debbie123/Debbie78/205423
-#EXTINF:-1,PT SPORT TV 1
-http://ultrontv.xyz:80/Debbie123/Debbie78/205339
-#EXTINF:-1,PT SPORT TV 2 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205337
-#EXTINF:-1,PT SPORT TV 3 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205335
-#EXTINF:-1,PT SPORT TV 4 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205333
-#EXTINF:-1,PT SPORT TV 5 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205331
-#EXTINF:-1,PT ELEVEN SPORTS 1 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205400
-#EXTINF:-1,PT ELEVEN SPORTS 2 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205398
-#EXTINF:-1,PT ELEVEN SPORTS 3 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205396
-#EXTINF:-1,PT ELEVEN SPORTS 4 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205394
-#EXTINF:-1,PT ELEVEN SPORTS 5 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205392
-#EXTINF:-1,PT ELEVEN SPORTS 6 HD
-http://ultrontv.xyz:80/Debbie123/Debbie78/205390
+
+#EXTINF:-1,PT | DAZN 1 HD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9546
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
+#EXTINF:-1, ELEVEN 1 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/55339
+
+#EXTINF:-1,PT | DAZN 2 HD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9548
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782193.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HDÂ²
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/55350
+
+#EXTINF:-1,PT | DAZN 3  HD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9550
+#EXTINF:-1,ELEVEN SPORTS 3 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782198.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HDÂ²
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/55351
+
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9526
+#EXTINF:-1,SPORT TV 1 FHD
+https://p13.lol:443/centra_live_a_b/n907iOxHult0/1782163
+#EXTINF:-1,SPORT TV 1 FHD
+http://cord-cutter.net:8080/25464931/30585186/167742
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/307936
+
+#EXTINF:-1,PT | SPORT TV 2 FHD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9529
+#EXTINF:-1,SPORT TV 2 FHD
+https://p13.lol:443/centra_live_a_b/n907iOxHult0/1782167
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/25464931/30585186/167743
+#EXTINF:-1,PT: SPORT TV 2 HD*
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/307418
+
+#EXTINF:-1,PT | SPORT TV 3 FHD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9532
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/25464931/30585186/167744
+#EXTINF:-1,SPORT TV 3 FHD
+https://p13.lol:443/centra_live_a_b/n907iOxHult0/1782172
+
+#EXTINF:-1,PT | SPORT TV 4 HD
+http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9534
+#EXTINF:-1,SPORT TV 4 FHD
+https://p13.lol:443/centra_live_a_b/n907iOxHult0/1782176
+
+#EXTINF:-1,PT: SPORT TV 4 HD*
+http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/297181
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/25464931/30585186/167745
 
