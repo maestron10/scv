@@ -1,5 +1,83 @@
 #EXTM3U
-#EXTINF:-1, ===Victor====
+#EXTINF:-1, ===Gen====
+#EXTINF:-1,PT: SPORT TV1 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159090
+#EXTINF:-1,PT: SPORT TV1 FHD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/629997
+#EXTINF:-1,PT: SPORT TV1 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159085
+#EXTINF:-1,PT: SPORT TV1 HD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363054
+#EXTINF:-1,PT: SPORT TV2 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159095
+#EXTINF:-1,PT: SPORT TV2 FHD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363058
+#EXTINF:-1,PT: SPORT TV2 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159091
+#EXTINF:-1,PT: SPORT TV2 HD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/629998
+#EXTINF:-1,PT: SPORT TV3 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159100
+#EXTINF:-1,PT: SPORT TV3 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159096
+#EXTINF:-1,PT: SPORT TV3 HD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/629999
+#EXTINF:-1,PT: SPORT TV4 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159105
+#EXTINF:-1,PT: SPORT TV4 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/276675
+#EXTINF:-1,PT: SPORT TV4 FHD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363062
+#EXTINF:-1,PT: SPORT TV5 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159111
+#EXTINF:-1,PT: SPORT TV5 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/276679
+#EXTINF:-1,PT: SPORT TV6 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159118
+#EXTINF:-1,PT: SPORT TV6 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/276680
+#EXTINF:-1,PT: SPORT TV7 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/611124
+#EXTINF:-1,PT: SPORT TV7 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/612898
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159115
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159114
+#EXTINF:-1,PT: DAZN 1 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159122
+#EXTINF:-1,PT: DAZN 1 FHD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/630001
+#EXTINF:-1,PT: DAZN 1 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159121
+#EXTINF:-1,PT: DAZN 2 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159126
+#EXTINF:-1,PT: DAZN 2 FHD HEVC
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/630002
+#EXTINF:-1,PT: DAZN 2 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159130
+#EXTINF:-1,PT: DAZN 3 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363084
+#EXTINF:-1,PT: DAZN 3 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159134
+#EXTINF:-1,PT: DAZN 4 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159135
+#EXTINF:-1,PT: DAZN 4 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159139
+#EXTINF:-1,PT: DAZN 5 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363086
+#EXTINF:-1,PT: DAZN 5 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159138
+#EXTINF:-1,PT: DAZN 6 FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159143
+#EXTINF:-1,PT: DAZN 6 HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363088
+#EXTINF:-1,PT: Benfica TV FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394775
+#EXTINF:-1,PT: Benfica TV HD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363091
+#EXTINF:-1,PT: BTV FHD
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159120
 
 
 
