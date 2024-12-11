@@ -23,6 +23,11 @@ http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/55339
 #EXTINF:-1,PT | DAZN 1 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/763969
+#EXTINF:-1,PT (DZ) Eleven 1
+http://hdhd.tk:80/7309/7309/48431
+#EXTINF:-1,PT (MEO) Eleven Sports 1
+http://hdhd.tk:80/7309/7309/331957
+
 
 #EXTINF:-1,PT: DAZN 2 FHD
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159126
@@ -34,8 +39,11 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147221.mpegts
 http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/55350
 #EXTINF:-1,PT | DAZN 2 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/763971
-#EXTINF:-1 tvg-id="CNN Int." tvg-name="⚽ M + DAZN 2 FHD" tvg-logo="http://dashtv.me:8080/images/Bp-vRtZEje6kFpdMZzWxZ7pm07j6LNDEEvWbJVBp2o3tFragNGAHbTFNHN6fV7Eb2ZnRgafovTCC3XpIpC-6OrPB3MSF1duOaYtMrckPm7Q.png" group-title="⚽ M+  DAZN",⚽ M + DAZN 2 FHD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/387128
+#EXTINF:-1,PT (DZ) Eleven 2
+http://hdhd.tk:80/7309/7309/48432
+#EXTINF:-1,PT (MEO) Eleven Sports 2
+http://hdhd.tk:80/7309/7309/331958
+
 
 #EXTINF:-1,PT: DAZN 3 FHD
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363084
@@ -47,9 +55,15 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147222.mpegts
 http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/55351
 #EXTINF:-1,PT | DAZN 3  HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/763973
+#EXTINF:-1,PT (DZ) Eleven 3
+http://hdhd.tk:80/7309/7309/48433
+
 
 #EXTINF:-1,PT: DAZN 4 FHD
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159135
+#EXTINF:-1,PT (DZ) Eleven 4
+http://hdhd.tk:80/7309/7309/48434
+
 #EXTINF:-1,PT: DAZN 5 FHD
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/363086
 
@@ -63,6 +77,9 @@ http://cord-cutter.net:8080/25464931/30585186/167742
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104077.mpegts
 #EXTINF:-1,PT | SPORT TV 1 HD
 http://contentsdeliver.link:8080/UrbanoPortugal/ptbr4343ge/307936
+#EXTINF:-1,PT (VF) SPORTTV 1
+http://hdhd.tk:80/7309/7309/354981
+
 
 #EXTINF:-1,PT: SPORT TV2 FHD
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/159095
@@ -115,5 +132,8 @@ http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147196.mpegts
 https://p13.lol:443/centra_live_a_b/n907iOxHult0/1782180
 #EXTINF:-1,PT | SPORT TV 5
 http://xplatinmedia.com:8080/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/9537
+#EXTINF:-1,PT (VF) SportTV 5
+http://hdhd.tk:80/7309/7309/354985
+
 
 
