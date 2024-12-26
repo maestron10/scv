@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1, ===Poolque====
+#EXTINF:-1,PT: Benfica TV
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660660
+#EXTINF:-1,PT: Dazn 1
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660582
+#EXTINF:-1,PT: Dazn 2
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660581
+#EXTINF:-1,PT: Dazn 3
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660580
+#EXTINF:-1,PT: Dazn 4
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660579
+#EXTINF:-1,PT: Dazn 5
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660578
+#EXTINF:-1,PT: Dazn 6
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660577
+#EXTINF:-1,PT: SPORTTV 1
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660584
+#EXTINF:-1,PT: SportTV 2
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660583
+#EXTINF:-1,PT: Sport TV 3
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660576
+#EXTINF:-1,PT: Sport TV 4
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660575
+#EXTINF:-1,PT: Sport TV 5
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660574
+#EXTINF:-1,PT: TV Cine Action
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660571
+#EXTINF:-1,PT: TV Cine Edition
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660570
+#EXTINF:-1,PT: TV Cine Emotion
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660569
+#EXTINF:-1,PT: TV Cine Top
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660568
+
+
+
 #EXTINF:-1, ===Medo====
 #EXTINF:-1 group-title="PT: DESPORTO",PT: BTV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
