@@ -1,5 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1, ===Ofdhul====
+#EXTINF:-1,PT: BTV HD
+http://708702208283851883.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/851883.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://708702208283779952.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/779952.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://708702208283318939.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/318939.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://708702208283999327.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/999327.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://708702208283971732.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/971732.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://708702208283784141.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/784141.ts
+
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://708702208283422954.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/422954.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://708702208283798248.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/798248.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://708702208283996839.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/996839.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://708702208283931743.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/931743.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://708702208283966111.ofdhu1210.xyz:80/live/zh410088/XdG4Nc8JpN/966111.ts
+
+
+
+#EXTINF:-1, ===Poolque====
 
 
 
@@ -146,84 +174,6 @@ http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3Jse8BiSVFn_TIZ3Cn_s1E/ts
 #EXTINF:-1,PT: SPORT TV 6 FHD
 http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3y2fGWTk3e8V8Ok0zJv8VY/ts
 
-#EXTINF:-1, ===Supersonic====
-#EXTINF:-1,PT BENFICA TV 1 HD
-http://supersonictv.live:8080/329474/903964/7600
-#EXTINF:-1,PT ELEVEN SPORTS 1 HD
-http://supersonictv.live:8080/329474/903964/7627
-#EXTINF:-1,PT ELEVEN SPORTS 2
-http://supersonictv.live:8080/329474/903964/7628
-#EXTINF:-1,PT ELEVEN SPORTS 2 HD
-http://supersonictv.live:8080/329474/903964/7629
-#EXTINF:-1,PT ELEVEN SPORTS 3
-http://supersonictv.live:8080/329474/903964/7630
-#EXTINF:-1,PT ELEVEN SPORTS 3 HD
-http://supersonictv.live:8080/329474/903964/7631
-#EXTINF:-1,PT ELEVEN SPORTS 4
-http://supersonictv.live:8080/329474/903964/7632
-#EXTINF:-1,PT ELEVEN SPORTS 4 HD
-http://supersonictv.live:8080/329474/903964/7633
-#EXTINF:-1,PT ELEVEN SPORTS 5
-http://supersonictv.live:8080/329474/903964/7634
-#EXTINF:-1,PT ELEVEN SPORTS 5 HD
-http://supersonictv.live:8080/329474/903964/7635
-#EXTINF:-1,PT SPORT TV 1
-http://supersonictv.live:8080/329474/903964/7704
-#EXTINF:-1,PT SPORT TV 1 HD
-http://supersonictv.live:8080/329474/903964/7705
-#EXTINF:-1,PT SPORT TV 2
-http://supersonictv.live:8080/329474/903964/7706
-#EXTINF:-1,PT SPORT TV 2 HD
-http://supersonictv.live:8080/329474/903964/7707
-#EXTINF:-1,PT SPORT TV 3
-http://supersonictv.live:8080/329474/903964/7708
-#EXTINF:-1,PT SPORT TV 3 HD
-http://supersonictv.live:8080/329474/903964/7709
-#EXTINF:-1,PT SPORT TV 4
-http://supersonictv.live:8080/329474/903964/7710
-#EXTINF:-1,PT SPORT TV 4 HD
-http://supersonictv.live:8080/329474/903964/7711
-#EXTINF:-1,PT SPORT TV 4K
-http://supersonictv.live:8080/329474/903964/7712
-#EXTINF:-1,PT SPORT TV 5
-http://supersonictv.live:8080/329474/903964/7713
-#EXTINF:-1,PT SPORT TV 5 HD
-http://supersonictv.live:8080/329474/903964/7714
-
-
-#EXTINF:-1, ===Poolque====
-#EXTINF:-1,PT: Benfica TV
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660660
-#EXTINF:-1,PT: Dazn 1
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660582
-#EXTINF:-1,PT: Dazn 2
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660581
-#EXTINF:-1,PT: Dazn 3
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660580
-#EXTINF:-1,PT: Dazn 4
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660579
-#EXTINF:-1,PT: Dazn 5
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660578
-#EXTINF:-1,PT: Dazn 6
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660577
-#EXTINF:-1,PT: SPORTTV 1
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660584
-#EXTINF:-1,PT: SportTV 2
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660583
-#EXTINF:-1,PT: Sport TV 3
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660576
-#EXTINF:-1,PT: Sport TV 4
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660575
-#EXTINF:-1,PT: Sport TV 5
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660574
-#EXTINF:-1,PT: TV Cine Action
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660571
-#EXTINF:-1,PT: TV Cine Edition
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660570
-#EXTINF:-1,PT: TV Cine Emotion
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660569
-#EXTINF:-1,PT: TV Cine Top
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/660568
 
 #EXTINF:-1, ===samisat====
 #EXTINF:-1,PT - BTV HD
