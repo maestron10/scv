@@ -1,136 +1,256 @@
 #EXTM3U
-#EXTINF:-1,=== banktop ===
+#EXTINF:-1,=== BTV ===
 #EXTINF:-1,PT - BTV HD
 http://samisat44.xyz:80/5XF88W5/A38UYQV/763941
 #EXTINF:-1,PT - BTV FHD
 http://samisat44.xyz:80/5XF88W5/A38UYQV/763939
-#EXTINF:-1,PT | BTV HD
-http://cord-cutter.net:8080/25464931/30585186/136726
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147219.mpegts
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://206.212.244.71:8080/Abxc5k/363887/136726
 #EXTINF:-1,PT: BENFICA TV HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10290
 #EXTINF:-1,PT: BENFICA TV
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/880
+#EXTINF:-1,PT | BTV HD
+http://cord-cutter.net:8080/25464931/30585186/136726
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147219.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Benfica TV
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660660
+#EXTINF:-1 group-title="PT: DESPORTO",PT: BTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
+#EXTINF:-1,PT: BTV HD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm8rsOq1K2gpFqTwgGJyZjC8/ts
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://206.212.244.71:8080/Abxc5k/363887/136726
 
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147220.mpegts
-#EXTINF:-1,PT | DAZN 1 HD
-http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://206.212.244.71:8080/Abxc5k/363887/35264
+#EXTINF:-1,=== DAZN 1 ===
+#EXTINF:-1,PT - DAZN 1 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/763969
 #EXTINF:-1,PT: DAZN ELEVEN 1 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10285
 #EXTINF:-1,PT: DAZN ELEVEN 1 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/801
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147220.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 1
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660582
+#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm1dFQPUpzpBOCS1YinvoVpU/ts
+#EXTINF:-1,PT Eleven Sports 1 FHD 
+http://206.212.244.71:8080/Abxc5k/363887/35264
+#EXTINF:-1,PT | DAZN 1 HD
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN SPORTS 1 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | ELEVEN SPORTS 1 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423414
 
 
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147221.mpegts
-#EXTINF:-1,PT | DAZN 2 HD
+#EXTINF:-1,=== DAZN 2 ===
+#EXTINF:-1,PT - DAZN 2 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/763971
 #EXTINF:-1,PT: DAZN ELEVEN 2 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10286
 #EXTINF:-1,PT: DAZN ELEVEN 2 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/802
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147221.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 2
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660581
+#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm6o71WmxxOt4l--iYHtFwgc/ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN SPORTS 2 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | ELEVEN SPORTS 2 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423415
 
-
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147222.mpegts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://206.212.244.71:8080/Abxc5k/363887/167748
+#EXTINF:-1,=== DAZN 3 ===
+#EXTINF:-1,PT - DAZN 3 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/763973
 #EXTINF:-1,PT: DAZN ELEVEN 3 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/3825
 #EXTINF:-1,PT: DAZN ELEVEN 3 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/803
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147222.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 3
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660580
+#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm-AOEgGfZHkACHFS3mURw0g/ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://206.212.244.71:8080/Abxc5k/363887/167748
 
-
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://206.212.244.71:8080/Abxc5k/363887/167749
-#EXTINF:-1,PT: DAZN ELEVEN 4 FHD
+#EXTINF:-1,=== DAZN 4 ===
+#EXTINF:-1,PT - DAZN 4 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/763975
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/3826
 #EXTINF:-1,PT: DAZN ELEVEN 4 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/16220
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147223.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 4
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660579
+#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmy-Y3U0OCmqa8WdbSbmRa_M/ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://206.212.244.71:8080/Abxc5k/363887/167749
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN SPORTS 4 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | ELEVEN SPORTS 4 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423417
 
-
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://206.212.244.71:8080/Abxc5k/363887/167750
+#EXTINF:-1,=== DAZN 5 ===
+#EXTINF:-1,PT - DAZN 5 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/763977
 #EXTINF:-1,PT: DAZN ELEVEN 5 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10287
 #EXTINF:-1,PT: DAZN ELEVEN 5 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/16222
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147224.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 5
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660578
+#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmxLM6TVkvUmRv-gr7cWAf8M/ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://206.212.244.71:8080/Abxc5k/363887/167750
 
-
-#EXTINF:-1,PT | SPORT TV 1 HD
-http://cord-cutter.net:8080/25464931/30585186/167742
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104077.mpegts
-http://206.212.244.71:8080/Abxc5k/363887/167742
+#EXTINF:-1,=== SPORT TV 1 ===
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68419
+#EXTINF:-1,PT -  SPORT TV 1 HD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/1030794
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10258
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/874
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://cord-cutter.net:8080/25464931/30585186/167742
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104077.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORTTV 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: SPORTTV 1
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660584
+#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117725
+#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117726
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmwGnmsVAtHbGddvQBgQrxLI/ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://206.212.244.71:8080/Abxc5k/363887/167742
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 1 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423418
 
-#EXTINF:-1,PT | SPORT TV 2 FHD
-http://cord-cutter.net:8080/25464931/30585186/167743
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104079.mpegts
-http://206.212.244.71:8080/Abxc5k/363887/167743
+#EXTINF:-1,=== SPORT TV 2 ===
+#EXTINF:-1,PT - SPORT TV 2 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/764059
 #EXTINF:-1,PT: SPORT TV 2 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10257
 #EXTINF:-1,PT: SPORT TV 2 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/875
+#EXTINF:-1,PT | SPORT TV 2 FHD
+http://cord-cutter.net:8080/25464931/30585186/167743
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104079.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: SportTV 2
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660583
+#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117728
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm4mkXUpCrdAwBSD_mAD3m9I/ts
+#EXTINF:-1,PT | SPORT TV 2 FHD
+http://206.212.244.71:8080/Abxc5k/363887/167743
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 2 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423419
 
-#EXTINF:-1,PT | SPORT TV 3 FHD
-http://cord-cutter.net:8080/25464931/30585186/167744
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104081.mpegts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://206.212.244.71:8080/Abxc5k/363887/167744
+#EXTINF:-1,=== SPORT TV 3 ===
+#EXTINF:-1,PT -  SPORT TV 3 HD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/1030798
 #EXTINF:-1,PT: SPORT TV 3 FHD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10256
 #EXTINF:-1,PT: SPORT TV 3 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/876
+#EXTINF:-1,PT | SPORT TV 3 FHD
+http://cord-cutter.net:8080/25464931/30585186/167744
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104081.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 3
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660576
+#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117730
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3DeBDECyvnON6v773uqJ48/ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://206.212.244.71:8080/Abxc5k/363887/167744
+#EXTINF:-1 tvg-id="" tvg-name="PT |SPORT TV 3 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT |SPORT TV 3 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423420
 
-
+#EXTINF:-1,=== SPORT TV 4 ===
+#EXTINF:-1,PT - SPORT TV 4 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/764062
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/877
 #EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104082.mpegts
 #EXTINF:-1,PT | SPORT TV 4 HD
 http://cord-cutter.net:8080/25464931/30585186/167745
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/877
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 4
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660575
+#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117732
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm5eE76Ixya9LzavSpSAfalo/ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 4 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423421
 
-
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147196.mpegts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/18709
+#EXTINF:-1,=== SPORT TV 5 ===
+#EXTINF:-1,PT - SPORT TV 5 FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/764064
+#EXTINF:-1,PT -  SPORT TV 5 HD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/1054413
 #EXTINF:-1,PT: SPORT TV 5 HD
 http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/23125
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/18709
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
+http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147196.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 5
 http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660574
+#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117734
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3Jse8BiSVFn_TIZ3Cn_s1E/ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 5 HD
+http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423422
 
+#EXTINF:-1,=== TV CINE ===
+#EXTINF:-1,PT - TV CINE TOP FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/764098
+#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE TOP FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117802
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Top" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Top
+http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660568
 
+#EXTINF:-1,PT - TV CINE EDITION FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/764094
+#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE EDITION FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117803
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Edition" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Edition
+http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660570
 
+#EXTINF:-1,PT - TV CINE EMOTION FHD
+http://samisat44.xyz:80/5XF88W5/A38UYQV/764096
+#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE EMOTION FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117804
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Emotion" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Emotion
+http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660569
+
+#EXTINF:-1,PT - TV CINE ACTION
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68400
+#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE ACTION FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117805
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Action" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Action
+http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660571
 
