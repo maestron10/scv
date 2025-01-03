@@ -1,12 +1,75 @@
 #EXTM3U
 
-#EXTINF:-1, ===Ofdhul====
+#EXTINF:-1, ===megaott====
+#EXTINF:-1,BENFICA TV FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110401
+#EXTINF:-1,|PT| DAZN 1 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110395
+#EXTINF:-1,|PT| DAZN 2 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110396
+#EXTINF:-1,|PT| DAZN 3 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110397
+#EXTINF:-1,|PT| DAZN 4 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110398
+#EXTINF:-1,|PT| DAZN 5 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110399
+#EXTINF:-1,SPORT TV 1 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110389
+#EXTINF:-1,SPORT TV 1 (4K)
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110390
+#EXTINF:-1,SPORT TV 2 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110391
+#EXTINF:-1,SPORT TV 3 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110392
+#EXTINF:-1,SPORT TV 4 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110393
+#EXTINF:-1,SPORT TV 5 FHD
+http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110394
+
+#EXTINF:-1, ===troya====
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0poFvFWj7a8qV2HpTSisjDsU6EDIBiTdBZNPARJM6ie
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
+http://5.troya.info:34000/ch2099/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B90MbXgsU8Cwip-zQx-VsP73M4An751v8Jt3c8WM0Rdv
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
+http://5.troya.info:34000/ch2100/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwdzEtd1fJ87GwdXLylKWrwO-l9BzBmOTES_2436198c
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://5.troya.info:34000/ch2101/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B41zjJolEORC1_8GZ5rVa6PZwcl-la1KEd9e5n57sAQx
+#EXTINF:-1, ELEVEN SPORTS 5 HD 🇵🇹
+http://5.troya.info:34000/ch2102/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bx844t3apV_zBQ-gNGEC6tvMji8gthzHXkGQL3ppOeY7
+
+#EXTINF:-1, SPORT TV 1 HD 🇵🇹
+http://5.troya.info:34000/ch1705/mono.m3u8?token=rl_sandro1.H00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxQxFzmyhUqVf7lfQR_DVwEfgyB-PX14hC_AQFwXe0AmoQ
+#EXTINF:-1, SPORT TV 2 HD 🇵🇹
+http://5.troya.info:34000/ch1706/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxRJdaWcJAKHMcy8tDoPSjF9BdZf7JOMN5UepDSafXCwlA
+#EXTINF:-1, SPORT TV 3 HD 🇵🇹
+http://5.troya.info:34000/ch1707/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxS7-jwWfRCVaCBEcspmAGzwTfkHuAq6r5KO7t1U7W0BGw
+#EXTINF:-1, SPORT TV 4 HD 🇵🇹
+http://5.troya.info:34000/ch1708/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxSa69SCj8N7V6lPrqzF7ZIoe-66_s-oGuUcHPQEO-UXRw
+#EXTINF:-1, SPORT TV 5 HD 🇵🇹
+http://5.troya.info:34000/ch1709/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxSLx6uvmCNalQNiccjf-qPgB36J2GGftw487oW4mxlyOA
 
 
 
-
-#EXTINF:-1, ===Poolque====
-
+#EXTINF:-1, ===p13====
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782193.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782198.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782202.ts
+#EXTINF:-1, Sport TV 1 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
+#EXTINF:-1, Sport TV 2 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782167.ts
+#EXTINF:-1, Sport TV 3 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782172.ts
+#EXTINF:-1, Sport TV 4 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782176.ts
+#EXTINF:-1, Sport TV 5 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 
 
 #EXTINF:-1, ===Medo====
