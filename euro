@@ -1,382 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1, ===megaott====
-#EXTINF:-1,BENFICA TV FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110401
-#EXTINF:-1,|PT| DAZN 1 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110395
-#EXTINF:-1,|PT| DAZN 2 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110396
-#EXTINF:-1,|PT| DAZN 3 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110397
-#EXTINF:-1,|PT| DAZN 4 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110398
-#EXTINF:-1,|PT| DAZN 5 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110399
-#EXTINF:-1,SPORT TV 1 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110389
-#EXTINF:-1,SPORT TV 1 (4K)
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110390
-#EXTINF:-1,SPORT TV 2 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110391
-#EXTINF:-1,SPORT TV 3 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110392
-#EXTINF:-1,SPORT TV 4 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110393
-#EXTINF:-1,SPORT TV 5 FHD
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/110394
+#EXTINF:-1, ===fonte.lista====
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7459
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7456
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7453
+#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7449
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7447
+
+#EXTINF:-1,SPORT TV 1 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7438
+#EXTINF:-1,SPORT TV 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7439
+#EXTINF:-1,SPORT TV 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7435
+#EXTINF:-1,SPORT TV 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7433
+#EXTINF:-1,SPORT TV 4 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
+#EXTINF:-1,SPORT TV 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
+
 
 #EXTINF:-1, ===troya====
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0poFvFWj7a8qV2HpTSisjDsU6EDIBiTdBZNPARJM6ie
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://5.troya.info:34000/ch2099/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B90MbXgsU8Cwip-zQx-VsP73M4An751v8Jt3c8WM0Rdv
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://5.troya.info:34000/ch2100/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwdzEtd1fJ87GwdXLylKWrwO-l9BzBmOTES_2436198c
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://5.troya.info:34000/ch2101/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B41zjJolEORC1_8GZ5rVa6PZwcl-la1KEd9e5n57sAQx
-#EXTINF:-1, ELEVEN SPORTS 5 HD 🇵🇹
-http://5.troya.info:34000/ch2102/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bx844t3apV_zBQ-gNGEC6tvMji8gthzHXkGQL3ppOeY7
-
-#EXTINF:-1, SPORT TV 1 HD 🇵🇹
-http://5.troya.info:34000/ch1705/mono.m3u8?token=rl_sandro1.H00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxQxFzmyhUqVf7lfQR_DVwEfgyB-PX14hC_AQFwXe0AmoQ
-#EXTINF:-1, SPORT TV 2 HD 🇵🇹
-http://5.troya.info:34000/ch1706/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxRJdaWcJAKHMcy8tDoPSjF9BdZf7JOMN5UepDSafXCwlA
-#EXTINF:-1, SPORT TV 3 HD 🇵🇹
-http://5.troya.info:34000/ch1707/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxS7-jwWfRCVaCBEcspmAGzwTfkHuAq6r5KO7t1U7W0BGw
-#EXTINF:-1, SPORT TV 4 HD 🇵🇹
-http://5.troya.info:34000/ch1708/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxSa69SCj8N7V6lPrqzF7ZIoe-66_s-oGuUcHPQEO-UXRw
-#EXTINF:-1, SPORT TV 5 HD 🇵🇹
-http://5.troya.info:34000/ch1709/mono.m3u8?token=rl_sandro1.bH00svq2RJPED1kl0xDoWLf3aF2_AqROpxZ_T8QxlxSLx6uvmCNalQNiccjf-qPgB36J2GGftw487oW4mxlyOA
 
 
 
 #EXTINF:-1, ===p13====
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782193.ts
-#EXTINF:-1,ELEVEN SPORTS 3 HD 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782198.ts
-#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782202.ts
-#EXTINF:-1, Sport TV 1 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782163.ts
-#EXTINF:-1, Sport TV 2 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782167.ts
-#EXTINF:-1, Sport TV 3 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782172.ts
-#EXTINF:-1, Sport TV 4 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782176.ts
-#EXTINF:-1, Sport TV 5 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 
 
 #EXTINF:-1, ===Medo====
-#EXTINF:-1 group-title="PT: DESPORTO",PT: BTV HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
-#EXTINF:-1 group-title="PT: DESPORTO",PT: BTV FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117740
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 1 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117725
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 1 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117726
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 2 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117728
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 2 FHD 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117729
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 3 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117730
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 3 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117731
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 4 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117732
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 4 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117733
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 5 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117734
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 5 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117735
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 6 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117736
-#EXTINF:-1 group-title="PT: DESPORTO",PT: SPORT TV 6 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117737
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 1 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 1 FHD 1080
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117743
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 1 4K
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117744
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 2 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 2 FHD 1080
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117746
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 3 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 3 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117748
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 4 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 4 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117750
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 5 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
-#EXTINF:-1 group-title="PT: DESPORTO",PT: ELEVEN 5 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117752
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE TOP FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117802
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE EDITION FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117803
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE EMOTION FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117804
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE ACTION FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117805
-#EXTINF:-1 group-title="PT: FILMES",PT: STAR+ FILMES H264
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117819
-#EXTINF:-1 group-title="PT: FILMES",PT: Meo Movies H264
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117820
-#EXTINF:-1 group-title="PT: FILMES",PT: wiki horror H264
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117821
-#EXTINF:-1 group-title="PT: FILMES",PT: wiki comedia H264
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117822
-#EXTINF:-1 group-title="PT: FILMES",PT: wiki action H264
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117823
-#EXTINF:-1 group-title="PT: FILMES",PT: Wiki Thriller H264
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117824
-#EXTINF:-1 group-title="PT: FILMES",PT: Cine Play FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117825
-#EXTINF:-1 group-title="PT: FILMES",PT: Cine Play 1 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117826
-#EXTINF:-1 group-title="PT: FILMES",PT: Cine Play 2 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117827
-#EXTINF:-1 group-title="PT: FILMES",PT: Cine Portugal FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117828
-
-
-
 
 #EXTINF:-1, ===Jeremy====
-#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Benfica TV
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660660
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 1
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660582
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 2
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660581
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 3
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660580
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 4
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660579
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 5
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660578
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTTV 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: SPORTTV 1
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660584
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: SportTV 2
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660583
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 3
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660576
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 4
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660575
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 5
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660574
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Action" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Action
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660571
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Edition" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Edition
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660570
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Emotion" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Emotion
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660569
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Top" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Top
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660568
 
 #EXTINF:-1, ===Homeplay====
-#EXTINF:-1,PT: BTV HD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm8rsOq1K2gpFqTwgGJyZjC8/ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm1dFQPUpzpBOCS1YinvoVpU/ts
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm6o71WmxxOt4l--iYHtFwgc/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm-AOEgGfZHkACHFS3mURw0g/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmy-Y3U0OCmqa8WdbSbmRa_M/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmxLM6TVkvUmRv-gr7cWAf8M/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmwg_87RyZanRe8dMByAzB_k/ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmwGnmsVAtHbGddvQBgQrxLI/ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm4mkXUpCrdAwBSD_mAD3m9I/ts
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3DeBDECyvnON6v773uqJ48/ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm5eE76Ixya9LzavSpSAfalo/ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3Jse8BiSVFn_TIZ3Cn_s1E/ts
-#EXTINF:-1,PT: SPORT TV 6 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3y2fGWTk3e8V8Ok0zJv8VY/ts
 
 
 #EXTINF:-1, ===samisat====
-#EXTINF:-1,PT - BTV HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763941
-#EXTINF:-1,PT - BTV FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763939
-#EXTINF:-1,PT - SPORT TV 1 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68419
-#EXTINF:-1,PT - SPORT TV 1 UHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68336
-#EXTINF:-1,PT -  SPORT TV 1 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1030794
-#EXTINF:-1,PT - SPORT TV 2 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764059
-#EXTINF:-1,PT - SPORT TV 2 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68418
-#EXTINF:-1,PT -  SPORT TV 3 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1030798
-#EXTINF:-1,PT - SPORT TV 3 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68417
-#EXTINF:-1,PT - SPORT TV 3 UHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1030799
-#EXTINF:-1,PT - SPORT TV 4 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764062
-#EXTINF:-1,PT -  SPORT TV 4 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1030801
-#EXTINF:-1,PT - SPORT TV 5 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764064
-#EXTINF:-1,PT -  SPORT TV 5 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1054413
-#EXTINF:-1,PT - SPORT TV 5
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68420
-#EXTINF:-1,PT - SPORT TV 6 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764066
-#EXTINF:-1,PT - SPORT TV 6 
-http://samisat44.xyz:80/5XF88W5/A38UYQV/254527
-#EXTINF:-1,PT - DAZN 1 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763969
-#EXTINF:-1,PT - DAZN 1 HEVC
-http://samisat44.xyz:80/5XF88W5/A38UYQV/942694
-#EXTINF:-1,PT - DAZN 2 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763971
-#EXTINF:-1,PT - DAZN 2 HEVC
-http://samisat44.xyz:80/5XF88W5/A38UYQV/942695
-#EXTINF:-1,PT - DAZN 3 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763973
-#EXTINF:-1,PT - DAZN 3 HEVC
-http://samisat44.xyz:80/5XF88W5/A38UYQV/942696
-#EXTINF:-1,PT - DAZN 4 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763975
-#EXTINF:-1,PT - DAZN 4 HEVC
-http://samisat44.xyz:80/5XF88W5/A38UYQV/942697
-#EXTINF:-1,PT - DAZN 5 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763977
-#EXTINF:-1,PT - EDAZN 6 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763979
-#EXTINF:-1,PT - DAZN 6 HEVC
-http://samisat44.xyz:80/5XF88W5/A38UYQV/942693
-#EXTINF:-1,PT - TV CINE TOP FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764098
-#EXTINF:-1,PT - TV CINE EDITION FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764094
-#EXTINF:-1,PT - TV CINE ACTION
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68400
-#EXTINF:-1,PT - TV CINE EMOTION FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764096
-
 
 #EXTINF:-1, ===Meteo====
-#EXTINF:-1,PT: DAZN ELEVEN 1 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10285
-#EXTINF:-1,PT: DAZN ELEVEN 1 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/801
-#EXTINF:-1,PT: DAZN ELEVEN 2 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10286
-#EXTINF:-1,PT: DAZN ELEVEN 2 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/802
-#EXTINF:-1,PT: DAZN ELEVEN 3 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/3825
-#EXTINF:-1,PT: DAZN ELEVEN 3 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/803
-#EXTINF:-1,PT: DAZN ELEVEN 4 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/3826
-#EXTINF:-1,PT: DAZN ELEVEN 4 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/16220
-#EXTINF:-1,PT: DAZN ELEVEN 5 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10287
-#EXTINF:-1,PT: DAZN ELEVEN 5 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/16222
-#EXTINF:-1,PT: DAZN ELEVEN 6 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10288
-#EXTINF:-1,PT: DAZN ELEVEN 6 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/16224
-#EXTINF:-1,PT: SPORT TV FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10259
-#EXTINF:-1,PT: SPORT TV HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/3829
-#EXTINF:-1,PT: SPORT TV + FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10284
-#EXTINF:-1,PT: SPORT TV + HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/873
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10258
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/874
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10257
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/875
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10256
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/876
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/877
-#EXTINF:-1,PT: SPORT TV 4
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/812
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/18709
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/23125
-#EXTINF:-1,PT: SPORT TV 6 FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/18710
-#EXTINF:-1,PT: SPORT TV 6 HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/23126
-#EXTINF:-1,PT: SPORTING TV FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/878
-#EXTINF:-1,PT: SPORTING TV HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/814
-#EXTINF:-1,PT: SPORT TV NBA FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/23181
-#EXTINF:-1,PT: SPORT TV NBA HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/5388
-#EXTINF:-1,PT: BENFICA TV HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10290
-#EXTINF:-1,PT: BENFICA TV
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/880
-#EXTINF:-1,PT: TV CINE TOP FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/10266
-#EXTINF:-1,PT: TV CINE TOP HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/830
-#EXTINF:-1,PT: TV CINE TOP
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/733
-#EXTINF:-1,PT: TV CINE EDITION FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/5390
-#EXTINF:-1,PT: TV CINE EDITION HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/831
-#EXTINF:-1,PT: TV CINE EDITION
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/734
-#EXTINF:-1,PT: TV CINE EMOTION FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/5391
-#EXTINF:-1,PT: TV CINE EMOTION  HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/832
-#EXTINF:-1,PT: TV CINE EMOTION 
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/735
-#EXTINF:-1,PT: TV CINE ACTION FHD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/5392
-#EXTINF:-1,PT: TV CINE ACTION HD
-http://meteotimeok.site:8080/YpKHEpKbaJ3k/9Pv6wkPg2WfU/833
-
-
-
 
 
 #EXTINF:-1, ===Gabriel====
