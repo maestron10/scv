@@ -26,29 +26,31 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
 
 
-#EXTINF:-1, ===callvip====
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 | PT" tvg-logo="" group-title="SPORT | ALL ",SPORT TV 1 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/140
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 | PT" tvg-logo="" group-title="SPORT | ALL ",SPORT TV 2 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/144
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 | PT" tvg-logo="" group-title="SPORT | ALL ",SPORT TV 3 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/148
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 | PT" tvg-logo="" group-title="SPORT | ALL ",SPORT TV 4 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/152
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 | PT" tvg-logo="" group-title="SPORT | ALL ",SPORT TV 5 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/156
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV | PT" tvg-logo="" group-title="SPORT | ALL ",BENFICA TV | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/160
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 | PT" tvg-logo="" group-title="SPORT | ALL ",ELEVEN SPORTS 1 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/164
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 | PT" tvg-logo="" group-title="SPORT | ALL ",ELEVEN SPORTS 2 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/167
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 | PT" tvg-logo="" group-title="SPORT | ALL ",ELEVEN SPORTS 3 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/170
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 | PT" tvg-logo="" group-title="SPORT | ALL ",ELEVEN SPORTS 4 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/173
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 | PT" tvg-logo="" group-title="SPORT | ALL ",ELEVEN SPORTS 5 | PT
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/175
+#EXTINF:-1, ===SureStreams====
+#EXTINF:-1,btv
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
+#EXTINF:-1,eleven sport 1
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
+#EXTINF:-1,eleven sport 2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
+#EXTINF:-1,eleven sport 3
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
+#EXTINF:-1,eleven sport 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
+#EXTINF:-1,eleven sport 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
+#EXTINF:-1,eleven sport 6
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
+#EXTINF:-1,sporttv 1 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
+#EXTINF:-1,sporttv 2 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
+#EXTINF:-1,sporttv3 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
+#EXTINF:-1,sporttv 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
+#EXTINF:-1,sporttv 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
 
 
 #EXTINF:-1, ===p13====
