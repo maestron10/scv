@@ -1,4 +1,87 @@
 #EXTM3U
+#EXTINF:-1, ===SureStreams====
+#EXTINF:-1,btv
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
+#EXTINF:-1,eleven sport 1
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
+#EXTINF:-1,eleven sport 2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
+#EXTINF:-1,eleven sport 3
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
+#EXTINF:-1,eleven sport 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
+#EXTINF:-1,eleven sport 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
+#EXTINF:-1,eleven sport 6
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
+#EXTINF:-1,sporttv 1 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
+#EXTINF:-1,sporttv 2 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
+#EXTINF:-1,sporttv3 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
+#EXTINF:-1,sporttv 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
+#EXTINF:-1,sporttv 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
+
+#EXTINF:-1, ===fonte.lista====
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7459
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7456
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7453
+#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7449
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7447
+#EXTINF:-1,SPORT TV 1 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7438
+#EXTINF:-1,SPORT TV 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7439
+#EXTINF:-1,SPORT TV 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7435
+#EXTINF:-1,SPORT TV 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7433
+#EXTINF:-1,SPORT TV 4 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
+#EXTINF:-1,SPORT TV 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
+
+#EXTINF:-1, ===Aflax====
+#EXTINF:-1,PT: Benfica TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1497
+#EXTINF:-1,PT: DAZN 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1499
+#EXTINF:-1,PT: DAZN 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1503
+#EXTINF:-1,PT: DAZN 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1506
+#EXTINF:-1,PT: DAZN 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1509
+#EXTINF:-1,PT: DAZN 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1512
+#EXTINF:-1,PT: DAZN 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1515
+#EXTINF:-1,PT: SPORT TV 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
+
+
+
+
+
+
 #EXTINF:-1, ===Bolgenco====
 #EXTINF:-1,PT: SPORT TV 1 
 http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478269
@@ -117,83 +200,6 @@ http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478324
 
 
 
-#EXTINF:-1, ===SureStreams====
-#EXTINF:-1,btv
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
-#EXTINF:-1,eleven sport 1
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
-#EXTINF:-1,eleven sport 2
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
-#EXTINF:-1,eleven sport 3
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
-#EXTINF:-1,eleven sport 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
-#EXTINF:-1,eleven sport 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
-#EXTINF:-1,eleven sport 6
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
-#EXTINF:-1,sporttv 1 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
-#EXTINF:-1,sporttv 2 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
-#EXTINF:-1,sporttv3 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
-#EXTINF:-1,sporttv 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
-#EXTINF:-1,sporttv 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
-
-#EXTINF:-1, ===fonte.lista====
-#EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7459
-#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7456
-#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7453
-#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7449
-#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7447
-#EXTINF:-1,SPORT TV 1 HD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7438
-#EXTINF:-1,SPORT TV 1 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7439
-#EXTINF:-1,SPORT TV 2 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7435
-#EXTINF:-1,SPORT TV 3 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7433
-#EXTINF:-1,SPORT TV 4 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
-#EXTINF:-1,SPORT TV 5 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
-
-#EXTINF:-1, ===Aflax====
-#EXTINF:-1,PT: Benfica TV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1497
-#EXTINF:-1,PT: DAZN 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1499
-#EXTINF:-1,PT: DAZN 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1503
-#EXTINF:-1,PT: DAZN 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1506
-#EXTINF:-1,PT: DAZN 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1509
-#EXTINF:-1,PT: DAZN 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1512
-#EXTINF:-1,PT: DAZN 6
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1515
-#EXTINF:-1,PT: SPORT TV 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
 
 #EXTINF:-1, ===Jeremy====
 http://panelguys.top:8080/linda@randell/075@570/167742
