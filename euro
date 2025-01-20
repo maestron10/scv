@@ -1,29 +1,36 @@
 #EXTM3U
-#EXTINF:-1, ===SureStreams====
-#EXTINF:-1,btv
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
-#EXTINF:-1,eleven sport 1
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
-#EXTINF:-1,eleven sport 2
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
-#EXTINF:-1,eleven sport 3
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
-#EXTINF:-1,eleven sport 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
-#EXTINF:-1,eleven sport 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
-#EXTINF:-1,eleven sport 6
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
-#EXTINF:-1,sporttv 1 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
-#EXTINF:-1,sporttv 2 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
-#EXTINF:-1,sporttv3 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
-#EXTINF:-1,sporttv 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
-#EXTINF:-1,sporttv 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
+#EXTINF:-1, ===Mike2====
+#EXTINF:-1,PT: Sport TV 1 HD
+http://mike2.ca:80/c3qkwb/o561ya/999800
+#EXTINF:-1,PT: Sport TV 2 HD
+http://mike2.ca:80/c3qkwb/o561ya/999799
+#EXTINF:-1,PT: Sport TV 3 HD
+http://mike2.ca:80/c3qkwb/o561ya/795
+#EXTINF:-1,PT: Sport TV 4 HD
+http://mike2.ca:80/c3qkwb/o561ya/999793
+#EXTINF:-1,PT: Sport TV 5 HD
+http://mike2.ca:80/c3qkwb/o561ya/999789
+#EXTINF:-1,PT: Sport TV 6 HD
+http://mike2.ca:80/c3qkwb/o561ya/999788
+#EXTINF:-1,Eleven Sports 1 HD
+http://mike2.ca:80/c3qkwb/o561ya/821
+#EXTINF:-1,Eleven Sports 2 HD
+http://mike2.ca:80/c3qkwb/o561ya/818
+#EXTINF:-1,Eleven Sports 3 HD
+http://mike2.ca:80/c3qkwb/o561ya/814
+#EXTINF:-1,Eleven Sports 4 HD
+http://mike2.ca:80/c3qkwb/o561ya/811
+#EXTINF:-1,Eleven Sports 5 HD
+http://mike2.ca:80/c3qkwb/o561ya/808
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, ===fonte.lista====
 #EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
@@ -77,7 +84,31 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
 #EXTINF:-1,PT: SPORT TV 6
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
 
-
+#EXTINF:-1, ===SureStreams====
+#EXTINF:-1,btv
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
+#EXTINF:-1,eleven sport 1
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
+#EXTINF:-1,eleven sport 2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
+#EXTINF:-1,eleven sport 3
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
+#EXTINF:-1,eleven sport 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
+#EXTINF:-1,eleven sport 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
+#EXTINF:-1,eleven sport 6
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
+#EXTINF:-1,sporttv 1 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
+#EXTINF:-1,sporttv 2 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
+#EXTINF:-1,sporttv3 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
+#EXTINF:-1,sporttv 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
+#EXTINF:-1,sporttv 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
 
 
 
