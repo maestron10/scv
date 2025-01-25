@@ -1,4 +1,31 @@
 #EXTM3U
+
+#EXTINF:-1, ===SureStreams====
+#EXTINF:-1,btv
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
+#EXTINF:-1,eleven sport 1
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
+#EXTINF:-1,eleven sport 2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
+#EXTINF:-1,eleven sport 3
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
+#EXTINF:-1,eleven sport 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
+#EXTINF:-1,eleven sport 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
+#EXTINF:-1,eleven sport 6
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
+#EXTINF:-1,sporttv 1 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
+#EXTINF:-1,sporttv 2 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
+#EXTINF:-1,sporttv3 
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
+#EXTINF:-1,sporttv 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
+#EXTINF:-1,sporttv 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
+
 #EXTINF:-1, ===Mike2====
 #EXTINF:-1,PT: Sport TV 1 HD
 http://mike2.ca:80/c3qkwb/o561ya/999800
@@ -23,10 +50,89 @@ http://mike2.ca:80/c3qkwb/o561ya/811
 #EXTINF:-1,Eleven Sports 5 HD
 http://mike2.ca:80/c3qkwb/o561ya/808
 
+#EXTINF:-1, ===tv mate====
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tvmate.icu:8080/7686199/9576982/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tvmate.icu:8080/7686199/9576982/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tvmate.icu:8080/7686199/9576982/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://tvmate.icu:8080/7686199/9576982/167745
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://tvmate.icu:8080/7686199/9576982/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://tvmate.icu:8080/7686199/9576982/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://tvmate.icu:8080/7686199/9576982/167750
 
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/30550113/30550113/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/30550113/30550113/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/30550113/30550113/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/30550113/30550113/167745
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/30550113/30550113/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/30550113/30550113/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/30550113/30550113/167750
 
+#EXTINF:-1, ===Rafa====
+#EXTINF:-1,Benfica TV
+http://rafadnsvip.live:8080/Mauro/M12345@2024/29
+#EXTINF:-1,Benfica TV (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/30
+#EXTINF:-1,Benfica TV 
+http://rafadnsvip.live:8080/Mauro/M12345@2024/31016
+#EXTINF:-1,Eleven Sports 1
+http://rafadnsvip.live:8080/Mauro/M12345@2024/52
+#EXTINF:-1,Eleven Sports 1 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/54
+#EXTINF:-1,Eleven Sports 1 âœ¬H265âœ¬
+http://rafadnsvip.live:8080/Mauro/M12345@2024/24166
+#EXTINF:-1,Eleven Sports 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/55
+#EXTINF:-1,Eleven Sports 2 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/57
+#EXTINF:-1,Eleven Sports 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/24167
+#EXTINF:-1,Eleven Sports 3
+http://rafadnsvip.live:8080/Mauro/M12345@2024/58
+#EXTINF:-1,Eleven Sports 3 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/60
+#EXTINF:-1,Eleven Sports 4
+http://rafadnsvip.live:8080/Mauro/M12345@2024/284
+#EXTINF:-1,Eleven Sports 4 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/61
+#EXTINF:-1,Eleven Sports 5
+http://rafadnsvip.live:8080/Mauro/M12345@2024/286
+#EXTINF:-1,Eleven Sports 5 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/62
 
-
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sport TV 1
+http://rafadnsvip.live:8080/Mauro/M12345@2024/31013
+#EXTINF:-1,Sport TV 1 
+http://rafadnsvip.live:8080/Mauro/M12345@2024/22171
+#EXTINF:-1,Sport TV 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/37
+#EXTINF:-1,Sport TV 2 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/50
+#EXTINF:-1,Sport TV 3
+http://rafadnsvip.live:8080/Mauro/M12345@2024/38
+#EXTINF:-1,Sport TV 3 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/51
+#EXTINF:-1,Sport TV 4
+http://rafadnsvip.live:8080/Mauro/M12345@2024/39
+#EXTINF:-1,Sport TV 4 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/14143
+#EXTINF:-1,Sport TV 5
+http://rafadnsvip.live:8080/Mauro/M12345@2024/40
+#EXTINF:-1,Sport TV 5 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/283
 
 
 
@@ -84,149 +190,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
 #EXTINF:-1,PT: SPORT TV 6
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
 
-#EXTINF:-1, ===SureStreams====
-#EXTINF:-1,btv
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
-#EXTINF:-1,eleven sport 1
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
-#EXTINF:-1,eleven sport 2
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
-#EXTINF:-1,eleven sport 3
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
-#EXTINF:-1,eleven sport 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
-#EXTINF:-1,eleven sport 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
-#EXTINF:-1,eleven sport 6
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
-#EXTINF:-1,sporttv 1 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
-#EXTINF:-1,sporttv 2 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
-#EXTINF:-1,sporttv3 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
-#EXTINF:-1,sporttv 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
-#EXTINF:-1,sporttv 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
 
 
 
 
 #EXTINF:-1, ===Bolgenco====
-#EXTINF:-1,PT: SPORT TV 1 
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478269
-#EXTINF:-1,PT: SPORT TV 1 Hevc
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478270
-#EXTINF:-1,PT: SPORT TV 1 (extra1) 
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478271
-#EXTINF:-1,PT: SPORT TV 1 FHD 
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478272
-#EXTINF:-1,PT: SPORT TV 1 FHD (extra1)
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478273
-#EXTINF:-1,PT: SPORT TV 1 FHD 
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478274
-#EXTINF:-1,PT: SPORT TV 1 HD 
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478275
-#EXTINF:-1,PT: SPORT TV 2 Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478276
-#EXTINF:-1,PT: SPORT TV 2 FHD (extra1) Ê³áµƒÊ·
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478277
-#EXTINF:-1,PT: SPORT TV 2 FHD Ê³áµƒÊ·
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478278
-#EXTINF:-1,PT: SPORT TV 2 FHD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478279
-#EXTINF:-1,PT: SPORT TV 2  (extra1) Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478280
-#EXTINF:-1,PT: SPORT TV 2 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478281
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478282
-#EXTINF:-1,PT: SPORT TV 3 Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478283
-#EXTINF:-1,PT: SPORT TV 3 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478284
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478285
-#EXTINF:-1,PT: SPORT TV 4 Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478286
-#EXTINF:-1,PT: SPORT TV 4 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478287
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478288
-#EXTINF:-1,PT: SPORT TV 5 Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478289
-#EXTINF:-1,PT: SPORT TV 5 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478290
-#EXTINF:-1,PT: SPORT TV 6 FHD Ê³áµƒÊ·
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478291
-#EXTINF:-1,PT: SPORT TV 6 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478292
-#EXTINF:-1,PT: SPORT TV 6
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478293
-#EXTINF:-1,PT: SPORT TV 7 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478294
-#EXTINF:-1,PT: SPORT TV 7 HDÊ°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478295
-#EXTINF:-1,PT: SPORT TV 7 Ê³áµƒÊ·
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478296
-#EXTINF:-1,PT: SPORT TV NBA FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478297
-#EXTINF:-1,PT: SPORT TV NBA HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478298
-#EXTINF:-1,PT: SPORT TV NBA Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478299
-#EXTINF:-1,PT: DAZN 1 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478300
-#EXTINF:-1,PT: DAZN 1 Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478301
-#EXTINF:-1,PT: DAZN 1 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478302
-#EXTINF:-1,PT: DAZN 2 SD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478303
-#EXTINF:-1,PT: DAZN 2 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478304
-#EXTINF:-1,PT: DAZN 2 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478305
-#EXTINF:-1,PT: DAZN 2 FHD VIP
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478306
-#EXTINF:-1,PT: DAZN 3 SD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478307
-#EXTINF:-1,PT: DAZN 3 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478308
-#EXTINF:-1,PT: DAZN 3 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478309
-#EXTINF:-1,PT: DAZN 4 SD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478310
-#EXTINF:-1,PT: DAZN 4 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478311
-#EXTINF:-1,PT: DAZN 4 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478312
-#EXTINF:-1,PT: DAZN 5 SD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478313
-#EXTINF:-1,PT: DAZN 5 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478314
-#EXTINF:-1,PT: DAZN 5 HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478315
-#EXTINF:-1,PT: DAZN 6 FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478316
-#EXTINF:-1,PT: DAZN 6 SD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478317
-#EXTINF:-1,PT: BENFICA
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478318
-#EXTINF:-1,PT: BENFICA TV UHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478319
-#EXTINF:-1,PT: BENFICA TV FHD
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478320
-#EXTINF:-1,PT: BENFICA TV FHD (NOS)
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478321
-#EXTINF:-1,PT: BENFICA TV FHD (MEO)
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478322
-#EXTINF:-1,PT: BENFICA TV HD Ê°áµ‰áµ›á¶œ XTRA
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478323
-#EXTINF:-1,PT: BENFICA TV HD Ê°áµ‰áµ›á¶œ
-http://bolgenco.xyz:2082/Adrian3conex/CWEkQs8pQKXd/478324
-
 
 
 
