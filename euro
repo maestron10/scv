@@ -26,6 +26,30 @@ http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
 #EXTINF:-1,sporttv 5
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
 
+#EXTINF:-1, ===Playlist====
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147219.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147220.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147221.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147222.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147223.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/147224.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104077.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104079.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104081.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104082.mpegts
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 5 HD
+http://play.1list.vip/live/nicolas050421/33hqo8y5u18/104085.mpegts
+
 #EXTINF:-1, ===Mike2====
 #EXTINF:-1,PT: Sport TV 1 HD
 http://mike2.ca:80/c3qkwb/o561ya/999800
