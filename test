@@ -29,6 +29,34 @@ http://195.23.75.15:8000/udp/239.100.6.22:1234
 http://195.23.75.15:8000/udp/239.100.6.24:1234
 #EXTINF:-1,Sport TV 5 HD 🇵🇹
 http://195.23.75.15:8000/udp/239.100.6.25:1234
+#EXTINF:-1, ===Ky-tv====
+#EXTINF:-1,PT: BENFICA TV (BTV) FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399240.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399398.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399401.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399404.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399407.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399410.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399286.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399289.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399292.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399295.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399298.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://ky-iptv.com:80/MsLady2024/2024MsLady/399301.ts
+
+
+
 #EXTINF:-1, ===tv mate====
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://tvmate.icu:8080/7686199/9576982/167742
