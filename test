@@ -1,238 +1,30 @@
 #EXTM3U
-#EXTINF:-1,=== BTV ===
-#EXTINF:-1,btv
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/27
-#EXTINF:-1,PT - BTV HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763941
-#EXTINF:-1,PT - BTV FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763939
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/SCrzeyi.png",[PT] BTV
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147219.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Benfica TV
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660660
-#EXTINF:-1 group-title="PT: DESPORTO",PT: BTV HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
-#EXTINF:-1,PT: BTV HD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm8rsOq1K2gpFqTwgGJyZjC8/ts
-#EXTINF:-1,NZ: Sky Sport 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302396
-#EXTINF:-1,AU: Optus Sport 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302777
-#EXTINF:-1,PT: Palace
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298380
-
-
-#EXTINF:-1,=== DAZN 1 ===
-#EXTINF:-1,PT: DAZN 1
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
-#EXTINF:-1,PT: DAZN 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1499
-#EXTINF:-1,PT - DAZN 1 
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763969
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 1
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147220.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 1
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660582
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm1dFQPUpzpBOCS1YinvoVpU/ts
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://206.212.244.71:8080/Abxc5k/363887/35264
-#EXTINF:-1,PT | DAZN 1 HD
-http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN SPORTS 1 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | ELEVEN SPORTS 1 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423414
-
-
-#EXTINF:-1,=== DAZN 2 ===
-#EXTINF:-1,PT: DAZN 2
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
-#EXTINF:-1,PT: DAZN 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1503
-#EXTINF:-1,PT - DAZN 2 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763971
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 2
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147221.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 2
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660581
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm6o71WmxxOt4l--iYHtFwgc/ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN SPORTS 2 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | ELEVEN SPORTS 2 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423415
-
-#EXTINF:-1,=== DAZN 3 ===
-#EXTINF:-1,PT: DAZN 3
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
-#EXTINF:-1,PT: DAZN 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1506
-#EXTINF:-1,PT - DAZN 3 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763973
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 3
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147222.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 3
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660580
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm-AOEgGfZHkACHFS3mURw0g/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://206.212.244.71:8080/Abxc5k/363887/167748
-
-#EXTINF:-1,=== DAZN 4 ===
-#EXTINF:-1,PT: DAZN 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
-#EXTINF:-1,PT: DAZN 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1509
-#EXTINF:-1,PT - DAZN 4 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763975
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 4
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147223.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 4
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660579
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmy-Y3U0OCmqa8WdbSbmRa_M/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://206.212.244.71:8080/Abxc5k/363887/167749
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN SPORTS 4 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | ELEVEN SPORTS 4 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423417
-
-#EXTINF:-1,=== DAZN 5 ===
-#EXTINF:-1,PT: DAZN 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
-#EXTINF:-1,PT: DAZN 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1512
-#EXTINF:-1,PT - DAZN 5 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/763977
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/PIlaclg.png",[PT] Eleven Sports 5
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147224.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dazn 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Dazn 5
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660578
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmxLM6TVkvUmRv-gr7cWAf8M/ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://206.212.244.71:8080/Abxc5k/363887/167750
-
-#EXTINF:-1,=== SPORT TV 1 ===
-#EXTINF:-1,PT: SPORT TV 1 
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
-#EXTINF:-1,PT: SPORT TV 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
-#EXTINF:-1,PT - SPORT TV 1 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68419
-#EXTINF:-1,PT -  SPORT TV 1 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1030794
-#EXTINF:-1,PT | SPORT TV 1 HD
-http://cord-cutter.net:8080/25464931/30585186/167742
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 1 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104077.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTTV 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: SPORTTV 1
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660584
 #EXTINF:-1,PT: SPORT TV 1 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkmwGnmsVAtHbGddvQBgQrxLI/ts
-#EXTINF:-1,PT | SPORT TV 1 HD
-http://206.212.244.71:8080/Abxc5k/363887/167742
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 1 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423418
-
-#EXTINF:-1,=== SPORT TV 2 ===
-#EXTINF:-1,PT: SPORT TV 2
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
-#EXTINF:-1,PT: SPORT TV 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
-#EXTINF:-1,PT - SPORT TV 2 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764059
-#EXTINF:-1,PT | SPORT TV 2 FHD
-http://cord-cutter.net:8080/25464931/30585186/167743
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 2 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104079.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: SportTV 2
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660583
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm4mkXUpCrdAwBSD_mAD3m9I/ts
-#EXTINF:-1,PT | SPORT TV 2 FHD
-http://206.212.244.71:8080/Abxc5k/363887/167743
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 2 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423419
-
-#EXTINF:-1,=== SPORT TV 3 ===
-#EXTINF:-1,PT: SPORT TV 3
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
-#EXTINF:-1,PT: SPORT TV 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
-#EXTINF:-1,PT -  SPORT TV 3 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1030798
-#EXTINF:-1,PT | SPORT TV 3 FHD
-http://cord-cutter.net:8080/25464931/30585186/167744
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 3 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104081.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 3
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660576
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3DeBDECyvnON6v773uqJ48/ts
+http://cord-cutter.net:8080/zcJ8BG/214917/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/zcJ8BG/214917/167743
 #EXTINF:-1,PT: SPORT TV 3 HD
-http://206.212.244.71:8080/Abxc5k/363887/167744
-#EXTINF:-1 tvg-id="" tvg-name="PT |SPORT TV 3 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT |SPORT TV 3 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423420
-
-#EXTINF:-1,=== SPORT TV 4 ===
-#EXTINF:-1,PT: SPORT TV 4
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
-#EXTINF:-1,PT: SPORT TV 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
-#EXTINF:-1,PT - SPORT TV 4 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764062
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/cHPEBRJ.png",[PT] SporTV 4 HD
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/104082.mpegts
-#EXTINF:-1,PT | SPORT TV 4 HD
-http://cord-cutter.net:8080/25464931/30585186/167745
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 4
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660575
+http://cord-cutter.net:8080/zcJ8BG/214917/167744
 #EXTINF:-1,PT: SPORT TV 4 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm5eE76Ixya9LzavSpSAfalo/ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 4 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423421
+http://cord-cutter.net:8080/zcJ8BG/214917/167745
+#EXTINF:-1,PT Eleven Sports 1 FHD 
+http://cord-cutter.net:8080/zcJ8BG/214917/35264
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/zcJ8BG/214917/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/zcJ8BG/214917/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/zcJ8BG/214917/167750
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://cord-cutter.net:8080/zcJ8BG/214917/136726
 
-#EXTINF:-1,=== SPORT TV 5 ===
-#EXTINF:-1,PT: SPORT TV 5
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
-#EXTINF:-1,PT: SPORT TV 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
-#EXTINF:-1,PT - SPORT TV 5 FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764064
-#EXTINF:-1,PT -  SPORT TV 5 HD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1054413
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/EyAe1Hg.png",[PT] SporTV 5
-http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147196.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: Sport TV 5
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660574
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://home-playtv.com:80/play/Hw5xl_wgDBsYeY0NKsEkm3Jse8BiSVFn_TIZ3Cn_s1E/ts
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5 HD" tvg-logo="" group-title="WS | WORLD SPORTS âš½",PT | SPORT TV 5 HD
-http://103.161.34.173:8080/tur2001kes/gkmp8t42dnww/423422
-
-#EXTINF:-1,=== TV CINE ===
-#EXTINF:-1,PT - TV CINE TOP FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764098
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE TOP FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117802
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Top" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Top
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660568
-
-#EXTINF:-1,PT - TV CINE EDITION FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764094
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE EDITION FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117803
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Edition" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Edition
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660570
-
-#EXTINF:-1,PT - TV CINE EMOTION FHD
-http://samisat44.xyz:80/5XF88W5/A38UYQV/764096
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE EMOTION FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117804
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Emotion" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Emotion
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660569
-
-#EXTINF:-1,PT - TV CINE ACTION
-http://samisat44.xyz:80/5XF88W5/A38UYQV/68400
-#EXTINF:-1 group-title="PT: FILMES",PT: TVCINE ACTION FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117805
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV Cine Action" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/046/644/original/portugal-flag-with-grunge-texture-png.png" group-title="PORTUGUESE",PT: TV Cine Action
-http://defaultgen.com:3050/jeremy.garcia@me.com/IAEqn06rY4/660571
-
+#EXTINF:-1,Sport TV 1 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.21:1234
+#EXTINF:-1,Sport TV 3 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.23:1234
+#EXTINF:-1,Sport TV 2 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.22:1234
+#EXTINF:-1,Sport TV 4 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.24:1234
+#EXTINF:-1,Sport TV 5 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.25:1234
