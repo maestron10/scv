@@ -1,170 +1,22 @@
 #EXTM3U
-#EXTINF:-1,PT: Eleven Sport 1 HD
-http://1111.wf:80/464331343/8857723/273450
-#EXTINF:-1,PT: Eleven Sport 2 HD
-http://1111.wf:80/464331343/8857723/273451
-#EXTINF:-1,PT: Eleven Sport 3 HD
-http://1111.wf:80/464331343/8857723/273452
-#EXTINF:-1,PT: Eleven Sport 5 HD
-http://1111.wf:80/464331343/8857723/273453
-#EXTINF:-1,PT: Eleven Sport 6 HD
-http://1111.wf:80/464331343/8857723/273454
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT | TVI REALITY
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9389
-
 #EXTINF:-1, ===ultra-box====
 
 #EXTINF:-1, ===shortdns====
 
 
 #EXTINF:-1, ===smart====
-#EXTINF:-1,PT: Benfica TV
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521593
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521629
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521631
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521633
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521635
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521637
-#EXTINF:-1,PT: SPORT TV 1
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/3099
-#EXTINF:-1,PT: SPORT TV 2
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521723
-#EXTINF:-1,PT: SPORT TV 3
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/3101
-#EXTINF:-1,PT: SPORT TV 4
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/521725
-#EXTINF:-1,PT: SPORT TV 5
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/3103
-#EXTINF:-1,TVI REALITY HD
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/3069
+
 #EXTINF:-1, ===aginaldo====
-#EXTINF:-1,PT: Benfica TV
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191271.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191277.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191281.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191284.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191287.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191291.ts
-#EXTINF:-1,PT: SPORT TV 1
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191243.ts
-#EXTINF:-1,PT: SPORT TV 2
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191248.ts
-#EXTINF:-1,PT: SPORT TV 3
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191252.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191256.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191260.ts
-#EXTINF:-1,PT: SPORT TV 6
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191264.ts
-#EXTINF:-1,TVI REALITY HD
-http://bdta.pro:80/aguinaldo9431/tvbox15R/191350.ts
-
-
-#EXTINF:-1, ===Carlos Ferreira====
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport.TV1 ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/38
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport.TV2ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/35
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport.TV3 ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/32
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport.TV4ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/363
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT.TV4ᶠᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/1992
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport.TV5ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport.TV6ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/60546
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Benfica TVᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Benfica TVᶠᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eleven Sports 1ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eleven Sports 2ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/367
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eleven Sports 3ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/365
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eleven Sports 4ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/1990
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eleven Sports 5ᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/60547
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Formula 1
-http://iptvplay.xyz:8080/carlosferreira333/333/77955
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto"Fórmula 1 TV HD
-http://iptvplay.xyz:8080/carlosferreira333/333/79393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI Realityᴴᴰ
-http://iptvplay.xyz:8080/carlosferreira333/333/21424
-
 
 #EXTINF:-1, ===tktop====
 
 
 #EXTINF:-1, ==ACAIDOPARA====
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1529
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Benfica TV HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2385
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 3 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2391
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 4 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eleven Sports 5 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/2405
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1514
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 2 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1517
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 3 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 4 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1523
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 5 HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1526
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality HD
-http://dns.acaidopara.net:8080/5087405929/7405929508/1489
+
 
 
 
 #EXTINF:-1, ===mohdtv====
-#EXTINF:-1,PT: Benfica TV
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/3238
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/49966
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/49032
-
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29370
-
-#EXTINF:-1,PT: SPORT TV 1
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29392
-#EXTINF:-1,PT: SPORT TV 2
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29391
-#EXTINF:-1,PT060:Sport TV 3 HD
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29390
-#EXTINF:-1,PT061:Sport TV 4 HD
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29389
-#EXTINF:-1,PT062:Sport TV 5 HD
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/3188
-#EXTINF:-1,PT081:TVI Reality
-http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29409
 
 
 
@@ -172,21 +24,3 @@ http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/29409
 
 
 #EXTINF:-1, ===Hubs====
-#EXTINF:-1,PT - Benfica TV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61981
-#EXTINF:-1,PT - BTV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61984
-#EXTINF:-1,PT - SPORT TV 1 HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62071
-#EXTINF:-1,PT - Sport TV 2
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62079
-#EXTINF:-1,PT - SPORT TV 3 
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/74595
-#EXTINF:-1,PT - SPORT TV 4 HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62074
-#EXTINF:-1,PT - Sport TV 5
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62082
-#EXTINF:-1,PT - TVI Reality
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62108
-
-
