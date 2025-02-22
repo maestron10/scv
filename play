@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1, ===Pro.LSS====
+#EXTINF:-1,PT: BTV FHD
+http://pro.lsscover.cc:8080/882471/4643685/392083
+#EXTINF:-1,PT: BTV 1 FHD (extra)
+http://pro.lsscover.cc:8080/882471/4643685/392084
+#EXTINF:-1,PT: DAZN Eleven Sports 1 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392087
+#EXTINF:-1,PT: DAZN Eleven Sports 2 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392090
+#EXTINF:-1,PT: DAZN Eleven Sports 3 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392093
+#EXTINF:-1,PT: DAZN Eleven Sports 4 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392096
+#EXTINF:-1,PT: DAZN Eleven Sports 5 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392099
+#EXTINF:-1,PT: DAZN Eleven Sports 6 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392102
+#EXTINF:-1,PT: Sport Tv 1 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392062
+#EXTINF:-1,PT: Sport Tv 1 FHD (extra)
+http://pro.lsscover.cc:8080/882471/4643685/392063
+#EXTINF:-1,PT: Sport Tv 2 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392068
+#EXTINF:-1,PT: Sport Tv 3 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392072
+#EXTINF:-1,PT: Sport Tv 4 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392077
+#EXTINF:-1,PT: Sport Tv 5 FHD
+http://pro.lsscover.cc:8080/882471/4643685/392080
+
 #EXTINF:-1, ===AFRB====
 #EXTINF:-1,PT: BENFICA TV FHD
 http://afbr9.7zz8.xyz:80/BDGF31017/GDTF483742E/868629
@@ -116,8 +146,31 @@ http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195613
 #EXTINF:-1,SPORT TV 5 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
 http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195611
 
-#EXTINF:-1, ===Fiber====
-
+#EXTINF:-1, ===Wanice====
+#EXTINF:-1,PT011:Benfica TV 1 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/3239
+#EXTINF:-1,PT157:Eleven Sports 1 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/49966
+#EXTINF:-1,PT159:Eleven Sports 2 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/49032
+#EXTINF:-1,PT119:Eleven Sports 3 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/29371
+#EXTINF:-1,PT120:Eleven Sports 4 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/29370
+#EXTINF:-1,PT158:SPORT TV 5 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/49958
+#EXTINF:-1,PT098:SPORT TV 1 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/29392
+#EXTINF:-1,PT099:SPORT TV 2 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/29391
+#EXTINF:-1,PT100:SPORT TV 3 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/29390
+#EXTINF:-1,PT101:SPORT TV 4 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/29389
+#EXTINF:-1,PT158:SPORT TV 5 FHD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/49958
+#EXTINF:-1,PT062:Sport TV 5 HD
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/3188
 #EXTINF:-1, ===tktop====
 
 
