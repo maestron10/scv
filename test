@@ -19,45 +19,6 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167749.ts
 #EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•5_PT
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167750.ts
 
-#EXTINF:-1, ===CanalPro====
-#EXTINF:-1,PT : SPORT TV 1 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269597
-#EXTINF:-1,PT : SPORT TV 1 FHD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269598
-#EXTINF:-1,PT : SPORT TV 2 FHD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269591
-#EXTINF:-1,PT : SPORT TV 3 HD°
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269583
-#EXTINF:-1,PT : SPORT TV 4 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269577
-#EXTINF:-1,PT : SPORT TV 5 HD 
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269570
-#EXTINF:-1,PT : ELEVEN SPORTS 1 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269641
-#EXTINF:-1,PT : ELEVEN SPORTS 1 FHD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269642
-#EXTINF:-1,PT : ELEVEN SPORTS 1
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269643
-#EXTINF:-1,PT : ELEVEN SPORTS 2 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269632
-#EXTINF:-1,PT : ELEVEN SPORTS 2 FHD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269633
-#EXTINF:-1,PT : ELEVEN SPORTS 2  HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269637
-#EXTINF:-1,PT : ELEVEN SPORTS 3 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269628
-#EXTINF:-1,PT : ELEVEN SPORTS 3 HD 
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269629
-#EXTINF:-1,PT : ELEVEN SPORTS 4 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269625
-#EXTINF:-1,PT : ELEVEN SPORTS 4 FHD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269626
-#EXTINF:-1,PT : ELEVEN SPORTS 5 HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269622
-#EXTINF:-1,PT : ELEVEN SPORTS 5 FHD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269623
-#EXTINF:-1,PT : BENFICA TV HD
-http://canal-pro.xyz:8080/PLAYLIFE@2024*/EeN3GBnSxaQf/269553
 
 #EXTINF:-1, ===CordCutter====
 #EXTINF:-1,PT: SPORT TV 1 FHD
@@ -79,17 +40,7 @@ http://cord-cutter.net:8080/zcJ8BG/214917/167750
 #EXTINF:-1,PT BENFICA TV HD  (P)
 http://cord-cutter.net:8080/zcJ8BG/214917/136726
 
-#EXTINF:-1, ===195====
-#EXTINF:-1,Sport TV 1 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.21:1234
-#EXTINF:-1,Sport TV 3 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.23:1234
-#EXTINF:-1,Sport TV 2 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.22:1234
-#EXTINF:-1,Sport TV 4 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.24:1234
-#EXTINF:-1,Sport TV 5 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.25:1234
+
 
 #EXTINF:-1, ===Ky-tv====
 
