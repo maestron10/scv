@@ -77,36 +77,29 @@ http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156785
 #EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5 HD" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png" group-title="Portugal",PT | SPORT TV 5 HD
 http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156764
 
-#EXTINF:-1, ===Pro.LSS====
-#EXTINF:-1,PT: BTV FHD
-http://pro.lsscover.cc:8080/882471/4643685/392083
-#EXTINF:-1,PT: BTV 1 FHD (extra)
-http://pro.lsscover.cc:8080/882471/4643685/392084
-#EXTINF:-1,PT: DAZN Eleven Sports 1 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392087
-#EXTINF:-1,PT: DAZN Eleven Sports 2 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392090
-#EXTINF:-1,PT: DAZN Eleven Sports 3 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392093
-#EXTINF:-1,PT: DAZN Eleven Sports 4 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392096
-#EXTINF:-1,PT: DAZN Eleven Sports 5 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392099
-#EXTINF:-1,PT: DAZN Eleven Sports 6 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392102
-#EXTINF:-1,PT: Sport Tv 1 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392062
-#EXTINF:-1,PT: Sport Tv 1 FHD (extra)
-http://pro.lsscover.cc:8080/882471/4643685/392063
-#EXTINF:-1,PT: Sport Tv 2 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392068
-#EXTINF:-1,PT: Sport Tv 3 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392072
-#EXTINF:-1,PT: Sport Tv 4 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392077
-#EXTINF:-1,PT: Sport Tv 5 FHD
-http://pro.lsscover.cc:8080/882471/4643685/392080
-
+#EXTINF:-1, ===Newton====
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386487
+#EXTINF:-1,PT: ELEVEN SPORTS 1 4K
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386461
+#EXTINF:-1,PT: ELEVEN SPORTS 3 4K
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386459
+#EXTINF:-1,PT: ELEVEN SPORTS 2 4K
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386460
+#EXTINF:-1,PT: ELEVEN SPORTS 4 4K
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386458
+#EXTINF:-1,PT: ELEVEN SPORTS 5 4K
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386457
+#EXTINF:-1,PT: SPORT TV 1
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386381
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386380
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589153
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386378
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589154
 #EXTINF:-1, ===AFRB====
 
 #EXTINF:-1,PT: BENFICA TV FHD
