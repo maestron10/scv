@@ -190,8 +190,31 @@ http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195613
 http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195611
 
 
-#EXTINF:-1, ===tktop====
-
+#EXTINF:-1, ===starlite====
+#EXTINF:-1 tvg-id="benfica.pt" tvg-name="benfica.pt" tvg-logo="https://media.starlite.best/benfica.pt.png" group-title="Portugal",Benfica
+https://starlite.best/api/stream/smart/smart/livetv.epg/benfica.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 1 HD
+https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.1.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 2 HD
+https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.2.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 3 HD
+https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.3.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 4 HD
+https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.4.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 5 HD
+https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.5.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 6 HD
+https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.6.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",SPORT TV 1
+https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv1.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",SPORT TV 2
+https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv2.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",SPORT TV 3
+https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv3.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",SPORT TV 4
+https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv4.pt.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",SPORT TV 5
+https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv5.pt.m3u8
 
 #EXTINF:-1, ==ACAIDOPARA====
 
