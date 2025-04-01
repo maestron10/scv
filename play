@@ -1,33 +1,30 @@
 #EXTM3U
-#EXTINF:-1, ===Mario====
-#EXTINF:-1,BENFICA TV HD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/76
-#EXTINF:-1,BENFICA TV FHD (Cabo)
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/22341
-#EXTINF:-1,BENFICA TV FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/78
-#EXTINF:-1,DAZN 1 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/81
-#EXTINF:-1,DAZN 2 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/85
-#EXTINF:-1,DAZN 3 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/89
-#EXTINF:-1,DAZN 4 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/18924
-#EXTINF:-1,DAZN 5 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/92
-#EXTINF:-1,SPORT TV 1 HD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/17164
-#EXTINF:-1,SPORT TV 1 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/48
-#EXTINF:-1,SPORT TV 2 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/55
-#EXTINF:-1,SPORT TV 3 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/61
-#EXTINF:-1,SPORT TV 4 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/66
-#EXTINF:-1,SPORT TV 5 FHD
-http://185.141.26.76:8080/MarioTP1/bAjeDNXKC4K8/69
+#EXTINF:-1, ===Luis Dinis====
+#EXTINF:-1,BTV ᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195597
+#EXTINF:-1,BTV ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195596
+#EXTINF:-1,DAZN 1 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195608
+#EXTINF:-1,DAZN 2 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195606
+#EXTINF:-1,DAZN 3 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195604
+#EXTINF:-1,DAZN 4 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195602
+#EXTINF:-1,DAZN 5 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195600
+#EXTINF:-1,SPORT TV 1 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195619
+#EXTINF:-1,SPORT TV 2 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195617
+#EXTINF:-1,SPORT TV 3 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195615
+#EXTINF:-1,SPORT TV 4 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195613
+#EXTINF:-1,SPORT TV 5 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
+http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195611
+
 
 #EXTINF:-1, ===Supersonic====
 #EXTINF:-1,PT BENFICA TV 1 HD
@@ -102,119 +99,17 @@ http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386378
 http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589154
 #EXTINF:-1, ===AFRB====
 
-#EXTINF:-1,PT: BENFICA TV FHD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/868629.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HEVC
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/916213.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/969960.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3ᶠᴴᴰ HD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/974617.ts
-#EXTINF:-1,PT: ELEVEN SPORT 4 FHD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/994158.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/1059554.ts
-#EXTINF:-1,PT: SPORT TV 2 SD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/798248.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/1059899.ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://afd4f.77xxs.xyz:80/live/Torres0512/Akemtedmw122/898453.ts
 
 
 #EXTINF:-1, ===XXX====
-#EXTINF:-1,PT| Benfica TV
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187482
-#EXTINF:-1,PT| Benfica TV ᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187483
-#EXTINF:-1,PT| Eleven Sports 1 ᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187469
-#EXTINF:-1,PT| Eleven Sports 1 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187470
-#EXTINF:-1,PT| Eleven Sports 2 ᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187472
-#EXTINF:-1,PT| Eleven Sports 2 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187473
-#EXTINF:-1,PT| Eleven Sports 3 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187475
-#EXTINF:-1,PT| Eleven Sports 4 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187477
-#EXTINF:-1,PT| Eleven Sports 5 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187479
-#EXTINF:-1,PT| Sport TV 1
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187452
-#EXTINF:-1,PT| Sport TV 1 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187454
-#EXTINF:-1,PT| Sport TV 2 ᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187456
-#EXTINF:-1,PT| Sport TV 2 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187457
-#EXTINF:-1,PT| Sport TV 3 ᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187459
-#EXTINF:-1,PT| Sport TV 3 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187460
-#EXTINF:-1,PT| Sport TV 4
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187461
-#EXTINF:-1,PT| Sport TV 4 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187462
-#EXTINF:-1,PT| Sport TV 5
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187463
-#EXTINF:-1,PT| Sport TV 5 ᵁᴴᴰ
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/187464
 
 
-#EXTINF:-1, ===Luis Dinis====
-#EXTINF:-1,BTV ᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195597
-#EXTINF:-1,BTV ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195596
-#EXTINF:-1,DAZN 1 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195608
-#EXTINF:-1,DAZN 2 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195606
-#EXTINF:-1,DAZN 3 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195604
-#EXTINF:-1,DAZN 4 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195602
-#EXTINF:-1,DAZN 5 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195600
-#EXTINF:-1,SPORT TV 1 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195619
-#EXTINF:-1,SPORT TV 2 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195617
-#EXTINF:-1,SPORT TV 3 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195615
-#EXTINF:-1,SPORT TV 4 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195613
-#EXTINF:-1,SPORT TV 5 ᶠᴴᴰ ᴾᴿᴵᴹᴱ
-http://iter.namelit.xyz:80/LuisDinis1210/mQzuSrDp1v/195611
+
+
 
 
 #EXTINF:-1, ===starlite====
-#EXTINF:-1 tvg-id="benfica.pt" tvg-name="benfica.pt" tvg-logo="https://media.starlite.best/benfica.pt.png" group-title="Portugal",Benfica
-https://starlite.best/api/stream/smart/smart/livetv.epg/benfica.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 1 HD
-https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.1.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 2 HD
-https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.2.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 3 HD
-https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.3.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 4 HD
-https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.4.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 5 HD
-https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.5.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 6 HD
-https://starlite.best/api/stream/smart/smart/livetv.epg/eleven.sports.6.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",SPORT TV 1
-https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv1.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",SPORT TV 2
-https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv2.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",SPORT TV 3
-https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv3.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",SPORT TV 4
-https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv4.pt.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",SPORT TV 5
-https://starlite.best/api/stream/smart/smart/livetv.epg/sport.tv5.pt.m3u8
+
 
 #EXTINF:-1, ==ACAIDOPARA====
 
