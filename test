@@ -1,23 +1,88 @@
 #EXTM3U
-#EXTINF:-1, ===Fortv====
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•1_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•2_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•3_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•4_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•1_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167746.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•2_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167747.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•3_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167748.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•4_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167749.ts
-#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•5_PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167750.ts
+#EXTINF:-1, ===dreamxtr====
+#EXTINF:-1,|PT| BENFICA TV ᴴᴰ
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9147
+#EXTINF:-1,|PT| ELEVEN SPORTS 1
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9129
+#EXTINF:-1,|PT| ELEVEN SPORTS 2
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9128
+#EXTINF:-1,|PT| ELEVEN SPORTS 3
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9127
+#EXTINF:-1,|PT| ELEVEN SPORTS 4
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9126
+#EXTINF:-1,|PT| ELEVEN SPORTS 5
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9125
+#EXTINF:-1,|PT| ELEVEN SPORTS 6
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9124
+#EXTINF:-1,|PT| SPORT TV  1 ᵁᴴᴰ
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9079
+#EXTINF:-1,|PT| SPORT TV  1
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9080
+#EXTINF:-1,|PT |SPORT TV  2 ᵁᴴᴰ
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9077
+#EXTINF:-1,|PT| SPORT TV  3 ᵁᴴᴰ
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9075
+#EXTINF:-1,|PT| SPORT TV  4
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9074
+#EXTINF:-1,|PT| SPORT TV 5
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9072
+#EXTINF:-1,|PT| SPORT  TV 6 ᴴᴰ
+http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/225805
+#EXTINF:-1, ===Radartvol====
+#EXTINF:-1,PT: BENFICA TV FHD
+https://appstable.xyz:443/live/Radartvol/123456/206611.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD 1080
+https://appstable.xyz:443/live/Radartvol/123456/206592.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD (back up)
+https://appstable.xyz:443/live/Radartvol/123456/206591.ts
+#EXTINF:-1,PT: Eleven Sports 2 HD
+https://appstable.xyz:443/live/Radartvol/123456/206587.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD 1080
+https://appstable.xyz:443/live/Radartvol/123456/206584.ts
+#EXTINF:-1,PT: Eleven Sports 4 FHD 1080
+https://appstable.xyz:443/live/Radartvol/123456/206580.ts
+#EXTINF:-1,PT: Eleven Sports 5 FHD 1080
+https://appstable.xyz:443/live/Radartvol/123456/206577.ts
+#EXTINF:-1,PT: Eleven Sports 6 FHD 1080
+https://appstable.xyz:443/live/Radartvol/123456/206574.ts
+#EXTINF:-1,PT: Sport TV 1 FHD
+https://appstable.xyz:443/live/Radartvol/123456/206602.ts
+#EXTINF:-1,PT: Sport TV 2 FHD
+https://appstable.xyz:443/live/Radartvol/123456/206599.ts
+#EXTINF:-1,PT: Sport TV 3 FHD
+https://appstable.xyz:443/live/Radartvol/123456/206597.ts
+#EXTINF:-1,PT: Sport TV 4
+https://appstable.xyz:443/live/Radartvol/123456/206595.ts
+#EXTINF:-1,PT: Sport TV 5
+https://appstable.xyz:443/live/Radartvol/123456/206594.ts
+#EXTINF:-1,PT: Sport TV 6
+https://appstable.xyz:443/live/Radartvol/123456/206593.ts
+#EXTINF:-1, ===Samuel====
+#EXTINF:-1,PT: Benfica TV
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660660
+#EXTINF:-1,PT: Dazn 1
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660582
+#EXTINF:-1,PT: Dazn 2
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660581
+#EXTINF:-1,PT: Dazn 3
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660580
+#EXTINF:-1,PT: Dazn 4
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660579
+#EXTINF:-1,PT: Dazn 5
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660578
+#EXTINF:-1,PT: Dazn 6
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660577
+#EXTINF:-1,PT: SPORTTV 1
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660584
+#EXTINF:-1,PT: SportTV 2
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660583
+#EXTINF:-1,PT: Sport TV 3
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660576
+#EXTINF:-1,PT: Sport TV 4
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660575
+#EXTINF:-1,PT: Sport TV 5
+http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660574
+
 
 
 #EXTINF:-1, ===CordCutter====
@@ -140,30 +205,4 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
 #EXTINF:-1,SPORT TV 5 FHD (PPV)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
 
-#EXTINF:-1, ===Aflax====
-#EXTINF:-1,PT: Benfica TV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1497
-#EXTINF:-1,PT: DAZN 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1499
-#EXTINF:-1,PT: DAZN 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1503
-#EXTINF:-1,PT: DAZN 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1506
-#EXTINF:-1,PT: DAZN 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1509
-#EXTINF:-1,PT: DAZN 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1512
-#EXTINF:-1,PT: DAZN 6
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1515
-#EXTINF:-1,PT: SPORT TV 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
+
