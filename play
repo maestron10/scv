@@ -97,11 +97,102 @@ http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589153
 http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386378
 #EXTINF:-1,PT: SPORT TV 5 HD
 http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589154
-#EXTINF:-1, ===AFRB====
+#EXTINF:-1, ===Fortv====
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•1_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•2_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•3_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",SPORTV•4_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•1_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167746.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•2_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167747.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•3_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167748.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•4_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167749.ts
+#EXTINF:-1   tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@LIVE||SPORTS",ELEVEN•5_PT
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167750.ts
 
 
+#EXTINF:-1, ===Rafa====
+#EXTINF:-1,Benfica TV
+http://rafadnsvip.live:8080/Mauro/M12345@2024/29
+#EXTINF:-1,Benfica TV (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/30
+#EXTINF:-1,Benfica TV 
+http://rafadnsvip.live:8080/Mauro/M12345@2024/31016
+#EXTINF:-1,Eleven Sports 1
+http://rafadnsvip.live:8080/Mauro/M12345@2024/52
+#EXTINF:-1,Eleven Sports 1 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/54
+#EXTINF:-1,Eleven Sports 1 âœ¬H265âœ¬
+http://rafadnsvip.live:8080/Mauro/M12345@2024/24166
+#EXTINF:-1,Eleven Sports 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/55
+#EXTINF:-1,Eleven Sports 2 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/57
+#EXTINF:-1,Eleven Sports 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/24167
+#EXTINF:-1,Eleven Sports 3
+http://rafadnsvip.live:8080/Mauro/M12345@2024/58
+#EXTINF:-1,Eleven Sports 3 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/60
+#EXTINF:-1,Eleven Sports 4
+http://rafadnsvip.live:8080/Mauro/M12345@2024/284
+#EXTINF:-1,Eleven Sports 4 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/61
+#EXTINF:-1,Eleven Sports 5
+http://rafadnsvip.live:8080/Mauro/M12345@2024/286
+#EXTINF:-1,Eleven Sports 5 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/62
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sport TV 1
+http://rafadnsvip.live:8080/Mauro/M12345@2024/31013
+#EXTINF:-1,Sport TV 1 
+http://rafadnsvip.live:8080/Mauro/M12345@2024/22171
+#EXTINF:-1,Sport TV 2
+http://rafadnsvip.live:8080/Mauro/M12345@2024/37
+#EXTINF:-1,Sport TV 2 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/50
+#EXTINF:-1,Sport TV 3
+http://rafadnsvip.live:8080/Mauro/M12345@2024/38
+#EXTINF:-1,Sport TV 3 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/51
+#EXTINF:-1,Sport TV 4
+http://rafadnsvip.live:8080/Mauro/M12345@2024/39
+#EXTINF:-1,Sport TV 4 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/14143
+#EXTINF:-1,Sport TV 5
+http://rafadnsvip.live:8080/Mauro/M12345@2024/40
+#EXTINF:-1,Sport TV 5 (FullHD)
+http://rafadnsvip.live:8080/Mauro/M12345@2024/283
 
-#EXTINF:-1, ===XXX====
+#EXTINF:-1, ===fonte.lista====
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7459
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7456
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7453
+#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7449
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7447
+#EXTINF:-1,SPORT TV 1 HD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7438
+#EXTINF:-1,SPORT TV 1 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7439
+#EXTINF:-1,SPORT TV 2 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7435
+#EXTINF:-1,SPORT TV 3 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7433
+#EXTINF:-1,SPORT TV 4 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
+#EXTINF:-1,SPORT TV 5 FHD (PPV)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
 
 
 
