@@ -57,31 +57,21 @@ https://appstable.xyz:443/live/Radartvol/123456/206595.ts
 https://appstable.xyz:443/live/Radartvol/123456/206594.ts
 #EXTINF:-1,PT: Sport TV 6
 https://appstable.xyz:443/live/Radartvol/123456/206593.ts
-#EXTINF:-1, ===Samuel====
-#EXTINF:-1,PT: Benfica TV
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660660
-#EXTINF:-1,PT: Dazn 1
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660582
-#EXTINF:-1,PT: Dazn 2
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660581
-#EXTINF:-1,PT: Dazn 3
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660580
-#EXTINF:-1,PT: Dazn 4
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660579
-#EXTINF:-1,PT: Dazn 5
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660578
-#EXTINF:-1,PT: Dazn 6
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660577
-#EXTINF:-1,PT: SPORTTV 1
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660584
-#EXTINF:-1,PT: SportTV 2
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660583
-#EXTINF:-1,PT: Sport TV 3
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660576
-#EXTINF:-1,PT: Sport TV 4
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660575
-#EXTINF:-1,PT: Sport TV 5
-http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660574
+#EXTINF:-1, ===vipdeluxe====
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6868.m3u
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6869.m3u
+#EXTINF:-1,VIP SPORT: SPORT TV 1 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6863.m3u
+#EXTINF:-1,VIP SPORT: SPORT TV 2 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6864.m3u
+#EXTINF:-1,VIP SPORT: SPORT TV 3 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6865.m3u
+#EXTINF:-1,VIP SPORT: SPORT TV 4 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6866.m3u
+#EXTINF:-1,VIP SPORT: SPORT TV 5 (PT)
+http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6867.m3u
 
 
 
