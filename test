@@ -1,77 +1,56 @@
 #EXTM3U
-#EXTINF:-1, ===dreamxtr====
-#EXTINF:-1,|PT| BENFICA TV ᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9147
-#EXTINF:-1,|PT| ELEVEN SPORTS 1
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9129
-#EXTINF:-1,|PT| ELEVEN SPORTS 2
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9128
-#EXTINF:-1,|PT| ELEVEN SPORTS 3
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9127
-#EXTINF:-1,|PT| ELEVEN SPORTS 4
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9126
-#EXTINF:-1,|PT| ELEVEN SPORTS 5
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9125
-#EXTINF:-1,|PT| ELEVEN SPORTS 6
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9124
-#EXTINF:-1,|PT| SPORT TV  1 ᵁᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9079
-#EXTINF:-1,|PT| SPORT TV  1
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9080
-#EXTINF:-1,|PT |SPORT TV  2 ᵁᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9077
-#EXTINF:-1,|PT| SPORT TV  3 ᵁᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9075
-#EXTINF:-1,|PT| SPORT TV  4
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9074
-#EXTINF:-1,|PT| SPORT TV 5
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9072
-#EXTINF:-1,|PT| SPORT  TV 6 ᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/225805
-#EXTINF:-1, ===Radartvol====
-#EXTINF:-1,PT: BENFICA TV FHD
-https://appstable.xyz:443/live/Radartvol/123456/206611.ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206592.ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD (back up)
-https://appstable.xyz:443/live/Radartvol/123456/206591.ts
-#EXTINF:-1,PT: Eleven Sports 2 HD
-https://appstable.xyz:443/live/Radartvol/123456/206587.ts
-#EXTINF:-1,PT: Eleven Sports 3 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206584.ts
-#EXTINF:-1,PT: Eleven Sports 4 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206580.ts
-#EXTINF:-1,PT: Eleven Sports 5 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206577.ts
-#EXTINF:-1,PT: Eleven Sports 6 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206574.ts
-#EXTINF:-1,PT: Sport TV 1 FHD
-https://appstable.xyz:443/live/Radartvol/123456/206602.ts
-#EXTINF:-1,PT: Sport TV 2 FHD
-https://appstable.xyz:443/live/Radartvol/123456/206599.ts
-#EXTINF:-1,PT: Sport TV 3 FHD
-https://appstable.xyz:443/live/Radartvol/123456/206597.ts
-#EXTINF:-1,PT: Sport TV 4
-https://appstable.xyz:443/live/Radartvol/123456/206595.ts
-#EXTINF:-1,PT: Sport TV 5
-https://appstable.xyz:443/live/Radartvol/123456/206594.ts
-#EXTINF:-1,PT: Sport TV 6
-https://appstable.xyz:443/live/Radartvol/123456/206593.ts
-#EXTINF:-1, ===vipdeluxe====
-#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6868.m3u
-#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6869.m3u
-#EXTINF:-1,VIP SPORT: SPORT TV 1 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6863.m3u
-#EXTINF:-1,VIP SPORT: SPORT TV 2 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6864.m3u
-#EXTINF:-1,VIP SPORT: SPORT TV 3 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6865.m3u
-#EXTINF:-1,VIP SPORT: SPORT TV 4 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6866.m3u
-#EXTINF:-1,VIP SPORT: SPORT TV 5 (PT)
-http://vipdeluxetv.trbluetv.xyz:2095/live/ysr6669/ysr.1905/6867.m3u
+
+
+#EXTINF:-1, ===Iptvestable====
+#EXTINF:-1,PT | BENFICA TV UHD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9351
+#EXTINF:-1,PT | ELEVEN 1 HD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9398
+#EXTINF:-1,PT | ELEVEN 2 HD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9400
+#EXTINF:-1,PT | ELEVEN 3 HD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9401
+#EXTINF:-1,PT | ELEVEN 4 HD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9403
+#EXTINF:-1,PT | ELEVEN 5 HD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9405
+#EXTINF:-1,PT | SPORT TV 1 UHD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9364
+#EXTINF:-1,PT | SPORT TV 2 | UHD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9365
+#EXTINF:-1,PT | SPORT TV 3 FHD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9366
+#EXTINF:-1,PT | SPORT TV 5 HD
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/9441
+
+
+#EXTINF:-1, ===pro.ipcover====
+#EXTINF:-1,PT: BTV FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392083
+#EXTINF:-1,PT: DAZN Eleven Sports 1 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392087
+#EXTINF:-1,PT: DAZN Eleven Sports 2 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392090
+#EXTINF:-1,PT: DAZN Eleven Sports 3 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392093
+#EXTINF:-1,PT: DAZN Eleven Sports 4 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392096
+#EXTINF:-1,PT: DAZN Eleven Sports 5 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392099
+#EXTINF:-1,PT: DAZN Eleven Sports 6 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392102
+#EXTINF:-1,PT: Sport Tv 1 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392062
+#EXTINF:-1,PT: Sport Tv 2 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392068
+#EXTINF:-1,PT: Sport Tv 3 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392072
+#EXTINF:-1,PT: Sport Tv 4 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392077
+#EXTINF:-1,PT: Sport Tv 5 HD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392081
+
+
 
 
 
@@ -104,95 +83,6 @@ http://cord-cutter.net:8080/zcJ8BG/214917/136726
 
 
 #EXTINF:-1, ===tv mate====
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://tvmate.icu:8080/7686199/9576982/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://tvmate.icu:8080/7686199/9576982/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://tvmate.icu:8080/7686199/9576982/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://tvmate.icu:8080/7686199/9576982/167745
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://tvmate.icu:8080/7686199/9576982/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://tvmate.icu:8080/7686199/9576982/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://tvmate.icu:8080/7686199/9576982/167750
 
-#EXTINF:-1, ===Rafa====
-#EXTINF:-1,Benfica TV
-http://rafadnsvip.live:8080/Mauro/M12345@2024/29
-#EXTINF:-1,Benfica TV (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/30
-#EXTINF:-1,Benfica TV 
-http://rafadnsvip.live:8080/Mauro/M12345@2024/31016
-#EXTINF:-1,Eleven Sports 1
-http://rafadnsvip.live:8080/Mauro/M12345@2024/52
-#EXTINF:-1,Eleven Sports 1 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/54
-#EXTINF:-1,Eleven Sports 1 âœ¬H265âœ¬
-http://rafadnsvip.live:8080/Mauro/M12345@2024/24166
-#EXTINF:-1,Eleven Sports 2
-http://rafadnsvip.live:8080/Mauro/M12345@2024/55
-#EXTINF:-1,Eleven Sports 2 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/57
-#EXTINF:-1,Eleven Sports 2
-http://rafadnsvip.live:8080/Mauro/M12345@2024/24167
-#EXTINF:-1,Eleven Sports 3
-http://rafadnsvip.live:8080/Mauro/M12345@2024/58
-#EXTINF:-1,Eleven Sports 3 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/60
-#EXTINF:-1,Eleven Sports 4
-http://rafadnsvip.live:8080/Mauro/M12345@2024/284
-#EXTINF:-1,Eleven Sports 4 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/61
-#EXTINF:-1,Eleven Sports 5
-http://rafadnsvip.live:8080/Mauro/M12345@2024/286
-#EXTINF:-1,Eleven Sports 5 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/62
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sport TV 1
-http://rafadnsvip.live:8080/Mauro/M12345@2024/31013
-#EXTINF:-1,Sport TV 1 
-http://rafadnsvip.live:8080/Mauro/M12345@2024/22171
-#EXTINF:-1,Sport TV 2
-http://rafadnsvip.live:8080/Mauro/M12345@2024/37
-#EXTINF:-1,Sport TV 2 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/50
-#EXTINF:-1,Sport TV 3
-http://rafadnsvip.live:8080/Mauro/M12345@2024/38
-#EXTINF:-1,Sport TV 3 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/51
-#EXTINF:-1,Sport TV 4
-http://rafadnsvip.live:8080/Mauro/M12345@2024/39
-#EXTINF:-1,Sport TV 4 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/14143
-#EXTINF:-1,Sport TV 5
-http://rafadnsvip.live:8080/Mauro/M12345@2024/40
-#EXTINF:-1,Sport TV 5 (FullHD)
-http://rafadnsvip.live:8080/Mauro/M12345@2024/283
-
-#EXTINF:-1, ===fonte.lista====
-#EXTINF:-1,ELEVEN SPORTS 1 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7459
-#EXTINF:-1,ELEVEN SPORTS 2 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7456
-#EXTINF:-1,ELEVEN SPORTS 3 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7453
-#EXTINF:-1,ELEVEN SPORTS 4 HD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7449
-#EXTINF:-1,ELEVEN SPORTS 5 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7447
-#EXTINF:-1,SPORT TV 1 HD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7438
-#EXTINF:-1,SPORT TV 1 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7439
-#EXTINF:-1,SPORT TV 2 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7435
-#EXTINF:-1,SPORT TV 3 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7433
-#EXTINF:-1,SPORT TV 4 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
-#EXTINF:-1,SPORT TV 5 FHD (PPV)
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
 
 
