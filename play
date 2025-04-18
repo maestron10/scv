@@ -30,6 +30,31 @@ http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392077
 #EXTINF:-1,PT: Sport Tv 5 FHD
 http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392080
 
+#EXTINF:-1, ===Wanice====
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+http://wanicelife.com:8880/D12m3967/74185011/3239
+EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT157:Eleven Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT157:Eleven Sports 1 FHD
+http://wanicelife.com:8880/D12m3967/74185011/49966
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT159:Eleven Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT159:Eleven Sports 2 FHD
+http://wanicelife.com:8880/D12m3967/74185011/49032
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT119:Eleven Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT119:Eleven Sports 3 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29371
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT120:Eleven Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT120:Eleven Sports 4 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29370
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:Eleven Sports 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT121:Eleven Sports 5 SD
+http://wanicelife.com:8880/D12m3967/74185011/29369
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT122:Eleven Sports 6 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/" group-title="PT Sports",PT122:Eleven Sports 6 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29368
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29392
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29391
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29390
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+http://wanicelife.com:8880/D12m3967/74185011/29389
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT158:SPORT TV 5 FHD" tvg-logo="" group-title="PT Sports",PT158:SPORT TV 5 FHD
+http://wanicelife.com:8880/D12m3967/74185011/49958
 
 #EXTINF:-1, ===Samuel====
 #EXTINF:-1,PT: Benfica TV
