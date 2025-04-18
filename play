@@ -86,34 +86,6 @@ http://yesimes.oknirvana.club:8880/D12m2446/47772223/49958
 
 
 #EXTINF:-1, ===Radartvol====
-#EXTINF:-1,PT: BENFICA TV FHD
-https://appstable.xyz:443/live/Radartvol/123456/206611.ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206592.ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD (back up)
-https://appstable.xyz:443/live/Radartvol/123456/206591.ts
-#EXTINF:-1,PT: Eleven Sports 2 HD
-https://appstable.xyz:443/live/Radartvol/123456/206587.ts
-#EXTINF:-1,PT: Eleven Sports 3 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206584.ts
-#EXTINF:-1,PT: Eleven Sports 4 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206580.ts
-#EXTINF:-1,PT: Eleven Sports 5 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206577.ts
-#EXTINF:-1,PT: Eleven Sports 6 FHD 1080
-https://appstable.xyz:443/live/Radartvol/123456/206574.ts
-#EXTINF:-1,PT: Sport TV 1 FHD
-https://appstable.xyz:443/live/Radartvol/123456/206602.ts
-#EXTINF:-1,PT: Sport TV 2 FHD
-https://appstable.xyz:443/live/Radartvol/123456/206599.ts
-#EXTINF:-1,PT: Sport TV 3 FHD
-https://appstable.xyz:443/live/Radartvol/123456/206597.ts
-#EXTINF:-1,PT: Sport TV 4
-https://appstable.xyz:443/live/Radartvol/123456/206595.ts
-#EXTINF:-1,PT: Sport TV 5
-https://appstable.xyz:443/live/Radartvol/123456/206594.ts
-#EXTINF:-1,PT: Sport TV 6
-https://appstable.xyz:443/live/Radartvol/123456/206593.ts
 
 
 #EXTINF:-1, ===Supersonic====
@@ -140,29 +112,7 @@ http://supersonictv.live:8080/mwoods/mylife/7711
 #EXTINF:-1,PT SPORT TV 5 HD
 http://supersonictv.live:8080/mwoods/mylife/7714
 
-#EXTINF:-1, ===Rosa Cortes====
-#EXTINF:-1 tvg-id="" tvg-name="PT | Benfica TV HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT | Benfica TV HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156965
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Portugal",PT | ELEVEN 1 HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156725
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Portugal",PT | ELEVEN 2 HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156728
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Portugal",PT | ELEVEN 3 HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156729
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Portugal",PT | ELEVEN 4 HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156731
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1200px-Logo_Eleven_Sports_2020.png" group-title="Portugal",PT | ELEVEN 5 HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156733
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1 UHD" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png" group-title="Portugal",PT | SPORT TV 1 UHD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156697
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2 | UHD" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png" group-title="Portugal",PT | SPORT TV 2 | UHD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156698
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3 FHD" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png" group-title="Portugal",PT | SPORT TV 3 FHD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156699
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4 FHD" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png" group-title="Portugal",PT | SPORT TV 4 FHD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156785
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5 HD" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png" group-title="Portugal",PT | SPORT TV 5 HD
-http://zuiowy.net:8080/Rosacortes2021/3qCunXQfrc/156764
+
 
 #EXTINF:-1, ===Newton====
 #EXTINF:-1,PT: BENFICA TV 1 HD
