@@ -1,34 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1, ===dreamxtr====
-#EXTINF:-1,|PT| BENFICA TV ᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9147
-#EXTINF:-1,|PT| ELEVEN SPORTS 1
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9129
-#EXTINF:-1,|PT| ELEVEN SPORTS 2
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9128
-#EXTINF:-1,|PT| ELEVEN SPORTS 3
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9127
-#EXTINF:-1,|PT| ELEVEN SPORTS 4
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9126
-#EXTINF:-1,|PT| ELEVEN SPORTS 5
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9125
-#EXTINF:-1,|PT| ELEVEN SPORTS 6
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9124
-#EXTINF:-1,|PT| SPORT TV  1 ᵁᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9079
-#EXTINF:-1,|PT| SPORT TV  1
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9080
-#EXTINF:-1,|PT |SPORT TV  2 ᵁᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9077
-#EXTINF:-1,|PT| SPORT TV  3 ᵁᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9075
-#EXTINF:-1,|PT| SPORT TV  4
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9074
-#EXTINF:-1,|PT| SPORT TV 5
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/9072
-#EXTINF:-1,|PT| SPORT  TV 6 ᴴᴰ
-http://yhylt.dreamxtr.net:80/abdelkader10_026725/d6tFiKrk/225805
+#EXTINF:-1, ===Pro.IPcover====
+#EXTINF:-1,PT: BTV FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392083
+#EXTINF:-1,PT: BTV 1 FHD (extra)
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392084
+#EXTINF:-1,PT: DAZN Eleven Sports 1 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392087
+#EXTINF:-1,PT: DAZN Eleven Sports 2 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392090
+#EXTINF:-1,PT: DAZN Eleven Sports 3 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392093
+#EXTINF:-1,PT: DAZN Eleven Sports 4 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392096
+#EXTINF:-1,PT: DAZN Eleven Sports 5 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392099
+#EXTINF:-1,PT: DAZN Eleven Sports 6 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392102
+#EXTINF:-1,PT: Sport Tv 1 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392062
+#EXTINF:-1,PT: Sport Tv 1 FHD (extra)
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392063
+#EXTINF:-1,PT: Sport Tv 2 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392068
+#EXTINF:-1,PT: Sport Tv 3 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392072
+#EXTINF:-1,PT: Sport Tv 4 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392077
+#EXTINF:-1,PT: Sport Tv 5 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392080
+
 
 #EXTINF:-1, ===Samuel====
 #EXTINF:-1,PT: Benfica TV
@@ -55,6 +56,34 @@ http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660576
 http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660575
 #EXTINF:-1,PT: Sport TV 5
 http://jmrk.xyz:3050/samueltuga19@yahoo.com/HcyhBNRNtz/660574
+
+#EXTINF:-1, ===Yesimes====
+#EXTINF:-1,PT011:Benfica TV 1 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/3239
+#EXTINF:-1,PT012:Benfica TV 1 HD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/3238
+#EXTINF:-1,PT157:Eleven Sports 1 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/49966
+#EXTINF:-1,PT159:Eleven Sports 2 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/49032
+#EXTINF:-1,PT119:Eleven Sports 3 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29371
+#EXTINF:-1,PT120:Eleven Sports 4 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29370
+#EXTINF:-1,PT122:Eleven Sports 6 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29368
+#EXTINF:-1,PT098:SPORT TV 1 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29392
+#EXTINF:-1,PT099:SPORT TV 2 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29391
+#EXTINF:-1,PT100:SPORT TV 3 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29390
+#EXTINF:-1,PT101:SPORT TV 4 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/29389
+#EXTINF:-1,PT158:SPORT TV 5 FHD
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/49958
+
+
 
 #EXTINF:-1, ===Radartvol====
 #EXTINF:-1,PT: BENFICA TV FHD
