@@ -1,34 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, ===Pro.IPcover====
-#EXTINF:-1,PT: BTV FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392083
-#EXTINF:-1,PT: BTV 1 FHD (extra)
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392084
-#EXTINF:-1,PT: DAZN Eleven Sports 1 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392087
-#EXTINF:-1,PT: DAZN Eleven Sports 2 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392090
-#EXTINF:-1,PT: DAZN Eleven Sports 3 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392093
-#EXTINF:-1,PT: DAZN Eleven Sports 4 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392096
-#EXTINF:-1,PT: DAZN Eleven Sports 5 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392099
-#EXTINF:-1,PT: DAZN Eleven Sports 6 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392102
-#EXTINF:-1,PT: Sport Tv 1 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392062
-#EXTINF:-1,PT: Sport Tv 1 FHD (extra)
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392063
-#EXTINF:-1,PT: Sport Tv 2 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392068
-#EXTINF:-1,PT: Sport Tv 3 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392072
-#EXTINF:-1,PT: Sport Tv 4 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392077
-#EXTINF:-1,PT: Sport Tv 5 FHD
-http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392080
+
 
 #EXTINF:-1, ===Wanice====
 #EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
@@ -111,6 +83,31 @@ http://yesimes.oknirvana.club:8880/D12m2446/47772223/49958
 
 
 #EXTINF:-1, ===Radartvol====
+#EXTINF:-1,PT: Benfica TV
+http://monstertv.site:8080/53809909/80485729/973439
+#EXTINF:-1,PT: Dazn 1
+http://monstertv.site:8080/53809909/80485729/973453
+#EXTINF:-1,PT: Dazn 2
+http://monstertv.site:8080/53809909/80485729/973454
+#EXTINF:-1,PT: Dazn 3
+http://monstertv.site:8080/53809909/80485729/973455
+#EXTINF:-1,PT: Dazn 4
+http://monstertv.site:8080/53809909/80485729/973456
+#EXTINF:-1,PT: Dazn 5
+http://monstertv.site:8080/53809909/80485729/973457
+#EXTINF:-1,PT: Dazn 6
+http://monstertv.site:8080/53809909/80485729/973458
+
+#EXTINF:-1,PT: SPORTTV 1
+http://monstertv.site:8080/53809909/80485729/973519
+#EXTINF:-1,PT: SportTV 2
+http://monstertv.site:8080/53809909/80485729/973520
+#EXTINF:-1,PT: Sport TV 3
+http://monstertv.site:8080/53809909/80485729/973521
+#EXTINF:-1,PT: Sport TV 4
+http://monstertv.site:8080/53809909/80485729/973522
+#EXTINF:-1,PT: Sport TV 5
+http://monstertv.site:8080/53809909/80485729/973523
 
 
 #EXTINF:-1, ===Supersonic====
@@ -243,7 +240,35 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7430
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7427
 
 
-
+#EXTINF:-1, ===Pro.IPcover====
+#EXTINF:-1,PT: BTV FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392083
+#EXTINF:-1,PT: BTV 1 FHD (extra)
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392084
+#EXTINF:-1,PT: DAZN Eleven Sports 1 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392087
+#EXTINF:-1,PT: DAZN Eleven Sports 2 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392090
+#EXTINF:-1,PT: DAZN Eleven Sports 3 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392093
+#EXTINF:-1,PT: DAZN Eleven Sports 4 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392096
+#EXTINF:-1,PT: DAZN Eleven Sports 5 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392099
+#EXTINF:-1,PT: DAZN Eleven Sports 6 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392102
+#EXTINF:-1,PT: Sport Tv 1 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392062
+#EXTINF:-1,PT: Sport Tv 1 FHD (extra)
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392063
+#EXTINF:-1,PT: Sport Tv 2 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392068
+#EXTINF:-1,PT: Sport Tv 3 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392072
+#EXTINF:-1,PT: Sport Tv 4 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392077
+#EXTINF:-1,PT: Sport Tv 5 FHD
+http://pro.ipcover.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/392080
 
 
 
