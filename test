@@ -1,4 +1,62 @@
 #EXTM3U
+
+#EXTINF:-1, ===Aflax====
+#EXTINF:-1,PT: Benfica TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1497
+#EXTINF:-1,PT: DAZN 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1499
+#EXTINF:-1,PT: DAZN 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1503
+#EXTINF:-1,PT: DAZN 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1506
+#EXTINF:-1,PT: DAZN 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1509
+#EXTINF:-1,PT: DAZN 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1512
+#EXTINF:-1,PT: DAZN 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1515
+#EXTINF:-1,PT: SPORT TV +
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1481
+#EXTINF:-1,PT: SPORT TV 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
+
+#EXTINF:-1, ===HiOTT====
+#EXTINF:-1,BTV
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389097
+#EXTINF:-1,DAZN 1 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389137
+#EXTINF:-1,DAZN 2 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389136
+#EXTINF:-1,DAZN 3 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389135
+#EXTINF:-1,DAZN 4 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389134
+#EXTINF:-1,DAZN 5 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389133
+#EXTINF:-1,DAZN 6 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389132
+#EXTINF:-1,SPORT TV + HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389131
+#EXTINF:-1,SPORT TV 1 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389130
+#EXTINF:-1,SPORT TV 2 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389129
+#EXTINF:-1,SPORT TV 3 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389128
+#EXTINF:-1,SPORT TV 4 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389127
+#EXTINF:-1,SPORT TV 5 HD
+http://hi-ott.me:80/1a92fc710d4f/287e51edf3/1389126
+
+
 #EXTINF:-1, ===kevindoran====
 #EXTINF:-1,PT | BTVⓧ FHD
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121695
@@ -47,7 +105,6 @@ http://hardcoremedia.xyz:80/evhbaehp/4765328881/238016
 http://hardcoremedia.xyz:80/evhbaehp/4765328881/238019
 #EXTINF:-1,PT | ELEVEN SPORTS 6 FHD
 http://hardcoremedia.xyz:80/evhbaehp/4765328881/238021
-
 #EXTINF:-1,PT | SPORT TV 1 FHD
 http://hardcoremedia.xyz:80/evhbaehp/4765328881/237995
 #EXTINF:-1,PT | SPORT TV2 FHD
@@ -99,24 +156,7 @@ http://xxip25.top:8080/16329480/52276613/167750
 
 
 #EXTINF:-1, ===CordCutter====
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/zcJ8BG/214917/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://cord-cutter.net:8080/zcJ8BG/214917/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://cord-cutter.net:8080/zcJ8BG/214917/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://cord-cutter.net:8080/zcJ8BG/214917/167745
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://cord-cutter.net:8080/zcJ8BG/214917/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/zcJ8BG/214917/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/zcJ8BG/214917/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/zcJ8BG/214917/167750
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://cord-cutter.net:8080/zcJ8BG/214917/136726
+
 
 
 
