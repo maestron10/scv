@@ -1,5 +1,81 @@
 #EXTM3U
-#EXTINF:-1, ===Mario====
+#EXTINF:-1, ===Aflax====
+#EXTINF:-1,PT: RTP 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1404
+#EXTINF:-1,PT: RTP 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1406
+#EXTINF:-1,PT: TVI
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1410
+#EXTINF:-1,PT: RTP 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1418
+#EXTINF:-1,PT: CM TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1412
+#EXTINF:-1,PT: CNN Portugal
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1414
+#EXTINF:-1,PT: SIC Noticias
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1416
+#EXTINF:-1,PT: RTP Internacional
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/278418
+#EXTINF:-1,PT: RTP AÃ§ores
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2055
+#EXTINF:-1,PT: RTP Ãfrica
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1424
+#EXTINF:-1,PT: RTP Madeira
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/278558
+#EXTINF:-1,PT: AMC
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1473
+#EXTINF:-1,PT: AXN
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1469
+#EXTINF:-1,PT: AXN Black
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/278653
+#EXTINF:-1,PT: AXN Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1471
+#EXTINF:-1,PT: AXN White
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1467
+#EXTINF:-1,PT: Canal Nos
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/278550
+#EXTINF:-1,PT: Cine Mundo
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1477
+#EXTINF:-1,PT: Dizi Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/300240
+#EXTINF:-1,PT: HBO Portugal
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/201073
+#EXTINF:-1,PT: Hollywood
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1455
+#EXTINF:-1,PT: MEO Videoclube
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/265255
+#EXTINF:-1,PT: Nos Studios
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1454
+#EXTINF:-1,PT: SIC Mulher
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1427
+#EXTINF:-1,PT: STAR Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1461
+#EXTINF:-1,PT: STAR Comedy
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1465
+#EXTINF:-1,PT: STAR Crime
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1463
+#EXTINF:-1,PT: STAR Life
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1459
+#EXTINF:-1,PT: STAR Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1457
+#EXTINF:-1,PT: SYFY Portugal
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1475
+#EXTINF:-1,PT: TVCine Action
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1452
+#EXTINF:-1,PT: TVCine Edition
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/82254
+#EXTINF:-1,PT: TVCine Emotion
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1448
+#EXTINF:-1,PT: TVCine Top
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1446
+
+#EXTINF:-1,PT: A Bola TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1420
+
+
+
+
+#EXTINF:-1, ===Kevindoran====
 #EXTINF:-1,PT | RTP 1ⓧ FHD
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121955
 #EXTINF:-1,PT | SICⓧ FHD
@@ -16,7 +92,6 @@ http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121730
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121724
 #EXTINF:-1,PT | Porto Canalⓧ FHD
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121914
-
 #EXTINF:-1,PT | RTP Internacionalⓧ SD
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121970
 #EXTINF:-1,PT | RTP 2ⓧ FHD
