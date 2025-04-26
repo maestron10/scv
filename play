@@ -1,10 +1,31 @@
 #EXTM3U
-
-
-
-#EXTINF:-1, ===Radartvol====
-
-
+#EXTINF:-1, ===BKTV====
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1529
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV TV HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1530
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1 FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2377
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2 FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2385
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3 FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2391
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4 FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2398
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5 FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2405
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 6 FHD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2411
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1514
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2  HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1517
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3 Full HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1520
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4 Full HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1523
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 5 Full HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1526
 
 #EXTINF:-1, ===Supersonic====
 #EXTINF:-1,PT BENFICA TV 1 HD
@@ -30,31 +51,6 @@ http://supersonictv.live:8080/mwoods/mylife/7711
 #EXTINF:-1,PT SPORT TV 5 HD
 http://supersonictv.live:8080/mwoods/mylife/7714
 
-
-
-#EXTINF:-1, ===Newton====
-#EXTINF:-1,PT: BENFICA TV 1 HD
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386487
-#EXTINF:-1,PT: ELEVEN SPORTS 1 
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386461
-#EXTINF:-1,PT: ELEVEN SPORTS 2 
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386460
-#EXTINF:-1,PT: ELEVEN SPORTS 3 
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386459
-#EXTINF:-1,PT: ELEVEN SPORTS 4 
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386458
-#EXTINF:-1,PT: ELEVEN SPORTS 5 
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386457
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386381
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386380
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589153
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/386378
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://newton68769.cdngold.me:80/84e409ccbe/a2d7b7b506/589154
 #EXTINF:-1, ===Fortv====
 #EXTINF:-1,PT BENFICA TV HD  (P)
 http://fortv.cc:8080/4YYrcEg/Z8bmyZb/136726
