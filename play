@@ -1,29 +1,65 @@
 #EXTM3U
+
+
+#EXTINF:-1, ===Macaco====
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53093
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53095
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 3 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53098
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53099
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 5 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53100
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 6 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53101
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 7 HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53104
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BTV HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53102
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 1
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53105
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 2
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53106
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 3
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53107
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 4
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53108
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 5
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53109
+
+
+
 #EXTINF:-1, ===BKTV====
+#EXTINF:-1,Sport tv 1
+http://tv.iprotv.live:80/canales-ProYeCtoX998/NuevacanalesProyectoRw/96441.ts
+#EXTINF:-1Sport tv 2
+http://tv.iprotv.live:80/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.ts
 
 #EXTINF:-1, ===Supersonic====
 #EXTINF:-1,PT BENFICA TV 1 HD
-http://supersonictv.live:8080/mwoods/mylife/7600
+http://supersonictv.live:8080/738641/830194/7600
 #EXTINF:-1,PT ELEVEN SPORTS 1 HD
-http://supersonictv.live:8080/mwoods/mylife/7627
+http://supersonictv.live:8080/738641/830194/7627
 #EXTINF:-1,PT ELEVEN SPORTS 2 HD
-http://supersonictv.live:8080/mwoods/mylife/7629
+http://supersonictv.live:8080/738641/830194/7629
 #EXTINF:-1,PT ELEVEN SPORTS 3 HD
-http://supersonictv.live:8080/mwoods/mylife/7631
+http://supersonictv.live:8080/738641/830194/7631
 #EXTINF:-1,PT ELEVEN SPORTS 4 HD
-http://supersonictv.live:8080/mwoods/mylife/7633
+http://supersonictv.live:8080/738641/830194/7633
 #EXTINF:-1,PT ELEVEN SPORTS 5 HD
-http://supersonictv.live:8080/mwoods/mylife/7635
+http://supersonictv.live:8080/738641/830194/7635
 EXTINF:-1,PT SPORT TV 1 HD
-http://supersonictv.live:8080/mwoods/mylife/7705
+http://supersonictv.live:8080/738641/830194/7705
 #EXTINF:-1,PT SPORT TV 2 HD
-http://supersonictv.live:8080/mwoods/mylife/7707
+http://supersonictv.live:8080/738641/830194/7707
 #EXTINF:-1,PT SPORT TV 3 HD
-http://supersonictv.live:8080/mwoods/mylife/7709
+http://supersonictv.live:8080/738641/830194/7709
 #EXTINF:-1,PT SPORT TV 4 HD
-http://supersonictv.live:8080/mwoods/mylife/7711
+http://supersonictv.live:8080/738641/830194/7711
 #EXTINF:-1,PT SPORT TV 5 HD
-http://supersonictv.live:8080/mwoods/mylife/7714
+http://supersonictv.live:8080/738641/830194/7714
 
 #EXTINF:-1, ===Fortv====
 #EXTINF:-1,PT BENFICA TV HD  (P)
