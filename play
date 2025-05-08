@@ -1,4 +1,53 @@
 #EXTM3U
+#EXTINF:-1, ===crimea====
+#EXTINF:-1,PT: BENFICA TV 1
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386488
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386487
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386461
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386460
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386459
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386458
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386457
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386456
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386381
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386380
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/589153
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386378
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/589154
+
+#EXTINF:-1, ===mohammad====
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/136726
+#EXTINF:-1,PT Eleven Sports 1 FHD 
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/35264
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167750
+
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167745
+
 #EXTINF:-1, ===scalecdn====
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",BTV HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
