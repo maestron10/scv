@@ -1,27 +1,32 @@
 #EXTM3U
 #EXTINF:-1, ===scalecdn====
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 1 HD
-http://user.scalecdn.co:8080/live/26725074/92867131/925.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 2 HD
-http://user.scalecdn.co:8080/live/26725074/92867131/923.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 3 HD
-http://user.scalecdn.co:8080/live/26725074/92867131/921.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 4 HD
-http://user.scalecdn.co:8080/live/26725074/92867131/919.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 5 HD
-http://user.scalecdn.co:8080/live/26725074/92867131/917.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN.6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dazn-int.png",ELEVEN 6 HD
-http://user.scalecdn.co:8080/live/26725074/92867131/915.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",SPORT TV 1
-http://user.scalecdn.co:8080/live/26725074/92867131/848.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",SPORT TV 2
-http://user.scalecdn.co:8080/live/26725074/92867131/846.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",SPORT TV 3
-http://user.scalecdn.co:8080/live/26725074/92867131/844.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",SPORT TV 4
-http://user.scalecdn.co:8080/live/26725074/92867131/842.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",SPORT TV 5
-http://user.scalecdn.co:8080/live/26725074/92867131/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",BTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",ELEVEN 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117743
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",ELEVEN 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",ELEVEN 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",ELEVEN 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",ELEVEN 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",ELEVEN 6 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",SPORT TV 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117725
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",SPORT TV 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117728
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",SPORT TV 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117730
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",SPORT TV 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117732
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",SPORT TV 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117734
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",SPORT TV 6 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117736
+
 
 
 
