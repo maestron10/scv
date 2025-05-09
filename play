@@ -1,31 +1,34 @@
-#EXTM3U
-#EXTINF:-1, ===crimea====
-#EXTINF:-1,PT: BENFICA TV 1
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386488
-#EXTINF:-1,PT: BENFICA TV 1 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386487
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386461
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386460
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386459
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386458
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386457
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386456
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386381
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386380
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/589153
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/386378
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://crime25793.cdn-akm.me:80/1c4ee130289b/0c0e948f93/589154
+  #EXTM3U
+#EXTINF:-1, ===portenho01====
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1529
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1530
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 1 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2377
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 2 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2385
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 3 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2391
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 4 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 5 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2405
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 6 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2411
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 1 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1515
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 2 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1517
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 3 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1520
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 4 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1523
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 5 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1526
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 6 HD 
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/68314
+
 
 #EXTINF:-1, ===mohammad====
 #EXTINF:-1,PT BENFICA TV HD  (P)
@@ -83,27 +86,27 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 #EXTINF:-1, ===Supersonic====
 #EXTINF:-1,PT BENFICA TV 1 HD
-http://supersonictv.live:8080/738641/830194/7600
+http://supersonictv.live:8080/Shirleyjo/jan291991/7600
 #EXTINF:-1,PT ELEVEN SPORTS 1 HD
-http://supersonictv.live:8080/738641/830194/7627
+http://supersonictv.live:8080/Shirleyjo/jan291991/7627
 #EXTINF:-1,PT ELEVEN SPORTS 2 HD
-http://supersonictv.live:8080/738641/830194/7629
+http://supersonictv.live:8080/Shirleyjo/jan291991/7629
 #EXTINF:-1,PT ELEVEN SPORTS 3 HD
-http://supersonictv.live:8080/738641/830194/7631
+http://supersonictv.live:8080/Shirleyjo/jan291991/7631
 #EXTINF:-1,PT ELEVEN SPORTS 4 HD
-http://supersonictv.live:8080/738641/830194/7633
+http://supersonictv.live:8080/Shirleyjo/jan291991/7633
 #EXTINF:-1,PT ELEVEN SPORTS 5 HD
-http://supersonictv.live:8080/738641/830194/7635
+http://supersonictv.live:8080/Shirleyjo/jan291991/7635
 EXTINF:-1,PT SPORT TV 1 HD
-http://supersonictv.live:8080/738641/830194/7705
+http://supersonictv.live:8080/Shirleyjo/jan291991/7705
 #EXTINF:-1,PT SPORT TV 2 HD
-http://supersonictv.live:8080/738641/830194/7707
+http://supersonictv.live:8080/Shirleyjo/jan291991/7707
 #EXTINF:-1,PT SPORT TV 3 HD
-http://supersonictv.live:8080/738641/830194/7709
+http://supersonictv.live:8080/Shirleyjo/jan291991/7709
 #EXTINF:-1,PT SPORT TV 4 HD
-http://supersonictv.live:8080/738641/830194/7711
+http://supersonictv.live:8080/Shirleyjo/jan291991/7711
 #EXTINF:-1,PT SPORT TV 5 HD
-http://supersonictv.live:8080/738641/830194/7714
+http://supersonictv.live:8080/Shirleyjo/jan291991/7714
 
 #EXTINF:-1, ===Fortv====
 #EXTINF:-1,PT BENFICA TV HD  (P)
@@ -180,32 +183,7 @@ http://rafadnsvip.live:8080/Mauro/M12345@2024/40
 http://rafadnsvip.live:8080/Mauro/M12345@2024/283
 
 #EXTINF:-1, ===Macaco====
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53093
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53095
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 3 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53098
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53099
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 5 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53100
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 6 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53101
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 7 HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53104
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BTV HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53102
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 1
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53105
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 2
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53106
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 3
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53107
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 4
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53108
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 5
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53109
+
 
 
 #EXTINF:-1, ===Pro.IPcover====
