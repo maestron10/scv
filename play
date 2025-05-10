@@ -1,5 +1,49 @@
   #EXTM3U
 
+#EXTINF:-1, ===meu.best====
+#EXTINF:-1,PT: BENFICA TV 1
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386488
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386487
+#EXTINF:-1,PT: ELEVEN SPORTS 1 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386461
+#EXTINF:-1,PT: ELEVEN SPORTS 3 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386459
+#EXTINF:-1,PT: ELEVEN SPORTS 2 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386460
+#EXTINF:-1,PT: ELEVEN SPORTS 4 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386458
+#EXTINF:-1,PT: ELEVEN SPORTS 5 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386457
+#EXTINF:-1,PT: ELEVEN SPORTS 6 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386456
+#EXTINF:-1,PT: SPORT TV +
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386383
+#EXTINF:-1,PT: SPORT TV + 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386382
+#EXTINF:-1,PT: SPORT TV 1 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/589151
+#EXTINF:-1,PT: SPORT TV 1
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386381
+#EXTINF:-1,PT: SPORT TV 2 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/589152
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386380
+#EXTINF:-1,PT: SPORT TV 3 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386379
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/589153
+#EXTINF:-1,PT: SPORT TV 4 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386378
+#EXTINF:-1,PT: SPORT TV 5 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386377
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/589154
+#EXTINF:-1,PT: SPORT TV 6 4K
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/386376
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://m3u.best-smarter.me:80/b9261e5ddb98/135400235c/589155
+
 #EXTINF:-1, ===mohammad====
 #EXTINF:-1,PT BENFICA TV HD  (P)
 http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/136726
@@ -11,7 +55,6 @@ http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167748
 http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167749
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
 http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167750
-
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://tv14s.xyz:8080/9054176386/karimi_mohammad@yahoo.com/167742
 #EXTINF:-1,PT: SPORT TV 2 HD
