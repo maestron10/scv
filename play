@@ -1,34 +1,4 @@
   #EXTM3U
-#EXTINF:-1, ===portenho01====
-#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1529
-#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1530
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 1 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2377
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 2 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2385
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 3 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2391
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 4 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2398
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 5 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2405
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 6 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2411
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 1 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1515
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 2 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1517
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 3 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1520
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 4 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1523
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 5 HD
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1526
-#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 6 HD 
-http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/68314
-
 
 #EXTINF:-1, ===mohammad====
 #EXTINF:-1,PT BENFICA TV HD  (P)
@@ -97,7 +67,7 @@ http://supersonictv.live:8080/Shirleyjo/jan291991/7631
 http://supersonictv.live:8080/Shirleyjo/jan291991/7633
 #EXTINF:-1,PT ELEVEN SPORTS 5 HD
 http://supersonictv.live:8080/Shirleyjo/jan291991/7635
-EXTINF:-1,PT SPORT TV 1 HD
+#EXTINF:-1,PT SPORT TV 1 HD
 http://supersonictv.live:8080/Shirleyjo/jan291991/7705
 #EXTINF:-1,PT SPORT TV 2 HD
 http://supersonictv.live:8080/Shirleyjo/jan291991/7707
@@ -182,7 +152,35 @@ http://rafadnsvip.live:8080/Mauro/M12345@2024/40
 #EXTINF:-1,Sport TV 5 (FullHD)
 http://rafadnsvip.live:8080/Mauro/M12345@2024/283
 
-#EXTINF:-1, ===Macaco====
+#EXTINF:-1, ===portenho01====
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1529
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1530
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 1 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2377
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 2 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2385
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 3 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2391
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 4 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 5 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2405
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 6 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2411
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 1 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1515
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 2 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1517
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 3 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1520
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 4 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1523
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 5 HD
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1526
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 6 HD 
+http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/68314
 
 
 
