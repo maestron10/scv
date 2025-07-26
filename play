@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1,PT:Eleven.Sports.5
-http://line.dece24.biz:8080/3478822785313241/1304122160188853/780
-#EXTINF:-1,PT:Eleven.Sports.5
-http://sv.tex01.xyz:8080/lpequeno/7646cxpm/780
 #EXTINF:-1,PT | DAZN 5
 http://livepptv.net:80/757697103397485/1593574628/15822
-
-#EXTINF:-1,PT | Eleven Sports 5 HD
-http://netlevel.online:8080/MarioB08/gSLmZyw3gr/47451
-
 #EXTINF:-1,PT | Eleven Sports 5ⓧ FHD
 http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121775
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
@@ -17,13 +9,66 @@ http://xxip25.top:8080/16329480/52276613/167750
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
 http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167750
-
 #EXTINF:-1,DAZN F1
 http://cplay.club:2086/miguelmartinez/Xy9Z9v73Yd/93698
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ PORTUGAL || SPORTS",BTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://fortv.cc:8080/4YYrcEg/Z8bmyZb/136726
+#EXTINF:-1, ===goma====
+#EXTINF:-1,PT: SPORT TV 1
+http://filex.tv:8080/Khalid1979/Goma1979/316801
+#EXTINF:-1,PT: SPORT TV 2
+http://filex.tv:8080/Khalid1979/Goma1979/316802
+#EXTINF:-1,PT: SPORT TV 3
+http://filex.tv:8080/Khalid1979/Goma1979/316803
+#EXTINF:-1,PT: SPORT TV 4
+http://filex.tv:8080/Khalid1979/Goma1979/316804
+#EXTINF:-1,PT: SPORT TV 5
+http://filex.tv:8080/Khalid1979/Goma1979/316805
+#EXTINF:-1,PT: Benfica TV
+http://filex.tv:8080/Khalid1979/Goma1979/316810
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://filex.tv:8080/Khalid1979/Goma1979/316811
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://filex.tv:8080/Khalid1979/Goma1979/316812
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://filex.tv:8080/Khalid1979/Goma1979/316813
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://filex.tv:8080/Khalid1979/Goma1979/316814
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://filex.tv:8080/Khalid1979/Goma1979/316815
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://filex.tv:8080/Khalid1979/Goma1979/316816
+#EXTINF:-1, ===iptv hunt====
+#EXTINF:-1,PT| BTV 1 HD
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/107511
+#EXTINF:-1,PT| BTV HEVC
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/118461
+#EXTINF:-1,PT| DAZN 1 HEVC
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/118459
+#EXTINF:-1,PT| DAZN 2 HEVC
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/118458
+#EXTINF:-1,PT| DAZN 3 HD
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/122484
+#EXTINF:-1,PT| DAZN 4 HD
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/122485
+#EXTINF:-1,PT| DAZN 5 HD
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/122486
+
+#EXTINF:-1,PT| SPORT TV 1 HEVC
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/118447
+#EXTINF:-1,PT| SPORT TV 2 HEVC
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/118446
+#EXTINF:-1,PT| SPORT TV 3 HEVC
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/118445
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/107433
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://line.iptvhunt.com:80/VufF5XyStNqJ/Ofrb5121rT/1809290
 
 
-#EXTINF:-1, ===mohammad====
 
 
 #EXTINF:-1, ===scalecdn====
