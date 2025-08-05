@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tv14s.xyz:8080/89394807/89394807/167742
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tvmate.icu:8080/7ES2xf/934197/167742
+#EXTINF:-1,SPORT TV 1
+https://nxt.plus:8443/Prueba0001/888zb2/23424.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD (H.265)
+http://app.skyglass.asia:80/Arek/Arek123/1717070
+#EXTINF:-1,PT:SPORT TV 1 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108329
+
+
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://tvmate.icu:8080/7ES2xf/934197/136726
+#EXTINF:-1,PT: SPORT TV 1 FHD (H.265)
+http://app.skyglass.asia:80/Arek/Arek123/1717070
+#EXTINF:-1,BTV HD
+http://alexyatvcasa.xyz:8080/Duenaip148/nm2PFWB7/60987
+#EXTINF:-1,PT:BTV UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108316
+
+
 #EXTINF:-1,PT | DAZN 5
 http://livepptv.net:80/757697103397485/1593574628/15822
 #EXTINF:-1,PT | Eleven Sports 5ⓧ FHD
@@ -14,29 +36,32 @@ http://tv14s.xyz:8080/bsam88513@gmail.com/f7EcfEUcLs/167750
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
 http://xxip25.top:8080/q42qGg/565668/167750
 #EXTINF:-1, ===visorin====
-#EXTINF:-1,PT: BTV FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491200
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491223
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491226
-#EXTINF:-1,PT: Eleven Sports 3 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491229
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491232
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491235
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491204
-#EXTINF:-1,PT: Sport TV 2 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491207
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491210
-#EXTINF:-1,PT: Sport TV 4 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491213
-#EXTINF:-1,PT: Sport TV 5 FHD
-http://v1sorin.ddns.net:8008/AndreiSilviu/bERWJ4Ws/491216
+#EXTINF:-1,PT:BTV UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108316
+#EXTINF:-1,PT:ELEVEN SPORTS 1 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108336
+#EXTINF:-1,PT:ELEVEN SPORTS 2 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108337
+#EXTINF:-1,PT:ELEVEN SPORTS 3 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108338
+#EXTINF:-1,PT:ELEVEN SPORTS 4 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108339
+#EXTINF:-1,PT:ELEVEN SPORTS 5 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108340
+#EXTINF:-1,PT:SPORT TV 1 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108329
+#EXTINF:-1,PT:SPORT TV 2 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108330
+#EXTINF:-1,PT:SPORT TV 3 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108331
+#EXTINF:-1,PT:SPORT TV 4 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108332
+#EXTINF:-1,PT:SPORT TV 5 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108333
+#EXTINF:-1,PT:SPORT TV 6 UHD
+http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108334
 
+#EXTINF:-1, ===goma====
 
 
 #EXTINF:-1, ===goma====
