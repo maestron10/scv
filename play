@@ -10,6 +10,12 @@ http://app.skyglass.asia:80/Arek/Arek123/1717070
 #EXTINF:-1,PT:SPORT TV 1 UHD
 http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108329
 
+#EXTINF:-1,UHD â–ŽSPORT TV 1 [PT]
+http://line.u-ltra.xyz:80/ZeeALI1/465841/1459839
+#EXTINF:-1,UHD â–ŽBENFICA TV [PT]
+http://line.u-ltra.xyz:80/ZeeALI1/465841/1459840
+#EXTINF:-1,UHD â–ŽELEVEN SPORTS 1 [PT]
+http://line.u-ltra.xyz:80/ZeeALI1/465841/1459841
 
 #EXTINF:-1,PT BENFICA TV HD  (P)
 http://tvmate.icu:8080/7ES2xf/934197/136726
@@ -61,7 +67,21 @@ http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108333
 #EXTINF:-1,PT:SPORT TV 6 UHD
 http://iptvde.de:8080/AdnanCetinn/ka5mphJ/108334
 
-#EXTINF:-1, ===goma====
+#EXTINF:-1, ===nic====
+#EXTINF:-1,SPORT TV 1  á¶ á´´á´°
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/333798
+#EXTINF:-1,SPORT TV 2 á¶ á´´á´°
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/333803
+#EXTINF:-1,ELEVEN SPORTS 1 á¶ á´´á´°
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/333817
+#EXTINF:-1,ELEVEN SPORTS 2 á¶ á´´á´°
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/333821
+#EXTINF:-1,ELEVEN SPORTS 5 á¶ á´´á´°
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/333828
+#EXTINF:-1,BTV   á¶ á´´á´°
+http://nictv.xyz:8080/rMhu32ksaV/3d8ntqNzF3/333835
+
+#EXTINF:-1, ===nic====
 
 
 #EXTINF:-1, ===goma====
@@ -167,22 +187,22 @@ http://cord-cutter.net:8080/33QbGv/014458/167745
 
 #EXTINF:-1, ===Fortv====
 #EXTINF:-1,PT BENFICA TV HD  (P)
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/136726
+http://fortv.cc:8080/asharp/5points/136726
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD 
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/35264
+http://fortv.cc:8080/asharp/5points/35264
 #EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167748
+http://fortv.cc:8080/asharp/5points/167748
 #EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167749
+http://fortv.cc:8080/asharp/5points/167749
 
 #EXTINF:-1,PT: SPORT TV 1 FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167742
+http://fortv.cc:8080/asharp/5points/167742
 #EXTINF:-1,PT: SPORT TV 2 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167743
+http://fortv.cc:8080/asharp/5points/167743
 #EXTINF:-1,PT: SPORT TV 3 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167744
+http://fortv.cc:8080/asharp/5points/167744
 #EXTINF:-1,PT: SPORT TV 4 FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167745
+http://fortv.cc:8080/asharp/5points/167745
 
 
 
