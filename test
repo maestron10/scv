@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1, ===Default====
-#EXTINF:-1, ===CordCutter====
+
 
 #EXTINF:-1, ===realsport====
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹952 BTV PT
@@ -30,3 +30,67 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/844
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/842
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹840 SPORT TV 5 PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/840
+
+#EXTINF:-1, ===Trexiptv====
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107436&extension=ts
+#EXTINF:-1,PT| SPORT TV 1 HEVC
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=118447&extension=ts
+#EXTINF:-1,PT| SPORT TV 1 SD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=148671&extension=ts
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107435&extension=ts
+#EXTINF:-1,PT| SPORT TV 2 HEVC
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=118446&extension=ts
+#EXTINF:-1,PT| SPORT TV 2 SD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=148670&extension=ts
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107434&extension=ts
+#EXTINF:-1,PT| SPORT TV 3 HEVC
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=118445&extension=ts
+#EXTINF:-1,PT| SPORT TV 3 SD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=148669&extension=ts
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107433&extension=ts
+#EXTINF:-1,PT| SPORT TV 4 SD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=148668&extension=ts
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=148667&extension=ts
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=1809290&extension=ts
+#EXTINF:-1,PT| SPORT TV 6 FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=712739&extension=ts
+#EXTINF:-1,PT| SPORT TV 7 FHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=1613387&extension=ts
+#EXTINF:-1,PT| SPORT TV NBA HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107431&extension=ts
+#EXTINF:-1,PT| SPORT TV NBA HEVC
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=118444&extension=ts
+#EXTINF:-1,PT| DAZN 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107495&extension=ts
+#EXTINF:-1,PT| DAZN 1 HEVC
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=118459&extension=ts
+#EXTINF:-1,PT| DAZN 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107494&extension=ts
+#EXTINF:-1,PT| DAZN 2 HEVC
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=118458&extension=ts
+#EXTINF:-1,PT| DAZN 3
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107493&extension=ts
+#EXTINF:-1,PT| DAZN 3 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=122484&extension=ts
+#EXTINF:-1,PT| DAZN 4
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107492&extension=ts
+#EXTINF:-1,PT| DAZN 4 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=122485&extension=ts
+#EXTINF:-1,PT| DAZN 5
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107491&extension=ts
+#EXTINF:-1,PT| DAZN 5 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=122486&extension=ts
+#EXTINF:-1,PT| DAZN 6
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107490&extension=ts
+#EXTINF:-1,PT| A BOLA TV HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107522&extension=ts
+#EXTINF:-1,PT| BENFICA TV HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=983567&extension=ts
+#EXTINF:-1,PT| BTV 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:B0:DE:64&stream=107511&extension=ts
