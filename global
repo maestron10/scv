@@ -309,114 +309,312 @@ http://iptvtree.net:8080/F28312/cc1dc138/187028
 
 
 #EXTINF:-1, ===Kevindoran====
-#EXTINF:-1,PT | RTP 1ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121955
-#EXTINF:-1,PT | SICⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122001
-#EXTINF:-1,PT | TVIⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122111
-#EXTINF:-1,PT | RTP 3ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121964
-#EXTINF:-1,PT | SIC Notíciasⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121992
-#EXTINF:-1,PT | CNN Portugalⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121730
-#EXTINF:-1,PT | CMTVⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121724
-#EXTINF:-1,PT | Porto Canalⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121914
-#EXTINF:-1,PT | RTP Internacionalⓧ SD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121970
-#EXTINF:-1,PT | RTP 2ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121960
-#EXTINF:-1,PT | S+TVⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121975
-#EXTINF:-1,PT | SIC Carasⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121979
-#EXTINF:-1,PT | SIC Mulherⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121988
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 10📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 1️⃣0️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+http://fortv.cc:8080/Boobear/Boobear/21895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ realsport  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1,PT | A Bola TVⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121647
-#EXTINF:-1,PT | BTVⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121693
-#EXTINF:-1,PT | BTVⓧ HD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121694
-#EXTINF:-1,PT | Canal 11ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121697
-#EXTINF:-1,PT | Eleven Sports 1ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121758
-#EXTINF:-1,PT | Eleven Sports 2ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121763
-#EXTINF:-1,PT | Eleven Sports 3ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121767
-#EXTINF:-1,PT | Eleven Sports 4ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121771
-#EXTINF:-1,PT | Eleven Sports 5ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121775
-#EXTINF:-1,PT | Eleven Sports 6ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121778
-#EXTINF:-1,PT | SPORT TV+ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122037
-#EXTINF:-1,PT | SPORT TV 1ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122008
-#EXTINF:-1,PT | SPORT TV 2ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122013
-#EXTINF:-1,PT | SPORT TV 3ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122018
-#EXTINF:-1,PT | SPORT TV 4ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122023
-#EXTINF:-1,PT | SPORT TV 5ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122027
-#EXTINF:-1,PT | SPORT TV 6ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122032
-#EXTINF:-1,PT | Eurosport 1ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121783
-#EXTINF:-1,PT | Sporting TVⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122041
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹803 ESPN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/803
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹805 ZAP VIVA TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/805
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹806 MTV 00s PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/806
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹807 TVI REALITY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/807
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹808 TVI PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/808
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹809 V+ TVI PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/809
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹815 CNN PORTUGAL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/815
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹816 TVI PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/816
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹818 TVCINE ACTION PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/818
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹819 TVCINE EMOTION PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/819
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹820 TVCINE EMOTION PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/820
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹821 TVCINE EDITION PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/821
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹822 TVCINE EDITION PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/822
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹823 TVCINE TOP PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/823
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹824 TVCINE TOP PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/824
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹827 RECORD AMERICA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/827
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹828 RECORD TV GLOBOPLAY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/828
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹830 TRAVEL CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/830
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹831 TRACE TOCA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/831
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹832 TPA NOTICIAS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/832
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸833 ONETORO TV ES
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/833
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹834 TLC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/834
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹836 SYFY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/836
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹838 SPORTING TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/838
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹839 SPORT TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/839
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹840 SPORT TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/840
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹842 SPORT TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/842
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹843 SPORT TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/843
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹844 SPORT TV 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/844
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹845 SPORT TV 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/845
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹846 SPORT TV 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/846
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹847 SPORT TV 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/847
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹848 SPORT TV 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/848
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹849 SPORT TV 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/849
 
 
-#EXTINF:-1,PT | TVCine Actionⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122080
-#EXTINF:-1,PT | TVCine Editionⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122084
-#EXTINF:-1,PT | TVCine Emotionⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122088
-#EXTINF:-1,PT | TVCine Topⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122092
-#EXTINF:-1,PT | AMCⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121660
-#EXTINF:-1,PT | AXN Moviesⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121666
-#EXTINF:-1,PT | AXN Whiteⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121670
-#EXTINF:-1,PT | AXNⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121674
-#EXTINF:-1,PT | Blazeⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121684
-#EXTINF:-1,PT | Canal NOSⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121702
-#EXTINF:-1,PT | Cinemundoⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121719
-#EXTINF:-1,PT | FOX Comedyⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121803
-#EXTINF:-1,PT | FOX Crimeⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121808
-#EXTINF:-1,PT | FOX Lifeⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121812
-#EXTINF:-1,PT | FOX Moviesⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121816
-#EXTINF:-1,PT | FOXⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121821
-#EXTINF:-1,PT | Hollywoodⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121843
-#EXTINF:-1,PT | NOS Studiosⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121901
-#EXTINF:-1,PT | Odisseiaⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121905
-#EXTINF:-1,PT | SyFyⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122048
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹852 PAT PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/852
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹853 ARTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/853
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹854 ARTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/854
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹855 WHATsUP? PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/855
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹856 K SIC | KIDS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/856
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹857 SIC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/857
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹858 SIC CARAS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/858
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹859 SIC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/859
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹862 RTP MEMORIA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/862
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹863 RTP 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/863
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹864 RTP AFRICA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/864
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹865 RTP ACORES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/865
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹866 RTP 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/866
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹868 RTP 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/868
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹869 RTP 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/869
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹870 RTP 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/870
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹871 RECORD NEWS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/871
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹872 PORTO CANAL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/872
 
-#EXTINF:-1,PT | HotHDⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121847
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹875 ODISEIA | DOC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/875
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹876 ODISEIA DOC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/876
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹877 NICKELODEON PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/877
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹878 ODISEIA DOC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/878
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸878 NBA SPORT TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/878
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹879 NAT GEO PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/879
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹880 NAT GEO WILD PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/880
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹883 MTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/883
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸884 MOTORVISION PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/884
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹885 MCM TOP PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/885
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹886 MCM POP PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/886
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹888 KURIAKOS TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/888
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹892 COMBATE PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/892
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹894 HOLLYWOOD PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/894
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹895 HISTORIA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/895
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹896 FUEL TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/896
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹898 FUEL TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/898
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹899 STAR MOVIES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/899
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹900 STAR MOVIES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/900
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹901 STAR LIFE PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/901
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹902 STAR CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/902
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹903 STAR CRIME PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/903
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹904 STAR CRIME PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/904
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹905 STAR COMEDY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/905
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹906 STAR COMEDY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/906
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹907 STAR CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/907
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹909 FTV FASHION TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/909
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹910 EUROSPORT 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/910
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹911 EUROSPORT 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/911
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹915 DAZN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/915
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹916 DAZN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/916
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹917 DAZN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/917
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹918 DAZN 5 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/918
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹919 DAZN 4 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/919
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹920 DAZN 4 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/920
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹921 DAZN 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/921
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹922 DAZN 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/922
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹923 DAZN 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/923
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹924 DAZN 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/924
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹925 DAZN 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/925
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹926 DAZN 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/926
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹927 E! PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/927
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹928 DISNEY JR. PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/928
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹929 DISNEY CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/929
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹930 DISCOVERY CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/930
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹931 DISCOVERY CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/931
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹932 CRIME PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/932
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹935 F FINANZAS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/935
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹936 CINE MUNDO PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/936
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹937 CINE MUNDO PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/937
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹938 MTV 00s PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/938
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹939 CN CARTOON NETWORK PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/939
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹940 CANCAO NOVA TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/940
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹941 DESCONVERSAS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/941
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹942 PANDA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/942
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹944 BIGGS PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/944
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹946 AGORA 11 | SPORT PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/946
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹947 AGORA 11 | SPORT PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/947
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹948 CAZAVISION+ PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/948
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸949 CAZA Y PESCA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/949
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹951 LANCE CERTO PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/951
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹952 BTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/952
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹953 BTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/953
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹954 BABY TV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/954
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹955 AXN WHITE PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/955
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹956 AXN WHITE PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/956
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹957 AXN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/957
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹958 AXN MOVIES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/958
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹959 AXN MOVIES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/959
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹960 AXN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/960
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹961 ARTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/961
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹962 AMC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/962
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹963 AMC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/963
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹964 AFRO MUSIC PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/964
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹965 A BOLA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/965
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹966 24 KITCHEN PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/966
+
+
+
+
+
