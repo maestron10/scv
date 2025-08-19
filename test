@@ -1,81 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1,PT | Eleven Sports 5ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121775
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://xxip25.top:8080/16329480/52276613/167750
-
-
-#EXTINF:-1, ===kevindoran====
-#EXTINF:-1,PT | BTVⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121695
-#EXTINF:-1,PT | BTVⓧ HD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121694
-#EXTINF:-1,PT | Eleven Sports 1ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121758
-#EXTINF:-1,PT | Eleven Sports 2ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121764
-#EXTINF:-1,PT | Eleven Sports 3ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121767
-#EXTINF:-1,PT | Eleven Sports 4ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121771
-
-#EXTINF:-1,PT | Eleven Sports 6ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/121778
-#EXTINF:-1,PT | SPORT TV 1ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122008
-#EXTINF:-1,PT | SPORT TV 2ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122013
-#EXTINF:-1,PT | SPORT TV 3ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122018
-#EXTINF:-1,PT | SPORT TV 4ⓧ FHD
-http://extra-terestrial-vision.net:80/kevindoran/ksX5oYT0V1/122023
-
-#EXTINF:-1, ===xxxip25====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://xxip25.top:8080/16329480/52276613/136726
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://xxip25.top:8080/16329480/52276613/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://xxip25.top:8080/16329480/52276613/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://xxip25.top:8080/16329480/52276613/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://xxip25.top:8080/16329480/52276613/167745
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://xxip25.top:8080/16329480/52276613/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://xxip25.top:8080/16329480/52276613/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://xxip25.top:8080/16329480/52276613/167749
-
 
 #EXTINF:-1, ===Default====
 #EXTINF:-1, ===CordCutter====
 
-#EXTINF:-1, ===brux====
-#EXTINF:-1,PT • Benfica TV
-http://cdnbrux.top:80/394793353/573388860/1092697
-#EXTINF:-1,PT • Dazn 1
-http://cdnbrux.top:80/394793353/573388860/1092721
-#EXTINF:-1,PT • Dazn 2
-http://cdnbrux.top:80/394793353/573388860/1092722
-#EXTINF:-1,PT • Dazn 3
-http://cdnbrux.top:80/394793353/573388860/1092723
-#EXTINF:-1,PT • Dazn 4
-http://cdnbrux.top:80/394793353/573388860/1092724
-#EXTINF:-1,PT • Dazn 5
-http://cdnbrux.top:80/394793353/573388860/1092725
-#EXTINF:-1,PT • Dazn 6
-http://cdnbrux.top:80/394793353/573388860/1092726
-#EXTINF:-1,PT • Sport TV 1
-http://cdnbrux.top:80/394793353/573388860/1092767
-#EXTINF:-1,PT • Sport TV 2
-http://cdnbrux.top:80/394793353/573388860/1092768
-#EXTINF:-1,PT • Sport TV 3
-http://cdnbrux.top:80/394793353/573388860/1092769
-#EXTINF:-1,PT • Sport TV 4
-http://cdnbrux.top:80/394793353/573388860/1092770
-#EXTINF:-1,PT • Sport TV 5
-http://cdnbrux.top:80/394793353/573388860/1092771
+#EXTINF:-1, ===realsport====
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹952 BTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/952
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹953 BTV PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/953
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹926 DAZN 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/926
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹924 DAZN 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/924
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹922 DAZN 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/922
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹920 DAZN 4 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/920
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹918 DAZN 5 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/918
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹848 SPORT TV 1 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/848
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹846 SPORT TV 2 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/846
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹844 SPORT TV 3 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/844
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹842 SPORT TV 4 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/842
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹840 SPORT TV 5 PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/840
