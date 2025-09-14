@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1, ===line 4k====
 #EXTINF:-1,UHD ▎SPORT TV 1 [PT]
 http://line.4k-beast.co:80/64:1C:AE:1F:60:BF/3208AF/1459839
 #EXTINF:-1,UHD ▎BENFICA TV [PT]
@@ -15,84 +16,6 @@ http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
 #EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
-
-#EXTINF:-1, ===cord====
-#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV HD  (P)" tvg-logo="" group-title="Portugal",PT BENFICA TV HD  (P)
-http://cord-cutter.net:8080/33QbGv/014458/136726
-#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="PT Eleven Sports 1 FHD " tvg-logo="" group-title="Sports Fanatic's ",PT Eleven Sports 1 FHD 
-http://cord-cutter.net:8080/33QbGv/014458/35264
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/33QbGv/014458/167748
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/33QbGv/014458/167749
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/33QbGv/014458/167750
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/33QbGv/014458/167742
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-http://cord-cutter.net:8080/33QbGv/014458/167743
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-http://cord-cutter.net:8080/33QbGv/014458/167744
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-http://cord-cutter.net:8080/33QbGv/014458/167745
-#EXTINF:-1, ===Fortv====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://fortv.cc:8080/asharp/5points/136726
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD 
-http://fortv.cc:8080/asharp/5points/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://fortv.cc:8080/asharp/5points/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://fortv.cc:8080/asharp/5points/167749
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://fortv.cc:8080/asharp/5points/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://fortv.cc:8080/asharp/5points/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://fortv.cc:8080/asharp/5points/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://fortv.cc:8080/asharp/5points/167745
-
-#EXTINF:-1, ===tv14S====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://tv14s.xyz:8080/77709038/96038622/136726
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://tv14s.xyz:8080/77709038/96038622/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://tv14s.xyz:8080/77709038/96038622/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://tv14s.xyz:8080/77709038/96038622/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://tv14s.xyz:8080/77709038/96038622/167750
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://tv14s.xyz:8080/77709038/96038622/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://tv14s.xyz:8080/77709038/96038622/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://tv14s.xyz:8080/77709038/96038622/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://tv14s.xyz:8080/77709038/96038622/167745
-
-#EXTINF:-1, ===panelguys====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/136726
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167750
-
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://panelguys.top:8080/cdm86@rogers.com/carol@2024/167745
 
 
 #EXTINF:-1, ===no cable====
@@ -115,151 +38,35 @@ http://nocable.cc:8080/918105/236264/167744
 #EXTINF:-1,PT: SPORT TV 4 FHD
 http://nocable.cc:8080/918105/236264/167745
 
+#EXTINF:-1, ===cord====
+
+#EXTINF:-1, ===Fortv====
+
+#EXTINF:-1, ===tv14S====
+
+#EXTINF:-1, ===panelguys====
+
+
+
+
+
 #EXTINF:-1, ===ITU====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://1tv41.icu:8080/A4qWjw/912259/136726
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://1tv41.icu:8080/A4qWjw/912259/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://1tv41.icu:8080/A4qWjw/912259/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://1tv41.icu:8080/A4qWjw/912259/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://1tv41.icu:8080/A4qWjw/912259/167750
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://1tv41.icu:8080/A4qWjw/912259/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://1tv41.icu:8080/A4qWjw/912259/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://1tv41.icu:8080/A4qWjw/912259/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://1tv41.icu:8080/A4qWjw/912259/167745
 
 #EXTINF:-1, ===goma====
-#EXTINF:-1,PT: SPORT TV 1
-http://filex.tv:8080/Khalid1979/Goma1979/316801
-#EXTINF:-1,PT: SPORT TV 2
-http://filex.tv:8080/Khalid1979/Goma1979/316802
-#EXTINF:-1,PT: SPORT TV 3
-http://filex.tv:8080/Khalid1979/Goma1979/316803
-#EXTINF:-1,PT: SPORT TV 4
-http://filex.tv:8080/Khalid1979/Goma1979/316804
-#EXTINF:-1,PT: SPORT TV 5
-http://filex.tv:8080/Khalid1979/Goma1979/316805
-#EXTINF:-1,PT: Benfica TV
-http://filex.tv:8080/Khalid1979/Goma1979/316810
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://filex.tv:8080/Khalid1979/Goma1979/316811
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://filex.tv:8080/Khalid1979/Goma1979/316812
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://filex.tv:8080/Khalid1979/Goma1979/316813
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://filex.tv:8080/Khalid1979/Goma1979/316814
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://filex.tv:8080/Khalid1979/Goma1979/316815
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://filex.tv:8080/Khalid1979/Goma1979/316816
+
 #EXTINF:-1, ===IPTV TREE====
-#EXTINF:-1,PT: Benfica TV
-http://iptvtree.net:8080/F28312/cc1dc138/1497
-#EXTINF:-1,PT: DAZN 1
-http://iptvtree.net:8080/F28312/cc1dc138/1499
-#EXTINF:-1,PT: DAZN 2
-http://iptvtree.net:8080/F28312/cc1dc138/1503
-#EXTINF:-1,PT: DAZN 3
-http://iptvtree.net:8080/F28312/cc1dc138/1506
-#EXTINF:-1,PT: DAZN 4
-http://iptvtree.net:8080/F28312/cc1dc138/1509
-#EXTINF:-1,PT: DAZN 5
-http://iptvtree.net:8080/F28312/cc1dc138/1512
-#EXTINF:-1,PT: SPORT TV 1
-http://iptvtree.net:8080/F28312/cc1dc138/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://iptvtree.net:8080/F28312/cc1dc138/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://iptvtree.net:8080/F28312/cc1dc138/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://iptvtree.net:8080/F28312/cc1dc138/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://iptvtree.net:8080/F28312/cc1dc138/1495
+
 
 
 #EXTINF:-1, ===nortx====
-#EXTINF:-1,PT: BTV
-http://nortxpnyy.top:8080/19173211418728/21734542347426/25000
-#EXTINF:-1,PT: SPORT TV 1
-http://nortxpnyy.top:8080/19173211418728/21734542347426/24984
-#EXTINF:-1,PT: SPORT TV 2
-http://nortxpnyy.top:8080/19173211418728/21734542347426/24982
-#EXTINF:-1,PT: SPORT TV 3
-http://nortxpnyy.top:8080/19173211418728/21734542347426/24980
-#EXTINF:-1,PT: SPORT TV 4
-http://nortxpnyy.top:8080/19173211418728/21734542347426/24979
-#EXTINF:-1,PT: SPORT TV 5
-http://nortxpnyy.top:8080/19173211418728/21734542347426/24978
-#EXTINF:-1,PT: SPORT TV 6
-http://nortxpnyy.top:8080/19173211418728/21734542347426/29669
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://nortxpnyy.top:8080/19173211418728/21734542347426/25024
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://nortxpnyy.top:8080/19173211418728/21734542347426/25025
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://nortxpnyy.top:8080/19173211418728/21734542347426/25026
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://nortxpnyy.top:8080/19173211418728/21734542347426/25027
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://nortxpnyy.top:8080/19173211418728/21734542347426/25028
+
 
 #EXTINF:-1, ===Filex.me====
-#EXTINF:-1,PT: Benfica TV
-http://filex.me:8080/989898/989898/316810
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://filex.me:8080/989898/989898/316811
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://filex.me:8080/989898/989898/316812
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://filex.me:8080/989898/989898/316813
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://filex.me:8080/989898/989898/316814
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://filex.me:8080/989898/989898/316815
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://filex.me:8080/989898/989898/316816
-#EXTINF:-1,PT: SPORT TV 1
-http://filex.me:8080/989898/989898/316801
-#EXTINF:-1,PT: SPORT TV 2
-http://filex.me:8080/989898/989898/316802
-#EXTINF:-1,PT: SPORT TV 3
-http://filex.me:8080/989898/989898/316803
-#EXTINF:-1,PT: SPORT TV 4
-http://filex.me:8080/989898/989898/316804
-#EXTINF:-1,PT: SPORT TV 5
-http://filex.me:8080/989898/989898/316805
 
 
 
 #EXTINF:-1, ===Gazzel====
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166495
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166496
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166497
-#EXTINF:-1,PT: Sport TV 4
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166499
-#EXTINF:-1,PT: Sport TV 5 HD
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166428
-#EXTINF:-1,PT: Eleven 1 HD
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166429
-#EXTINF:-1,PT: Eleven 2 HD
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166454
-#EXTINF:-1,PT: Eleven 3
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166455
-#EXTINF:-1,PT: Eleven Sports 4
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166457
-#EXTINF:-1,PT: Eleven Sports 5
-http://ghazel-ott.com:7355/31577961558523812/U09ZEDdu@6X!PeD/166458
+
 
 
 
