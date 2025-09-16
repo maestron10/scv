@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1, ===UGEEN====
 
+#EXTINF:-1,Pt: Sport TV 5 4K
+http://bluetv.cc:8880/74709834230916/64982543901285wa/391162
+#EXTINF:-1,PT: Sport TV 5 HD
+http://pro.netmos.ovh:7355/31559157286054840/U09ZEDdu@6X!PeD/166428
+
+
+#EXTINF:-1, ===UGEEN====
 #EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
 #EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
