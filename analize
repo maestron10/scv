@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1, ===FruHD====
+
+#EXTINF:-1,PT: Sport TV 1
+http://serviciosvisuales.net:80/Diegoarcila/BBgpXmQ/780884
+
+
+#EXTINF:-1, ===FruHD====1
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
 http://fruhd.cc:8080/305067837185019/300720130910/281676
 #EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
