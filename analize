@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,PT| BENFICA TV HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179146
+#EXTINF:-1,PT| BTV 4K
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179147
+
+
+#EXTINF:-1,PT| SPORT TV 1HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179120
+#EXTINF:-1,PT| SPORT TV 2HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179122
+#EXTINF:-1,PT| SPORT TV 3HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179124
+#EXTINF:-1,PT| SPORT TV 4HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179126
+#EXTINF:-1,PT| SPORT TV 5HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179128
+#EXTINF:-1,PT| DAZN 1HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179130
+#EXTINF:-1,PT| DAZN 2HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179132
+#EXTINF:-1,PT| DAZN 3HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179134
+#EXTINF:-1,PT| DAZN 4HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179136
+#EXTINF:-1,PT| DAZN 5HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179138
 
 #EXTINF:-1,PT: Sport TV 1
 http://serviciosvisuales.net:80/Diegoarcila/BBgpXmQ/780884
