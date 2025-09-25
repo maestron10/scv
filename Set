@@ -6,16 +6,54 @@ http://line.4k-beast.co:80/64:1C:AE:1F:60:BF/3208AF/1459839
 http://line.4k-beast.co:80/64:1C:AE:1F:60:BF/3208AF/1459840
 #EXTINF:-1,UHD ▎ELEVEN SPORTS 1 [PT]
 http://line.4k-beast.co:80/64:1C:AE:1F:60:BF/3208AF/1459841
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
+#EXTINF:-1, ===bouygues====
+#EXTINF:-1,PT| BENFICA TV HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179146
+#EXTINF:-1,PT| BTV 4K
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179147
+#EXTINF:-1,PT| SPORT TV 1HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179120
+#EXTINF:-1,PT| SPORT TV 2HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179122
+#EXTINF:-1,PT| SPORT TV 3HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179124
+#EXTINF:-1,PT| SPORT TV 4HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179126
+#EXTINF:-1,PT| SPORT TV 5HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179128
+#EXTINF:-1,PT| DAZN 1HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179130
+#EXTINF:-1,PT| DAZN 2HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179132
+#EXTINF:-1,PT| DAZN 3HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179134
+#EXTINF:-1,PT| DAZN 4HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179136
+#EXTINF:-1,PT| DAZN 5HD
+http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179138
+#EXTINF:-1,PT: Sport TV 1
+http://serviciosvisuales.net:80/Diegoarcila/BBgpXmQ/780884
+
+#EXTINF:-1, ===XXX125====
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/136726
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167745
+#EXTINF:-1,PT Eleven Sports 1 FHD 
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/35264
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167750
+
 #EXTINF:-1, ===realsport====
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇹952 BTV PT
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/952
@@ -43,25 +81,31 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/842
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/840
 
 
-#EXTINF:-1, ===no cable====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://nocable.cc:8080/918105/236264/136726
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://nocable.cc:8080/918105/236264/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://nocable.cc:8080/918105/236264/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://nocable.cc:8080/918105/236264/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://nocable.cc:8080/918105/236264/167750
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://nocable.cc:8080/918105/236264/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://nocable.cc:8080/918105/236264/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://nocable.cc:8080/918105/236264/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://nocable.cc:8080/918105/236264/167745
+#EXTINF:-1, ===SSMRTC====
+#EXTINF:-1,PT| BTV 1 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165526.m3u8
+#EXTINF:-1,PT| SPORT TV 1 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165511.m3u8
+#EXTINF:-1,PT| SPORT TV 2 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165512.m3u8
+#EXTINF:-1,PT| SPORT TV 3 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165513.m3u8
+#EXTINF:-1,PT| SPORT TV 4 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165514.m3u8
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165515.m3u8
+#EXTINF:-1,PT| DAZN SPORT 1 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165518.m3u8
+#EXTINF:-1,PT| DAZN SPORT 2 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165519.m3u8
+#EXTINF:-1,PT| DAZN SPORT 3 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165520.m3u8
+#EXTINF:-1,PT| DAZN SPORT 4 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165521.m3u8
+#EXTINF:-1,PT| DAZN SPORT 5 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165522.m3u8
+#EXTINF:-1,PT| DAZN SPORT 6 FHD
+http://qtgvjypc.smfrt.com:80/live/E6KE1WX4/PBCCGZU5/165523.m3u8
 
 #EXTINF:-1, ===Trexiptv====
 #EXTINF:-1,PT| SPORT TV 1 HD
