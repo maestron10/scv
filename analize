@@ -1,36 +1,23 @@
 #EXTM3U
-#EXTINF:-1,PT| BENFICA TV HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179146
-#EXTINF:-1,PT| BTV 4K
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179147
+
+#EXTINF:-1, ===SCRE====
+#EXTINF:-1,VIP SPORT: SPORT TV 1 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175850
+#EXTINF:-1,VIP SPORT: SPORT TV 2 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175849
+#EXTINF:-1,VIP SPORT: SPORT TV 3 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175848
+#EXTINF:-1,VIP SPORT: SPORT TV 4 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175847
+#EXTINF:-1,VIP SPORT: SPORT TV 5 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175846
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175845
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PT)
+http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175844
 
 
-#EXTINF:-1,PT| SPORT TV 1HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179120
-#EXTINF:-1,PT| SPORT TV 2HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179122
-#EXTINF:-1,PT| SPORT TV 3HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179124
-#EXTINF:-1,PT| SPORT TV 4HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179126
-#EXTINF:-1,PT| SPORT TV 5HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179128
-#EXTINF:-1,PT| DAZN 1HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179130
-#EXTINF:-1,PT| DAZN 2HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179132
-#EXTINF:-1,PT| DAZN 3HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179134
-#EXTINF:-1,PT| DAZN 4HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179136
-#EXTINF:-1,PT| DAZN 5HD
-http://bouygues-cdn.r1v.us:8080/KINGOTT5643/DEvG0uxDfbdlUsj/179138
-
-#EXTINF:-1,PT: Sport TV 1
-http://serviciosvisuales.net:80/Diegoarcila/BBgpXmQ/780884
-
-
-#EXTINF:-1, ===FruHD====1
+#EXTINF:-1, ===FruHD====
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
 http://fruhd.cc:8080/305067837185019/300720130910/281676
 #EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
@@ -84,72 +71,10 @@ http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99489
 http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99492
 
 #EXTINF:-1, ===Blue====
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369978
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369979
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369980
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369981
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369982
-#EXTINF:-1,PT| ELEVEN SPORT 1 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369985
-#EXTINF:-1,PT| ELEVEN SPORT 2 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369986
-#EXTINF:-1,PT| ELEVEN SPORT 3 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369987
-#EXTINF:-1,PT| ELEVEN SPORT 4 HD
-http://bluetv.cc:8880/74709834230916/64982543901285wa/369988
-
 
 #EXTINF:-1, ===UTA====
-#EXTINF:-1,PT: BENFICA TV SD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1142709.ts
-#EXTINF:-1,PT: ELEVEN 1 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1142734.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1142745.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1142746.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1142750.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1142753.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1155820.ts
-#EXTINF:-1,PT: SPORT TV 1 Full FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1135246.ts
-#EXTINF:-1,PT : SPORT TV 2 SD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1093612.ts
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1135228.ts
-#EXTINF:-1,PT: SPORT TV 4 HD 
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1151577.ts
-#EXTINF:-1,PT : SPORT TV 5 SD
-http://uta8f6br.gtfde.xyz:80/play/ff410520/aqpqfX@RD6/1093617.ts
-
 
 #EXTINF:-1, ===UGEEN====
-#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
-#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
-#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
-#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
-#EXTINF:-1,PT: Sport TV 1 HD 
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
-#EXTINF:-1,PT: Sport TV 2 HD 
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
-#EXTINF:-1,PT: Sport TV 3 HD 
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
-#EXTINF:-1,PT: Sport TV 4 HD 
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
-#EXTINF:-1,PT:  Sport TV 5 HD 
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
 
 #EXTINF:-1, ===visit====
 
@@ -184,90 +109,9 @@ http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198984
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198983
 #EXTINF:-1,PT: ELEVEN SPORTS 5
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198982
-#EXTINF:-1,PT: ELEVEN SPORTS 6
+#EXTINF:-1,PT:BTV
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198981
-#EXTINF:-1,PT: RTP 1
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199091
-#EXTINF:-1,PT: RTP 2
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199090
-#EXTINF:-1,PT: RTP 3
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199089
-#EXTINF:-1,PT: A Bola TV
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199082
-#EXTINF:-1,PT: AMC
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199077
-#EXTINF:-1,PT: AXN
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199075
-#EXTINF:-1,PT: AXN Black
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199074
-#EXTINF:-1,PT: AXN Movies
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199073
-#EXTINF:-1,PT: AXN White
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199072
-#EXTINF:-1,PT: Benfica TV
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199070
-#EXTINF:-1,PT: Canal 11
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199064
-#EXTINF:-1,PT: Canal Hollywood
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199063
-#EXTINF:-1,PT: Canal Nos
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199061
-#EXTINF:-1,PT: Cine Mundo
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199052
-#EXTINF:-1,PT: CM TV
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199051
-#EXTINF:-1,PT: CNN Portugal
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199050
-#EXTINF:-1,PT: FOX
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199040
-#EXTINF:-1,PT: Fox Comedy
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199039
-#EXTINF:-1,PT: Fox Crime
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199038
-#EXTINF:-1,PT: Fox Life
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199037
-#EXTINF:-1,PT: FOX Movies
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199036
-#EXTINF:-1,PT: FOX SPORTS
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199035
-#EXTINF:-1,PT: Hollywood
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199032
-#EXTINF:-1,PT: MEO Videoclube
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199027
-#EXTINF:-1,PT: Nos Studios
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199019
-#EXTINF:-1,PT: Porto Canal
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199016
-#EXTINF:-1,PT: SIC
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199014
-#EXTINF:-1,PT: SIC Caras
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199013
-#EXTINF:-1,PT: SIC Internacional
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199012
-#EXTINF:-1,PT: SIC K
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199011
-#EXTINF:-1,PT: SIC Mulher
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199010
-#EXTINF:-1,PT: SIC Noticias
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199009
-#EXTINF:-1,PT: SIC Radical
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199008
-#EXTINF:-1,PT: SYFY Portugal
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199007
-#EXTINF:-1,PT: TVCine Action
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199002
-#EXTINF:-1,PT: TVCine Edition
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199001
-#EXTINF:-1,PT: TVCine Emotion
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/199000
-#EXTINF:-1,PT: TVCine Top
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198999
-#EXTINF:-1,PT: TVI
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198998
-#EXTINF:-1,PT: TVI Ficção
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198997
-#EXTINF:-1,PT: TVI Reality
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198996
+
 #EXTINF:-1, ===Haka====
 #EXTINF:-1,PT: BENFICA
 http://81109.hdr37.com:80/hakanmilano/a4utud/124644
@@ -295,109 +139,6 @@ http://81109.hdr37.com:80/hakanmilano/a4utud/124592
 http://81109.hdr37.com:80/hakanmilano/a4utud/124593
 #EXTINF:-1,PT: ELEVEN SPORTS 6
 http://81109.hdr37.com:80/hakanmilano/a4utud/124594
-#EXTINF:-1,PT: Canal 11
-http://81109.hdr37.com:80/hakanmilano/a4utud/124601
-#EXTINF:-1,PT: Eurosport 1
-http://81109.hdr37.com:80/hakanmilano/a4utud/124602
-#EXTINF:-1,PT: Eurosport
-http://81109.hdr37.com:80/hakanmilano/a4utud/124603
-#EXTINF:-1,PT: Eurosport 2
-http://81109.hdr37.com:80/hakanmilano/a4utud/124604
-#EXTINF:-1,PT: AXN
-http://81109.hdr37.com:80/hakanmilano/a4utud/124608
-#EXTINF:-1,PT: AXN MOVIES
-http://81109.hdr37.com:80/hakanmilano/a4utud/124609
-#EXTINF:-1,PT: CNN PORTUGAL
-http://81109.hdr37.com:80/hakanmilano/a4utud/124611
-#EXTINF:-1,PT: FOX CRIME
-http://81109.hdr37.com:80/hakanmilano/a4utud/124613
-#EXTINF:-1,PT: FOX
-http://81109.hdr37.com:80/hakanmilano/a4utud/124614
-#EXTINF:-1,PT: HOLLYWOOD
-http://81109.hdr37.com:80/hakanmilano/a4utud/124616
-#EXTINF:-1,PT: RTP 1
-http://81109.hdr37.com:80/hakanmilano/a4utud/124621
-#EXTINF:-1,PT: RTP 3
-http://81109.hdr37.com:80/hakanmilano/a4utud/124622
-#EXTINF:-1,PT: SIC CARAS
-http://81109.hdr37.com:80/hakanmilano/a4utud/124624
-#EXTINF:-1,PT: SIC
-http://81109.hdr37.com:80/hakanmilano/a4utud/124625
-#EXTINF:-1,PT: SIC K
-http://81109.hdr37.com:80/hakanmilano/a4utud/124626
-#EXTINF:-1,PT: SIC MULHER
-http://81109.hdr37.com:80/hakanmilano/a4utud/124627
-#EXTINF:-1,PT: SIC RADICAL
-http://81109.hdr37.com:80/hakanmilano/a4utud/124628
-#EXTINF:-1,PT: TVCINE ACTION
-http://81109.hdr37.com:80/hakanmilano/a4utud/124629
-#EXTINF:-1,PT: TVCINE EMOTION
-http://81109.hdr37.com:80/hakanmilano/a4utud/124630
-#EXTINF:-1,PT: TVCINE TOP
-http://81109.hdr37.com:80/hakanmilano/a4utud/124631
-#EXTINF:-1,PT: TVI
-http://81109.hdr37.com:80/hakanmilano/a4utud/124633
-#EXTINF:-1,PT: A BOLA
-http://81109.hdr37.com:80/hakanmilano/a4utud/124635
-#EXTINF:-1,PT: AMC
-http://81109.hdr37.com:80/hakanmilano/a4utud/124638
-#EXTINF:-1,PT: AXN WHITE
-http://81109.hdr37.com:80/hakanmilano/a4utud/124640
-#EXTINF:-1,PT: BENFICA
-http://81109.hdr37.com:80/hakanmilano/a4utud/124644
-#EXTINF:-1,PT: BTV
-http://81109.hdr37.com:80/hakanmilano/a4utud/124647
-#EXTINF:-1,PT: CANAL NOS
-http://81109.hdr37.com:80/hakanmilano/a4utud/124650
-#EXTINF:-1,PT: CINEMUNDO
-http://81109.hdr37.com:80/hakanmilano/a4utud/124656
-#EXTINF:-1,PT: CMTV
-http://81109.hdr37.com:80/hakanmilano/a4utud/124657
-#EXTINF:-1,PT: FOX COMEDY
-http://81109.hdr37.com:80/hakanmilano/a4utud/124669
-#EXTINF:-1,PT: FOX LIFE
-http://81109.hdr37.com:80/hakanmilano/a4utud/124670
-#EXTINF:-1,PT: FOX MOVIES
-http://81109.hdr37.com:80/hakanmilano/a4utud/124671
-#EXTINF:-1,PT: FTV
-http://81109.hdr37.com:80/hakanmilano/a4utud/124672
-#EXTINF:-1,PT: NOS STUDIOS
-http://81109.hdr37.com:80/hakanmilano/a4utud/124688
-#EXTINF:-1,PT: RTP 2
-http://81109.hdr37.com:80/hakanmilano/a4utud/124693
-#EXTINF:-1,PT: SIC NOTICIAS
-http://81109.hdr37.com:80/hakanmilano/a4utud/124699
-#EXTINF:-1,PT: SYFY
-http://81109.hdr37.com:80/hakanmilano/a4utud/124701
-#EXTINF:-1,PT: TLC
-http://81109.hdr37.com:80/hakanmilano/a4utud/124702
-#EXTINF:-1,PT: TPA
-http://81109.hdr37.com:80/hakanmilano/a4utud/124703
-#EXTINF:-1,PT: TV CINE ACTION
-http://81109.hdr37.com:80/hakanmilano/a4utud/124707
-#EXTINF:-1,PT: TV CINE EDITION
-http://81109.hdr37.com:80/hakanmilano/a4utud/124708
-#EXTINF:-1,PT: TV CINE TOP
-http://81109.hdr37.com:80/hakanmilano/a4utud/124709
-#EXTINF:-1,PT: TVCINE EDITION
-http://81109.hdr37.com:80/hakanmilano/a4utud/124711
-#EXTINF:-1, ===XXX125====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/136726
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167745
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://xxip25.top:8080/dmaldonado1964@yahoo.com/dmaldonado1964@2022/167750
+
+
 #EXTINF:-1, ===websafety====
