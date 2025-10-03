@@ -1,47 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1, ===SCRE====
-#EXTINF:-1,VIP SPORT: SPORT TV 1 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175850
-#EXTINF:-1,VIP SPORT: SPORT TV 2 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175849
-#EXTINF:-1,VIP SPORT: SPORT TV 3 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175848
-#EXTINF:-1,VIP SPORT: SPORT TV 4 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175847
-#EXTINF:-1,VIP SPORT: SPORT TV 5 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175846
-#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175845
-#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PT)
-http://scgre.sgrtq.com:80/CGj6gzlnHz/Y1DTOkrwjj/175844
 
 
 #EXTINF:-1, ===FruHD====
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281676
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281679
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281682
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD ᴴ²⁶⁵
-http://fruhd.cc:8080/305067837185019/300720130910/281683
-#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281685
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281688
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD ᴴ²⁶⁵
-http://fruhd.cc:8080/305067837185019/300720130910/281689
-#EXTINF:-1,|PT| SPORT TV1 FHD ᴴ²⁶⁵
-http://fruhd.cc:8080/305067837185019/300720130910/281660
-#EXTINF:-1,|PT| SPORT TV2 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281662
-#EXTINF:-1,|PT| SPORT TV3 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281665
-#EXTINF:-1,|PT| SPORT TV4 FHD ᴴ²⁶⁵
-http://fruhd.cc:8080/305067837185019/300720130910/281669
-#EXTINF:-1,|PT| SPORT TV5 FHD
-http://fruhd.cc:8080/305067837185019/300720130910/281671
+
 
 
 #EXTINF:-1, ===VIPCHO====
@@ -95,10 +59,6 @@ http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198991
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198990
 #EXTINF:-1,PT: SPORT TV 6
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198989
-#EXTINF:-1,PT: SPORT TV NBA
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198988
-#EXTINF:-1,PT: Sporting TV
-http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198987
 #EXTINF:-1,PT: ELEVEN SPORTS 1
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198986
 #EXTINF:-1,PT: ELEVEN SPORTS 2
@@ -113,32 +73,7 @@ http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198982
 http://elit64.xyz:2086/metpol9191hdvcb/EsJ2Cc69ou/198981
 
 #EXTINF:-1, ===Haka====
-#EXTINF:-1,PT: BENFICA
-http://81109.hdr37.com:80/hakanmilano/a4utud/124644
-#EXTINF:-1,PT: Sport TV 1
-http://81109.hdr37.com:80/hakanmilano/a4utud/124580
-#EXTINF:-1,PT: Sport TV 2
-http://81109.hdr37.com:80/hakanmilano/a4utud/124581
-#EXTINF:-1,PT: Sport TV 3
-http://81109.hdr37.com:80/hakanmilano/a4utud/124582
-#EXTINF:-1,PT: Sport TV 4
-http://81109.hdr37.com:80/hakanmilano/a4utud/124583
-#EXTINF:-1,PT: Sport TV 5
-http://81109.hdr37.com:80/hakanmilano/a4utud/124584
-#EXTINF:-1,PT: SPORT TV 6
-http://81109.hdr37.com:80/hakanmilano/a4utud/124585
-#EXTINF:-1,PT: Benfica TV
-http://81109.hdr37.com:80/hakanmilano/a4utud/124588
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://81109.hdr37.com:80/hakanmilano/a4utud/124589
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://81109.hdr37.com:80/hakanmilano/a4utud/124591
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://81109.hdr37.com:80/hakanmilano/a4utud/124592
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://81109.hdr37.com:80/hakanmilano/a4utud/124593
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://81109.hdr37.com:80/hakanmilano/a4utud/124594
+
 
 
 #EXTINF:-1, ===websafety====
