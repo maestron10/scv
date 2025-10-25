@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1, ===Maldiv====
+#EXTINF:-1,PT- BTV HD
+http://clarotv7.com:80/508373667/k717x9942z/112010
 #EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@PREMIUM✓SPORTS",DAZN 1 
 https://maldivesn.net/hilaytv/dazn1
 #EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="ShareExt@PREMIUM✓SPORTS",DAZN 2 
@@ -29,32 +31,28 @@ https://maldivesn.net/hilaytv/sporttv5
 https://maldivesn.net/hilaytv/sporttv6
 
 #EXTINF:-1, ===FruHD====
-#EXTINF:-1,PT: BTV
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99492
-#EXTINF:-1,PT: ELEVEN 1
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99475
-#EXTINF:-1,PT: ELEVEN 2
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99476
-#EXTINF:-1,PT: ELEVEN 3
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99477
-#EXTINF:-1,PT: ELEVEN 4
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99478
-#EXTINF:-1,PT: ELEVEN 5
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99479
-#EXTINF:-1,PT: ELEVEN 6
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99480
-#EXTINF:-1,PT: SPORT TV 1
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99488
-#EXTINF:-1,PT: SPORT TV 6
-http://vipboacnn.top:8080/VIP0126173617543298/91736175432589/99489
+#EXTINF:-1,PT: Eleven Sport 1 HD
+http://clarotv7.com:80/508373667/k717x9942z/273450
+#EXTINF:-1,PT: Eleven Sport 2 HD
+http://clarotv7.com:80/508373667/k717x9942z/273451
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://clarotv7.com:80/508373667/k717x9942z/273452
+#EXTINF:-1,PT: Eleven Sport 4 FHD
+http://clarotv7.com:80/508373667/k717x9942z/565030
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://clarotv7.com:80/508373667/k717x9942z/273453
+
+
+#EXTINF:-1,PT- SportTV 1 HD
+http://clarotv7.com:80/508373667/k717x9942z/111995
+#EXTINF:-1,PT- SportTV 2 HD
+http://clarotv7.com:80/508373667/k717x9942z/111998
+#EXTINF:-1,PT- SportTV 3 HD
+http://clarotv7.com:80/508373667/k717x9942z/112000
+#EXTINF:-1,PT- SportTV 4 HD
+http://clarotv7.com:80/508373667/k717x9942z/112002
+#EXTINF:-1,PT- SportTV 5 HD
+http://clarotv7.com:80/508373667/k717x9942z/112004
 
 
 
