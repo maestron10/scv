@@ -31,40 +31,68 @@ https://maldivesn.net/hilaytv/sporttv5
 https://maldivesn.net/hilaytv/sporttv6
 
 #EXTINF:-1, ===FruHD====
-#EXTINF:-1,PT: Eleven Sport 1 HD
-http://clarotv7.com:80/508373667/k717x9942z/273450
-#EXTINF:-1,PT: Eleven Sport 2 HD
-http://clarotv7.com:80/508373667/k717x9942z/273451
-#EXTINF:-1,PT: Eleven Sport 3 HD
-http://clarotv7.com:80/508373667/k717x9942z/273452
-#EXTINF:-1,PT: Eleven Sport 4 FHD
-http://clarotv7.com:80/508373667/k717x9942z/565030
-#EXTINF:-1,PT: Eleven Sport 5 HD
-http://clarotv7.com:80/508373667/k717x9942z/273453
-
-
-#EXTINF:-1,PT- SportTV 1 HD
-http://clarotv7.com:80/508373667/k717x9942z/111995
-#EXTINF:-1,PT- SportTV 2 HD
-http://clarotv7.com:80/508373667/k717x9942z/111998
-#EXTINF:-1,PT- SportTV 3 HD
-http://clarotv7.com:80/508373667/k717x9942z/112000
-#EXTINF:-1,PT- SportTV 4 HD
-http://clarotv7.com:80/508373667/k717x9942z/112002
-#EXTINF:-1,PT- SportTV 5 HD
-http://clarotv7.com:80/508373667/k717x9942z/112004
-
-
-
-
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://1tv41.icu:8080/drmajones@gmail.com/J2cg4hzx4s/167742
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://1tv41.icu:8080/drmajones@gmail.com/J2cg4hzx4s/167749
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="= = = = = DESPORTO = = = = =" tvg-logo="" group-title="PT: DESPORTO",= = = = = DESPORTO = = = = =
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117723
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV + HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117724
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117725
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117726
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 1 4K
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117727
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117728
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD 1080" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 2 FHD 1080
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117729
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117730
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 3 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117731
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117732
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 4 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117733
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117734
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 5 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117735
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 6 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117736
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV 6 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117737
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="PT: DESPORTO",PT: SPORT TV NBA HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117738
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="PT: DESPORTO",PT: BTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117739
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="" group-title="PT: DESPORTO",PT: BTV FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117740
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD 1080" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 1 FHD 1080
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117743
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 4K" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 1 4K
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117744
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 FHD 1080" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 2 FHD 1080
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117746
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 3 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117748
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 4 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117750
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 5 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117752
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 6 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="PT: DESPORTO",PT: ELEVEN 6 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117754
 
 #EXTINF:-1, ===VIPCHO====
 #EXTINF:-1,PT: ELEVEN 1
