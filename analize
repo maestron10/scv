@@ -30,6 +30,77 @@ https://maldivesn.net/hilaytv/sporttv5
 #EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 6" tvg-logo="https://8upload.com/image/68abfb2590201/sporttv6hilay.png" group-title="ShareExt@PREMIUM✓SPORTS",Sport TV 6 
 https://maldivesn.net/hilaytv/sporttv6
 
+#EXTINF:-1, ===Asia====
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
+http://combate.asia:80/077551817515/6268049625318/10052961
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
+http://combate.asia:80/077551817515/6268049625318/10117715
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT ELEVEN SPORT 2 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 2 HD
+http://combate.asia:80/077551817515/6268049625318/10117714
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT ELEVEN SPORT 3 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 3 HD
+http://combate.asia:80/077551817515/6268049625318/10117713
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT ELEVEN SPORT 4 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 4 HD
+http://combate.asia:80/077551817515/6268049625318/10117712
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT ELEVEN SPORT 5 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 5 HD
+http://combate.asia:80/077551817515/6268049625318/10117711
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORT 6 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 6 HD
+http://combate.asia:80/077551817515/6268049625318/10052963
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 1
+http://combate.asia:80/077551817515/6268049625318/10040691
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT SPORT TV 2" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 2
+http://combate.asia:80/077551817515/6268049625318/10040692
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 3
+http://combate.asia:80/077551817515/6268049625318/10040693
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4
+http://combate.asia:80/077551817515/6268049625318/10040694
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5
+http://combate.asia:80/077551817515/6268049625318/10040695
+
+#EXTINF:-1, ===Astrill====
+#EXTINF:-1,BENFICA TV HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/644.ts
+#EXTINF:-1,DAZN 1 ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/648.ts
+#EXTINF:-1,DAZN 1 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/649.ts
+#EXTINF:-1,DAZN 2 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/652.ts
+#EXTINF:-1,DAZN 3 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/654.ts
+#EXTINF:-1,DAZN 4 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/656.ts
+#EXTINF:-1,DAZN 5 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/658.ts
+#EXTINF:-1,DAZN 6 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/660.ts
+#EXTINF:-1,SPORT TV 1 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/627.ts
+#EXTINF:-1,SPORT TV 2 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/630.ts
+#EXTINF:-1,SPORT TV 3 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/633.ts
+#EXTINF:-1,SPORT TV 4 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/635.ts
+#EXTINF:-1,SPORT TV 5 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/637.ts
+#EXTINF:-1,SPORT TV 6 HD ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/638.ts
+#EXTINF:-1,SPORT TV 7 ✠
+http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/639.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, ===FruHD====
 #EXTINF:-1 tvg-id="" tvg-name="= = = = = DESPORTO = = = = =" tvg-logo="" group-title="PT: DESPORTO",= = = = = DESPORTO = = = = =
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117723
@@ -122,69 +193,8 @@ http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99492
 
 #EXTINF:-1, ===Blue====
 
-#EXTINF:-1,PT: BTV HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717087
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717080
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717082
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717084
-#EXTINF:-1,Portugal- Eleven Sports 4 FHD 1080
-http://media.cloudbrit.com:8080/112233/445566/1845636
-#EXTINF:-1,Portugal- Eleven Sports 5 HD 720
-http://media.cloudbrit.com:8080/112233/445566/1845641
-#EXTINF:-1,PT: SPORT TV 1 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717071
-#EXTINF:-1,PT: SPORT TV 2 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717073
-#EXTINF:-1,PT: SPORT TV 3 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717074
-#EXTINF:-1,PT: Sport TV 4 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717075
-#EXTINF:-1,PT: Sport TV 5 HD (H.265)
-http://media.cloudbrit.com:8080/112233/445566/1717076
-#EXTINF:-1, ===UTA====
-#EXTINF:-1,PT: BTV HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590109
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590111
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590115
-#EXTINF:-1,PT: Eleven Sports 3 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590117
-#EXTINF:-1,PT: Eleven Sports 4 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590120
-#EXTINF:-1,PT: Eleven Sports 5 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590123
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590091
-#EXTINF:-1,PT: Sport TV 2 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590093
-#EXTINF:-1,PT: Sport TV 3 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590096
-#EXTINF:-1,PT: Sport TV 4 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590099
-#EXTINF:-1,PT: Sport TV 5 HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590102
 
-#EXTINF:-1, ===UGEEN====
-#EXTINF:-1,PT: TVcine TOP FHD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590150
-#EXTINF:-1,PT: TVcine Edition FHD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590151
-#EXTINF:-1,PT: TVCINE EDITION HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590152
-#EXTINF:-1,PT: TVcine Emotion FHD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590153
-#EXTINF:-1,PT: TVcine Action FHD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590154
-#EXTINF:-1,PT: TVCINE Action HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590155
-#EXTINF:-1,PT: NOS Studio HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590156
-#EXTINF:-1,PT: NOS Studios HD
-http://195.66.210.10:80/ZSEJQ/JPVPC/590157
+
 
 #EXTINF:-1, ===visit====
 
