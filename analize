@@ -89,31 +89,21 @@ http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/638.ts
 http://astrill.today:80/Ch1eff-test-connection/asfsdegstyhh/639.ts
 
 #EXTINF:-1, ===Restream====
-#EXTINF:-1,PT BENFICA TV 1 HD
-https://restream-live.realiptv.to:443/19742329/27604387/953
-#EXTINF:-1,PT ELEVEN SPORTS 1 HD
-https://restream-live.realiptv.to:443/19742329/27604387/925
-#EXTINF:-1,PT ELEVEN SPORTS 2 HD
-https://restream-live.realiptv.to:443/19742329/27604387/923
-#EXTINF:-1,PT ELEVEN SPORTS 3 HD
-https://restream-live.realiptv.to:443/19742329/27604387/921
-#EXTINF:-1,PT ELEVEN SPORTS 4 HD
-https://restream-live.realiptv.to:443/19742329/27604387/919
-#EXTINF:-1,PT ELEVEN SPORTS 5 HD
-https://restream-live.realiptv.to:443/19742329/27604387/917
-#EXTINF:-1,PT ELEVEN SPORTS 6 HD
-https://restream-live.realiptv.to:443/19742329/27604387/915
-#EXTINF:-1,PT SPORT TV 1 HD
-https://restream-live.realiptv.to:443/19742329/27604387/848
-#EXTINF:-1,PT SPORT TV 2 HD
-https://restream-live.realiptv.to:443/19742329/27604387/846
-#EXTINF:-1,PT SPORT TV 3 HD
-https://restream-live.realiptv.to:443/19742329/27604387/844
-#EXTINF:-1,PT SPORT TV 4 HD
-https://restream-live.realiptv.to:443/19742329/27604387/842
-#EXTINF:-1,PT SPORT TV 5 HD
-https://restream-live.realiptv.to:443/19742329/27604387/839
 
+#EXTINF:-1,PT: BTV
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99492
+#EXTINF:-1,PT: SPORT TV 1
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99484
+#EXTINF:-1,PT: SPORT TV 2
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99485
+#EXTINF:-1,PT: SPORT TV 3
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99486
+#EXTINF:-1,PT: SPORT TV 4
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99487
+#EXTINF:-1,PT: SPORT TV 5
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99488
+#EXTINF:-1,PT: SPORT TV 6
+http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/99489
 
 
 
