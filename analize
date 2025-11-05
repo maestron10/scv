@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1, ===harcomedia====
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260303
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BENFICA TV" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJByhboqAq013Y8z_ObkeT95zdFLM5_CloolynmoT0TV5mA.png" group-title="PORTUGAL",PT: BENFICA TV
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260304
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJByhboqAq013Y8z_ObkeT95zdFLM5_CloolynmoT0TV5mA.png" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260305
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTf6dX_LbDu_i94C-DEugFP1Q.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260321
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTfnlgj1RRGPWnPOtjtpt2E1Q.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260322
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTflbTryNE3gY-HHygYMbM5Zw.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260323
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTfgOGSyt2A3rXGPHfgr6JTbQ.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260324
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTfhDVgGPHqC923oEkgZNM8MA.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260325
+#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TEinsv8LPH0SY3Gu4JElrCA.png" group-title="PORTUGAL",PT: SPORT TV 1
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260364
+#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TNwgxp68Jk0DTAOGgRehH6RVlQfYqAlUfMz0hTEIyhBs.png" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260365
+#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TNwgxp68Jk0DTAOGgRehH6RVlQfYqAlUfMz0hTEIyhBs.png" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260366
+#EXTINF:-1 tvg-id="SPORTTV2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9T_Rd_i5U8VRxxc-5pJ5Rx0g.png" group-title="PORTUGAL",PT: SPORT TV 2
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260367
+#EXTINF:-1 tvg-id="SPORTTV2.pt" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9Ts75KBkRE2s29ysROlvOm6-4FMHQUmnhmXKEULuNtQXI.png" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260368
+#EXTINF:-1 tvg-id="SPORTTV3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9ToM9k32dA3oUF8xthFPnDzA.png" group-title="PORTUGAL",PT: SPORT TV 3
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260369
+#EXTINF:-1 tvg-id="SPORTTV4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TjXVVYBHTqBKz91fwG9x0hQ.png" group-title="PORTUGAL",PT: SPORT TV 4
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260370
+#EXTINF:-1 tvg-id="SPORTTV5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TBNCvL-H-MtaN60FJOSG7mQ.png" group-title="PORTUGAL",PT: SPORT TV 5
+http://hardcoremedia.xyz:80/gprpqymi/5186091915/260371
+
+
 #EXTINF:-1, ===Maldiv====
 #EXTINF:-1,PT- BTV HD
 http://clarotv7.com:80/508373667/k717x9942z/112010
