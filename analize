@@ -28,9 +28,38 @@ http://combate.asia:80/077551817515/6268049625318/10040695
 
 
 #EXTINF:-1, ===Maldiv====
-
-
-
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
+http://line.one-ott.xyz:80/7H6R91/76G49D/959431
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959375
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT ELEVEN SPORT 2 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 2 HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959379
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT ELEVEN SPORT 3 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 3 HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959383
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT ELEVEN SPORT 4 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 4 HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959387
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT ELEVEN SPORT 5 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 5 HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959391
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORT 6 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 6 HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959395
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 1
+http://line.one-ott.xyz:80/7H6R91/76G49D/959339
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT SPORT TV 2" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 2
+http://line.one-ott.xyz:80/7H6R91/76G49D/959343
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 3
+http://line.one-ott.xyz:80/7H6R91/76G49D/959347
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4
+http://line.one-ott.xyz:80/7H6R91/76G49D/959351
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5
+http://line.one-ott.xyz:80/7H6R91/76G49D/959355
+#EXTINF:-1,PT TV CINE ACTION HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959469
+#EXTINF:-1,PT TV CINE EDITION HD
+http://line.one-ott.xyz:80/7H6R91/76G49D/959461
+#EXTINF:-1,PT TV CINE EMOTION
+http://line.one-ott.xyz:80/7H6R91/76G49D/959465
+#EXTINF:-1,PT TV CINE TOP
+http://line.one-ott.xyz:80/7H6R91/76G49D/959457
 
 
 
@@ -68,40 +97,37 @@ http://hardcoremedia.xyz:80/gprpqymi/5186091915/260370
 #EXTINF:-1 tvg-id="SPORTTV5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TBNCvL-H-MtaN60FJOSG7mQ.png" group-title="PORTUGAL",PT: SPORT TV 5
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/260371
 
+#EXTINF:-1, ===onlineidk====
+#EXTINF:-1,BENFICA TV | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/160
+#EXTINF:-1,ELEVEN SPORTS 1 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/164
+#EXTINF:-1,ELEVEN SPORTS 2 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/167
+#EXTINF:-1,ELEVEN SPORTS 3 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/170
+#EXTINF:-1,ELEVEN SPORTS 4 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/173
+#EXTINF:-1,ELEVEN SPORTS 5 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/175
+#EXTINF:-1,ELEVEN SPORTS 6 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/177
+#EXTINF:-1,SPORT TV 1 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/140
+#EXTINF:-1,SPORT TV 2 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/144
+#EXTINF:-1,SPORT TV 3 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/148
+#EXTINF:-1,SPORT TV 4 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/152
+#EXTINF:-1,SPORT TV 5 | PT
+http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/156
 
 
 
 
 
 
-#EXTINF:-1, ===FruHD====
-
-
-#EXTINF:-1, ===VIPCHO====
-#EXTINF:-1,PT: ELEVEN 1
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99475
-#EXTINF:-1,PT: ELEVEN 2
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99476
-#EXTINF:-1,PT: ELEVEN 3
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99477
-#EXTINF:-1,PT: ELEVEN 4
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99478
-#EXTINF:-1,PT: ELEVEN 5
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99479
-#EXTINF:-1,PT: SPORT TV 1
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99488
-#EXTINF:-1,PT: SPORT TV 6
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99489
-#EXTINF:-1,PT: BTV
-http://vipchohorxp.top:8080/VIP018821754092178529/e8c82a9753da/99492
 
 #EXTINF:-1, ===Blue====
 
