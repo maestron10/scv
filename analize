@@ -1,33 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1, ===Asia====
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
-http://combate.asia:80/077551817515/6268049625318/10052961
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
-http://combate.asia:80/077551817515/6268049625318/10117715
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT ELEVEN SPORT 2 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 2 HD
-http://combate.asia:80/077551817515/6268049625318/10117714
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT ELEVEN SPORT 3 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 3 HD
-http://combate.asia:80/077551817515/6268049625318/10117713
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT ELEVEN SPORT 4 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 4 HD
-http://combate.asia:80/077551817515/6268049625318/10117712
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT ELEVEN SPORT 5 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 5 HD
-http://combate.asia:80/077551817515/6268049625318/10117711
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORT 6 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 6 HD
-http://combate.asia:80/077551817515/6268049625318/10052963
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 1
-http://combate.asia:80/077551817515/6268049625318/10040691
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT SPORT TV 2" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 2
-http://combate.asia:80/077551817515/6268049625318/10040692
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 3
-http://combate.asia:80/077551817515/6268049625318/10040693
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4
-http://combate.asia:80/077551817515/6268049625318/10040694
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5
-http://combate.asia:80/077551817515/6268049625318/10040695
+#EXTINF:-1, ===Vip2024====
+#EXTINF:-1,PT | BTV FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/751087
+#EXTINF:-1,PT | BTV HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/978139
+#EXTINF:-1,PT | BTV 1 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750097
+#EXTINF:-1,PT | SPORT TV 1 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750091
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/978132
+#EXTINF:-1,PT | SPORT TV 2 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750049
+#EXTINF:-1,PT | SPORT TV 3 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750045
+#EXTINF:-1,PT | SPORT TV 4 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750041
+#EXTINF:-1,PT | SPORT TV 5 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750039
+#EXTINF:-1,PT | SPORT TV 5 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750038
+#EXTINF:-1,PT | ELEVEN SPORTS 1 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750100
+#EXTINF:-1,PT | ELEVEN SPORTS 2 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/749892
+#EXTINF:-1,PT | ELEVEN SPORTS 3 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750103
+#EXTINF:-1,PT | ELEVEN SPORTS 4 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750104
+#EXTINF:-1,PT | ELEVEN SPORTS 5 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/750105
+#EXTINF:-1,PT | ELEVEN SPORTS 6 FHD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/749886
+#EXTINF:-1,PT | ELEVEN SPORT EXTRA 1 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/978113
+#EXTINF:-1,PT | ELEVEN SPORT EXTRA 2 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/978112
+#EXTINF:-1,PT | ELEVEN SPORT EXTRA 3 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/978111
+#EXTINF:-1,PT | ELEVEN SPORT EXTRA 4 HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/978110
+#EXTINF:-1, ===Moontolls====
+#EXTINF:-1,Dep|| |PT| BENFICA
+http://moontools.me:8080/lnertest/r294i3gALbRYJn/1656571
+#EXTINF:-1,(PT) SPORT TV 1 HD
+http://moontools.me:8080/lnertest/r294i3gALbRYJn/15580
+#EXTINF:-1,(PT) SPORT TV 2 HD
+http://moontools.me:8080/lnertest/r294i3gALbRYJn/15579
+#EXTINF:-1,(PT) SPORT TV 3 HD
+http://moontools.me:8080/lnertest/r294i3gALbRYJn/15578
+#EXTINF:-1,(PT) SPORT TV 5 HD
+http://moontools.me:8080/lnertest/r294i3gALbRYJn/15576
+#EXTINF:-1, ===Voco====
+#EXTINF:-1,PT | BTV FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273567
+#EXTINF:-1,PT | Eleven Sports 1 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273579
+#EXTINF:-1,PT | Eleven Sports 2 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273577
+#EXTINF:-1,PT | Eleven Sports 3 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273575
+#EXTINF:-1,PT | Eleven Sports 4 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273573
+#EXTINF:-1,PT | Eleven Sports 5 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273571
+#EXTINF:-1,PT | Sport TV 1 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273592
+#EXTINF:-1,PT | Sport TV 2 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273588
+#EXTINF:-1,PT | Sport TV 3 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273585
+#EXTINF:-1,PT | Sport TV 4 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273583
+#EXTINF:-1,PT | Sport TV 5 FHD
+http://vocotv.pro:80/Larry2025/Larry2025/273581
 
-
-#EXTINF:-1, ===Maldiv====
+#EXTINF:-1, ===Line-ott====
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
 http://line.one-ott.xyz:80/7H6R91/76G49D/959431
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
@@ -121,78 +170,7 @@ http://hardcoremedia.xyz:80/gprpqymi/5186091915/260370
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/260371
 
 #EXTINF:-1, ===onlineidk====
-#EXTINF:-1,BENFICA TV | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/160
-#EXTINF:-1,ELEVEN SPORTS 1 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/164
-#EXTINF:-1,ELEVEN SPORTS 2 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/167
-#EXTINF:-1,ELEVEN SPORTS 3 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/170
-#EXTINF:-1,ELEVEN SPORTS 4 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/173
-#EXTINF:-1,ELEVEN SPORTS 5 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/175
-#EXTINF:-1,ELEVEN SPORTS 6 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/177
-#EXTINF:-1,SPORT TV 1 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/140
-#EXTINF:-1,SPORT TV 2 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/144
-#EXTINF:-1,SPORT TV 3 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/148
-#EXTINF:-1,SPORT TV 4 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/152
-#EXTINF:-1,SPORT TV 5 | PT
-http://onlineidk.me:80/MentorAdemii/aS9EQKaszS1baQAsrCUj/156
 
-
-#EXTINF:-1, ===Lucid====
-#EXTINF:-1,PT | BENFICA TV
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17565
-#EXTINF:-1,PT | ELEVEN SPORTS 1
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17590
-#EXTINF:-1,PT | ELEVEN SPORTS 2
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17592
-#EXTINF:-1,PT | ELEVEN SPORTS 3
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17594
-#EXTINF:-1,PT | ELEVEN SPORTS 4
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17596
-#EXTINF:-1,PT | ELEVEN SPORTS 5
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17598
-#EXTINF:-1,PT | ELEVEN SPORTS 6
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17600
-#EXTINF:-1,PT | SPORT TV 1
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17642
-#EXTINF:-1,PT | SPORT TV 2
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17643
-#EXTINF:-1,PT | SPORT TV 3
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17644
-#EXTINF:-1,PT | SPORT TV 4
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17645
-#EXTINF:-1,PT | SPORT TV 5
-http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/17647
-
-
-
-
-#EXTINF:-1, ===Panel====
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://panelguys.top:8080/99437538/28260477/136726
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://panelguys.top:8080/99437538/28260477/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://panelguys.top:8080/99437538/28260477/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://panelguys.top:8080/99437538/28260477/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://panelguys.top:8080/99437538/28260477/167745
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://panelguys.top:8080/99437538/28260477/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://panelguys.top:8080/99437538/28260477/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://panelguys.top:8080/99437538/28260477/167750
 
 
 
