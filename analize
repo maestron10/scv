@@ -123,6 +123,25 @@ http://line.one-ott.xyz:80/7H6R91/76G49D/959461
 http://line.one-ott.xyz:80/7H6R91/76G49D/959465
 #EXTINF:-1,PT TV CINE TOP
 http://line.one-ott.xyz:80/7H6R91/76G49D/959457
+#EXTINF:-1, ===Cord====
+#EXTINF:-1,PT BENFICA TV HD  (P)
+http://cord-cutter.net:8080/bn80NG/909467/136726
+#EXTINF:-1 tvg-id="Eleven.Sports.1.HD.pl" tvg-name="PT Eleven Sports 1 FHD" tvg-logo="" group-title="Sports Temp 2",PT Eleven Sports 1 FHD
+http://cord-cutter.net:8080/bn80NG/909467/35264
+#EXTINF:-1 tvg-id="Eleven.Sports.3.HD.pl" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Sports Temp 2",PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/bn80NG/909467/167748
+#EXTINF:-1 tvg-id="Eleven.Sports.4.HD.pl" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Sports Temp 2",PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/bn80NG/909467/167749
+#EXTINF:-1 tvg-id="Eleven.Sports.5.HD.pl" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Sports Temp 2",PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/bn80NG/909467/167750
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Sports Temp 2",PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/bn80NG/909467/167742
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Sports Temp 2",PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/bn80NG/909467/167743
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Sports Temp 2",PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/bn80NG/909467/167744
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Sports Temp 2",PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/bn80NG/909467/167745
 
 
 #EXTINF:-1, ===harcomedia====
@@ -177,8 +196,45 @@ https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKfsmY
 https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlLXYrhYY48B7ytnIDOs8dmY
 #EXTINF:-1,PT: SPORT TV 5
 https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKNi5YjSUdjmvA-YSVsc-eY
-
-
+#EXTINF:-1, ===iptvking====
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 1 HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1888&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 1
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 2 HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1889&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 2
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14858&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 3 HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1890&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 3
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14859&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 4 HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1891&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 4
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14860&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 5 HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1892&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 5
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14861&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 1
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1893&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 2
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1894&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 3
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1895&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 4
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1896&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 5
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1897&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 6
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1898&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) CANAL 11 HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=18577&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORTING TV
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1899&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) BENFICA TV HD
+http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1900&extension=ts
 
 
 
