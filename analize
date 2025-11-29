@@ -2,42 +2,70 @@
 
 #EXTINF:-1, ===megaser====
 #EXTINF:-1,PT| BTV 1 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165526
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165526
 #EXTINF:-1,PT| DAZN SPORT 1 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165518
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165518
 #EXTINF:-1,PT| DAZN SPORT 2 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165519
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165519
 #EXTINF:-1,PT| DAZN SPORT 3 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165520
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165520
 #EXTINF:-1,PT| DAZN SPORT 4 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165521
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165521
 #EXTINF:-1,PT| DAZN SPORT 5 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165522
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165522
 #EXTINF:-1,PT| DAZN SPORT 6 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165523
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165523
 #EXTINF:-1,PT| SPORT TV 1 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165511
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165511
 #EXTINF:-1,PT| SPORT TV 2 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165512
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165512
 #EXTINF:-1,PT| SPORT TV 3 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165513
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165513
 #EXTINF:-1,PT| SPORT TV 4 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165514
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165514
 #EXTINF:-1,PT| SPORT TV 5 FHD
-http://dcfyhwms.megaser.xyz:80/L176T6LA/HNU7Y5R2/165515
+http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165515
 
 
-#EXTINF:-1, ===Moontolls====
-#EXTINF:-1,Dep|| |PT| BENFICA
-http://moontools.me:8080/lnertest/r294i3gALbRYJn/1656571
-#EXTINF:-1,(PT) SPORT TV 1 HD
-http://moontools.me:8080/lnertest/r294i3gALbRYJn/15580
-#EXTINF:-1,(PT) SPORT TV 2 HD
-http://moontools.me:8080/lnertest/r294i3gALbRYJn/15579
-#EXTINF:-1,(PT) SPORT TV 3 HD
-http://moontools.me:8080/lnertest/r294i3gALbRYJn/15578
-#EXTINF:-1,(PT) SPORT TV 5 HD
-http://moontools.me:8080/lnertest/r294i3gALbRYJn/15576
+#EXTINF:-1, ===Lunar====
+#EXTINF:-1,PT: BTV
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/131998
+#EXTINF:-1,PT: ELEVEN SPORT 1
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132016
+#EXTINF:-1,PT: ELEVEN SPORT 2
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132017
+#EXTINF:-1,PT: ELEVEN SPORT 3
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132018
+#EXTINF:-1,PT: ELEVEN SPORT 4
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132019
+#EXTINF:-1,PT: ELEVEN SPORT 5
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132020
+#EXTINF:-1,PT: SPORT TV 1
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132066
+#EXTINF:-1,PT: SPORT TV 2
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132067
+#EXTINF:-1,PT: SPORT TV 3
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132068
+#EXTINF:-1,PT: SPORT TV 4
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132069
+#EXTINF:-1,PT: SPORT TV 5
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132070
+
+#EXTINF:-1, ===Dns====
+#EXTINF:-1,BENFICA TV
+https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/585450
+#EXTINF:-1,Sport TV 1 (PT)
+https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069904
+#EXTINF:-1,Sport TV 2 (PT)
+https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069905
+#EXTINF:-1,Sport TV 3 (PT)
+https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069906
+#EXTINF:-1,Sport TV 4 (PT)
+https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069907
+#EXTINF:-1,Sport TV 5 (PT)
+https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069908
+
+
 #EXTINF:-1, ===Voco====
 #EXTINF:-1,PT | BTV FHD
 http://vocotv.pro:80/Larry2025/Larry2025/273567
@@ -96,56 +124,6 @@ http://line.one-ott.xyz:80/7H6R91/76G49D/959465
 #EXTINF:-1,PT TV CINE TOP
 http://line.one-ott.xyz:80/7H6R91/76G49D/959457
 
-#EXTINF:-1, ===Pear====
-#EXTINF:-1,PT: BTV
-http://peartear.top:8080/83173142738430/51738938248667/25000
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://peartear.top:8080/83173142738430/51738938248667/25024
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://peartear.top:8080/83173142738430/51738938248667/25025
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://peartear.top:8080/83173142738430/51738938248667/25026
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://peartear.top:8080/83173142738430/51738938248667/25027
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://peartear.top:8080/83173142738430/51738938248667/25028
-#EXTINF:-1,PT: SPORT TV 1
-http://peartear.top:8080/83173142738430/51738938248667/24984
-#EXTINF:-1,PT: SPORT TV 2
-http://peartear.top:8080/83173142738430/51738938248667/24982
-#EXTINF:-1,PT: SPORT TV 3
-http://peartear.top:8080/83173142738430/51738938248667/24980
-#EXTINF:-1,PT: SPORT TV 4
-http://peartear.top:8080/83173142738430/51738938248667/24979
-#EXTINF:-1,PT: SPORT TV 5
-http://peartear.top:8080/83173142738430/51738938248667/24978
-
-
-
-#EXTINF:-1, ===Croco====
-#EXTINF:-1,PT: Benfica TV
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1497
-#EXTINF:-1,PT: DAZN 1
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1499
-#EXTINF:-1,PT: DAZN 2
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1503
-#EXTINF:-1,PT: DAZN 3
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1506
-#EXTINF:-1,PT: DAZN 4
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1509
-#EXTINF:-1,PT: DAZN 5
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1512
-#EXTINF:-1,PT: SPORT TV 1
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1495
-
 
 #EXTINF:-1, ===harcomedia====
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/260303
@@ -180,7 +158,25 @@ http://hardcoremedia.xyz:80/gprpqymi/5186091915/260370
 #EXTINF:-1 tvg-id="SPORTTV5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TBNCvL-H-MtaN60FJOSG7mQ.png" group-title="PORTUGAL",PT: SPORT TV 5
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/260371
 
-#EXTINF:-1, ===onlineidk====
+#EXTINF:-1, ===skynet====
+#EXTINF:-1,PORT | ELEVEN SPORTS 1 HD
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlLuo4yhipxBkelPkIQ6kFDh
+#EXTINF:-1,PORT | ELEVEN SPORTS 2 HD
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKtmo1cfzHLcshpY6-WQN8g
+#EXTINF:-1,PORT | ELEVEN SPORTS 3 HD
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlI98J_PYK7IgA7fyR4HGBAj
+#EXTINF:-1,PORT | ELEVEN SPORTS 4 HD
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlJIlB0LDNdlgtwn6VOXT63M
+#EXTINF:-1,PORT | ELEVEN SPORTS 5 HD
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlJMT_DqhKkZfxwX_CCKDbHC
+#EXTINF:-1,PT: SPORT TV 1
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKDN0l9vESwmw9Wh6RbjAZy
+#EXTINF:-1,PT: SPORT TV 2
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKfsmYgoyVhQLtGfEyjdUtH
+#EXTINF:-1,PT: SPORT TV 4
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlLXYrhYY48B7ytnIDOs8dmY
+#EXTINF:-1,PT: SPORT TV 5
+https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKNi5YjSUdjmvA-YSVsc-eY
 
 
 
