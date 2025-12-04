@@ -1,30 +1,129 @@
 #EXTM3U
+#EXTINF:-1, ===Voxfree====
+#EXTINF:-1,BTV  ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXmI73dD68ZkOYtzU9p6iXLQ
+#EXTINF:-1,BTV ᶠᴴᴰ VIP
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXlOjYnu9T55ablN795z-1V0
+#EXTINF:-1,DAZN 1 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXnL7exlwAWWflG7Touqb8og
+#EXTINF:-1,DAZN 2 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXjIR5NGmvK1zGsJqVVEtlYc
+#EXTINF:-1,DAZN 3 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXnBTrDiqCHovTdKReS1-2wc
+#EXTINF:-1,DAZN 4 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXstSRHhfxElv10E2KdmOCKc
+#EXTINF:-1,DAZN 5 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXpzZydYmNxtXhL8dIKUV_8c
+EXTINF:-1,SPORT TV 1  ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXvyagllztIoB2TwFD-pQQc
+#EXTINF:-1,SPORT TV 2 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXsR6jQY8tCoCwbJx-3aLnFE
+#EXTINF:-1,SPORT TV 3 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXhcfAD-GHt6gReH5ISZeH70
+#EXTINF:-1,SPORT TV 4 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXp66O4OuZjF5lrkia8_KXJs
+#EXTINF:-1,SPORT TV 5 ᶠᴴᴰ
+https://voxtree.xyz:443/play/AhbfG2IID3qYYwDvAlOVXhXGxCHCGLPqa7_57imY7q0
 
-#EXTINF:-1, ===megaser====
-#EXTINF:-1,PT| BTV 1 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165526
-#EXTINF:-1,PT| DAZN SPORT 1 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165518
-#EXTINF:-1,PT| DAZN SPORT 2 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165519
-#EXTINF:-1,PT| DAZN SPORT 3 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165520
-#EXTINF:-1,PT| DAZN SPORT 4 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165521
-#EXTINF:-1,PT| DAZN SPORT 5 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165522
-#EXTINF:-1,PT| DAZN SPORT 6 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165523
-#EXTINF:-1,PT| SPORT TV 1 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165511
-#EXTINF:-1,PT| SPORT TV 2 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165512
-#EXTINF:-1,PT| SPORT TV 3 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165513
-#EXTINF:-1,PT| SPORT TV 4 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165514
-#EXTINF:-1,PT| SPORT TV 5 FHD
-http://peqekjrc.smyia.com:80/live/E2F3S3D2/WQ6TRTLL/165515
+#EXTINF:-1, ===tecktv====
+#EXTINF:-1,PT - BENFICA TV HD
+http://teck-tv.com:80/2605201443100597/C655BF416768/68416
+#EXTINF:-1,PT - BTV HD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763941
+#EXTINF:-1,PT - BTV FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763939
+#EXTINF:-1,PT - DAZN 1 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763969
+#EXTINF:-1,PT - DAZN 2 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763971
+#EXTINF:-1,PT - DAZN 3 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763973
+#EXTINF:-1,PT - DAZN 4 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763975
+#EXTINF:-1,PT - DAZN 5 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/763977
+#EXTINF:-1,PT - SPORT TV 1 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/1030794
+#EXTINF:-1,PT - SPORT TV 2 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/764059
+#EXTINF:-1,PT - SPORT TV 3 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/68422
+#EXTINF:-1,PT - SPORT TV 4 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/764062
+#EXTINF:-1,PT - SPORT TV 5 FHD
+http://teck-tv.com:80/2605201443100597/C655BF416768/764064
+
+#EXTINF:-1, ===Filex====
+#EXTINF:-1,PT: Benfica TV HD
+http://filex.tv:8080//live/03469150869/03469150869/316810.ts
+#EXTINF:-1,PT: DAZN 1 HD
+http://filex.tv:8080//live/03469150869/03469150869/316811.ts
+#EXTINF:-1,PT: DAZN 2 HD
+http://filex.tv:8080//live/03469150869/03469150869/316812.ts
+#EXTINF:-1,PT: DAZN 3 HD
+http://filex.tv:8080//live/03469150869/03469150869/316813.ts
+#EXTINF:-1,PT: DAZN 4 HD
+http://filex.tv:8080//live/03469150869/03469150869/316814.ts
+#EXTINF:-1,PT: DAZN HD
+http://filex.tv:8080//live/03469150869/03469150869/316815.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://filex.tv:8080//live/03469150869/03469150869/316801.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://filex.tv:8080//live/03469150869/03469150869/316802.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://filex.tv:8080//live/03469150869/03469150869/316803.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://filex.tv:8080//live/03469150869/03469150869/316805.ts
+#EXTINF:-1, ===Lorstream====
+#EXTINF:-1,PT | BTV FHD
+http://lordstreams.live:80/12345/12345/273567
+#EXTINF:-1,PT | Eleven Sports 1 FHD
+http://lordstreams.live:80/12345/12345/273579
+#EXTINF:-1,PT | Eleven Sports 2 FHD
+http://lordstreams.live:80/12345/12345/273577
+#EXTINF:-1,PT | Eleven Sports 3 FHD
+http://lordstreams.live:80/12345/12345/273575
+#EXTINF:-1,PT | Eleven Sports 4 FHD
+http://lordstreams.live:80/12345/12345/273573
+#EXTINF:-1,PT | Eleven Sports 5 FHD
+http://lordstreams.live:80/12345/12345/273571
+#EXTINF:-1,PT | Eleven Sports 6 FHD
+http://lordstreams.live:80/12345/12345/273568
+#EXTINF:-1,PT | Sport TV 1 FHD
+http://lordstreams.live:80/12345/12345/273592
+#EXTINF:-1,PT | Sport TV 2 FHD
+http://lordstreams.live:80/12345/12345/273588
+#EXTINF:-1,PT | Sport TV 3 FHD
+http://lordstreams.live:80/12345/12345/273585
+#EXTINF:-1,PT | Sport TV 4 FHD
+http://lordstreams.live:80/12345/12345/273583
+#EXTINF:-1,PT | Sport TV 5 FHD
+http://lordstreams.live:80/12345/12345/273581
+#EXTINF:-1, ===ColeggeFan====
+#EXTINF:-1,PT: BENFICA TV
+http://visitmy.collegefan.org:80/brett2021/3859204176/780260
+#EXTINF:-1,PT: BENFICA TV(opcao 2)
+http://visitmy.collegefan.org:80/brett2021/3859204176/780261
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://visitmy.collegefan.org:80/brett2021/3859204176/780280
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://visitmy.collegefan.org:80/brett2021/3859204176/780281
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://visitmy.collegefan.org:80/brett2021/3859204176/780282
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://visitmy.collegefan.org:80/brett2021/3859204176/780283
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://visitmy.collegefan.org:80/brett2021/3859204176/780284
+#EXTINF:-1,PT: SPORT TV 1
+http://visitmy.collegefan.org:80/brett2021/3859204176/780328
+#EXTINF:-1,PT: SPORT TV 2
+http://visitmy.collegefan.org:80/brett2021/3859204176/780331
+#EXTINF:-1,PT: SPORT TV 3
+http://visitmy.collegefan.org:80/brett2021/3859204176/780333
+#EXTINF:-1,PT: SPORT TV 4
+http://visitmy.collegefan.org:80/brett2021/3859204176/780334
+#EXTINF:-1,PT: SPORT TV 5
+http://visitmy.collegefan.org:80/brett2021/3859204176/780335
 
 
 #EXTINF:-1, ===Lunar====
@@ -52,18 +151,7 @@ http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132069
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132070
 
 #EXTINF:-1, ===Dns====
-#EXTINF:-1,BENFICA TV
-https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/585450
-#EXTINF:-1,Sport TV 1 (PT)
-https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069904
-#EXTINF:-1,Sport TV 2 (PT)
-https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069905
-#EXTINF:-1,Sport TV 3 (PT)
-https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069906
-#EXTINF:-1,Sport TV 4 (PT)
-https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069907
-#EXTINF:-1,Sport TV 5 (PT)
-https://dnslivetv.online:443/CarlosAlas/T7ZNnVyVJD/1069908
+
 
 
 #EXTINF:-1, ===Voco====
@@ -145,98 +233,8 @@ http://cord-cutter.net:8080/bn80NG/909467/167745
 
 
 #EXTINF:-1, ===harcomedia====
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260303
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BENFICA TV" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJByhboqAq013Y8z_ObkeT95zdFLM5_CloolynmoT0TV5mA.png" group-title="PORTUGAL",PT: BENFICA TV
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260304
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJByhboqAq013Y8z_ObkeT95zdFLM5_CloolynmoT0TV5mA.png" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260305
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTf6dX_LbDu_i94C-DEugFP1Q.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260321
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTfnlgj1RRGPWnPOtjtpt2E1Q.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260322
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTflbTryNE3gY-HHygYMbM5Zw.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260323
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTfgOGSyt2A3rXGPHfgr6JTbQ.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260324
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxCkltVmOipsmj3l0pPSWTfhDVgGPHqC923oEkgZNM8MA.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260325
-#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TEinsv8LPH0SY3Gu4JElrCA.png" group-title="PORTUGAL",PT: SPORT TV 1
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260364
-#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1(opcao 2)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TNwgxp68Jk0DTAOGgRehH6RVlQfYqAlUfMz0hTEIyhBs.png" group-title="PORTUGAL",PT: SPORT TV 1(opcao 2)
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260365
-#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1(opcao 3)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TNwgxp68Jk0DTAOGgRehH6RVlQfYqAlUfMz0hTEIyhBs.png" group-title="PORTUGAL",PT: SPORT TV 1(opcao 3)
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260366
-#EXTINF:-1 tvg-id="SPORTTV2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9T_Rd_i5U8VRxxc-5pJ5Rx0g.png" group-title="PORTUGAL",PT: SPORT TV 2
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260367
-#EXTINF:-1 tvg-id="SPORTTV2.pt" tvg-name="PT: SPORT TV 2(opcao 2)" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9Ts75KBkRE2s29ysROlvOm6-4FMHQUmnhmXKEULuNtQXI.png" group-title="PORTUGAL",PT: SPORT TV 2(opcao 2)
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260368
-#EXTINF:-1 tvg-id="SPORTTV3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9ToM9k32dA3oUF8xthFPnDzA.png" group-title="PORTUGAL",PT: SPORT TV 3
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260369
-#EXTINF:-1 tvg-id="SPORTTV4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TjXVVYBHTqBKz91fwG9x0hQ.png" group-title="PORTUGAL",PT: SPORT TV 4
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260370
-#EXTINF:-1 tvg-id="SPORTTV5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxlNN3hTUlz_c00f-uznb9TBNCvL-H-MtaN60FJOSG7mQ.png" group-title="PORTUGAL",PT: SPORT TV 5
-http://hardcoremedia.xyz:80/gprpqymi/5186091915/260371
 
 #EXTINF:-1, ===skynet====
-#EXTINF:-1,PORT | ELEVEN SPORTS 1 HD
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlLuo4yhipxBkelPkIQ6kFDh
-#EXTINF:-1,PORT | ELEVEN SPORTS 2 HD
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKtmo1cfzHLcshpY6-WQN8g
-#EXTINF:-1,PORT | ELEVEN SPORTS 3 HD
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlI98J_PYK7IgA7fyR4HGBAj
-#EXTINF:-1,PORT | ELEVEN SPORTS 4 HD
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlJIlB0LDNdlgtwn6VOXT63M
-#EXTINF:-1,PORT | ELEVEN SPORTS 5 HD
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlJMT_DqhKkZfxwX_CCKDbHC
-#EXTINF:-1,PT: SPORT TV 1
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKDN0l9vESwmw9Wh6RbjAZy
-#EXTINF:-1,PT: SPORT TV 2
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKfsmYgoyVhQLtGfEyjdUtH
-#EXTINF:-1,PT: SPORT TV 4
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlLXYrhYY48B7ytnIDOs8dmY
-#EXTINF:-1,PT: SPORT TV 5
-https://skynetmax.live:8443/play/G9GPcuxWoXMhdTxrt2VOQjgOqwxLHeor_crTDFHcBlKNi5YjSUdjmvA-YSVsc-eY
-#EXTINF:-1, ===iptvking====
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 1 HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1888&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 1
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14857&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 2 HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1889&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 2
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14858&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 3 HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1890&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 3
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14859&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 4 HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1891&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 4
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14860&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT TV 5 HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1892&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORT.TV 5
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=14861&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 1
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1893&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 2
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1894&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 3
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1895&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 4
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1896&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 5
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1897&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) ELEVEN SPORTS 6
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1898&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) CANAL 11 HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=18577&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) SPORTING TV
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1899&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/portugalvlag.png" group-title="PT - SPORTS",(PT) BENFICA TV HD
-http://iptv.kingtv.tv:80/play/live.php?mac=00:1A:79:9E:88:78&stream=1900&extension=ts
-
-
 
 
 
