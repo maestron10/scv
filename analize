@@ -1,6 +1,27 @@
 #EXTM3U
-#EXTINF:-1, ===Voxfree====
-
+#EXTINF:-1, ===Tyreki====
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Benfica TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Benfica TV
+http://tyreki.xyz:80/rbfloja/829171718/2549582.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Dazn 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Dazn 1
+http://tyreki.xyz:80/rbfloja/829171718/2549606.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Dazn 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Dazn 2
+http://tyreki.xyz:80/rbfloja/829171718/2549607.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Dazn 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Dazn 3
+http://tyreki.xyz:80/rbfloja/829171718/2549608.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Dazn 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Dazn 4
+http://tyreki.xyz:80/rbfloja/829171718/2549609.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Dazn 5" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Dazn 5
+http://tyreki.xyz:80/rbfloja/829171718/2549610.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Sport TV 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Sport TV 1
+http://tyreki.xyz:80/rbfloja/829171718/2549652.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Sport TV 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Sport TV 2
+http://tyreki.xyz:80/rbfloja/829171718/2549653.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Sport TV 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Sport TV 3
+http://tyreki.xyz:80/rbfloja/829171718/2549654.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Sport TV 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Sport TV 4
+http://tyreki.xyz:80/rbfloja/829171718/2549655.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT ● Sport TV 5" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" group-title="♦️Canais | Portugal",PT ● Sport TV 5
+http://tyreki.xyz:80/rbfloja/829171718/2549656.ts
 #EXTINF:-1, ===tecktv====
 
 #EXTINF:-1, ===Filex====
