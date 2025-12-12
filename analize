@@ -121,6 +121,32 @@ http://mutant.arrox.top:80/nFYdEsmj/fak5Da8/112792
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/TvCine_Action.png" group-title="PT | ENTERTAINMENT",4K | TVCINE ACTION
 http://mutant.arrox.top:80/nFYdEsmj/fak5Da8/112793
 
+#EXTINF:-1, ===5startv====
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/131998
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 1
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132016
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 2
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132017
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 3
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132018
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 4
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132019
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 5
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132020
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORT 6
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132021
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132066
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 2
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132067
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 3 
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132068
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 4
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132069
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 5
+http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132070
+
 
 #EXTINF:-1, ===Filex====
 #EXTINF:-1,PT: Benfica TV HD
@@ -143,9 +169,28 @@ http://filex.tv:8080//live/03469150869/03469150869/316802.ts
 http://filex.tv:8080//live/03469150869/03469150869/316803.ts
 #EXTINF:-1,PT: Sport TV 5 HD
 http://filex.tv:8080//live/03469150869/03469150869/316805.ts
-#EXTINF:-1, ===Lorstream====
+#EXTINF:-1, ===Alphaplayer====
 
-
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT - BTV HD
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/4894
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-1.png" group-title="Portugal",PT - SPORT TV 1
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/93
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-2.png" group-title="Portugal",PT - SPORT TV 2
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/94
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-3.png" group-title="Portugal",PT - SPORT TV 3
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/95
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-4.png" group-title="Portugal",PT - SPORT TV 4
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/512
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT - SPORT TV 5
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/4891
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine1.png" group-title="Portugal",PT - TVCine Top HD
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/525
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine2.png" group-title="Portugal",PT - TVCine Edition HD
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/526
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine3.png" group-title="Portugal",PT - TVCine Emotion HD
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/527
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine4.png" group-title="Portugal",PT - TVCine Action HD
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/528
 
 #EXTINF:-1, ===Lunar====
 #EXTINF:-1,PT: BTV
@@ -216,7 +261,7 @@ http://line.one-ott.xyz:80/7H6R91/76G49D/959457
 
 #EXTINF:-1, ===harcomedia====
 
-#EXTINF:-1, ===skynet====
+
 
 
 
