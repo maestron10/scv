@@ -56,7 +56,7 @@ http://user.scalecdn.co:8080/Moniesavatar/85678534/839
 #EXTINF:-1, ===KS-TV====
 #EXTINF:-1 tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png" group-title="Portugal",PT | BENFICA TV UHD
 http://kstv.us:8080/Clemg30/0573693077/48427
-EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png" group-title="Portugal",PT | ELEVEN 1 HD
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png" group-title="Portugal",PT | ELEVEN 1 HD
 http://kstv.us:8080/Clemg30/0573693077/48443
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-2-pt.png" group-title="Portugal",PT | ELEVEN 2 HD
 http://kstv.us:8080/Clemg30/0573693077/48444
