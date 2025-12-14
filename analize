@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1, ===Aztk====
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvi.png" group-title="Portugal",PT - TVI
+http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/98
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvi.png" group-title="Portugal",PT - TVI
+http://user.scalecdn.co:8080/Moniesavatar/85678534/808
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 1
 http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319596
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 2
