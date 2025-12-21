@@ -197,6 +197,38 @@ http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine4.png" group-title="Portugal",PT - TVCine Action HD
 http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/528
 
+#EXTINF:-1, ===defaultgen====
+#EXTINF:-1,PT: Benfica TV
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700319
+#EXTINF:-1,PT: Dazn 1
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700242
+#EXTINF:-1,PT: Dazn 2
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700241
+#EXTINF:-1,PT: Dazn 3
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700240
+#EXTINF:-1,PT: Dazn 4
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700239
+#EXTINF:-1,PT: Dazn 5
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700238
+#EXTINF:-1,PT: SPORTTV 1
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700244
+#EXTINF:-1,PT: SportTV 2
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700243
+#EXTINF:-1,PT: Sport TV 3
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700236
+#EXTINF:-1,PT: Sport TV 4
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700235
+#EXTINF:-1,PT: Sport TV 5
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700234
+#EXTINF:-1,PT: TV Cine Action
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700231
+#EXTINF:-1,PT: TV Cine Edition
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700230
+#EXTINF:-1,PT: TV Cine Emotion
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700229
+#EXTINF:-1,PT: TV Cine Top
+http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700228
+
 #EXTINF:-1, ===Lunar====
 #EXTINF:-1,PT: BTV
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/131998
@@ -221,7 +253,6 @@ http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132069
 #EXTINF:-1,PT: SPORT TV 5
 http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/132070
 
-#EXTINF:-1, ===Dns====
 
 
 
