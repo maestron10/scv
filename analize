@@ -87,6 +87,43 @@ http://kstv.us:8080/Clemg30/0573693077/48514
 http://kstv.us:8080/Clemg30/0573693077/48515
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 4 | UHD
 http://kstv.us:8080/Clemg30/0573693077/48516
+#EXTINF:-1, ===IMAX====
+#EXTINF:-1,PT: BTV HD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590109
+#EXTINF:-1,PT: BTV FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590110
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590113
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590116
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590119
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590122
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590125
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590127
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590091
+#EXTINF:-1,PT: Sport TV 2 HD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590094
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590097
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590100
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590103
+#EXTINF:-1,PT: TVcine TOP FHD
+http://imaxplay.net:8880//AlexanderAMatamoros24/XWWKY/590150
+#EXTINF:-1,PT: TVcine Edition FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590151
+#EXTINF:-1,PT: TVcine Emotion FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590153
+#EXTINF:-1,PT: TVcine Action FHD
+http://imaxplay.net:8880/AlexanderAMatamoros24/XWWKY/590154
+
+
 
 #EXTINF:-1, ===Mutante====
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" group-title="PT | HD PORTUGAL",PT | BENFICA TV
