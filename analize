@@ -150,30 +150,7 @@ http://5startv.xyz:8080/Msbeverly/EUxSgccqJ7Nj/132070
 
 
 #EXTINF:-1, ===jhsinter====
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
-http://jhsinternet.com:80/077551817515/f1458851158x/10052961
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052978
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT ELEVEN SPORT 2 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 2 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052975
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT ELEVEN SPORT 3 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 3 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052972
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT ELEVEN SPORT 4 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 4 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052969
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT ELEVEN SPORT 5 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 5 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052966
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORT 6 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 6 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052963
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 1
-http://jhsinternet.com:80/077551817515/f1458851158x/10052993
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT SPORT TV 2 HD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 2 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052989
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3 HD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 3 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052986
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 4
-http://jhsinternet.com:80/077551817515/f1458851158x/10052984
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 5
-http://jhsinternet.com:80/077551817515/f1458851158x/10052982
+
 #EXTINF:-1, ===Alphaplayer====
 
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT - BTV HD
