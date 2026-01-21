@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1,PT SPORT TV 5 HD
+https://restream-live.realiptv.to:443/19742329/27604387/839
+
 #EXTINF:-1, ===Mutante====
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" group-title="PT | HD PORTUGAL",PT | BENFICA TV
 http://mutant.arrox.top:80/nFYdEsmj/fak5Da8/829293
