@@ -272,7 +272,31 @@ http://line.one-ott.xyz:80/7H6R91/76G49D/959465
 #EXTINF:-1,PT TV CINE TOP
 http://line.one-ott.xyz:80/7H6R91/76G49D/959457
 #EXTINF:-1, ===Cord====
-
+#EXTINF:-1, ===restream====
+#EXTINF:-1,PT Benfica TV
+https://restream-live.realiptv.to:443/19742329/27604387/640766
+#EXTINF:-1,PT BENFICA TV 1 HD
+https://restream-live.realiptv.to:443/19742329/27604387/952
+#EXTINF:-1,PT ELEVEN SPORTS 1 HD
+https://restream-live.realiptv.to:443/19742329/27604387/925
+#EXTINF:-1,PT ELEVEN SPORTS 2 HD
+https://restream-live.realiptv.to:443/19742329/27604387/923
+#EXTINF:-1,PT ELEVEN SPORTS 3 HD
+https://restream-live.realiptv.to:443/19742329/27604387/921
+#EXTINF:-1,PT ELEVEN SPORTS 4 HD
+https://restream-live.realiptv.to:443/19742329/27604387/919
+#EXTINF:-1,PT ELEVEN SPORTS 5 HD
+https://restream-live.realiptv.to:443/19742329/27604387/917
+#EXTINF:-1,PT SPORT TV 1 HD
+https://restream-live.realiptv.to:443/19742329/27604387/848
+#EXTINF:-1,PT SPORT TV 2 HD
+https://restream-live.realiptv.to:443/19742329/27604387/846
+#EXTINF:-1,PT SPORT TV 3 HD
+https://restream-live.realiptv.to:443/19742329/27604387/844
+#EXTINF:-1,PT SPORT TV 4 HD
+https://restream-live.realiptv.to:443/19742329/27604387/842
+#EXTINF:-1,PT SPORT TV 5 HD
+https://restream-live.realiptv.to:443/19742329/27604387/839
 
 #EXTINF:-1, ===harcomedia====
 
