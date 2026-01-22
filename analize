@@ -1,8 +1,34 @@
 #EXTM3U
+#EXTINF:-1, ===line:spaiott====
+#EXTINF:-1, |PT|BENFICA TV
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1165210.ts
+#EXTINF:-1,|PT| BENFICA TV HD
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/286643.ts
+#EXTINF:-1,|PT| ELEVEN 1 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562308.ts
+#EXTINF:-1,|PT| ELEVEN 2 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562307.ts
+#EXTINF:-1,|PT| ELEVEN 3 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562306.ts
+#EXTINF:-1,|PT| ELEVEN 4
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562305.ts
+#EXTINF:-1,|PT| ELEVEN 5
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562304.ts
+#EXTINF:-1,|PT| SPORT TV 1 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562315.ts
+#EXTINF:-1,|PT| SPORT TV 2 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562314.ts
+#EXTINF:-1,|PT| SPORT TV 3 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562313.ts
+#EXTINF:-1,|PT| SPORT TV 4 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562312.ts
+#EXTINF:-1,|PT| SPORT TV+ ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562311.ts
+#EXTINF:-1,|PT| SPORT TV 5 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562310.ts
+#EXTINF:-1,|PT| SPORT TV 6 ᴿᴬᵂ ᴴᴰ
+http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562309.ts
 
-
-#EXTINF:-1,PT SPORT TV 5 HD
-https://restream-live.realiptv.to:443/19742329/27604387/839
 
 #EXTINF:-1, ===Mutante====
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" group-title="PT | HD PORTUGAL",PT | BENFICA TV
