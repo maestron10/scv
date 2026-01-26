@@ -1,33 +1,16 @@
 #EXTM3U
 #EXTINF:-1, ===line:spaiott====
-#EXTINF:-1, |PT|BENFICA TV
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1165210.ts
-#EXTINF:-1,|PT| BENFICA TV HD
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/286643.ts
-#EXTINF:-1,|PT| ELEVEN 1 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562308.ts
-#EXTINF:-1,|PT| ELEVEN 2 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562307.ts
-#EXTINF:-1,|PT| ELEVEN 3 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562306.ts
-#EXTINF:-1,|PT| ELEVEN 4
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562305.ts
-#EXTINF:-1,|PT| ELEVEN 5
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562304.ts
-#EXTINF:-1,|PT| SPORT TV 1 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562315.ts
-#EXTINF:-1,|PT| SPORT TV 2 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562314.ts
-#EXTINF:-1,|PT| SPORT TV 3 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562313.ts
-#EXTINF:-1,|PT| SPORT TV 4 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562312.ts
-#EXTINF:-1,|PT| SPORT TV+ ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562311.ts
-#EXTINF:-1,|PT| SPORT TV 5 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562310.ts
-#EXTINF:-1,|PT| SPORT TV 6 ᴿᴬᵂ ᴴᴰ
-http://line.spainott.site:80/live/AEFC2KIYYV/TMZA2ZZRUU/1562309.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/126254
+#EXTINF:-1,PT: Sport TV 2 FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/146628
+#EXTINF:-1,PT: SPORT TV 3 FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/172782
+#EXTINF:-1,PT: Sport TV 4 FHD ( MEO )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11361
+#EXTINF:-1,PT: SPORT TV 5 FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/172780
+
 #EXTINF:-1, ===jhinter====
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
 http://jhsinternet.com:80/077551817515/f1458851158x/10052961
