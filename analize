@@ -1,5 +1,21 @@
 #EXTM3U
 #EXTINF:-1, ===line:spaiott====
+#EXTINF:-1,PT: Benfica TV FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/135391
+#EXTINF:-1,PT: Benfica TV HD HEVC
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11449
+#EXTINF:-1,PT: DAZN 1 FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/52588
+#EXTINF:-1,PT: DAZN 2 FHD ( NOS )
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/189106
+#EXTINF:-1,PT: DAZN 3 FHD
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11372
+#EXTINF:-1,PT: DAZN 4 FHD
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11375
+#EXTINF:-1,PT: DAZN 4 HD
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11374
+#EXTINF:-1,PT: DAZN 5 FHD
+http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11378
 #EXTINF:-1,PT: SPORT TV 1 FHD ( NOS )
 http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/126254
 #EXTINF:-1,PT: Sport TV 2 FHD ( NOS )
@@ -126,72 +142,9 @@ http://user.scalecdn.co:8080/Moniesavatar/85678534/844
 http://user.scalecdn.co:8080/Moniesavatar/85678534/842
 #EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT SPORT TV 5 HD
 http://user.scalecdn.co:8080/Moniesavatar/85678534/839
-#EXTINF:-1, ===Dhoom====
-#EXTINF:-1,PT: BTV HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389146.ts
-#EXTINF:-1,PT: BTV FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389147.ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389150.ts
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389152.ts
-#EXTINF:-1,PT: Eleven Sports 3 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389155.ts
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389158.ts
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389161.ts
-#EXTINF:-1,PT: Sport TV 1 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389128.ts
-#EXTINF:-1,PT: Sport TV 2 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389131.ts
-#EXTINF:-1,PT: Sport TV 3 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389134.ts
-#EXTINF:-1,PT: Sport TV 4 SD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389135.ts
-#EXTINF:-1,PT: Sport TV 4 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389137.ts
-#EXTINF:-1,PT: Sport TV 5 FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389140.ts
-#EXTINF:-1,PT: TVcine TOP FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389186.ts
-#EXTINF:-1,PT: TVcine Action FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/389189.ts
+
 
 #EXTINF:-1, ===KS-TV====
-#EXTINF:-1 tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png" group-title="Portugal",PT | BENFICA TV UHD
-http://kstv.us:8080/Clemg30/0573693077/48427
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png" group-title="Portugal",PT | ELEVEN 1 HD
-http://kstv.us:8080/Clemg30/0573693077/48443
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-2-pt.png" group-title="Portugal",PT | ELEVEN 2 HD
-http://kstv.us:8080/Clemg30/0573693077/48444
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-3-pt.png" group-title="Portugal",PT | ELEVEN 3 HD
-http://kstv.us:8080/Clemg30/0573693077/48445
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-4-pt.png" group-title="Portugal",PT | ELEVEN 4 HD
-http://kstv.us:8080/Clemg30/0573693077/48446
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-5-pt.png" group-title="Portugal",PT | ELEVEN 5 HD
-http://kstv.us:8080/Clemg30/0573693077/48447
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/eleven-sports-6-pt.png" group-title="Portugal",PT | ELEVEN 6 HD
-http://kstv.us:8080/Clemg30/0573693077/48448
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/sport-tv-1-pt.png" group-title="Portugal",PT | SPORT TV 1 | UHD
-http://kstv.us:8080/Clemg30/0573693077/48496
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/sport-tv-2-pt.png" group-title="Portugal",PT | SPORT TV 2 | UHD
-http://kstv.us:8080/Clemg30/0573693077/48497
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/sport-tv-3-pt.png" group-title="Portugal",PT | SPORT TV 3 FHD
-http://kstv.us:8080/Clemg30/0573693077/48498
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/sport-tv-4-pt.png" group-title="Portugal",PT | SPORT TV 4 FHD
-http://kstv.us:8080/Clemg30/0573693077/48499
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png" group-title="Portugal",PT | SPORT TV 5 HD
-http://kstv.us:8080/Clemg30/0573693077/48500
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 1 | UHD
-http://kstv.us:8080/Clemg30/0573693077/48513
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 2 | UHD
-http://kstv.us:8080/Clemg30/0573693077/48514
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 3 | UHD
-http://kstv.us:8080/Clemg30/0573693077/48515
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 4 | UHD
-http://kstv.us:8080/Clemg30/0573693077/48516
-
 
 #EXTINF:-1, ===Alphaplayer====
 
@@ -216,37 +169,6 @@ http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine4.png" group-title="Portugal",PT - TVCine Action HD
 http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/528
 
-#EXTINF:-1, ===defaultgen====
-#EXTINF:-1,PT: Benfica TV
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700319
-#EXTINF:-1,PT: Dazn 1
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700242
-#EXTINF:-1,PT: Dazn 2
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700241
-#EXTINF:-1,PT: Dazn 3
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700240
-#EXTINF:-1,PT: Dazn 4
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700239
-#EXTINF:-1,PT: Dazn 5
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700238
-#EXTINF:-1,PT: SPORTTV 1
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700244
-#EXTINF:-1,PT: SportTV 2
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700243
-#EXTINF:-1,PT: Sport TV 3
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700236
-#EXTINF:-1,PT: Sport TV 4
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700235
-#EXTINF:-1,PT: Sport TV 5
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700234
-#EXTINF:-1,PT: TV Cine Action
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700231
-#EXTINF:-1,PT: TV Cine Edition
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700230
-#EXTINF:-1,PT: TV Cine Emotion
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700229
-#EXTINF:-1,PT: TV Cine Top
-http://defaultgen.com:5050/benjamin.laster@aol.com/3BsJvTiBv5/700228
 
 
 #EXTINF:-1, ===Line-ott====
