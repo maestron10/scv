@@ -132,6 +132,30 @@ http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319607
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85DzILc.png" group-title="DEPORTES / SPORTS",PT: Sport TV 6
 http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319608
 
+#EXTINF:-1, ===portal====
+#EXTINF:-1,BTV 1 HD PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2767
+#EXTINF:-1,DAZN 1 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/22713
+#EXTINF:-1,DAZN 2 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/22715
+#EXTINF:-1,DAZN 3 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/22717
+#EXTINF:-1,DAZN 4 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/22719
+#EXTINF:-1,DAZN 5 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/22722
+#EXTINF:-1,SportTV 1 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3618
+#EXTINF:-1,SportTV 2 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3617
+#EXTINF:-1,SportTV 3 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3616
+#EXTINF:-1,SportTV 4 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3615
+#EXTINF:-1,SportTV 5 PT
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/3614
+
 #EXTINF:-1, ===Vivatv====
 #EXTINF:-1,PT: BENFICA TV HD
 http://vivatvproline77.com:8080/frank94315/frank94316/426295
