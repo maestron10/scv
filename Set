@@ -1,13 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ===line 4k====
-#EXTM3U
-#EXTINF:-1, ===line:spaiott====
-#EXTINF:-1,PT: Benfica TV FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/135391
-#EXTINF:-1,PT: Benfica TV HD HEVC
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11449
-#EXTINF:-1,PT: SPORT TV 1 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/126254
+
 
 #EXTINF:-1, ===jhinter====
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
@@ -17,12 +10,6 @@ http://jhsinternet.com:80/077551817515/f1458851158x/10052993
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 5
 http://jhsinternet.com:80/077551817515/f1458851158x/10052982
 
-#EXTINF:-1, ===Didyy====
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" group-title="PT | HD PORTUGAL",PT | BENFICA TV
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/107511.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 1
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 5
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/148667.ts
 
 
 #EXTINF:-1, ===FoxBlue====
