@@ -28,109 +28,22 @@ http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11361
 http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/172780
 
 #EXTINF:-1, ===jhinter====
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
-http://jhsinternet.com:80/077551817515/f1458851158x/10052961
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052978
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT ELEVEN SPORT 2 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 2 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052975
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT ELEVEN SPORT 3 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 3 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052972
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT ELEVEN SPORT 4 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 4 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052969
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT ELEVEN SPORT 5 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 5 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052966
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORT 6 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 6 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052963
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 1
-http://jhsinternet.com:80/077551817515/f1458851158x/10052993
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT SPORT TV 2 HD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 2 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052989
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3 HD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 3 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10052986
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 4
-http://jhsinternet.com:80/077551817515/f1458851158x/10052984
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 5
-http://jhsinternet.com:80/077551817515/f1458851158x/10052982
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT SPORT TV 6" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 6
-http://jhsinternet.com:80/077551817515/f1458851158x/10090463
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT SPORT TV 6 HD" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="PORTUGAL",PT SPORT TV 6 HD
-http://jhsinternet.com:80/077551817515/f1458851158x/10090462
-
+#EXTINF:-1,PT: Benfica TV FHD
+http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/136726
+#EXTINF:-1,PT: SPORT TV 1 FHD 
+http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/167742
+#EXTINF:-1,PT: DAZN 1 FHD 
+http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/35264
+#EXTINF:-1,PT: DAZN 4 FHD
+http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/167749
 #EXTINF:-1, ===Didyy====
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" group-title="PT | HD PORTUGAL",PT | BENFICA TV
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/107511.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport1.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 1
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/107495.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport2.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 2
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/107494.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport3.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 3
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/122484.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport4.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 4
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/122485.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport5.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 5
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/122486.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 1
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/118447.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 2
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/118446.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 3
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/118445.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 4
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/107433.ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 5
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/148667.ts
+
 
 
 #EXTINF:-1, ===FoxBlue====
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" group-title="PT | HD PORTUGAL",PT | BENFICA TV
-http://foxbleu.net:80/37196/qUFabHQrST/14092
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport1.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 1
-http://foxbleu.net:80/37196/qUFabHQrST/29988
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport2.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 2
-http://foxbleu.net:80/37196/qUFabHQrST/29987
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport3.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 3
-http://foxbleu.net:80/37196/qUFabHQrST/29986
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport4.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 4
-http://foxbleu.net:80/37196/qUFabHQrST/29985
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/elevensport5.png" group-title="PT | HD PORTUGAL",PT | ELEVEN SPORTS 5
-http://foxbleu.net:80/37196/qUFabHQrST/29984
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 1
-http://foxbleu.net:80/37196/qUFabHQrST/89710
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 2
-http://foxbleu.net:80/37196/qUFabHQrST/14106
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 3
-http://foxbleu.net:80/37196/qUFabHQrST/14100
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 4
-http://foxbleu.net:80/37196/qUFabHQrST/14099
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/PORTUGAL/sporttv.png" group-title="PT | HD PORTUGAL",PT | SPORT TV 5
-http://foxbleu.net:80/37196/qUFabHQrST/14103
 
 #EXTINF:-1, ===Aztk====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 1
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319596
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 2
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319597
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 3
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319598
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 4
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319599
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 5
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319600
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mtixm1z.jpg" group-title="DEPORTES / SPORTS",PT: Eleven Sports 6
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319601
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-http://xxip9.top:8080/live/100340233/100340233/167742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-http://xxip9.top:8080/live/100340233/100340233/167743.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85DzILc.png" group-title="DEPORTES / SPORTS",PT: Sport TV 3
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319605
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85DzILc.png" group-title="DEPORTES / SPORTS",PT: Sport TV 4
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319606
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85DzILc.png" group-title="DEPORTES / SPORTS",PT: Sport TV 5
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319607
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85DzILc.png" group-title="DEPORTES / SPORTS",PT: Sport TV 6
-http://aztkplay.pro:8080/eliseoVICENTE6060/orRAY2FalJ/319608
+
 
 #EXTINF:-1, ===portal====
 #EXTINF:-1,BTV 1 HD PT
@@ -238,26 +151,7 @@ http://vip.sibfungold.org:8080/restream1/LKuZiN5Idu2DpgG4y4pa/284
 
 #EXTINF:-1, ===Alphaplayer====
 
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT - BTV HD
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/4894
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-1.png" group-title="Portugal",PT - SPORT TV 1
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/93
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-2.png" group-title="Portugal",PT - SPORT TV 2
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/94
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-3.png" group-title="Portugal",PT - SPORT TV 3
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/95
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Sport-TV-4.png" group-title="Portugal",PT - SPORT TV 4
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/512
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT - SPORT TV 5
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/4891
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine1.png" group-title="Portugal",PT - TVCine Top HD
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/525
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine2.png" group-title="Portugal",PT - TVCine Edition HD
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/526
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine3.png" group-title="Portugal",PT - TVCine Emotion HD
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/527
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvcine4.png" group-title="Portugal",PT - TVCine Action HD
-http://alphaplayer.ddns.net:25461/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/528
+
 
 
 
