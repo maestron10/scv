@@ -1,128 +1,89 @@
 #EXTM3U
-#EXTINF:-1, ===line:spaiott====
-#EXTINF:-1,PT: Benfica TV FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/135391
-#EXTINF:-1,PT: Benfica TV HD HEVC
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11449
-#EXTINF:-1,PT: DAZN 1 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/52588
-#EXTINF:-1,PT: DAZN 2 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/189106
-#EXTINF:-1,PT: DAZN 3 FHD
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11372
-#EXTINF:-1,PT: DAZN 4 FHD
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11375
-#EXTINF:-1,PT: DAZN 4 HD
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11374
-#EXTINF:-1,PT: DAZN 5 FHD
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11378
-#EXTINF:-1,PT: SPORT TV 1 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/126254
-#EXTINF:-1,PT: Sport TV 2 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/146628
-#EXTINF:-1,PT: SPORT TV 3 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/172782
-#EXTINF:-1,PT: Sport TV 4 FHD ( MEO )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/11361
-#EXTINF:-1,PT: SPORT TV 5 FHD ( NOS )
-http://181.233.126.139:8080/luisguia0102/BNzPCJjbYXVJ/172780
+EXTINF:-1, ===Cord====
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/136726
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167742
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167743
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167744
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167745
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/35264
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167748
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167749
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167750
 
 
-#EXTINF:-1, ===domestico====
-#EXTINF:-1,PT : BENFICA TV HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412289.ts
-#EXTINF:-1,PT : ELEVEN SPORTS 1  ᶠᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412199.ts
-#EXTINF:-1,PT : ELEVEN SPORTS 2 ᶠᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412208.ts
-#EXTINF:-1,PT : ELEVEN SPORTS 3ᶠᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412212.ts
-#EXTINF:-1,PT : ELEVEN SPORTS 4 ᶠᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412215.ts
-#EXTINF:-1,PT : ELEVEN SPORTS 5 ᶠᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412218.ts
-#EXTINF:-1,PT : SPORT TV 1 ᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412242.ts
-#EXTINF:-1,PT : SPORT TV 2 ᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412249.ts
-#EXTINF:-1,PT : SPORT TV 3 ᴴᴰ
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412256.ts
-#EXTINF:-1,PT : SPORT TV 4 HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412261.ts
-#EXTINF:-1,PT : SPORT TV 5 HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412267.ts
-#EXTINF:-1,PT : TV CINE TOP HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412939.ts
-#EXTINF:-1,PT : TV CINE EMOTION HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412938.ts
-#EXTINF:-1,PT : TV CINE EDITION HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412937.ts
-#EXTINF:-1,PT : TV CINE ACTION HD
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/412936.ts
-
-
-#EXTINF:-1, ===jhinter====
-#EXTINF:-1,PT: Benfica TV FHD
-http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/136726
-#EXTINF:-1,PT: SPORT TV 1 FHD 
-http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/167742
-#EXTINF:-1,PT: DAZN 1 FHD 
-http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/35264
-#EXTINF:-1,PT: DAZN 4 FHD
-http://206.212.244.47:8080/V9XuWSnyMB/YCPY5ReXiM/167749
-#EXTINF:-1, ===VIPdr====
-#EXTINF:-1,PT: BTV
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99492
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99475
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99476
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99477
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99478
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99479
-#EXTINF:-1,PT: ELEVEN SPORT 6
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99480
-#EXTINF:-1,PT: SPORT TV 1
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://viprdposs.top:8080/vip01769889683/db8bb3ebeec5/99488
+#EXTINF:-1, ===hicham.in====
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
+http://hicham.in/live/13384264975472468/1593574628/13689.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
+http://hicham.in/live/13384264975472468/1593574628/6744.m3u8
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
+http://hicham.in/live/13384264975472468/1593574628/6748.m3u8
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
+http://hicham.in/live/13384264975472468/1593574628/6742.m3u8
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
+http://hicham.in/live/13384264975472468/1593574628/6741.m3u8
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
+http://hicham.in/live/13384264975472468/1593574628/6740.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
+http://hicham.in/live/13384264975472468/1593574628/15826.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
+http://hicham.in/live/13384264975472468/1593574628/15825.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
+http://hicham.in/live/13384264975472468/1593574628/15824.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
+http://hicham.in/live/13384264975472468/1593574628/15823.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
+http://hicham.in/live/13384264975472468/1593574628/15822.m3u8
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn6.png" group-title="PORTUGAL",PT | DAZN 6
+http://hicham.in/live/13384264975472468/1593574628/15821.m3u8
+#EXTINF:-1, ===ky-tv====
+#EXTINF:-1,PT: BENFICA TV (BTV) FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399240
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399286
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399289
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399292
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399295
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399298
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399398
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399401
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399404
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399407
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399410
 
 
 
-#EXTINF:-1, ===mac4====
-#EXTINF:-1,PT: BTV
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386487
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386461
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386460
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386459
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386458
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386457
-#EXTINF:-1,PT: ELEVEN SPORT 6
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386456
-#EXTINF:-1,PT: SPORT TV 1
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/589151
-#EXTINF:-1,PT: SPORT TV 2
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/589152
-#EXTINF:-1,PT: SPORT TV 3
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/589153
-#EXTINF:-1,PT: SPORT TV 4
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386378
-#EXTINF:-1,PT: SPORT TV 5
-http://mac41147.cdnsilver.me/DA49322/9387d16cc2/386377
+
+#EXTINF:-1, ===nuevadomi====
+#EXTINF:-1,POR-Sport TV 1 (M)(720)
+http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180834
+#EXTINF:-1,POR-Sport TV 2 (M)(720)
+http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180835
+#EXTINF:-1,POR-Sport TV 3 (M)(720)
+http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180836
+#EXTINF:-1,POR-Sport TV 4 (M)(720)
+http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180837
+#EXTINF:-1,POR-Sport TV 5 (M)(720)
+http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180840
+
 #EXTINF:-1, ===pwhtte====
 #EXTINF:-1,PT: BTV
 http://pwhtte.top:8080/8091720018406170/f49df6b39644/25000
@@ -326,8 +287,7 @@ http://line.one-ott.xyz:80/7H6R91/76G49D/959461
 http://line.one-ott.xyz:80/7H6R91/76G49D/959465
 #EXTINF:-1,PT TV CINE TOP
 http://line.one-ott.xyz:80/7H6R91/76G49D/959457
-#EXTINF:-1, ===Cord====
-
+#
 
 #EXTINF:-1, ===harcomedia====
 
