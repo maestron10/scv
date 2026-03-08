@@ -1,9 +1,30 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
+http://cord-cutter.net:8080/bn80NG/909467/136726
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
+http://hicham.in/live/13384264975472468/1593574628/13689.m3u8
+#EXTINF:-1,PT: BENFICA TV (BTV) FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399240
+#EXTINF:-1,PT: BENFICA TV (BTV) FHD
+http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399240
+#EXTINF:-1,PT: BTV
+http://pwhtte.top:8080/8091720018406170/f49df6b39644/25000
+#EXTINF:-1,PT BENFICA TV 1 HD
+https://restream-live.realiptv.to:443/52748969/72335180/952
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - BENFICA TV HD
+http://teck-tv.com/2605201443100597/C655BF416768/68416
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT BENFICA TV 1 HD
+http://user.scalecdn.co:8080/Moniesavatar/85678534/952
+#EXTINF:-1,PT: Benfica TV FullHD
+http://vip.sibfungold.org:8080/restream1/LKuZiN5Idu2DpgG4y4pa/286
+
+
 EXTINF:-1, ===Cord====
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
-http://cord-cutter.net:8080/315gBa/253680/136726
+http://cord-cutter.net:8080/bn80NG/909467/136726
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/315gBa/253680/167742
+http://cord-cutter.net:8080/bn80NG/909467/167742
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
 http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167743
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
@@ -46,8 +67,7 @@ http://hicham.in/live/13384264975472468/1593574628/15822.m3u8
 #EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn6.png" group-title="PORTUGAL",PT | DAZN 6
 http://hicham.in/live/13384264975472468/1593574628/15821.m3u8
 #EXTINF:-1, ===ky-tv====
-#EXTINF:-1,PT: BENFICA TV (BTV) FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399240
+
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
 http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399286
 #EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
@@ -85,8 +105,7 @@ http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180837
 http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180840
 
 #EXTINF:-1, ===pwhtte====
-#EXTINF:-1,PT: BTV
-http://pwhtte.top:8080/8091720018406170/f49df6b39644/25000
+
 #EXTINF:-1,PT: ELEVEN SPORT 1
 http://pwhtte.top:8080/8091720018406170/f49df6b39644/25024
 #EXTINF:-1,PT: ELEVEN SPORT 2
@@ -121,8 +140,7 @@ http://pwhtte.top:8080/8091720018406170/f49df6b39644/25014
 
 
 #EXTINF:-1, ===restream====
-#EXTINF:-1,PT BENFICA TV 1 HD
-https://restream-live.realiptv.to:443/52748969/72335180/952
+
 #EXTINF:-1,PT ELEVEN SPORTS 1 HD
 https://restream-live.realiptv.to:443/52748969/72335180/925
 #EXTINF:-1,PT ELEVEN SPORTS 2 HD
@@ -145,8 +163,7 @@ https://restream-live.realiptv.to:443/52748969/72335180/842
 https://restream-live.realiptv.to:443/52748969/72335180/839
 
 #EXTINF:-1, ===TECK====
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - BENFICA TV HD
-http://teck-tv.com/2605201443100597/C655BF416768/68416
+
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 1 FHD
 http://teck-tv.com/2605201443100597/C655BF416768/763969
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 2 FHD
@@ -175,8 +192,7 @@ http://teck-tv.com/2605201443100597/C655BF416768/1030778
 
 
 #EXTINF:-1, ===User Scale====
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT BENFICA TV 1 HD
-http://user.scalecdn.co:8080/Moniesavatar/85678534/952
+
 #EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 1 HD
 http://user.scalecdn.co:8080/Moniesavatar/85678534/925
 #EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT ELEVEN SPORTS 2 HD
@@ -202,8 +218,7 @@ http://user.scalecdn.co:8080/Moniesavatar/85678534/839
 
 
 #EXTINF:-1, ===sibfungold====
-#EXTINF:-1,PT: Benfica TV FullHD
-http://vip.sibfungold.org:8080/restream1/LKuZiN5Idu2DpgG4y4pa/286
+
 #EXTINF:-1,PT: Eleven Sports 1 HD
 http://vip.sibfungold.org:8080/restream1/LKuZiN5Idu2DpgG4y4pa/54740
 #EXTINF:-1,PT: Eleven Sports 2 HD
