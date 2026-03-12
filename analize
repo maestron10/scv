@@ -1,23 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
-http://cord-cutter.net:8080/bn80NG/909467/136726
+EXTINF:-1, ===novo====
 #EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-http://hicham.in/live/13384264975472468/1593574628/13689.m3u8
-#EXTINF:-1,PT: BENFICA TV (BTV) FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399240
-#EXTINF:-1,PT: BENFICA TV (BTV) FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399240
-#EXTINF:-1,PT: BTV
-http://pwhtte.top:8080/8091720018406170/f49df6b39644/25000
-#EXTINF:-1,PT BENFICA TV 1 HD
-https://restream-live.realiptv.to:443/52748969/72335180/952
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - BENFICA TV HD
-http://teck-tv.com/2605201443100597/C655BF416768/68416
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT BENFICA TV 1 HD
-http://user.scalecdn.co:8080/Moniesavatar/85678534/952
-#EXTINF:-1,PT: Benfica TV FullHD
-http://vip.sibfungold.org:8080/restream1/LKuZiN5Idu2DpgG4y4pa/286
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107511
+#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107436
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107435
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107434
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107433
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/148667
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107495
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107494
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/122484
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/122485
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
+http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/122486
+
+
 
 
 EXTINF:-1, ===Cord====
