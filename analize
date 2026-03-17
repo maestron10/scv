@@ -1,29 +1,58 @@
 #EXTM3U
 
 EXTINF:-1, ===novo====
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107511
-#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107436
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107435
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107434
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107433
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/148667
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107495
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/107494
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/122484
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/122485
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
-http://line.ubbyy.xyz/x38xgdh63e/d246qvuenr/122486
-
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/xT7ZkYps/stv1.png", SPORT TV 1 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030794
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/xT7ZkYps/stv1.png", SPORT TV 1 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68419
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/sD8LByHq/stv2.png", SPORT TV 2 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764059
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/sD8LByHq/stv2.png", SPORT TV 2 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68423
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/rFbHdcY6/stv3.png", SPORT TV 3 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68422
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/rFbHdcY6/stv3.png", SPORT TV 3 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030799
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/RV8Y39bx/stv4.png", SPORT TV 4 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68421
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/RV8Y39bx/stv4.png", SPORT TV 4 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764062
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 5 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764064
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/ZKgQ9ZDm/stv5.png", SPORT TV 5 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68420
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/ZKgQ9ZDm/stv5.png", SPORT TV 6 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764066
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 6
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/254527
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/02346xHP/stv6.png", NBA TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68415
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/rmWZF22W/nba-tvj.jpg", SPORT TV NBA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030805
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/SNKq79JJ/BTV_Red-j.jpg", BTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030818
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/SNKq79JJ/BTV_Red-j.jpg", BTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763939
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/9FcwP1dL/DAZN1.jpg", DAZN 1 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763969
+#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/9FcwP1dL/DAZN1.jpg", DAZN 1 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942694
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 2 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763971
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 2 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942695
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 3 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763973
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 3 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942696
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 4 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763975
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 4 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942697
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 5 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763977
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 6 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763979
 
 
 
