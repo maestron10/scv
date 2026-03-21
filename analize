@@ -1,59 +1,36 @@
 #EXTM3U
 
-EXTINF:-1, ===novo====
+#EXTINF:-1, ===novo====
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
 http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1533
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
 http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1603
 
 
+#EXTINF:-1, ===restream====
+#EXTINF:-1,PT: BENFICA TV FHD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/952
+#EXTINF:-1,PT ELEVEN SPORTS 1 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/925
+#EXTINF:-1,PT ELEVEN SPORTS 2 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/923
+#EXTINF:-1,PT ELEVEN SPORTS 3 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/921
+#EXTINF:-1,PT ELEVEN SPORTS 4 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/919
+#EXTINF:-1,PT ELEVEN SPORTS 5 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/917
+#EXTINF:-1,PT SPORT TV 1 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/848
+#EXTINF:-1,PT SPORT TV 2 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/846
+#EXTINF:-1,PT SPORT TV 3 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/844
+#EXTINF:-1,PT SPORT TV 4 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/842
+#EXTINF:-1,PT SPORT TV 5 HD
+http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/839
 
-EXTINF:-1, ===Cord====
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
-http://cord-cutter.net:8080/bn80NG/909467/136726
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/bn80NG/909467/167742
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167743
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167744
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167745
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/35264
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167748
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167749
-#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/shacaray@yahoo.com/shacaray@2023/167750
-
-
-#EXTINF:-1, ===hicham.in====
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-http://hicham.in/live/13384264975472468/1593574628/13689.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
-http://hicham.in/live/13384264975472468/1593574628/6744.m3u8
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
-http://hicham.in/live/13384264975472468/1593574628/6748.m3u8
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
-http://hicham.in/live/13384264975472468/1593574628/6742.m3u8
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
-http://hicham.in/live/13384264975472468/1593574628/6741.m3u8
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
-http://hicham.in/live/13384264975472468/1593574628/6740.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
-http://hicham.in/live/13384264975472468/1593574628/15826.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
-http://hicham.in/live/13384264975472468/1593574628/15825.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
-http://hicham.in/live/13384264975472468/1593574628/15824.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
-http://hicham.in/live/13384264975472468/1593574628/15823.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
-http://hicham.in/live/13384264975472468/1593574628/15822.m3u8
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn6.png" group-title="PORTUGAL",PT | DAZN 6
-http://hicham.in/live/13384264975472468/1593574628/15821.m3u8
 #EXTINF:-1, ===ky-tv====
 #EXTINF:-1,PT: BENFICA TV FHD
 http://ky-tv.cc:80/seahawks3/seahawks3/219188.ts
@@ -77,6 +54,34 @@ http://ky-tv.cc:80/seahawks3/seahawks3/399404.ts
 http://ky-tv.cc:80/seahawks3/seahawks3/399407.ts
 #EXTINF:-1,PT: SPORT TV 5 FHD
 http://ky-tv.cc:80/seahawks3/seahawks3/399410.ts
+
+
+#EXTINF:-1, ===hicham.in====
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
+
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
+
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
+
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
+
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
+
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn6.png" group-title="PORTUGAL",PT | DAZN 6
+
+
 
 
 
@@ -128,28 +133,6 @@ http://pwhtte.top:8080/8091720018406170/f49df6b39644/25014
 
 
 
-#EXTINF:-1, ===restream====
-
-#EXTINF:-1,PT ELEVEN SPORTS 1 HD
-https://restream-live.realiptv.to:443/52748969/72335180/925
-#EXTINF:-1,PT ELEVEN SPORTS 2 HD
-https://restream-live.realiptv.to:443/52748969/72335180/923
-#EXTINF:-1,PT ELEVEN SPORTS 3 HD
-https://restream-live.realiptv.to:443/52748969/72335180/921
-#EXTINF:-1,PT ELEVEN SPORTS 4 HD
-https://restream-live.realiptv.to:443/52748969/72335180/919
-#EXTINF:-1,PT ELEVEN SPORTS 5 HD
-https://restream-live.realiptv.to:443/52748969/72335180/917
-#EXTINF:-1,PT SPORT TV 1 HD
-https://restream-live.realiptv.to:443/52748969/72335180/848
-#EXTINF:-1,PT SPORT TV 2 HD
-https://restream-live.realiptv.to:443/52748969/72335180/846
-#EXTINF:-1,PT SPORT TV 3 HD
-https://restream-live.realiptv.to:443/52748969/72335180/844
-#EXTINF:-1,PT SPORT TV 4 HD
-https://restream-live.realiptv.to:443/52748969/72335180/842
-#EXTINF:-1,PT SPORT TV 5 HD
-https://restream-live.realiptv.to:443/52748969/72335180/839
 
 #EXTINF:-1, ===TECK====
 
@@ -236,39 +219,8 @@ http://vip.sibfungold.org:8080/restream1/LKuZiN5Idu2DpgG4y4pa/284
 
 
 #EXTINF:-1, ===Line-ott====
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT BTV 1" tvg-logo="https://googleplusimages.com/BTV.png" group-title="PORTUGAL",PT BTV 1
-http://line.one-ott.xyz:80/7H6R91/76G49D/959431
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT ELEVEN SPORT 1 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 1 HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959375
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT ELEVEN SPORT 2 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 2 HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959379
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT ELEVEN SPORT 3 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 3 HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959383
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT ELEVEN SPORT 4 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 4 HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959387
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT ELEVEN SPORT 5 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 5 HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959391
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT ELEVEN SPORT 6 HD" tvg-logo="https://googleplusimages.com/ELEVENSPORTS.png" group-title="PORTUGAL",PT ELEVEN SPORT 6 HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959395
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 1
-http://line.one-ott.xyz:80/7H6R91/76G49D/959339
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT SPORT TV 2" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 2
-http://line.one-ott.xyz:80/7H6R91/76G49D/959343
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT SPORT TV 3" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 3
-http://line.one-ott.xyz:80/7H6R91/76G49D/959347
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 4
-http://line.one-ott.xyz:80/7H6R91/76G49D/959351
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://googleplusimages.com/SPORTTV.png" group-title="SPORTS WORLD",PT SPORT TV 5
-http://line.one-ott.xyz:80/7H6R91/76G49D/959355
-#EXTINF:-1,PT TV CINE ACTION HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959469
-#EXTINF:-1,PT TV CINE EDITION HD
-http://line.one-ott.xyz:80/7H6R91/76G49D/959461
-#EXTINF:-1,PT TV CINE EMOTION
-http://line.one-ott.xyz:80/7H6R91/76G49D/959465
-#EXTINF:-1,PT TV CINE TOP
-http://line.one-ott.xyz:80/7H6R91/76G49D/959457
-#
+
+
 
 #EXTINF:-1, ===harcomedia====
 
