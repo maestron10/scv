@@ -5,7 +5,8 @@
 http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1533
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
 http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1603
-
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
+http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/30424
 
 #EXTINF:-1, ===restream====
 #EXTINF:-1,PT: BENFICA TV FHD
