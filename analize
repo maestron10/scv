@@ -1,58 +1,10 @@
 #EXTM3U
 
 EXTINF:-1, ===novo====
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/xT7ZkYps/stv1.png", SPORT TV 1 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030794
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/xT7ZkYps/stv1.png", SPORT TV 1 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68419
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/sD8LByHq/stv2.png", SPORT TV 2 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764059
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/sD8LByHq/stv2.png", SPORT TV 2 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68423
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/rFbHdcY6/stv3.png", SPORT TV 3 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68422
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/rFbHdcY6/stv3.png", SPORT TV 3 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030799
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/RV8Y39bx/stv4.png", SPORT TV 4 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68421
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/RV8Y39bx/stv4.png", SPORT TV 4 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764062
-#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 5 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764064
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/ZKgQ9ZDm/stv5.png", SPORT TV 5 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68420
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/ZKgQ9ZDm/stv5.png", SPORT TV 6 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764066
-#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 6
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/254527
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/02346xHP/stv6.png", NBA TV HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68415
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/rmWZF22W/nba-tvj.jpg", SPORT TV NBA HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030805
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/SNKq79JJ/BTV_Red-j.jpg", BTV HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030818
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/SNKq79JJ/BTV_Red-j.jpg", BTV HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763939
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/9FcwP1dL/DAZN1.jpg", DAZN 1 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763969
-#EXTINF:-1 group-title="Desporto" tvg-logo="https://i.postimg.cc/9FcwP1dL/DAZN1.jpg", DAZN 1 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942694
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 2 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763971
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 2 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942695
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 3 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763973
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 3 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942696
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 4 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763975
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 4 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942697
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 5 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763977
-#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 6 HD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763979
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: BTV FHD
+http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1533
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
+http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1603
 
 
 
@@ -103,27 +55,28 @@ http://hicham.in/live/13384264975472468/1593574628/15822.m3u8
 #EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn6.png" group-title="PORTUGAL",PT | DAZN 6
 http://hicham.in/live/13384264975472468/1593574628/15821.m3u8
 #EXTINF:-1, ===ky-tv====
-
+#EXTINF:-1,PT: BENFICA TV FHD
+http://ky-tv.cc:80/seahawks3/seahawks3/219188.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399286
+http://ky-tv.cc:80/seahawks3/seahawks3/399286.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399289
+http://ky-tv.cc:80/seahawks3/seahawks3/399289.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399292
+http://ky-tv.cc:80/seahawks3/seahawks3/399292.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399295
+http://ky-tv.cc:80/seahawks3/seahawks3/399295.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399298
+http://ky-tv.cc:80/seahawks3/seahawks3/399298.ts
 #EXTINF:-1,PT: SPORT TV 1 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399398
+http://ky-tv.cc:80/seahawks3/seahawks3/399398.ts
 #EXTINF:-1,PT: SPORT TV 2 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399401
+http://ky-tv.cc:80/seahawks3/seahawks3/399401.ts
 #EXTINF:-1,PT: SPORT TV 3 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399404
+http://ky-tv.cc:80/seahawks3/seahawks3/399404.ts
 #EXTINF:-1,PT: SPORT TV 4 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399407
+http://ky-tv.cc:80/seahawks3/seahawks3/399407.ts
 #EXTINF:-1,PT: SPORT TV 5 FHD
-http://ky-tv.cc:80/DKyfW8bN86/cP8XJXqUqE/399410
+http://ky-tv.cc:80/seahawks3/seahawks3/399410.ts
 
 
 
