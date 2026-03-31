@@ -8,6 +8,61 @@ http://dns.fontedecanais.com.br:80/pghostv/N3aDHbmUA6/1603
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
 http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/30424
 
+#EXTINF:-1, ===Merged====
+#EXTINF:-1, ===Teck-tv====
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - BENFICA TV HD
+http://teck-tv.com/2605201443100597/C655BF416768/68416
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 1 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/1030794
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 2 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/764059
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 3 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/68422
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 4 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/68421
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 4 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/764062
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 5 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/764064
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - LATIN BENFICA TV FHD
+http://teck-tv.com/2605201443100597/C655BF416768/335646
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 1 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/763969
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 2 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/763971
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 3 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/763973
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 4 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/763975
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 5 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/763977
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 6 FHD
+http://teck-tv.com/2605201443100597/C655BF416768/763979
+#EXTINF:-1, ===s.rockets====
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/952.jpg" group-title="s_live",PT BENFICA TV 1 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/952
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/925.jpg" group-title="s_live",PT ELEVEN SPORTS 1 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/925
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/923.jpg" group-title="s_live",PT ELEVEN SPORTS 2 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/923
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/921.jpg" group-title="s_live",PT ELEVEN SPORTS 3 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/921
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/919.jpg" group-title="s_live",PT ELEVEN SPORTS 4 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/919
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/917.jpg" group-title="s_live",PT ELEVEN SPORTS 5 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/917
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/848.jpg" group-title="s_live",PT SPORT TV 1 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/848
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/846.jpg" group-title="s_live",PT SPORT TV 2 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/846
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/844.jpg" group-title="s_live",PT SPORT TV 3 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/844
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/842.jpg" group-title="s_live",PT SPORT TV 4 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/842
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/839.jpg" group-title="s_live",PT SPORT TV 5 HD
+http://s.rocketdns.info:8080/Lowblowmusic/6322468/839
+
+
 #EXTINF:-1, ===restream====
 #EXTINF:-1,PT: BENFICA TV FHD
 http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/952
@@ -31,6 +86,12 @@ http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/844
 http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/842
 #EXTINF:-1,PT SPORT TV 5 HD
 http://restream-live.realiptv.to:8080//nopbot/jbadWjxWV1/839
+
+
+
+
+
+
 
 #EXTINF:-1, ===ky-tv====
 #EXTINF:-1,PT: BENFICA TV FHD
@@ -134,31 +195,6 @@ http://pwhtte.top:8080/8091720018406170/f49df6b39644/25014
 
 
 
-
-#EXTINF:-1, ===TECK====
-
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 1 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763969
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 2 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763971
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 3 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763973
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 4 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763975
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 5 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763977
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/1030794
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 2 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/764059
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 3 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/68422
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 4 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/68421
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 5 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/764064
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png" group-title="EU | PT | ESPORTES",PT - 11 HD
-http://teck-tv.com/2605201443100597/C655BF416768/1030778
 
 #EXTINF:-1, ===Vivatv====
 
