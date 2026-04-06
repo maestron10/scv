@@ -110,8 +110,27 @@ http://lunar.pm:8080/Stephanie/time44/132068
 http://lunar.pm:8080/Stephanie/time44/132069
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 5 FHD
 http://lunar.pm:8080/Stephanie/time44/132070
-
-
+#EXTINF:-1, ===fastopes====
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - BENFICA TV HD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94844
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 1 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94850
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 2 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94849
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 3 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94848
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 4 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94847
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 5 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94846
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 5 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94845
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 1 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94843
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 2 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94842
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 3 FHD
+http://fastopen.live:8080/ArianTairi/JexIujaTrf/94841
 
 
 #EXTINF:-1, ===Opplex====
