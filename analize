@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1, ===xuuc===
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256178
+#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256318
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256324
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256328
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256334
+#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256340
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256223
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256229
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256231
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256235
+#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
+http://xuucdmku.gr2bwu.xyz/vit813937/qkfJ4xkcXjcE/1256237
+
+#EXTINF:-1, ===Chinaq===
+#EXTINF:-1,PT BTV 1
+http://chinaq.asia:80/2727311895547/919584595626/10052961
+#EXTINF:-1,PT SPORT TV 1
+http://chinaq.asia:80/2727311895547/919584595626/10052993
+#EXTINF:-1,PT SPORT TV 2 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052989
+#EXTINF:-1,PT SPORT TV 3 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052986
+#EXTINF:-1,PT SPORT TV 4
+http://chinaq.asia:80/2727311895547/919584595626/10052984
+#EXTINF:-1,PT SPORT TV 5
+http://chinaq.asia:80/2727311895547/919584595626/10052982
+#EXTINF:-1,PT ELEVEN SPORT 1 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052978
+#EXTINF:-1,PT ELEVEN SPORT 2 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052975
+#EXTINF:-1,PT ELEVEN SPORT 3 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052972
+#EXTINF:-1,PT ELEVEN SPORT 4 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052969
+#EXTINF:-1,PT ELEVEN SPORT 5 HD
+http://chinaq.asia:80/2727311895547/919584595626/10052966
+
+
+
 #EXTINF:-1, ***Merged***
 #EXTINF:-1, ===Teck-tv====
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - BENFICA TV HD
