@@ -50,35 +50,30 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/107491.ts
 
 
 #EXTINF:-1, ***Merged***
-#EXTINF:-1, ===Teck-tv====
+#EXTINF:-1, ==nocable====
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - BENFICA TV HD
-http://teck-tv.com/2605201443100597/C655BF416768/68416
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266633
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 1 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/1030794
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266568
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 2 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/764059
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266567
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 3 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/68422
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266561
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 4 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/68421
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 4 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/764062
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266560
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 5 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/764064
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - LATIN BENFICA TV FHD
-http://teck-tv.com/2605201443100597/C655BF416768/335646
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266559
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 1 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763969
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266566
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 2 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763971
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266565
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 3 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763973
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266564
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 4 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763975
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266563
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 5 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763977
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 6 FHD
-http://teck-tv.com/2605201443100597/C655BF416768/763979
+http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266562
+
 #EXTINF:-1, ===s.rockets====
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/952.jpg" group-title="s_live",PT BENFICA TV 1 HD
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/952
