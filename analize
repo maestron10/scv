@@ -131,36 +131,6 @@ http://tv.rapidiptv.tvip.xyz/XvzOsN3r5F658/Ll0wo1280/23324
 
 
 
-#EXTINF:-1, ===Opplex====
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="teck-tv_live",PT - BENFICA TV HD
-http://opplex.to/926329344/57543788/352922
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 1 FHD
-http://opplex.to/926329344/57543788/352916
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 2 FHD
-http://opplex.to/926329344/57543788/352917
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 3 FHD
-http://opplex.to/926329344/57543788/352918
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 4 FHD
-http://opplex.to/926329344/57543788/352919
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 5 FHD
-http://opplex.to/926329344/57543788/352920
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 6 FHD
-http://opplex.to/926329344/57543788/352921
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 1 FHD
-http://opplex.to/926329344/57543788/352930
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 2 FHD
-http://opplex.to/926329344/57543788/352931
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 3 FHD
-http://opplex.to/926329344/57543788/352932
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 4 FHD
-http://opplex.to/926329344/57543788/352933
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="teck-tv_live",PT - SPORT TV 5 FHD
-http://opplex.to/926329344/57543788/352934
-
-
-#EXTINF:-1, ===restream====
-
-
 
 
 
@@ -191,51 +161,6 @@ http://ky-tv.cc:80/seahawks3/seahawks3/399410.ts
 
 
 #EXTINF:-1, ===izle====
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272411
-#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272365
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272366
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272367
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272368
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272369
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272433
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272375
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272434
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272435
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5.png" group-title="PORTUGAL",PT | DAZN 5
-http://izle.superhd.eu:80/KubilayFindik/KXkTpbwGcT/272436
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn6.png" group-title="PORTUGAL",PT | DAZN 6
-#EXTINF:-1, ===Black====
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/514
-#EXTINF:-1 tvg-logo="https://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/SPORTTV1.png" group-title="PORTUGAL",PT | SPORT TV 1HD
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/3396
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2 HD
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/3397
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv3.png" group-title="PORTUGAL",PT | SPORT TV 3
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/3398
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sportv4.png" group-title="PORTUGAL",PT | SPORT TV 4
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/3399
-#EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/sporttv5.png" group-title="PORTUGAL",PT | SPORT TV 5
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/3400
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn1.png" group-title="PORTUGAL",PT | DAZN 1 FHD
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/29931
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn2.png" group-title="PORTUGAL",PT | DAZN 2 FHD
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/29932
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn3.png" group-title="PORTUGAL",PT | DAZN 3
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/29933
-#EXTINF:-1 tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn4.png" group-title="PORTUGAL",PT | DAZN 4
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/29934
-
 
 
 
