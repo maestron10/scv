@@ -47,6 +47,31 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/107492.ts
 #EXTINF:-1,PT ELEVEN SPORT 5 HD
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/107491.ts
 
+#EXTINF:-1, ==Aliens===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Benfica TV FHD¹
+http://alienstreams.fi:8080/hellhell/hellhell/318201
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Benfica TV FHD²
+http://alienstreams.fi:8080/hellhell/hellhell/318202
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Sport TV 1 FHD¹
+http://alienstreams.fi:8080/hellhell/hellhell/318166
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Sport TV 2 FHD¹
+http://alienstreams.fi:8080/hellhell/hellhell/318169
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Sport TV 3 FHD
+http://alienstreams.fi:8080/hellhell/hellhell/318173
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Sport TV 4 FHD
+http://alienstreams.fi:8080/hellhell/hellhell/318177
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Sport TV 5 FHD
+http://alienstreams.fi:8080/hellhell/hellhell/318180
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Eleven Sport 1 FHD¹
+http://alienstreams.fi:8080/hellhell/hellhell/318186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Eleven Sport 2 FHD¹
+http://alienstreams.fi:8080/hellhell/hellhell/318189
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Eleven Sport 3 FHD
+http://alienstreams.fi:8080/hellhell/hellhell/318193
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Eleven Sport 4 FHD
+http://alienstreams.fi:8080/hellhell/hellhell/318195
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/flags/portugal-flag.png" group-title="alienstreams_live",||PT|| Eleven Sport 5 FHD
+http://alienstreams.fi:8080/hellhell/hellhell/318198
 
 
 #EXTINF:-1, ***Merged***
@@ -73,6 +98,13 @@ http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266564
 http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266563
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 5 FHD
 http://nocable.cc:8080/tepxG4UH0O/2NACgRzYfy/266562
+
+
+
+
+
+
+
 
 #EXTINF:-1, ===s.rockets====
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/952.jpg" group-title="s_live",PT BENFICA TV 1 HD
@@ -160,7 +192,21 @@ http://ky-tv.cc:80/seahawks3/seahawks3/399407.ts
 http://ky-tv.cc:80/seahawks3/seahawks3/399410.ts
 
 
-#EXTINF:-1, ===izle====
+#EXTINF:-1, ===diablo====
+#EXTINF:-1,POR-Sport TV 1 (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180834
+#EXTINF:-1,POR-Sport TV 2 (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180835
+#EXTINF:-1,POR-Sport TV 3 (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180836
+#EXTINF:-1,POR-Sport TV 4 (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180837
+#EXTINF:-1,POR-Sport TV NBA (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180838
+#EXTINF:-1,POR-SportING TV (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180839
+#EXTINF:-1,POR-Sport TV 5 (M)(720)
+http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180840
 
 
 
