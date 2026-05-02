@@ -159,7 +159,31 @@ http://tv.rapidiptv.tvip.xyz/XvzOsN3r5F658/Ll0wo1280/23323
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="teck-tv_live",PT - DAZN 6 FHD
 http://tv.rapidiptv.tvip.xyz/XvzOsN3r5F658/Ll0wo1280/23324
 
-#EXTINF:-1, ===Lunar====
+#EXTINF:-1, ===tv14====
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Benfica TV
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266633
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Dazn 1
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266566
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Dazn 2
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266565
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Dazn 3
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266564
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Dazn 4
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266563
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Dazn 5
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266562
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) SPORTTV 1
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266568
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) SportTV 2
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266567
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Sport TV 3
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266561
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Sport TV 4
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266560
+#EXTINF:-1 tvg-logo="" group-title="tv14s_live",PT (VF) Sport TV 5
+http://tv14s.xyz:8080/MaureenW/MaureenW@2025/266559
+
+
 
 
 
