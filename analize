@@ -1,4 +1,30 @@
 #EXTM3U
+
+#EXTINF:-1, ===realsport===
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/952.jpg",PT BENFICA TV 1 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/952
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/925.jpg",PT ELEVEN SPORTS 1 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/925
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/923.jpg",PT ELEVEN SPORTS 2 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/923
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/921.jpg",PT ELEVEN SPORTS 3 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/921
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/919.jpg",PT ELEVEN SPORTS 4 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/919
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/917.jpg",PT ELEVEN SPORTS 5 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/917
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/848.jpg",PT SPORT TV 1 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/848
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/846.jpg",PT SPORT TV 2 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/846
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/844.jpg",PT SPORT TV 3 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/844
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/842.jpg",PT SPORT TV 4 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/842
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/839.jpg",PT SPORT TV 5 HD
+http://realsport.scalecdn.co:8080/wQO7pspqB4/BhdtLuuZsu/839
+
+
 #EXTINF:-1, ===xxip9.top===
 #EXTINF:-1 tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/btv.png" group-title="PORTUGAL",PT | BENFICA TV
 http://xxip9.top:8080/rod@man/rod@2022/266633
@@ -101,29 +127,31 @@ http://monstertv.live:8080/01168457/82491388/1047667
 
 
 
-#EXTINF:-1, ===s.rockets====OFF
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/952.jpg" group-title="s_live",PT BENFICA TV 1 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/952
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/925.jpg" group-title="s_live",PT ELEVEN SPORTS 1 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/925
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/923.jpg" group-title="s_live",PT ELEVEN SPORTS 2 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/923
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/921.jpg" group-title="s_live",PT ELEVEN SPORTS 3 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/921
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/919.jpg" group-title="s_live",PT ELEVEN SPORTS 4 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/919
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/917.jpg" group-title="s_live",PT ELEVEN SPORTS 5 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/917
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/848.jpg" group-title="s_live",PT SPORT TV 1 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/848
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/846.jpg" group-title="s_live",PT SPORT TV 2 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/846
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/844.jpg" group-title="s_live",PT SPORT TV 3 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/844
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/842.jpg" group-title="s_live",PT SPORT TV 4 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/842
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/839.jpg" group-title="s_live",PT SPORT TV 5 HD
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/839
+#EXTINF:-1, ===nigma====
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?25549",VIP: BTV FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688713
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?56577",VIP: SPORT TV 1 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688741
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?42781",VIP: SPORT TV 2 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688739
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?57203",VIP: SPORT TV 3 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688737
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?6859",VIP: SPORT TV 4 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688735
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?40575",VIP: SPORT TV 5 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688733
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 1 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688729
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 2 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688727
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 3 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688725
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 4 HD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688724
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 5 HD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688722
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 5 FHD
+http://cf.nigma.live/4683DV2/b9a947a3db/1688721
 
 
 #EXTINF:-1, ===rapid====
