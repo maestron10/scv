@@ -1,5 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1, ===DX-TX===
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png",PT| SPORT TV 1 HEVC
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118447
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png",PT| SPORT TV 2 HEVC
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118446
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV3.png",PT| SPORT TV 3 HEVC
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118445
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV4.png",PT| SPORT TV 4 HD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/107433
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV5.png",PT| SPORT TV 5 FHD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/1809290
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 1 HEVC
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118459
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 2 HEVC
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118458
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 3 HD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/122484
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 4 HD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/122485
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 5 HD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/122486
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BENFICA.png",PT| BENFICA TV HD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/983567
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV1.png",PT| BTV 1 HD
+http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/107511
+
+
+
 #EXTINF:-1, ===portal===
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png",PT | BENFICA TV UHD
