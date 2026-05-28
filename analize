@@ -1,33 +1,36 @@
 #EXTM3U
 
 #EXTINF:-1, ===DX-TX===
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png",PT| SPORT TV 1 HEVC
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118447
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png",PT| SPORT TV 2 HEVC
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118446
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV3.png",PT| SPORT TV 3 HEVC
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118445
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV4.png",PT| SPORT TV 4 HD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/107433
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV5.png",PT| SPORT TV 5 FHD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/1809290
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 1 HEVC
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118459
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 2 HEVC
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/118458
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 3 HD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/122484
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 4 HD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/122485
-#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",PT| DAZN 5 HD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/122486
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BENFICA.png",PT| BENFICA TV HD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/983567
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV1.png",PT| BTV 1 HD
-http://75472-devel.tx-4kott.com:80/cf7a6aa5a5/c975bc2d2106/107511
-
-
-
+#EXTINF:-1 tvg-id="67504" tvg-name="PT | Eleven Sports 1ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-1-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 1ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e1a3b528-626e-4aa7-af6d-7aab02693932.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 2ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-2-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 2ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/bd12552d-4896-436f-8635-9335a03b72e7.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 3ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-3-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 3ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e2edfdcb-bdc6-4a38-a18b-4cc12502c5c8.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 4ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-4-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 4ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/9122eb8a-d7b6-4160-b212-e30da73fce3f.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 5ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-5-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 5ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/d3f24cda-246a-473d-a67d-8495a0c19c71.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-1-pt.png" group-title="Full Subscription Master",PT | SPORT TV 1ⓧ FHD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/cd614bb1-ce6d-4884-8941-e9d50a11ecb2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-2-pt.png" group-title="Full Subscription Master",PT | SPORT TV 2ⓧ FHD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/935e8ffa-cb0a-46c6-9855-ccedebfac2ea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-3-pt.png" group-title="Full Subscription Master",PT | SPORT TV 3ⓧ FHD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/b0a4fbea-2ad6-4a42-9164-53e9a65841ca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-4-pt.png" group-title="Full Subscription Master",PT | SPORT TV 4ⓧ FHD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/1131249b-a479-428b-affe-a356c6e5dace.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-5-pt.png" group-title="Full Subscription Master",PT | SPORT TV 5ⓧ FHD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/53b38181-2414-40e2-a6a4-dbedf775df95.m3u
+#EXTINF:-1 tvg-id="67504" tvg-name="PT | Eleven Sports 1ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-1-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 1ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e1a3b528-626e-4aa7-af6d-7aab02693932.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 2ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-2-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 2ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/bd12552d-4896-436f-8635-9335a03b72e7.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 3ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-3-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 3ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e2edfdcb-bdc6-4a38-a18b-4cc12502c5c8.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 4ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-4-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 4ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/9122eb8a-d7b6-4160-b212-e30da73fce3f.m3u
+#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 5ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-5-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 5ⓧ HD
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/d3f24cda-246a-473d-a67d-8495a0c19c71.m3u
 #EXTINF:-1, ===portal===
 
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png",PT | BENFICA TV UHD
