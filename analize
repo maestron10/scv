@@ -1,60 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, ===DX-TX===
-#EXTINF:-1 tvg-id="67504" tvg-name="PT | Eleven Sports 1ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-1-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 1ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e1a3b528-626e-4aa7-af6d-7aab02693932.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 2ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-2-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 2ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/bd12552d-4896-436f-8635-9335a03b72e7.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 3ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-3-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 3ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e2edfdcb-bdc6-4a38-a18b-4cc12502c5c8.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 4ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-4-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 4ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/9122eb8a-d7b6-4160-b212-e30da73fce3f.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 5ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-5-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 5ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/d3f24cda-246a-473d-a67d-8495a0c19c71.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-1-pt.png" group-title="Full Subscription Master",PT | SPORT TV 1ⓧ FHD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/cd614bb1-ce6d-4884-8941-e9d50a11ecb2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-2-pt.png" group-title="Full Subscription Master",PT | SPORT TV 2ⓧ FHD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/935e8ffa-cb0a-46c6-9855-ccedebfac2ea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-3-pt.png" group-title="Full Subscription Master",PT | SPORT TV 3ⓧ FHD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/b0a4fbea-2ad6-4a42-9164-53e9a65841ca.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-4-pt.png" group-title="Full Subscription Master",PT | SPORT TV 4ⓧ FHD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/1131249b-a479-428b-affe-a356c6e5dace.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5ⓧ FHD" tvg-logo="https://apps.losttec.com/countries/portugal/sport-tv-5-pt.png" group-title="Full Subscription Master",PT | SPORT TV 5ⓧ FHD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/53b38181-2414-40e2-a6a4-dbedf775df95.m3u
-#EXTINF:-1 tvg-id="67504" tvg-name="PT | Eleven Sports 1ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-1-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 1ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e1a3b528-626e-4aa7-af6d-7aab02693932.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 2ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-2-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 2ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/bd12552d-4896-436f-8635-9335a03b72e7.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 3ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-3-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 3ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e2edfdcb-bdc6-4a38-a18b-4cc12502c5c8.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 4ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-4-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 4ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/9122eb8a-d7b6-4160-b212-e30da73fce3f.m3u
-#EXTINF:-1 tvg-id="67502" tvg-name="PT | Eleven Sports 5ⓧ HD" tvg-logo="https://apps.losttec.com/countries/portugal/eleven-sports-5-icon-pt.png" group-title="Full Subscription Master",PT | Eleven Sports 5ⓧ HD
-http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/d3f24cda-246a-473d-a67d-8495a0c19c71.m3u
 #EXTINF:-1, ===portal===
 
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png",PT | BENFICA TV UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48427
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://tlgrm.re/images/sport-tv-1-pt.png",PT | SPORT TV 1 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48496
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://tlgrm.re/images/sport-tv-2-pt.png",PT | SPORT TV 2 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48497
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://tlgrm.re/images/sport-tv-3-pt.png",PT | SPORT TV 3 FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48498
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://tlgrm.re/images/sport-tv-4-pt.png",PT | SPORT TV 4 FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48499
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png",PT | SPORT TV 5 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48500
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png",PT | ELEVEN 1 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48443
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-2-pt.png",PT | ELEVEN 2 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48444
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-3-pt.png",PT | ELEVEN 3 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48445
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-4-pt.png",PT | ELEVEN 4 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48446
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="https://tlgrm.re/images/eleven-sports-5-pt.png",PT | ELEVEN 5 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48447
+
 #EXTINF:-1, ===marc===
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png",PT | Benfica FHD
 http://doubleclicktv.live/Marc/Marc/273547
@@ -138,30 +87,6 @@ http://tv.rapidiptv.tvip.xyz/XvzOsN3r5F658/Ll0wo1280/23323
 http://tv.rapidiptv.tvip.xyz/XvzOsN3r5F658/Ll0wo1280/23324
 
 #EXTINF:-1, ===1tv41====
-#EXTINF:-1,PT (VF) Benfica TV
-http://1tv41.icu:8080/zqQ0Q2/591076/266633
-#EXTINF:-1,PT (VF) Dazn 1
-http://1tv41.icu:8080/zqQ0Q2/591076/266566
-#EXTINF:-1,PT (VF) Dazn 2
-http://1tv41.icu:8080/zqQ0Q2/591076/266565
-#EXTINF:-1,PT (VF) Dazn 3
-http://1tv41.icu:8080/zqQ0Q2/591076/266564
-#EXTINF:-1,PT (VF) Dazn 4
-http://1tv41.icu:8080/zqQ0Q2/591076/266563
-#EXTINF:-1,PT (VF) Dazn 5
-http://1tv41.icu:8080/zqQ0Q2/591076/266562
-#EXTINF:-1,PT (VF) SPORTTV 1
-http://1tv41.icu:8080/zqQ0Q2/591076/266568
-#EXTINF:-1,PT (VF) SportTV 2
-http://1tv41.icu:8080/zqQ0Q2/591076/266567
-#EXTINF:-1,PT (VF) Sport TV 3
-http://1tv41.icu:8080/zqQ0Q2/591076/266561
-#EXTINF:-1,PT (VF) Sport TV 4
-http://1tv41.icu:8080/zqQ0Q2/591076/266560
-#EXTINF:-1,PT (VF) Sport TV 5
-http://1tv41.icu:8080/zqQ0Q2/591076/266559
-
-
 
 
 
@@ -170,29 +95,6 @@ http://1tv41.icu:8080/zqQ0Q2/591076/266559
 
 
 #EXTINF:-1, ===ky-tv====
-#EXTINF:-1,PT: BENFICA TV FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/219188.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399286.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399289.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399292.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399295.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399298.ts
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399398.ts
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399401.ts
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399404.ts
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399407.ts
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://ky-tv.cc:80/seahawks3/seahawks3/399410.ts
-
 
 #EXTINF:-1, ===diablo====
 #EXTINF:-1,POR-Sport TV 1 (M)(720)
@@ -213,34 +115,3 @@ http://tv.diablotv.net:8080/alexacasbe1/znDmgRE72x/180840
 
 
 #EXTINF:-1, ===nuevadomi====
-#EXTINF:-1,POR-Sport TV 1 (M)(720)
-http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180834
-#EXTINF:-1,POR-Sport TV 2 (M)(720)
-http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180835
-#EXTINF:-1,POR-Sport TV 3 (M)(720)
-http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180836
-#EXTINF:-1,POR-Sport TV 4 (M)(720)
-http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180837
-#EXTINF:-1,POR-Sport TV 5 (M)(720)
-http://tv.nuevadomi.com:8080/crisvivan1/BuRpUPHt2o/180840
-
-#EXTINF:-1, ===pwhtte====
-
-#EXTINF:-1, ===Alphaplayer====
-
-
-
-
-
-#EXTINF:-1, ===Line-ott====
-
-
-
-#EXTINF:-1, ===harcomedia====
-
-
-
-
-
-
-#EXTINF:-1, ===websafety====
