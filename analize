@@ -1,6 +1,32 @@
 #EXTM3U
 
 #EXTINF:-1, ===DX-TX===
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 6
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 5
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266559.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 4
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 3
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Dazn 5
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Dazn 4
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Dazn 3
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Dazn 2
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Dazn 1
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266566.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) SPORTTV 1
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Benfica TV
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266633.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) SportTV 2
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266567.m3u8
+
 #EXTINF:-1, ===portal===
 
 
