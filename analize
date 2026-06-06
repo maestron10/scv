@@ -1,5 +1,31 @@
 #EXTM3U
-
+#EXTINF:-1, ===vipapyenhmw===
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="https://docdog.top/logo/countries/portugal/btv.png" group-title="Desporto",PT: BTV
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99492
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="Desporto",PT: ELEVEN SPORT 1
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99475
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="Desporto",PT: ELEVEN SPORT 2
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99476
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="Desporto",PT: ELEVEN SPORT 3
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99477
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="Desporto",PT: ELEVEN SPORT 4
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99478
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="Desporto",PT: ELEVEN SPORT 5
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99479
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="Desporto",PT: ELEVEN SPORT 6
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99480
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="Desporto",PT: SPORT TV 1
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99484
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="Desporto",PT: SPORT TV 2
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99485
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="Desporto",PT: SPORT TV 3
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99486
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="Desporto",PT: SPORT TV 4
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99487
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="Desporto",PT: SPORT TV 5
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99488
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="Desporto",PT: SPORT TV 6
+http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/99489
 #EXTINF:-1, ===DX-TX===
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 6
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266558.m3u8
@@ -19,16 +45,37 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266564.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266565.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Dazn 1
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266566.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) SPORTTV 1
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Benfica TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) SportTV 2
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266567.m3u8
-
-#EXTINF:-1, ===portal===
-
+#EXTINF:-1, ===probusiness===
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BENFICA TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?56699" group-title="Desporto",VIP: BENFICA TV ᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688714
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BTV ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?25549" group-title="Desporto",VIP: BTV ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688713
+#EXTINF:-1 tvg-id="" tvg-name="VIP: DAZN 1 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" group-title="Desporto",VIP: DAZN 1 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688729
+#EXTINF:-1 tvg-id="" tvg-name="VIP: DAZN 2 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" group-title="Desporto",VIP: DAZN 2 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688727
+#EXTINF:-1 tvg-id="" tvg-name="VIP: DAZN 3 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" group-title="Desporto",VIP: DAZN 3 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688725
+#EXTINF:-1 tvg-id="" tvg-name="VIP: DAZN 4 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" group-title="Desporto",VIP: DAZN 4 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688723
+#EXTINF:-1 tvg-id="" tvg-name="VIP: DAZN 5 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857" group-title="Desporto",VIP: DAZN 5 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688721
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SPORT TV 1 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?56577" group-title="Desporto",VIP: SPORT TV 1 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688741
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SPORT TV 2 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?42781" group-title="Desporto",VIP: SPORT TV 2 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688739
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SPORT TV 3 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?57203" group-title="Desporto",VIP: SPORT TV 3 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688737
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SPORT TV 4 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?6859" group-title="Desporto",VIP: SPORT TV 4 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688735
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SPORT TV 5 ᶠᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?40575" group-title="Desporto",VIP: SPORT TV 5 ᶠᴴᴰ
+http://pro.business-cdn-8k.com/c06452bde258/1e2b90a80c/1688733
 
 #EXTINF:-1, ===marc===
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png",PT | Benfica FHD
@@ -56,32 +103,29 @@ http://doubleclicktv.live/Marc/Marc/273573
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",PT | Eleven Sports 5 FHD
 http://doubleclicktv.live/Marc/Marc/273571
 
-
-#EXTINF:-1, ===nigma====
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?25549",VIP: BTV FHD
-http://cf.nigma.live/4683/5965daa12c/1688713
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?56577",VIP: SPORT TV 1 FHD
-http://cf.nigma.live/4683/5965daa12c/1688741
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?42781",VIP: SPORT TV 2 FHD
-http://cf.nigma.live/4683/5965daa12c/1688739
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?57203",VIP: SPORT TV 3 FHD
-http://cf.nigma.live/4683/5965daa12c/1688737
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?6859",VIP: SPORT TV 4 FHD
-http://cf.nigma.live/4683/5965daa12c/1688735
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?40575",VIP: SPORT TV 5 FHD
-http://cf.nigma.live/4683/5965daa12c/1688733
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 1 FHD
-http://cf.nigma.live/4683/5965daa12c/1688729
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 2 FHD
-http://cf.nigma.live/4683/5965daa12c/1688727
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 3 FHD
-http://cf.nigma.live/4683/5965daa12c/1688725
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 4 HD
-http://cf.nigma.live/4683/5965daa12c/1688724
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 5 HD
-http://cf.nigma.live/4683/5965daa12c/1688722
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?38857",VIP: DAZN 5 FHD
-http://cf.nigma.live/4683/5965daa12c/1688721
+#EXTINF:-1, ===portal===
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT | BENFICA TV UHD" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png" group-title="Portugal",PT | BENFICA TV UHD
+http://portal5458.com:8080/Francys0912/9859772375/48427
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | ELEVEN 1 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png" group-title="Portugal",PT | ELEVEN 1 HD
+http://portal5458.com:8080/Francys0912/9859772375/48443
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | ELEVEN 2 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-2-pt.png" group-title="Portugal",PT | ELEVEN 2 HD
+http://portal5458.com:8080/Francys0912/9859772375/48444
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | ELEVEN 3 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-3-pt.png" group-title="Portugal",PT | ELEVEN 3 HD
+http://portal5458.com:8080/Francys0912/9859772375/48445
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | ELEVEN 4 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-4-pt.png" group-title="Portugal",PT | ELEVEN 4 HD
+http://portal5458.com:8080/Francys0912/9859772375/48446
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | ELEVEN 5 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-5-pt.png" group-title="Portugal",PT | ELEVEN 5 HD
+http://portal5458.com:8080/Francys0912/9859772375/48447
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | SPORT TV 1 | UHD" tvg-logo="https://tlgrm.re/images/sport-tv-1-pt.png" group-title="Portugal",PT | SPORT TV 1 | UHD
+http://portal5458.com:8080/Francys0912/9859772375/48496
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | SPORT TV 2 | UHD" tvg-logo="https://tlgrm.re/images/sport-tv-2-pt.png" group-title="Portugal",PT | SPORT TV 2 | UHD
+http://portal5458.com:8080/Francys0912/9859772375/48497
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | SPORT TV 3 FHD" tvg-logo="https://tlgrm.re/images/sport-tv-3-pt.png" group-title="Portugal",PT | SPORT TV 3 FHD
+http://portal5458.com:8080/Francys0912/9859772375/48498
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | SPORT TV 4 FHD" tvg-logo="https://tlgrm.re/images/sport-tv-4-pt.png" group-title="Portugal",PT | SPORT TV 4 FHD
+http://portal5458.com:8080/Francys0912/9859772375/48499
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | SPORT TV 5 HD" tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png" group-title="Portugal",PT | SPORT TV 5 HD
+http://portal5458.com:8080/Francys0912/9859772375/48500
 
 
 #EXTINF:-1, ===rapid====
