@@ -113,58 +113,31 @@ https://cf.nigma.live//4683/5965daa12c/386378
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="Portugal",PT: SPORT TV 5 HD
 https://cf.nigma.live//4683/5965daa12c/589154
 
-#EXTINF:-1, ===farhat===
-#EXTINF:-1,PT: BTV FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389147.ts
-#EXTINF:-1,PT: Sport TV 1 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389128.ts
-#EXTINF:-1,PT: Sport TV 2 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389131.ts
-#EXTINF:-1,PT: Sport TV 3 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389134.ts
-#EXTINF:-1,PT: Sport TV 4 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389137.ts
-#EXTINF:-1,PT: Sport TV 5 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389140.ts
-#EXTINF:-1,PT: Sport TV 6 HD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389141.ts
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389150.ts
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389152.ts
-#EXTINF:-1,PT: Eleven Sports 3 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389155.ts
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389158.ts
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-https://starhub.pro:443/live/farhat-3379/67897-913379/389161.ts
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#EXTINF:-1,(DE) Fussball.TV1 (UHD/4K)
-https://starhub.pro:443/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1, ===Mordor===
+#EXTINF:-1,PT: BTV
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99492
+#EXTINF:-1,PT: ELEVEN SPORT 1
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99475
+#EXTINF:-1,PT: ELEVEN SPORT 2
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99476
+#EXTINF:-1,PT: ELEVEN SPORT 3
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99477
+#EXTINF:-1,PT: ELEVEN SPORT 4
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99478
+#EXTINF:-1,PT: ELEVEN SPORT 5
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99479
+#EXTINF:-1,PT: SPORT TV 1
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99484
+#EXTINF:-1,PT: SPORT TV 2
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99485
+#EXTINF:-1,PT: SPORT TV 3
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99486
+#EXTINF:-1,PT: SPORT TV 4
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99487
+#EXTINF:-1,PT: SPORT TV 5
+http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99488
+
 
 #EXTINF:-1, ===vipmdvmxqha====
-#EXTINF:-1,PT: BTV
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99492
-#EXTINF:-1,PT: ELEVEN SPORT 1
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99475
-#EXTINF:-1,PT: ELEVEN SPORT 2
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99476
-#EXTINF:-1,PT: ELEVEN SPORT 3
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99477
-#EXTINF:-1,PT: ELEVEN SPORT 4
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99478
-#EXTINF:-1,PT: ELEVEN SPORT 5
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99479
-#EXTINF:-1,PT: SPORT TV 1
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/99488
 
 #EXTINF:-1, ===diablo====
