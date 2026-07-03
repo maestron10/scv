@@ -77,7 +77,15 @@ http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25028
 
 
 
-#EXTINF:-1, ===alltx===
+#EXTINF:-1, ===liones===
+#EXTINF:-1 tvg-id="" tvg-name="PORT | SPORT TV 1 HD" tvg-logo="http://miarea.vip:8080/images/8225f29b46d740c25362401f91c7d0e8.png" group-title="Desporto",PORT | SPORT TV 1 HD
+http://liontv.es:8080/cramirez/cramirez/867673
+#EXTINF:-1 tvg-id="" tvg-name="PORT | SPORT TV 5 HD" tvg-logo="http://miarea.vip:8080/images/c1974dc98cba4165c00d26275f24f07e.png" group-title="Desporto",PORT | SPORT TV 5 HD
+http://liontv.es:8080/cramirez/cramirez/867677
+#EXTINF:-1 tvg-id="" tvg-name="PORT | ELEVEN SPORTS 4 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Desporto",PORT | ELEVEN SPORTS 4 HD
+http://liontv.es:8080/cramirez/cramirez/867691
+#EXTINF:-1 tvg-id="" tvg-name="PORT | ELEVEN SPORTS 5 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Desporto",PORT | ELEVEN SPORTS 5 HD
+http://liontv.es:8080/cramirez/cramirez/867692
 
 
 #EXTINF:-1, ===TVmate===
