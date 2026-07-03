@@ -1,57 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1, ===Mordor===
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="Mordor",PT: BENFICA TV 1
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99492
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="Mordor",PT: SPORT TV 1 
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99484
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="Mordor",PT: SPORT TV 2 HD
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99485
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?61846" group-title="Mordor",PT: SPORT TV 3 HD
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99486
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?12633" group-title="Mordor",PT: SPORT TV 4
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99487
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="Mordor",PT: SPORT TV 5 HD
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99488
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: DAZN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="Mordor",PT: DAZN 1 
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99475
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: DAZN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="Mordor",PT: DAZN 2
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99476
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="Mordor",PT: DAZN 3
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99477
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="Mordor",PT: DAZN 4 
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99478
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="Mordor",PT: DAZN 5 
-http://mordor.voohocep.top:8080/VIP016181764544194144/2b0e91976b6d/99479
+#EXTINF:-1, ===Restream===
+#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV 1 HD" tvg-logo="https://static.realiptv.to/snapshots/952.jpg" group-title="Desporto",PT BENFICA TV 1 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/952
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 HD" tvg-logo="https://static.realiptv.to/snapshots/925.jpg" group-title="Desporto",PT ELEVEN SPORTS 1 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/925
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 HD" tvg-logo="https://static.realiptv.to/snapshots/923.jpg" group-title="Desporto",PT ELEVEN SPORTS 2 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/923
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 HD" tvg-logo="https://static.realiptv.to/snapshots/921.jpg" group-title="Desporto",PT ELEVEN SPORTS 3 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/921
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4 HD" tvg-logo="https://static.realiptv.to/snapshots/919.jpg" group-title="Desporto",PT ELEVEN SPORTS 4 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/919
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5 HD" tvg-logo="https://static.realiptv.to/snapshots/917.jpg" group-title="Desporto",PT ELEVEN SPORTS 5 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/917
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 HD" tvg-logo="https://static.realiptv.to/snapshots/848.jpg" group-title="Desporto",PT SPORT TV 1 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/848
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 HD" tvg-logo="https://static.realiptv.to/snapshots/846.jpg" group-title="Desporto",PT SPORT TV 2 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/846
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 HD" tvg-logo="https://static.realiptv.to/snapshots/844.jpg" group-title="Desporto",PT SPORT TV 3 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/844
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 HD" tvg-logo="https://static.realiptv.to/snapshots/842.jpg" group-title="Desporto",PT SPORT TV 4 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/842
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="https://static.realiptv.to/snapshots/839.jpg" group-title="Desporto",PT SPORT TV 5 HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/839
 
 
 
-#EXTINF:-1, ===live-plus====
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="live-plus",PT: BENFICA TV 1
-http://livetv-plus.com:8880/EdwinSP/EGPKP/590110
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="live-plus",PT: SPORT TV 1 
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590091
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="live-plus",PT: SPORT TV 2 HD
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590094
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?61846" group-title="live-plus",PT: SPORT TV 3 HD
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590097
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?12633" group-title="live-plus",PT: SPORT TV 4
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590100
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="live-plus",PT: SPORT TV 5 HD
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590103
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: DAZN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="live-plus",PT: DAZN 1 
-http://livetv-plus.com:8880/EdwinSP/EGPKP/590129
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: DAZN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="live-plus",PT: DAZN 2
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590131
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="live-plus",PT: DAZN 3
-hhttp://livetv-plus.com:8880//EdwinSP/EGPKP/590133
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="live-plus",PT: DAZN 4 
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590135
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="live-plus",PT: DAZN 5 
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590137
-#EXTINF:-1,PT: D4ZN F1 FHD
-http://livetv-plus.com:8880//EdwinSP/EGPKP/590139
-
+#EXTINF:-1, ===dns====
+#EXTINF:-1 tvg-id="" tvg-name="[PT] BENFICA TV" tvg-logo="" group-title="Desporto",[PT] BENFICA TV
+https://dns.p2.wtf/rogerio55x/24992611250/1260660
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORT 1" tvg-logo="" group-title="Desporto",[PT] ELEVEN SPORT 1
+https://dns.p2.wtf/rogerio55x/24992611250/1260682
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORT 2" tvg-logo="" group-title="Desporto",[PT] ELEVEN SPORT 2
+https://dns.p2.wtf/rogerio55x/24992611250/1260683
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORT 3" tvg-logo="" group-title="Desporto",[PT] ELEVEN SPORT 3
+https://dns.p2.wtf/rogerio55x/24992611250/1260684
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORT 4" tvg-logo="" group-title="Desporto",[PT] ELEVEN SPORT 4
+https://dns.p2.wtf/rogerio55x/24992611250/1260685
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORT 5" tvg-logo="" group-title="Desporto",[PT] ELEVEN SPORT 5
+https://dns.p2.wtf/rogerio55x/24992611250/1260686
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SPORT TV1" tvg-logo="" group-title="Desporto",[PT] SPORT TV1
+https://dns.p2.wtf/rogerio55x/24992611250/1260730
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SPORT TV2" tvg-logo="" group-title="Desporto",[PT] SPORT TV2
+https://dns.p2.wtf/rogerio55x/24992611250/1260731
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SPORT TV3" tvg-logo="" group-title="Desporto",[PT] SPORT TV3
+https://dns.p2.wtf/rogerio55x/24992611250/1260732
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SPORT TV4" tvg-logo="" group-title="Desporto",[PT] SPORT TV4
+https://dns.p2.wtf/rogerio55x/24992611250/1260733
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SPORT TV5" tvg-logo="" group-title="Desporto",[PT] SPORT TV5
+https://dns.p2.wtf/rogerio55x/24992611250/1260734
 
 #EXTINF:-1, ===neos===
 #EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="neos",PT: BENFICA TV 1
@@ -81,28 +78,6 @@ http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/25028
 
 
 #EXTINF:-1, ===alltx===
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="all-tx",PT: BENFICA TV 1
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412289
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="all-tx",PT: SPORT TV 1 
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412239
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="all-tx",PT: SPORT TV 2 HD
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412247
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?61846" group-title="all-tx",PT: SPORT TV 3 HD
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412253
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?12633" group-title="all-tx",PT: SPORT TV 4
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412261
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="all-tx",PT: SPORT TV 5 HD
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412267
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: DAZN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="all-tx",PT: DAZN 1 
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412199
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: DAZN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="all-tx",PT: DAZN 2
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412203
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="all-tx",PT: DAZN 3
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412212.ts
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="all-tx",PT: DAZN 4 
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412215.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="all-tx",PT: DAZN 5 
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412217.ts
 
 
 #EXTINF:-1, ===TVmate===
@@ -125,8 +100,7 @@ http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266565
 #EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 3
 http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266564
 #EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 4 
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266563
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 5 
+http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266563   
 http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266562
 
 
