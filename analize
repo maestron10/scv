@@ -24,6 +24,58 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/842
 #EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="https://static.realiptv.to/snapshots/839.jpg" group-title="Desporto",PT SPORT TV 5 HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/839
 
+#EXTINF:-1, ===Linenetro====
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="[PT] SPORT TV 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="Desporto",[PT] SPORT TV 1 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250585
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[PT] SPORT TV 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="Desporto",[PT] SPORT TV 2 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250584
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="[PT] SPORT TV 3 UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="Desporto",[PT] SPORT TV 3 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250583
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="[PT] SPORT TV 4 UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="Desporto",[PT] SPORT TV 4 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250582
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="[PT] SPORT TV 5 UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="Desporto",[PT] SPORT TV 5 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250581
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Desporto",[PT] ELEVEN SPORTS 1 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250642
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Desporto",[PT] ELEVEN SPORTS 1 HD
+http://line.netrolive.com:80/26457b4f/26bc0793/812992
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="[PT] ELEVEN SPORTS 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Desporto",[PT] ELEVEN SPORTS 2 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250641
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="[PT] ELEVEN SPORTS 3 UHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Desporto",[PT] ELEVEN SPORTS 3 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250640
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="[PT] ELEVEN SPORTS 4 UHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Desporto",[PT] ELEVEN SPORTS 4 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250639
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="[PT] ELEVEN SPORTS 5 UHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Desporto",[PT] ELEVEN SPORTS 5 UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250638
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="[PT] BTV HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV.png" group-title="Desporto",[PT] BTV HD
+http://line.netrolive.com:80/26457b4f/26bc0793/652403
+#EXTINF:-1 tvg-id="pt.BTV1" tvg-name="[PT] BTV UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV.png" group-title="Desporto",[PT] BTV UHD
+http://line.netrolive.com:80/26457b4f/26bc0793/250658
+
+#EXTINF:-1, ===Lveplus====
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590091.ts
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590094.ts
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590097.ts
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590100.ts
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590103.ts
+#EXTINF:-1,PT: BTV FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590110.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590113.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/635298.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590119.ts
+##EXTINF:-1,PT: Eleven Sports 4 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590122.ts
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://livetv-plus.com:8880/live/MgTv652/HMDMP/590125.ts
+
 
 
 #EXTINF:-1, ===dns====
@@ -51,8 +103,6 @@ https://dns.p2.wtf/rogerio55x/24992611250/1260733
 https://dns.p2.wtf/rogerio55x/24992611250/1260734
 
 #EXTINF:-1, ===neos===
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="neos",PT: BENFICA TV 1
-http://alltvmx.com:80/iovanna_ravelo/Ravelo2022/412289
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="neos",PT: SPORT TV 1 
 http://neosfpoo.top:8080/3111759656082840/eaa111aab0d8/24984
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="neos",PT: SPORT TV 2 HD
@@ -86,35 +136,6 @@ http://liontv.es:8080/cramirez/cramirez/867677
 http://liontv.es:8080/cramirez/cramirez/867691
 #EXTINF:-1 tvg-id="" tvg-name="PORT | ELEVEN SPORTS 5 HD" tvg-logo="http://miarea.vip:8080/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Desporto",PORT | ELEVEN SPORTS 5 HD
 http://liontv.es:8080/cramirez/cramirez/867692
-
-
-#EXTINF:-1, ===TVmate===
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="TVmate",PT: BENFICA TV 1
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266633
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="TVmate",PT: SPORT TV 1 
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266568
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="TVmate",PT: SPORT TV 2 HD
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266567
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?61846" group-title="TVmate",PT: SPORT TV 3 HD
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266561
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?12633" group-title="TVmate",PT: SPORT TV 4
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266560
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="TVmate",PT: SPORT TV 5 HD
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266559
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: DAZN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 1 
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266566
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: DAZN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 2
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266565
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 3
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266564
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="TVmate",PT: DAZN 4 
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266563   
-http://tvmate.icu:8080/7658107512/tac.5@icloud.com/266562
-
-
-
-
-#EXTINF:-1, ===liner lion===
 #EXTINF:-1 tvg-id="" tvg-name="[PT] SPORT TV 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="Desporto",[PT] SPORT TV 1 HD
 http://line.liondnscloud.ru/9a3864ec/e635a4da/812987
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="[PT] SPORT TV 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="Desporto",[PT] SPORT TV 2 UHD
@@ -147,36 +168,7 @@ http://line.liondnscloud.ru/9a3864ec/e635a4da/652403
 
 
 #EXTINF:-1, ===Shawnda====
-#EXTINF:-1,PT: BENFICA TV
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780260
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780280
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780281
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780282
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780283
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780284
-#EXTINF:-1,PT: SPORT TV 1
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780328
-#EXTINF:-1,PT: SPORT TV 1(opcao 2)
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780329
-#EXTINF:-1,PT: SPORT TV 1(opcao 3)
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780330
-#EXTINF:-1,PT: SPORT TV 2
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780331
-#EXTINF:-1,PT: SPORT TV 2(opcao 2)
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780332
-#EXTINF:-1,PT: SPORT TV 3
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780333
-#EXTINF:-1,PT: SPORT TV 4
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780334
-#EXTINF:-1,PT: SPORT TV 5
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780335
-#EXTINF:-1,PT: Sport TV 6
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/780336
+
 
 
 
