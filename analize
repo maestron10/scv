@@ -24,27 +24,6 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/842
 #EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="https://static.realiptv.to/snapshots/839.jpg" group-title="Desporto",PT SPORT TV 5 HD
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/839
 
-#EXTINF:-1, ===panatanas====
-#EXTINF:-1 tvg-id="" tvg-name="PT | BENFICA TV" tvg-logo="http://visionalista.digital:8080/images/a114340d5d157caa64329d6ddc008c44.png" group-title="Portugal",PT | BENFICA TV
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477710
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [720p] [C]
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477720
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [720p] [D]
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477722
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [720p] [D]
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477804
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [720p] [D]
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477784
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 1" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 1
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477747
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 2 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 2 HD
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477748
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 3 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 3 HD
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477749
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 4 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 4 HD
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477751
-#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 5 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 5 HD
-http://elpapanatas.space:8080/12meses72823625/12meses72823625/477753
 
 
 
@@ -229,6 +208,29 @@ https://cf.nigma.live//4683/5965daa12c/386459
 https://cf.nigma.live//4683/5965daa12c/386458
 #EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 5 
 https://cf.nigma.live//4683/5965daa12c/386457
+
+#EXTINF:-1, ===panatanas====
+#EXTINF:-1 tvg-id="" tvg-name="PT | BENFICA TV" tvg-logo="http://visionalista.digital:8080/images/a114340d5d157caa64329d6ddc008c44.png" group-title="Portugal",PT | BENFICA TV
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477710
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [720p] [C]
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477720
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [720p] [D]
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477722
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [720p] [D]
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477804
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [720p] [D]
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477784
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 1" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 1
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477747
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 2 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 2 HD
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477748
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 3 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 3 HD
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477749
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 4 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 4 HD
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477751
+#EXTINF:-1 tvg-id="" tvg-name="PT | ELEVEN 5 HD" tvg-logo="http://visionalista.digital:8080/images/9b5e04688c096c2216d8875b2a74f170.png" group-title="Portugal",PT | ELEVEN 5 HD
+http://elpapanatas.space:8080/12meses72823625/12meses72823625/477753
+
 
 
 
