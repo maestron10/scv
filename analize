@@ -76,6 +76,31 @@ http://haiermain01.xyz:8080/angeloana/9sXGprptCNxa/211
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [1080p] [C+]
 http://haiermain01.xyz:8080/angeloana/9sXGprptCNxa/214
 
+#EXTINF:-1, ===Amazing====
+#EXTINF:-1,PT: Benfica TV HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157942
+#EXTINF:-1,PT: Sport TV 1 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157970
+#EXTINF:-1,PT: Sport TV 2 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157966
+#EXTINF:-1,PT: Sport TV 3 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157963
+#EXTINF:-1,PT: Sport TV 4 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157960
+#EXTINF:-1,PT: Sport TV 5 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157958
+EXTINF:-1,PT: Dazn 1 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157956
+#EXTINF:-1,PT: Dazn 2 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157954
+#EXTINF:-1,PT: Dazn 3 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157952
+#EXTINF:-1,PT: Dazn 4 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157950
+#EXTINF:-1,PT: Dazn 5 HD
+http://amazing-onyx.net:80/Inglourious.22/760776084/157948
+
+
 
 #EXTINF:-1, ===elecstr====
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [720p] [C]
@@ -123,7 +148,29 @@ https://x.cliente.tech/AndreCTV2/21993409174/2396
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="DAZN 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" group-title="Desporto",DAZN 5 HD
 https://x.cliente.tech/AndreCTV2/21993409174/2402
 
-
+#EXTINF:-1, ===stb===
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="Portoquese",PT: BTV 1 HD
+http://stb.iphd.tv:80/306977720/756373677/170707
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="Portoquese",PT: SPORT TV 1 HD
+http://stb.iphd.tv:80/306977720/756373677/170719
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portoquese",PT: SPORT TV 2 HD
+http://stb.iphd.tv:80/306977720/756373677/170718
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portoquese",PT: SPORT TV 3 HD
+http://stb.iphd.tv:80/306977720/756373677/170717
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="Portoquese",PT: SPORT TV 4 HD
+http://stb.iphd.tv:80/306977720/756373677/170716
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="Portoquese",PT: SPORT TV 5 HD
+http://stb.iphd.tv:80/306977720/756373677/170715
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portoquese",PT: ELEVEN SPORTS 1 HD
+http://stb.iphd.tv:80/306977720/756373677/170726
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portoquese",PT: ELEVEN SPORTS 2 HD
+http://stb.iphd.tv:80/306977720/756373677/170725
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portoquese",PT: ELEVEN SPORTS 3 HD
+http://stb.iphd.tv:80/306977720/756373677/170724
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portoquese",PT: ELEVEN SPORTS 4 HD
+http://stb.iphd.tv:80/306977720/756373677/170723
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portoquese",PT: ELEVEN SPORTS 5 HD
+http://stb.iphd.tv:80/306977720/756373677/170722
 
 
 
