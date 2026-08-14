@@ -76,8 +76,29 @@ http://vpiegtru.tvservice-8k.com:80/live/65234862/T9BP3D3/763973.ts
 http://vpiegtru.tvservice-8k.com:80/live/65234862/T9BP3D3/763975.ts
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT - DAZN 5 FHD" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="PT",PT - DAZN 5 FHD
 http://vpiegtru.tvservice-8k.com:80/live/65234862/T9BP3D3/763977.ts
-
-
+#EXTINF:-1, ===Onyx====
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BTV FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: BTV FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003312.ts
+#EXTINF:-1 tvg-id="SPORTTV1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: SPORT TV 1 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003277.ts
+#EXTINF:-1 tvg-id="SPORTTV2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: SPORT TV 2 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003285.ts
+#EXTINF:-1 tvg-id="SPORTTV3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: SPORT TV 3 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003290.ts
+#EXTINF:-1 tvg-id="SPORTTV5.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: SPORT TV 4 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003294.ts
+#EXTINF:-1 tvg-id="SPORTTV5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: SPORT TV 5 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003298.ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="PT: DAZN 1 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: DAZN 1 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003316.ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="PT: DAZN 2 FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: DAZN 2 FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003323.ts
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="PT: DAZN 3 HD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: DAZN 3 HD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003327.ts
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="PT: DAZN 4 HD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: DAZN 4 HD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003329.ts
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="PT: DAZN 5  FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: DAZN 5  FHD
+https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003330.ts
 
 #EXTINF:-1, ===index====
 
