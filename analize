@@ -100,6 +100,32 @@ https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003329.ts
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="PT: DAZN 5  FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: DAZN 5  FHD
 https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003330.ts
 
+
+#EXTINF:-1, ===C.Super====
+#EXTINF:-1 tvg-id="BTV1.HD.pt" tvg-name="PT: BTV FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e95e6c3451602c83a4d47a05cb469bd0.png" group-title="PT",PT: BTV FHD
+http://c.superiptv.pk:8880/75276880/66150102/146378
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="PT: Sport TV 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a52941ccc18cb3549882241af3298fcd.png" group-title="PT",PT: Sport TV 1 FHD
+http://c.superiptv.pk:8880/75276880/66150102/59871
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7b87cf8a7c9d47e13cacd4dc639b08d9.png" group-title="PT",PT: Sport TV 2 FHD
+http://c.superiptv.pk:8880/75276880/66150102/59874
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="PT: Sport TV 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2d5ede1691913af57e9e6e759b662942.png" group-title="PT",PT: Sport TV 3 FHD
+http://c.superiptv.pk:8880/75276880/66150102/61157
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="PT: Sport TV 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a01dd945c9d5d8a5ab7b07d51866180f.png" group-title="PT",PT: Sport TV 4 FHD
+http://c.superiptv.pk:8880/75276880/66150102/522182
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="PT: Sport TV 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0ac8e2031d021c8a208e23e565320ac5.png" group-title="PT",PT: Sport TV 5 FHD
+http://c.superiptv.pk:8880/75276880/66150102/522183
+#EXTINF:-1 tvg-id="Eleven1.pt" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/158a02922e6e45ac254377118e8ef00b.png" group-title="PT",PT: Eleven Sports 1 FHD
+http://c.superiptv.pk:8880/75276880/66150102/522193
+#EXTINF:-1 tvg-id="Eleven2.pt" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/478faea9a7412fc50de18da0571056e4.png" group-title="PT",PT: Eleven Sports 2 FHD
+http://c.superiptv.pk:8880/75276880/66150102/522194
+#EXTINF:-1 tvg-id="Eleven3.pt" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/98c2e0eafcae47a3a44d7d94847edb6c.png" group-title="PT",PT: Eleven Sports 3 FHD
+http://c.superiptv.pk:8880/75276880/66150102/522196
+#EXTINF:-1 tvg-id="Eleven4.pt" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/40fb7c2bf97b476b01de94bcf336f0f6.png" group-title="PT",PT: Eleven Sports 4 FHD
+http://c.superiptv.pk:8880/75276880/66150102/522198
+#EXTINF:-1 tvg-id="Eleven5.pt" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2985c3a212b88843c8ed9690466d9c14.png" group-title="PT",PT: Eleven Sports 5 FHD
+http://c.superiptv.pk:8880/75276880/66150102/603696
+
+
 #EXTINF:-1, ===index====
 
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [720p] [C]
