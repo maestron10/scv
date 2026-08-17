@@ -26,30 +26,6 @@ http://line.vizo4k.com/live/f428af8b87/5764694395fb/107511.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT| BTV HEVC" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV.png" group-title="PT",PT| BTV HEVC
 http://line.vizo4k.com/live/f428af8b87/5764694395fb/118461.ts
 
-#EXTINF:-1, ===Dalt====
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [D]
-http://sma12.dalt.site:2052/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178793
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1HD" tvg-logo="" group-title="PT",PT: SPORT TV 1HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178722.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2HD" tvg-logo="" group-title="PT",PT: Sport TV 2HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178723.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3HD" tvg-logo="" group-title="PT",PT: SPORT TV 3HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178724.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4HD" tvg-logo="" group-title="PT",PT: SPORT TV 4HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178725.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5HD" tvg-logo="" group-title="PT",PT: SPORT TV 5HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178726.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT:  Eleven Sports 1 HD" tvg-logo="" group-title="PT",PT:  Eleven Sports 1 HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178727.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2HD" tvg-logo="" group-title="PT",PT: Eleven Sports 2HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178728.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3HD" tvg-logo="" group-title="PT",PT: Eleven Sports 3HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178729.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4HD" tvg-logo="" group-title="PT",PT: Eleven Sports 4HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178730.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5HD" tvg-logo="" group-title="PT",PT: Eleven Sports 5HD
-http://sma12.dalt.site:2052/live/6wTCT3fkD2Nk/Q5TH9v7P6DWS/178731.ts
-
 
 #EXTINF:-1, ===VIPegtr====
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT - BENFICA TV HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="PT",PT - BENFICA TV HD
@@ -261,31 +237,6 @@ http://stb.iphd.tv:80/306977720/756373677/170722
 
 
 
-#EXTINF:-1, ===nigma===
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="nigma",PT: BENFICA 
-https://cf.nigma.live//4683/5965daa12c/1688714
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="nigma",PT: BENFICA 
-https://cf.nigma.live//4683/5965daa12c/1688713
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="nigma",PT: SPORT TV 1 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695103
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="nigma",PT: SPORT TV 2 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695102
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?61846" group-title="nigma",PT: SPORT TV 3 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695101
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?12633" group-title="nigma",PT: SPORT TV 4 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695100
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="nigma",PT: SPORT TV 5 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695099
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: DAZN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 1 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695109
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: DAZN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 2 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695108
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 3 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695107
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 4 ᶠᴴᴰ
-https://cf.nigma.live//4683/5965daa12c/1695106
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 5 ᶠᴴᴰ
-https://cf.nigma.live/live/4683DV3/6e5a037788/1695105
 
 
 #EXTINF:-1, ===nigma II===
