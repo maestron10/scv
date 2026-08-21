@@ -27,8 +27,9 @@ http://line.vizo4k.com/live/f428af8b87/5764694395fb/107511.ts
 http://line.vizo4k.com/live/f428af8b87/5764694395fb/118461.ts
 
 
-#EXTINF:-1, ===VIPegtr====
+#EXTINF:-1, ===Sky====
 #EXTINF:-1,BTV 1 FHD PT
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/2766
 #EXTINF:-1,SportTV 1 FHD PT
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/3618
 #EXTINF:-1,SportTV 2 FHD PT
@@ -52,7 +53,7 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/22721
 
 
 
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/2766
+
 #EXTINF:-1, ===Onyx====
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BTV FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: BTV FHD
 https://onyx.trustissues.life:8443/live/lj7yj64fzl/m3y28mdgbz/10003312.ts
