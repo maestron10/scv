@@ -51,8 +51,31 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/22719
 #EXTINF:-1,DAZN 5 FHD VIP PT
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/22721
 
-
-
+#EXTINF:-1, ===Line Marosy====
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT",PT| SPORT TV 1 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107436
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT",PT| SPORT TV 2 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107435
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT",PT| SPORT TV 3 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107434
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT| SPORT TV 4 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="PT",PT| SPORT TV 4 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107433
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT| SPORT TV 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="PT",PT| SPORT TV 5 FHD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/1809290
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT| DAZN 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="PT",PT| DAZN 1 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107495
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT| DAZN 2 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="PT",PT| DAZN 2 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107494
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| DAZN 3 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="PT",PT| DAZN 3 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/122484
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| DAZN 4 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="PT",PT| DAZN 4 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/122485
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| DAZN 5 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="PT",PT| DAZN 5 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/122486
+#EXTINF:-1 tvg-id="" tvg-name="PT| BENFICA TV HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BENFICA.png" group-title="PT",PT| BENFICA TV HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/983567
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV1.png" group-title="PT",PT| BTV 1 HD
+http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107511
 
 #EXTINF:-1, ===Onyx====
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT: BTV FHD" tvg-logo="http://yourvod.stream:8808/logos/autoit/portugal_flag_true_transparent.png" group-title="PT",PT: BTV FHD
