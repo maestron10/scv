@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1, ===domingo===
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV ᵀᴴᴰ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7g4bs4V8Ox9rN0QNSvM_sZn-A7KvF7UzeQ&s" group-title="PT",PT: BENFICA TV ᵀᴴᴰ HD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1301638
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT",PT: SPORT TV 1 FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1301611
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT",PT: SPORT TV 1 HD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1285473
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://45.155.90.50:8080//images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="PT",PT: SPORT TV 5 FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1301680
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 ᴴᴰ FHD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="PT",PT: SPORT TV 2 ᴴᴰ FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1283312
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="PT",PT: SPORT TV 3 FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1280071
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="PT",PT: ELEVEN 1 FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1280032
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 ᵀᴴᴰ FHD" tvg-logo="" group-title="PT",PT: ELEVEN SPORTS 2 ᵀᴴᴰ FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1305358
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᵀᴴᴰ FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="PT",PT: ELEVEN SPORTS 3ᵀᴴᴰ FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1305426
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="PT",PT: ELEVEN 4 FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1305402
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 ᵀᴴᴰ FHD" tvg-logo="" group-title="PT",PT: ELEVEN SPORTS 5 ᵀᴴᴰ FHD
+http://dpvqtajf.k21febcom.xyz/play/Candimorillo/1901/1301651
+
 #EXTINF:-1, ===line.mg===
 #EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BTV1.png" group-title="PT",PT| BTV 1 HD
 http://line.mg-trx.com:80/y5g21zy9jm/yd7wgb7hts/107511
