@@ -44,6 +44,33 @@ http://netromag.com/live/BXM799M/A8J4TUP/942696.ts
 http://netromag.com/live/BXM799M/A8J4TUP/942697.ts
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/764062.ts
+#EXTINF:-1, ===Platinum===
+#EXTINF:-1 tvg-id="" tvg-name="PT | BTVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/btv-hd-pt.png" group-title="|PT| DESPORTO",PT | BTVⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74085.ts
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="PT | DAZN 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/dazn1-int.png" group-title="|PT| DESPORTO",PT | DAZN 1ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74179.ts
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="PT | DAZN 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/dazn2-int.png" group-title="|PT| DESPORTO",PT | DAZN 2ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9870.ts
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="PT | DAZN 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-dazn-3-hd-7a027161.png" group-title="|PT| DESPORTO",PT | DAZN 3ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9871.ts
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-name="PT | DAZN 4ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-dazn-4-hd-80c3268b.png" group-title="|PT| DESPORTO",PT | DAZN 4ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9851.ts
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="PT | DAZN 5ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-dazn-5-hd-72caba1c.png" group-title="|PT| DESPORTO",PT | DAZN 5ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9850.ts
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="PT | DAZN 5ⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-dazn-5-hd-72caba1c.png" group-title="|PT| DESPORTO",PT | DAZN 5ⓧ HD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9554.ts
+EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sport-tv-1-pt.png" group-title="|PT| DESPORTO",PT | SPORT TV 1ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74113.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1ⓧ HD HEVC" tvg-logo="http://platinumxmedia.xyz/images/logos/sport-tv-1-pt.png" group-title="|PT| DESPORTO",PT | SPORT TV 1ⓧ HD HEVC
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74083.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2ⓧ FHD HEVC" tvg-logo="http://platinumxmedia.xyz/images/logos/sport-tv-2-pt.png" group-title="|PT| DESPORTO",PT | SPORT TV 2ⓧ FHD HEVC
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74168.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3ⓧ FHD HEVC" tvg-logo="http://platinumxmedia.xyz/images/logos/sport-tv-3-pt.png" group-title="|PT| DESPORTO",PT | SPORT TV 3ⓧ FHD HEVC
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74103.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sport-tv-4-pt.png" group-title="|PT| DESPORTO",PT | SPORT TV 4ⓧ FHD
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9535.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5ⓧ HD HEVC" tvg-logo="http://platinumxmedia.xyz/images/logos/sport-tv-5-pt.png" group-title="|PT| DESPORTO",PT | SPORT TV 5ⓧ HD HEVC
+http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74094.ts
 
 #EXTINF:-1, ===msostvip===
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [C]
@@ -116,35 +143,3 @@ http://mjidiptv.com:1997/dikomag/12344321/6409
 #EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="|PT| SPORT TV 5 HD" tvg-logo="http://silvertv.net:1997/images/PORTUGAL/SportTV1.pt.png" group-title="PT",|PT| SPORT TV 5 HD
 http://mjidiptv.com:1997/dikomag/12344321/6407
 
-#EXTINF:-1, ===nigma II===
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?48410" group-title="nigma",PT: BENFICA TV 1
-https://cf.nigma.live//4683/5965daa12c/386488
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT: BENFICA TV 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?17142" group-title="nigma",PT: BENFICA TV 1 HD
-https://cf.nigma.live//4683/5965daa12c/386487
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="nigma",PT: SPORT TV 1 
-https://cf.nigma.live//4683/5965daa12c/589151
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?53639" group-title="nigma",PT: SPORT TV 1
-https://cf.nigma.live//4683/5965daa12c/386381
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?53404" group-title="nigma",PT: SPORT TV 2 HD
-https://cf.nigma.live//4683/5965daa12c/386380
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14264.png?61846" group-title="nigma",PT: SPORT TV 3 HD
-https://cf.nigma.live//4683/5965daa12c/589153
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14265.png?12633" group-title="nigma",PT: SPORT TV 4 
-https://cf.nigma.live//4683/5965daa12c/386378
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465" group-title="nigma",PT: SPORT TV 5 HD
-https://cf.nigma.live//4683/5965daa12c/589154
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT: DAZN 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 1 
-https://cf.nigma.live//4683/5965daa12c/386461
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT: DAZN 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 2 
-https://cf.nigma.live//4683/5965daa12c/386460
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT: DAZN 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 3 
-https://cf.nigma.live//4683/5965daa12c/386459
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT: DAZN 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 4 
-https://cf.nigma.live//4683/5965daa12c/386458
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701" group-title="nigma",PT: DAZN 5 
-https://cf.nigma.live//4683/5965daa12c/386457
-
-
-
-
-#EXTINF:-1, ===diablo====
