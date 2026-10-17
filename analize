@@ -34,7 +34,16 @@ http://tv-cdn.com:8080/licurici/feriass/615640
 http://tv-cdn.com:8080/licurici/feriass/615636
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FHD HEVC" tvg-logo="" group-title="PT",DAZN 5 FHD HEVC
 http://tv-cdn.com:8080/licurici/feriass/615637
-
+#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS FHD HEVC" tvg-logo="" group-title="PT",NOS STUDIOS FHD HEVC
+http://tv-cdn.com:8080/licurici/feriass/615717
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION FHD" tvg-logo="" group-title="PT",TVCINE EMOTION FHD
+http://tv-cdn.com:8080/licurici/feriass/615720
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION FHD" tvg-logo="" group-title="PT",TVCINE EDITION FHD
+http://tv-cdn.com:8080/licurici/feriass/615724
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION FHD" tvg-logo="" group-title="PT",TVCINE ACTION FHD
+http://tv-cdn.com:8080/licurici/feriass/615728
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP HD" tvg-logo="" group-title="PT",TVCINE TOP HD
+http://tv-cdn.com:8080/licurici/feriass/615731
 
 
 #EXTINF:-1, ===line.mg===
