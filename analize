@@ -46,7 +46,29 @@ http://tv-cdn.com:8080/licurici/feriass/615728
 http://tv-cdn.com:8080/licurici/feriass/615731
 
 
-#EXTINF:-1, ===line.mg===
+#EXTINF:-1, ===Cord===
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="PT",PT (VF) SPORTTV 1
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266568
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SportTV 2" tvg-logo="" group-title="PT",PT (VF) SportTV 2
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266567
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 3" tvg-logo="" group-title="PT",PT (VF) Sport TV 3
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266561
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 4" tvg-logo="" group-title="PT",PT (VF) Sport TV 4
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266560
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 5" tvg-logo="" group-title="PT",PT (VF) Sport TV 5
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266559
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 1" tvg-logo="" group-title="PT",PT (VF) Dazn 1
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266566
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 2" tvg-logo="" group-title="PT",PT (VF) Dazn 2
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266565
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 3" tvg-logo="" group-title="PT",PT (VF) Dazn 3
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266564
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 4" tvg-logo="" group-title="PT",PT (VF) Dazn 4
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266563
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 5" tvg-logo="" group-title="PT",PT (VF) Dazn 5
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266562
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Benfica TV" tvg-logo="" group-title="PT",PT (VF) Benfica TV
+http://cord-cutter.net:8080/movie/tGgEffq44Q/tnJQXbR5Rt/266633
 
 
 
