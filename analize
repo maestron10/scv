@@ -44,7 +44,9 @@ http://tv-cdn.com:8080/licurici/feriass/615724
 http://tv-cdn.com:8080/licurici/feriass/615728
 #EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP HD" tvg-logo="" group-title="PT",TVCINE TOP HD
 http://tv-cdn.com:8080/licurici/feriass/615731
-
+#EXTINF:-1, ===extra===
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="PT",PT (VF) SPORTTV 1
+http://superjal.xyz/live/MAG9RKQGE4/d4T9k39BZ0/1436340.m3u8
 
 #EXTINF:-1, ===Cord===
 #EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="PT",PT (VF) SPORTTV 1
