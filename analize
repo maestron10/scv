@@ -179,8 +179,58 @@ http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22719
 #EXTINF:-1,DAZN 5 FHD VIP PT
 http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22721
 
-
-
+#EXTINF:-1, ===Sardinha===
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/lCft2ha.png" group-title="PT",SPORT TV 1 ᶠᴴᴰ
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186389
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/u66waWx.png" group-title="PT",SPORT TV 2 ᶠᴴᴰ
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186393
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/0wPp5Zy.png" group-title="PT",SPORT TV 3 ᶠᴴᴰ
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186396
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/DMzB3UG.png" group-title="PT",SPORT TV 4 ᶠᴴᴰ
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186399
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/1GGTJn2.png" group-title="PT",SPORT TV 5 ᶠᴴᴰ
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186402
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BENFICA TV HD" tvg-logo="https://pro-nr.com/Revo13thIcon/BTV-HD.png" group-title="PT",BENFICA TV HD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186406
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BENFICA TV FHD" tvg-logo="https://pro-nr.com/Revo13thIcon/BTV-HD.png" group-title="PT",BENFICA TV FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186407
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/dyzhy8b.png" group-title="PT",DAZN 1 HD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186410
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2 HD" tvg-logo="https://i.imgur.com/38JZnro.png" group-title="PT",DAZN 2 HD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186413
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="DAZN 3 FHD" tvg-logo="https://i.imgur.com/ZvLdsf9.png" group-title="PT",DAZN 3 FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186417
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="DAZN 4 FHD" tvg-logo="https://i.imgur.com/bIRTJm3.png" group-title="PT",DAZN 4 FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186420
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="DAZN 5 HD" tvg-logo="https://i.imgur.com/bqq6bXW.png" group-title="PT",DAZN 5 HD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186422
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="DAZN 5 FHD" tvg-logo="https://i.imgur.com/bqq6bXW.png" group-title="PT",DAZN 5 FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186423
+#EXTINF:-1 tvg-id="" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="PT",##### ENGLISH #####
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 1
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369352
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 2
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369354
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 3
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369355
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 4
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369356
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 5
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369357
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 8
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369358
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 9
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369359
+#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TV CINE TOP FHD" tvg-logo="https://pro-nr.com/Revo13thIcon/TVCINE-TOP-HD.png" group-title="PT",TV CINE TOP FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/30553
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TV CINE EDITION FHD" tvg-logo="https://pro-nr.com/Revo13thIcon/TVCINE-EDITION-HD.png" group-title="PT",TV CINE EDITION FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/30555
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TV CINE EMOTION FHD" tvg-logo="https://pro-nr.com/Revo13thIcon/TVCINE-EMOTION-HD.png" group-title="PT",TV CINE EMOTION FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/30557
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TV CINE ACTION FHD" tvg-logo="https://pro-nr.com/Revo13thIcon/TVCINE-ACTION-HD.png" group-title="PT",TV CINE ACTION FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/30559
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS STUDIOS FHD" tvg-logo="https://pro-nr.com/Revo13thIcon/NOS-STUDIOS.png" group-title="PT",NOS STUDIOS FHD
+http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/30561
 #EXTINF:-1, ===extra===
 #EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="PT",PT (VF) SPORTTV 1
 http://superjal.xyz/live/MAG9RKQGE4/d4T9k39BZ0/1436340.m3u8
