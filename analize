@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1, ===dooomfury===
 #EXTINF:-1 tvg-id="" tvg-name="PT - BTV FHD" tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="PT",PT - BTV FHD
 http://doomfury.com:80/TGBQSGL/T32GAWU/763939
@@ -84,6 +83,76 @@ http://doomfury.com:80/TGBQSGL/T32GAWU/1096020
 http://doomfury.com:80/TGBQSGL/T32GAWU/1096019
 #EXTINF:-1 tvg-id="" tvg-name="EN - MANCHESTER UNITED VS ROMA 21:00 CET [BK]" tvg-logo="https://go4.pw/champ/champions.png" group-title="PT",EN - MANCHESTER UNITED VS ROMA 21:00 CET [BK]
 http://doomfury.com:80/TGBQSGL/T32GAWU/362588
+
+#EXTINF:-1, ===xtms===
+#EXTINF:-1 tvg-id="" tvg-name="Pt| BTV 4K" tvg-logo="" group-title="PT",Pt| BTV 4K
+http://xtms.fr:80/4601327538401752/4601327538401752/184482
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Benficaᴴᴰ" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" group-title="PT",Pt| Benficaᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184501
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Sport TV 1ᴴᴰ" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT",Pt| Sport TV 1ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184455
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Sport TV 2ᴴᴰ" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT",Pt| Sport TV 2ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184459
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Sport TV 3ᴴᴰ" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT",Pt| Sport TV 3ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184462
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Sport TV 4ᴴᴰ" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" group-title="PT",Pt| Sport TV 4ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184465
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Sport TV 5ᴴᴰ" tvg-logo="" group-title="PT",Pt| Sport TV 5ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184467
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Sport TV 5 4K" tvg-logo="" group-title="PT",Pt| Sport TV 5 4K
+http://xtms.fr:80/4601327538401752/4601327538401752/184468
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Eleven Sport 1ᴴᴰ" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" group-title="PT",Pt| Eleven Sport 1ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184469
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Eleven Sport 2ᴴᴰ" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" group-title="PT",Pt| Eleven Sport 2ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184471
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Eleven Sport 3ᴴᴰ" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" group-title="PT",Pt| Eleven Sport 3ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184473
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Eleven Sport 4ᴴᴰ" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" group-title="PT",Pt| Eleven Sport 4ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184475
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Eleven Sport 5ᴴᴰ" tvg-logo="" group-title="PT",Pt| Eleven Sport 5ᴴᴰ
+http://xtms.fr:80/4601327538401752/4601327538401752/184477
+#EXTINF:-1 tvg-id="" tvg-name="Pt| Eleven Sports 5 4K" tvg
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 1 HD" tvg-logo="https://i.ibb.co/2tkKrbx/tnt-sport-1.png" group-title="PT",UK: TNT SPORTS 1 HD
+http://xtms.fr:80/4601327538401752/4601327538401752/397641
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 3 HD" tvg-logo="https://i.ibb.co/YR3ZGjR/tnt-sport-3.png" group-title="PT",UK: TNT SPORTS 3 HD
+http://xtms.fr:80/4601327538401752/4601327538401752/397640
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 2 HD" tvg-logo="https://i.ibb.co/ZHp6hXc/tnt-sport-2.png" group-title="PT",UK: TNT SPORTS 2 HD
+http://xtms.fr:80/4601327538401752/4601327538401752/397639
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 3" tvg-logo="https://i.ibb.co/YR3ZGjR/tnt-sport-3.png" group-title="PT",UK: TNT SPORTS 3
+http://xtms.fr:80/4601327538401752/4601327538401752/397638
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 5 HD" tvg-logo="https://i.ibb.co/9bZ3tg8/rsz-tntsports5-logo-tntblack-rgb.png" group-title="PT",UK: TNT SPORTS 5 HD
+http://xtms.fr:80/4601327538401752/4601327538401752/397637
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 6 HD" tvg-logo="https://i.ibb.co/2tM1Fyg/tnt-sport-6.png" group-title="PT",UK: TNT SPORTS 6 HD
+http://xtms.fr:80/4601327538401752/4601327538401752/397636-logo="" group-title="PT",Pt| Eleven Sports 5 4K
+http://xtms.fr:80/4601327538401752/4601327538401752/184478
+#EXTINF:-1, ===Ott===
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [D]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/287269
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [D]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/4489
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [FHD] [D]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/4488
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [B]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/287266
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [C]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/74195
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [D]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/1562310
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [C]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/287263
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [C]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/286643
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [C]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/287276
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [HD] [C]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/1133586
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [SD] [D]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/287274
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/1133590
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [HD] [D]
+http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/1133594
+
 
 #EXTINF:-1, ===extra===
 #EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="PT",PT (VF) SPORTTV 1
