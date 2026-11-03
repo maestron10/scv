@@ -153,6 +153,33 @@ http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/1133590
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [HD] [D]
 http://line.ottcst.com:80/FCPAZFGEQH/X8F3VDDSQE/1133594
 
+#EXTINF:-1, ===tuga===
+#EXTINF:-1,SportTV 1 FHD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/3618
+#EXTINF:-1,SportTV 2 FHD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/3617
+#EXTINF:-1,SportTV 3 FHD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/3616
+#EXTINF:-1,SportTV 4 FHD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/3615
+#EXTINF:-1,SportTV 5 HD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/48359
+#EXTINF:-1,SportTV 5 FHD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/3614
+#EXTINF:-1,BTV 1 FHD PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/2766
+#EXTINF:-1,DAZN 1 FHD VIP PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22713
+#EXTINF:-1,DAZN 2 FHD VIP PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22715
+#EXTINF:-1,DAZN 3 FHD VIP PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22717
+#EXTINF:-1,DAZN 4 FHD VIP PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22719
+#EXTINF:-1,DAZN 5 FHD VIP PT
+http://tugatv.123tv.to:8080/deciomonte/3tHaj8JvGb/22721
+
+
 
 #EXTINF:-1, ===extra===
 #EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="PT",PT (VF) SPORTTV 1
