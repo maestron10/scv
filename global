@@ -1,209 +1,849 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT | 24 KITCHEN | HD" tvg-logo="https://tlgrm.re/images/24-kitchen-pt.png" group-title="Portugal",PT | 24 KITCHEN | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48419
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT | A BOLA TV | SD" tvg-logo="https://tlgrm.re/images/a-bola-tv-pt.png" group-title="Portugal",PT | A BOLA TV | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48420
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="PT | AFRO MUSIC | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/afromusic.png?raw=true" group-title="Portugal",PT | AFRO MUSIC | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48421
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT | AMC" tvg-logo="https://tlgrm.re/images/amc-pt.png" group-title="Portugal",PT | AMC
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48422
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT | AXN | UHD" tvg-logo="https://tlgrm.re/images/axn-pt.png" group-title="Portugal",PT | AXN | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48423
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT | AXN BLACK | UHD" tvg-logo="https://www.lyngsat.com//logo/tv/aa/axn_black_us.png" group-title="Portugal",PT | AXN BLACK | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48424
-#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="PT | AXN WHITE | UHD" tvg-logo="https://tlgrm.re/images/axn-white-pt.png" group-title="Portugal",PT | AXN WHITE | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48425
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="PT | BABY TV | SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="Portugal",PT | BABY TV | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48426
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT | BENFICA TV UHD" tvg-logo="https://fanc.tmsimg.com/assets/s68191_ll_h3_aa.png" group-title="Portugal",PT | BENFICA TV UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48427
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="PT | BIGGS | SD" tvg-logo="https://tlgrm.re/images/biggs-pt.png" group-title="Portugal",PT | BIGGS | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48428
-#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="PT | BLOOMBERG | SD" tvg-logo="https://tlgrm.re/images/bloomberg-television-us.png" group-title="Portugal",PT | BLOOMBERG | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48429
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT | CACA E PESCA | SD" tvg-logo="https://tlgrm.re/images/caca-e-pesca-pt.png" group-title="Portugal",PT | CACA E PESCA | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48430
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT | CANAL 11 | UHD" tvg-logo="https://tlgrm.re/images/canal11-pt.png" group-title="Portugal",PT | CANAL 11 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48431
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="PT | CANAL Q | SD" tvg-logo="https://tlgrm.re/images/canal-q-pt.png" group-title="Portugal",PT | CANAL Q | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48432
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="PT | CANCAO NOVA SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-cancao-nova-portugal-br-pt.png" group-title="Portugal",PT | CANCAO NOVA SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48433
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="PT | CARTOON NETWORK | SD" tvg-logo="https://tlgrm.re/images/cartoon-network-us.png" group-title="Portugal",PT | CARTOON NETWORK | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48434
-#EXTINF:-1 tvg-id="" tvg-name="PT | CBS REALITY | SD" tvg-logo="https://tlgrm.re/images/cbs-reality-pt.png" group-title="Portugal",PT | CBS REALITY | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48435
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT | CMTV | HD" tvg-logo="https://tlgrm.re/images/cmtv-pt.png" group-title="Portugal",PT | CMTV | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48436
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="PT | CRIME & INVESTIGATION | UHD" tvg-logo="https://tlgrm.re/images/crime-and-investigation-us.png" group-title="Portugal",PT | CRIME & INVESTIGATION | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48437
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT | DISCOVERY CHANNEL | SD" tvg-logo="https://tlgrm.re/images/discovery-channel-us.png" group-title="Portugal",PT | DISCOVERY CHANNEL | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48438
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT | DISNEY CHANNEL | SD" tvg-logo="https://tlgrm.re/images/disney-channel-us.png" group-title="Portugal",PT | DISNEY CHANNEL | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48439
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="PT | DISNEY JUNIOR | SD" tvg-logo="https://tlgrm.re/images/disney-junior-us.png" group-title="Portugal",PT | DISNEY JUNIOR | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48440
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="PT | DOG TV | UHD" tvg-logo="https://tlgrm.re/images/dog-tv-us.png" group-title="Portugal",PT | DOG TV | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48441
-#EXTINF:-1 tvg-id="E!Entertainment.pt" tvg-name="PT | E! ENTERTAINMENT | SD" tvg-logo="https://tlgrm.re/images/e-entertainment-us.png" group-title="Portugal",PT | E! ENTERTAINMENT | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48442
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | ELEVEN 1 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-1-pt.png" group-title="Portugal",PT | ELEVEN 1 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48443
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | ELEVEN 2 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-2-pt.png" group-title="Portugal",PT | ELEVEN 2 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48444
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | ELEVEN 3 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-3-pt.png" group-title="Portugal",PT | ELEVEN 3 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48445
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | ELEVEN 4 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-4-pt.png" group-title="Portugal",PT | ELEVEN 4 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48446
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | ELEVEN 5 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-5-pt.png" group-title="Portugal",PT | ELEVEN 5 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48447
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | ELEVEN 6 HD" tvg-logo="https://tlgrm.re/images/eleven-sports-6-pt.png" group-title="Portugal",PT | ELEVEN 6 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48448
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT | EUROSPORT 1 | HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_1.png" group-title="Portugal",PT | EUROSPORT 1 | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48449
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT | EUROSPORT 2 | SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_2.png" group-title="Portugal",PT | EUROSPORT 2 | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48450
-#EXTINF:-1 tvg-id="" tvg-name="PT | FASHION TV | SD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_uk.png" group-title="Portugal",PT | FASHION TV | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48451
-#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="PT | FIGHT NETWORK | UHD" tvg-logo="https://tlgrm.re/images/fight-network-pt.png" group-title="Portugal",PT | FIGHT NETWORK | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48452
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="PT | FOOD NETWORK | HD" tvg-logo="https://tlgrm.re/images/food-network-us.png" group-title="Portugal",PT | FOOD NETWORK | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48453
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="PT | FOX Comedy | HD" tvg-logo="https://tlgrm.re/images/fox-comedy-pt.png" group-title="Portugal",PT | FOX Comedy | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48454
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT | FOX CRIME | UHD" tvg-logo="https://tlgrm.re/images/fox-crime-pt.png" group-title="Portugal",PT | FOX CRIME | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48455
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT | FOX LIFE | HD" tvg-logo="https://tlgrm.re/images/fox-life-pt.png" group-title="Portugal",PT | FOX LIFE | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48456
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="PT | FOX MOVIES | HD" tvg-logo="https://tlgrm.re/images/fox-movies-pt.png" group-title="Portugal",PT | FOX MOVIES | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48457
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT | FOX TV | UHD" tvg-logo="https://tlgrm.re/images/fox-pt.png" group-title="Portugal",PT | FOX TV | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48458
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="PT | FUEL TV" tvg-logo="https://tlgrm.re/images/fueltv-pt.png" group-title="Portugal",PT | FUEL TV
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48459
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="PT | GLOBO PORTUGAL | HD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/globo.png?raw=true" group-title="Portugal",PT | GLOBO PORTUGAL | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48460
-#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="PT | GLOBO PREMIUM | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/globopremium.png?raw=true" group-title="Portugal",PT | GLOBO PREMIUM | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48461
-#EXTINF:-1 tvg-id="CanalHistoria.pt" tvg-name="PT | HISTORIA | SD" tvg-logo="https://tlgrm.re/images/historia-ca.png" group-title="Portugal",PT | HISTORIA | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48462
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT | HOLLYWOOD | HD" tvg-logo="https://tlgrm.re/images/canal-hollywood-pt.png" group-title="Portugal",PT | HOLLYWOOD | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48463
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT | INVESTIGATION DISCOVERY (ID) | UHD" tvg-logo="https://tlgrm.re/images/investigation-discovery-us.png" group-title="Portugal",PT | INVESTIGATION DISCOVERY (ID) | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48464
-#EXTINF:-1 tvg-id="" tvg-name="PT | JIMJAM | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pl/jimjam.png?raw=true" group-title="Portugal",PT | JIMJAM | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48465
-#EXTINF:-1 tvg-id="" tvg-name="PT | KOMBAT SPORT | HD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/kombatsport.png?raw=true" group-title="Portugal",PT | KOMBAT SPORT | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48466
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="PT | MCM POP | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/fr/mcmpop.png?raw=true" group-title="Portugal",PT | MCM POP | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48467
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT | MEZZO | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/fr/mezzo.png?raw=true" group-title="Portugal",PT | MEZZO | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48468
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="PT | MOTORVISION | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/de/motorvisiontv.png?raw=true" group-title="Portugal",PT | MOTORVISION | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48469
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="PT | MTV | SD" tvg-logo="https://www.lyngsat.com//logo/tv/mm/mtv-us.png" group-title="Portugal",PT | MTV | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48470
-#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="PT | MVM | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/mvm.png?raw=true" group-title="Portugal",PT | MVM | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48471
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="PT | NAT GEO WILD | SD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/national-geographic-wild-us.png" group-title="Portugal",PT | NAT GEO WILD | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48472
-#EXTINF:-1 tvg-id="" tvg-name="PT | NATIONAL GEOGRAPHIC | HD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nat_geo_us.png" group-title="Portugal",PT | NATIONAL GEOGRAPHIC | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48473
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="PT | NICK JR. | SD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nick_jr_us.png" group-title="Portugal",PT | NICK JR. | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48474
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="PT | NICKELODEON | SD" tvg-logo="https://www.lyngsat.com//logo/tv/nn/nickelodeon_us.png" group-title="Portugal",PT | NICKELODEON | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48475
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="PT | NOS STUDIOS | UHD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/nos.png?raw=true" group-title="Portugal",PT | NOS STUDIOS | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48476
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT | ODISSEIA | HD" tvg-logo="https://i.postimg.cc/cL1CXGmx/ODISSEIA.png" group-title="Portugal",PT | ODISSEIA | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48477
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PT | PANDA | SD" tvg-logo="https://canalpanda.pt/wp-content/themes/site/images/main-logo.png" group-title="Portugal",PT | PANDA | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48478
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT | PFC | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/pfc.png?raw=true" group-title="Portugal",PT | PFC | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48479
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PT | PORTO CANAL | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/portocanal.png?raw=true" group-title="Portugal",PT | PORTO CANAL | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48480
-#EXTINF:-1 tvg-id="RealMadridTV.pt" tvg-name="PT | REAL MADRID TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Portugal",PT | REAL MADRID TV
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48481
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT | RTP 1 | FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png" group-title="Portugal",PT | RTP 1 | FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48482
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT | RTP 2 | UHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png" group-title="Portugal",PT | RTP 2 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48483
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT | RTP 2 | FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png" group-title="Portugal",PT | RTP 2 | FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48484
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT | RTP 3 | FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp_3_pt.png" group-title="Portugal",PT | RTP 3 | FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48485
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="PT | RTP ACORES | SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-acores-pt.png" group-title="Portugal",PT | RTP ACORES | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48486
-#EXTINF:-1 tvg-id="rtpHD" tvg-name="PT | RTP INTERNATIONAL | HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-internacional-pt.png" group-title="Portugal",PT | RTP INTERNATIONAL | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48487
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="PT | RTP MADEIRA | SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-madeira-pt.png" group-title="Portugal",PT | RTP MADEIRA | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48488
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT | RTP MEMORIA | SD" tvg-logo="https://i.postimg.cc/wBYfKKKr/RTP-MEMORIA.png" group-title="Portugal",PT | RTP MEMORIA | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48489
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT | SIC | UHD" tvg-logo="https://tlgrm.re/images/sic-pt.png" group-title="Portugal",PT | SIC | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48490
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT | SIC CARAS | SD" tvg-logo="https://tlgrm.re/images/sic-caras-pt.png" group-title="Portugal",PT | SIC CARAS | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48491
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="PT | SIC KIDS | SD" tvg-logo="https://tlgrm.re/images/sic-k-pt.png" group-title="Portugal",PT | SIC KIDS | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48492
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT | SIC MULHER | SD" tvg-logo="https://tlgrm.re/images/sic-mulher-pt.png" group-title="Portugal",PT | SIC MULHER | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48493
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT | SIC NOTICIAS FHD" tvg-logo="https://tlgrm.re/images/sic-noticias-pt.png" group-title="Portugal",PT | SIC NOTICIAS FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48494
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT | SIC RADICAL | SD" tvg-logo="https://tlgrm.re/images/sic-radical-pt.png" group-title="Portugal",PT | SIC RADICAL | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48495
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | SPORT TV 1 | UHD" tvg-logo="https://tlgrm.re/images/sport-tv-1-pt.png" group-title="Portugal",PT | SPORT TV 1 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48496
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | SPORT TV 2 | UHD" tvg-logo="https://tlgrm.re/images/sport-tv-2-pt.png" group-title="Portugal",PT | SPORT TV 2 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48497
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | SPORT TV 3 FHD" tvg-logo="https://tlgrm.re/images/sport-tv-3-pt.png" group-title="Portugal",PT | SPORT TV 3 FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48498
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | SPORT TV 4 FHD" tvg-logo="https://tlgrm.re/images/sport-tv-4-pt.png" group-title="Portugal",PT | SPORT TV 4 FHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48499
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | SPORT TV 5 HD" tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png" group-title="Portugal",PT | SPORT TV 5 HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48500
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT | SPORT TV+ | HD" tvg-logo="https://tlgrm.re/images/sport-tv-mais-pt.png" group-title="Portugal",PT | SPORT TV+ | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48501
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT | SPORTING TV | SD" tvg-logo="https://tlgrm.re/images/sporting-tv-pt.png" group-title="Portugal",PT | SPORTING TV | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48502
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT | SPORTING TV | UHD" tvg-logo="https://tlgrm.re/images/sporting-tv-pt.png" group-title="Portugal",PT | SPORTING TV | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48503
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="PT | SYFY | HD" tvg-logo="https://www.lyngsat.com//logo/tv/ss/syfy_us_global.png" group-title="Portugal",PT | SYFY | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48504
-#EXTINF:-1 tvg-id="" tvg-name="PT | TCV CABO" tvg-logo="http://playlistfoverer.online:8080/images/beb725de138849f8508b69e777f9f372.png" group-title="Portugal",PT | TCV CABO
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48505
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="PT | TLC | HD" tvg-logo="https://www.lyngsat.com//logo/tv/tt/tlc_br.png" group-title="Portugal",PT | TLC | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48506
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="PT | TOROS TV | SD" tvg-logo="https://tlgrm.re/images/toros-tv-pt.png" group-title="Portugal",PT | TOROS TV | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48507
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT | TRAVEL CHANNEL | HD" tvg-logo="https://www.lyngsat.com//logo/tv/tt/travel-channel-us.png" group-title="Portugal",PT | TRAVEL CHANNEL | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48508
-#EXTINF:-1 tvg-id="" tvg-name="PT | TV FATIMA UHD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/tvfatima.png?raw=true" group-title="Portugal",PT | TV FATIMA UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48509
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="PT | TV GLOBO | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/globo.png?raw=true" group-title="Portugal",PT | TV GLOBO | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48510
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="PT | TV RECORD | SD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/br/record.png?raw=true" group-title="Portugal",PT | TV RECORD | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48511
-#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="PT | TV Series | UHD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/pt/tvseries.png?raw=true" group-title="Portugal",PT | TV Series | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48512
-#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="PT | TVCINE 1 | UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 1 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48513
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE 2 | UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 2 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48514
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE 3 | UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 3 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48515
-#EXTINF:-1 tvg-id="" tvg-name="PT | TVCINE 4 | UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVCine_2020.jpg/revision/latest/scale-to-width-down/300?cb=20230614204311" group-title="Portugal",PT | TVCINE 4 | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48516
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT | TVI | UHD" tvg-logo="https://tlgrm.re/images/tvi-pt.png" group-title="Portugal",PT | TVI | UHD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48517
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="PT | TVI 24 | SD" tvg-logo="https://tlgrm.re/images/tvi-24-pt.png" group-title="Portugal",PT | TVI 24 | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48518
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT | TVI FICCAO | HD" tvg-logo="https://tlgrm.re/images/tvi-ficcao-pt.png" group-title="Portugal",PT | TVI FICCAO | HD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48519
-#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="PT | TVI REALITY | SD" tvg-logo="https://tlgrm.re/images/tvi-reality-pt.png" group-title="Portugal",PT | TVI REALITY | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48520
-#EXTINF:-1 tvg-id="" tvg-name="PT | VH1 | SD" tvg-logo="https://www.lyngsat.com//logo/tv/vv/vh1-us.png" group-title="Portugal",PT | VH1 | SD
-http://portal5458.com:8080/muZb7Q7BvS/5222257441/48521
-
-
+#EXTINF:-1,"------NACIONAIS------"
+http://again.live:8080/artur777221/artur50665578901/1
+#EXTINF:-1,PT: RTP 1 ᴿ
+http://again.live:8080/artur777221/artur50665578901/2
+#EXTINF:-1,PT: RTP 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/338
+#EXTINF:-1,PT: RTP 1 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/4
+#EXTINF:-1,PT: RTP 1 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/339
+#EXTINF:-1,PT: RTP 2
+http://again.live:8080/artur777221/artur50665578901/5
+#EXTINF:-1,PT: RTP 2 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/340
+#EXTINF:-1,PT: RTP 2 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/6
+#EXTINF:-1,PT: SIC ᴿ
+http://again.live:8080/artur777221/artur50665578901/7
+#EXTINF:-1,PT: SIC ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/341
+#EXTINF:-1,PT: SIC ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/9
+#EXTINF:-1,PT: SIC ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/342
+#EXTINF:-1,PT: TVI ᴿ
+http://again.live:8080/artur777221/artur50665578901/10
+#EXTINF:-1,PT: TVI  ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/343
+#EXTINF:-1,PT: TVI ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/11
+#EXTINF:-1,PT: TVI ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/344
+#EXTINF:-1,"------NOTICIAS------"
+http://again.live:8080/artur777221/artur50665578901/12
+#EXTINF:-1,PT: CMTV ᴿ
+http://again.live:8080/artur777221/artur50665578901/13
+#EXTINF:-1,PT: CMTV ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/354
+#EXTINF:-1,PT: CMTV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/14
+#EXTINF:-1,PT: CNN PORTUGAL ᴿ
+http://again.live:8080/artur777221/artur50665578901/15
+#EXTINF:-1,PT: CNN PORTUGAL ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/353
+#EXTINF:-1,PT: CNN PORTUGAL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/16
+#EXTINF:-1,PT: NEWS NOW
+http://again.live:8080/artur777221/artur50665578901/215296
+#EXTINF:-1,PT: NEWS NOW ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/215297
+#EXTINF:-1,PT: SIC NOTICIAS ᴿ
+http://again.live:8080/artur777221/artur50665578901/17
+#EXTINF:-1,PT: SIC NOTICIAS ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/352
+#EXTINF:-1,PT: SIC NOTICIAS ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/18
+#EXTINF:-1,PT: RTP NOTICIAS
+http://again.live:8080/artur777221/artur50665578901/19
+#EXTINF:-1,PT: RTP NOTICIAS ᶠᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/227556
+#EXTINF:-1,PT: PORTO CANAL
+http://again.live:8080/artur777221/artur50665578901/20
+#EXTINF:-1,PT: PORTO CANAL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/21
+#EXTINF:-1,PT: A BOLA TV ᴿ
+http://again.live:8080/artur777221/artur50665578901/22
+#EXTINF:-1,PT: A BOLA ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/356
+#EXTINF:-1,PT: A BOLA TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/23
+#EXTINF:-1,PT: RECORD NEWS
+http://again.live:8080/artur777221/artur50665578901/24
+#EXTINF:-1,PT: ARTV
+http://again.live:8080/artur777221/artur50665578901/26
+#EXTINF:-1,PT: NOTICIAS MOSAICO
+http://again.live:8080/artur777221/artur50665578901/265910
+#EXTINF:-1,"----GENERALISTAS----"
+http://again.live:8080/artur777221/artur50665578901/27
+#EXTINF:-1,PT: CASA E COZINHA
+http://again.live:8080/artur777221/artur50665578901/28
+#EXTINF:-1,PT: CASA COZINHA ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/418
+#EXTINF:-1,PT: CASA E COZINHA fhd
+http://again.live:8080/artur777221/artur50665578901/29
+#EXTINF:-1,PT: V+ TVI ᴿ
+http://again.live:8080/artur777221/artur50665578901/30
+#EXTINF:-1,PT: V+ TVI ᶠᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/31
+#EXTINF:-1,PT: V+ TVI ᶠᴴᴰ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/346
+#EXTINF:-1,PT: TVI REALITY
+http://again.live:8080/artur777221/artur50665578901/32
+#EXTINF:-1,PT: TVI REALITY ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/351
+#EXTINF:-1,PT: TVI REALITY FHD
+http://again.live:8080/artur777221/artur50665578901/33
+#EXTINF:-1,PT: TVI Reality -Mosaico
+http://again.live:8080/artur777221/artur50665578901/34
+#EXTINF:-1,PT: TVI Reality - Cãmera 1
+http://again.live:8080/artur777221/artur50665578901/35
+#EXTINF:-1,PT: TVI Reality - Cãmera 2
+http://again.live:8080/artur777221/artur50665578901/36
+#EXTINF:-1,PT: TVI Reality - Cãmera 3
+http://again.live:8080/artur777221/artur50665578901/37
+#EXTINF:-1,PT: TVI Reality - Cãmera 4
+http://again.live:8080/artur777221/artur50665578901/38
+#EXTINF:-1,PT: SIC NOVELAS ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/161905
+#EXTINF:-1,PT: SIC MULHER ᴿ
+http://again.live:8080/artur777221/artur50665578901/39
+#EXTINF:-1,PT: SIC MULHER ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/350
+#EXTINF:-1,PT: SIC MULHER ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/40
+#EXTINF:-1,PT: SIC CARAS
+http://again.live:8080/artur777221/artur50665578901/41
+#EXTINF:-1,PT: SIC CARAS ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/349
+#EXTINF:-1,PT: SIC CARAS ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/42
+#EXTINF:-1,PT: SIC RADICAL
+http://again.live:8080/artur777221/artur50665578901/43
+#EXTINF:-1,PT: SIC RADICAL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/44
+#EXTINF:-1,PT: SIC ADVNCE
+http://again.live:8080/artur777221/artur50665578901/38153
+#EXTINF:-1,PT: RTP ACORES
+http://again.live:8080/artur777221/artur50665578901/45
+#EXTINF:-1,PT: RTP MADEIRA
+http://again.live:8080/artur777221/artur50665578901/46
+#EXTINF:-1,PT: RTP MEMORIA
+http://again.live:8080/artur777221/artur50665578901/47
+#EXTINF:-1,PT: RTP AFRICA
+http://again.live:8080/artur777221/artur50665578901/48
+#EXTINF:-1,PT: CANAL Q
+http://again.live:8080/artur777221/artur50665578901/49
+#EXTINF:-1,PT: TV RECORD
+http://again.live:8080/artur777221/artur50665578901/50
+#EXTINF:-1,PT: TV RECORD ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/417
+#EXTINF:-1,PT: TV RECORD ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/51
+#EXTINF:-1,PT: GLOBO ᴿ
+http://again.live:8080/artur777221/artur50665578901/52
+#EXTINF:-1,PT: GLOBO ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/414
+#EXTINF:-1,PT: GLOBO ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/53
+#EXTINF:-1,PT: GLOBO ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/415
+#EXTINF:-1,PT: GLOBO NOW ᴿ
+http://again.live:8080/artur777221/artur50665578901/54
+#EXTINF:-1,PT: GLOBO NOW ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/416
+#EXTINF:-1,PT: GLOBO NOW ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/55
+#EXTINF:-1,PT: Canal NOS
+http://again.live:8080/artur777221/artur50665578901/56
+#EXTINF:-1,PT: SAUDE +
+http://again.live:8080/artur777221/artur50665578901/265913
+#EXTINF:-1,PT: UNIFÉ
+http://again.live:8080/artur777221/artur50665578901/265916
+#EXTINF:-1,AO: TV ZIMBO
+http://again.live:8080/artur777221/artur50665578901/265915
+#EXTINF:-1,"------INFANTIL------"
+http://again.live:8080/artur777221/artur50665578901/57
+#EXTINF:-1,PT: CANAL PANDA ᴿ
+http://again.live:8080/artur777221/artur50665578901/58
+#EXTINF:-1,PT: CANAL PANDA ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/35848
+#EXTINF:-1,PT: DISNEY CHANNEL ᴿ
+http://again.live:8080/artur777221/artur50665578901/59
+#EXTINF:-1,PT: DISNEY JUNIOR ᴿ
+http://again.live:8080/artur777221/artur50665578901/60
+#EXTINF:-1,PT: NICKELODEON
+http://again.live:8080/artur777221/artur50665578901/61
+#EXTINF:-1,PT: BABY TV
+http://again.live:8080/artur777221/artur50665578901/62
+#EXTINF:-1,PT: NICK JR
+http://again.live:8080/artur777221/artur50665578901/63
+#EXTINF:-1,PT: CARTOON NETWORK ᴿ
+http://again.live:8080/artur777221/artur50665578901/64
+#EXTINF:-1,PT: BIGGS ᴿ
+http://again.live:8080/artur777221/artur50665578901/69
+#EXTINF:-1,PT: SIC K
+http://again.live:8080/artur777221/artur50665578901/70
+#EXTINF:-1,PT: SIC K ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/71
+#EXTINF:-1,PT: BOOMERANG
+http://again.live:8080/artur777221/artur50665578901/72
+#EXTINF:-1,PT: TIJI
+http://again.live:8080/artur777221/artur50665578901/73
+#EXTINF:-1,PT: Lolly Kids  ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/24782
+#EXTINF:-1,PT: Kanuca TV ᶠᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/217963
+#EXTINF:-1,"-----DESPORTO-----"
+http://again.live:8080/artur777221/artur50665578901/110
+#EXTINF:-1,PT: Canal 11 ᴿ
+http://again.live:8080/artur777221/artur50665578901/111
+#EXTINF:-1,PT: CANAL 11 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/382
+#EXTINF:-1,PT: CANAL 11 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/112
+#EXTINF:-1,PT: W-Sport ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/158387
+#EXTINF:-1,PT: SPORT TV + ᴿ
+http://again.live:8080/artur777221/artur50665578901/116
+#EXTINF:-1,PT: SPORT TV + ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/388
+#EXTINF:-1,PT: SPORT TV MOSAICO ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/256389
+#EXTINF:-1,PT: SPORT TV + ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/117
+#EXTINF:-1,PT: SPORT TV 1 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/118
+#EXTINF:-1,PT: SPORT TV 1 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/119
+#EXTINF:-1,PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/389
+#EXTINF:-1,PT: SPORT TV 1 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/120
+#EXTINF:-1,PT: SPORT TV 1 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/390
+#EXTINF:-1,PT: SPORT TV 1 4K ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/391
+#EXTINF:-1,PT: SPORT TV 2 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/121
+#EXTINF:-1,PT: SPORT TV 2 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/122
+#EXTINF:-1,PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/392
+#EXTINF:-1,PT: SPORT TV 2 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/123
+#EXTINF:-1,PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/393
+#EXTINF:-1,PT: SPORT TV 3 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/124
+#EXTINF:-1,PT: SPORT TV 3 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/125
+#EXTINF:-1,PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/395
+#EXTINF:-1,PT: SPORT TV 3 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/126
+#EXTINF:-1,PT: SPORT TV 4 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/127
+#EXTINF:-1,PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/396
+#EXTINF:-1,PT: SPORT TV 4 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/128
+#EXTINF:-1,PT: SPORT TV 5 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/129
+#EXTINF:-1,PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/397
+#EXTINF:-1,PT: SPORT TV 5 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/130
+#EXTINF:-1,PT: SPORT TV 6
+http://again.live:8080/artur777221/artur50665578901/76766
+#EXTINF:-1,PT: SPORT TV 6 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/64912
+#EXTINF:-1,PT: SPORT TV 6 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/76767
+#EXTINF:-1,PT: SPORT TV 7
+http://again.live:8080/artur777221/artur50665578901/218198
+#EXTINF:-1,PT: SPORT TV 7 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/218199
+#EXTINF:-1,PT: DANZ 1 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/131
+#EXTINF:-1,PT: DANZ 1 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/132
+#EXTINF:-1,PT: DANZ 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/399
+#EXTINF:-1,PT: DANZ 1 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/133
+#EXTINF:-1,PT: DANZ 1 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/400
+#EXTINF:-1,PT: DANZ 2 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/134
+#EXTINF:-1,PT: DANZ 2 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/135
+#EXTINF:-1,PT: DANZ 2 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/402
+#EXTINF:-1,PT: DANZ 2 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/136
+#EXTINF:-1,PT: DANZ 2 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/403
+#EXTINF:-1,PT: DANZ 3 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/137
+#EXTINF:-1,PT: DANZ 3 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/138
+#EXTINF:-1,PT: DANZ 3  ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/405
+#EXTINF:-1,PT: DANZ 3 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/139
+#EXTINF:-1,PT: DANZ 3  ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/406
+#EXTINF:-1,PT: DANZ 4 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/140
+#EXTINF:-1,PT: DANZ 4 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/141
+#EXTINF:-1,PT: DANZ 4 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/142
+#EXTINF:-1,PT: DANZ 5 SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/143
+#EXTINF:-1,PT: DANZ 5 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/144
+#EXTINF:-1,PT: DANZ 5 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/145
+#EXTINF:-1,PT: BENFICA TV SD ᴿ
+http://again.live:8080/artur777221/artur50665578901/149
+#EXTINF:-1,PT: BENFICA TV ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/150
+#EXTINF:-1,PT: BENFICA TV ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/384
+#EXTINF:-1,PT: BENFICA TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/151
+#EXTINF:-1,PT: BENFICA TV ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/385
+#EXTINF:-1,PT: BENFICA TV 4K ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/386
+#EXTINF:-1,PT: BENFICA TV Multicamaras
+http://again.live:8080/artur777221/artur50665578901/204891
+#EXTINF:-1,PT: SPORTING TV ᴿ
+http://again.live:8080/artur777221/artur50665578901/152
+#EXTINF:-1,PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/383
+#EXTINF:-1,PT: SPORTING TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/153
+#EXTINF:-1,PT: RTP ARENA
+http://again.live:8080/artur777221/artur50665578901/35847
+#EXTINF:-1,PT: EUROSPORT 1 ᴿ
+http://again.live:8080/artur777221/artur50665578901/154
+#EXTINF:-1,PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/407
+#EXTINF:-1,PT: EUROSPORT 1 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/155
+#EXTINF:-1,PT: EUROSPORT 2 ᴿ
+http://again.live:8080/artur777221/artur50665578901/156
+#EXTINF:-1,PT: EUROSPORT 2 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/157
+#EXTINF:-1,PT: PFC ᴿ
+http://again.live:8080/artur777221/artur50665578901/158
+#EXTINF:-1,PT: REAL MADRID TV
+http://again.live:8080/artur777221/artur50665578901/160
+#EXTINF:-1,PT: MOTORVISION
+http://again.live:8080/artur777221/artur50665578901/161
+#EXTINF:-1,PT: MOTORVISION ʰᵈ
+http://again.live:8080/artur777221/artur50665578901/162
+#EXTINF:-1,PT: MOTORVISION ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/163
+#EXTINF:-1,PT: MOTO GP ᴵᵀ
+http://again.live:8080/artur777221/artur50665578901/164
+#EXTINF:-1,PT: WRC+ LIVE
+http://again.live:8080/artur777221/artur50665578901/51441
+#EXTINF:-1,PT: FUEL TV ᴿ
+http://again.live:8080/artur777221/artur50665578901/165
+#EXTINF:-1,PT: FUEL TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/166
+#EXTINF:-1,PT: REDBULL TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/167
+#EXTINF:-1,PT: WWE ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/168
+#EXTINF:-1,PT: UFC ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/169
+#EXTINF:-1,PT: CACA E PESCA
+http://again.live:8080/artur777221/artur50665578901/170
+#EXTINF:-1,PT: CACA E PESCA ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/171
+#EXTINF:-1,PT: CACAVISION ᴿ
+http://again.live:8080/artur777221/artur50665578901/172
+#EXTINF:-1,PT: BENFICA MULTICAM
+http://again.live:8080/artur777221/artur50665578901/265905
+#EXTINF:-1,PT: DAZN MOSAICO
+http://again.live:8080/artur777221/artur50665578901/265906
+#EXTINF:-1,"----FIMES E SERIES----"
+http://again.live:8080/artur777221/artur50665578901/74
+#EXTINF:-1,PT: VIN TV
+http://again.live:8080/artur777221/artur50665578901/262124
+#EXTINF:-1,PT: TV CINE TOP ᴿ
+http://again.live:8080/artur777221/artur50665578901/75
+#EXTINF:-1,PT: TVCINE TOP ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/357
+#EXTINF:-1,PT: TV CINE TOP ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/76
+#EXTINF:-1,PT: TV CINE EDITION ᴿ
+http://again.live:8080/artur777221/artur50665578901/77
+#EXTINF:-1,PT: TVCINE EDITION ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/360
+#EXTINF:-1,PT: TV CINE EDITION ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/78
+#EXTINF:-1,PT: TVCINE EDITION ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/361
+#EXTINF:-1,PT: TV CINE EMOTION ᴿ
+http://again.live:8080/artur777221/artur50665578901/79
+#EXTINF:-1,PT: TVCINE EMOTON ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/358
+#EXTINF:-1,PT: TV CINE EMOTION ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/80
+#EXTINF:-1,PT: TVCINE EMOTION ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/359
+#EXTINF:-1,PT: TV CINE ACTION ᴿ
+http://again.live:8080/artur777221/artur50665578901/81
+#EXTINF:-1,PT: TVCINE ACTION ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/362
+#EXTINF:-1,PT: TV CINE ACTION ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/82
+#EXTINF:-1,PT: TVCINE ACTION ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/363
+#EXTINF:-1,PT: DIZI CHANNEL
+http://again.live:8080/artur777221/artur50665578901/66801
+#EXTINF:-1,PT: NOS STUDIOS ᴿ
+http://again.live:8080/artur777221/artur50665578901/83
+#EXTINF:-1,PT: NOS STUDIOS ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/377
+#EXTINF:-1,PT: NOS STUDIOS ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/84
+#EXTINF:-1,PT: NOS STUDIOS ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/378
+#EXTINF:-1,PT: HOLLYWOOD ᴿ
+http://again.live:8080/artur777221/artur50665578901/85
+#EXTINF:-1,PT: HOLLYWOOD ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/380
+#EXTINF:-1,PT: HOLLYWOOD ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/86
+#EXTINF:-1,PT: AXN ᴿ
+http://again.live:8080/artur777221/artur50665578901/87
+#EXTINF:-1,PT: AXN ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/370
+#EXTINF:-1,PT: AXN ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/88
+#EXTINF:-1,PT: AXN ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/371
+#EXTINF:-1,PT: AXN WHITE ᴿ
+http://again.live:8080/artur777221/artur50665578901/89
+#EXTINF:-1,PT: AXN WHITE ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/372
+#EXTINF:-1,PT: AXN WHITE ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/90
+#EXTINF:-1,PT: AXN WHITE ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/373
+#EXTINF:-1,PT: AXN MOVIES
+http://again.live:8080/artur777221/artur50665578901/91
+#EXTINF:-1,PT: AXN MOVIES ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/374
+#EXTINF:-1,PT: AXN MOVIES ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/92
+#EXTINF:-1,PT: STAR CHANNEL ᴿ
+http://again.live:8080/artur777221/artur50665578901/93
+#EXTINF:-1,PT: STAR CHANNEL ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/364
+#EXTINF:-1,PT: STAR CHANNEL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/94
+#EXTINF:-1,PT: STAR CHANNEL ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/365
+#EXTINF:-1,PT: STAR MOVIES ᴿ
+http://again.live:8080/artur777221/artur50665578901/95
+#EXTINF:-1,PT: STAR MOVIES ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/368
+#EXTINF:-1,PT: STAR MOVIES ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/96
+#EXTINF:-1,PT: STAR CRIME
+http://again.live:8080/artur777221/artur50665578901/97
+#EXTINF:-1,PT: STAR CRIME ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/367
+#EXTINF:-1,PT: STAR CRIME ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/98
+#EXTINF:-1,PT: STAR COMEDY ᴿ
+http://again.live:8080/artur777221/artur50665578901/99
+#EXTINF:-1,PT: STAR COMEDY ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/369
+#EXTINF:-1,PT: STAR COMEDY ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/100
+#EXTINF:-1,PT: STAR LIFE ᴿ
+http://again.live:8080/artur777221/artur50665578901/101
+#EXTINF:-1,PT: STAR LIFE ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/102
+#EXTINF:-1,PT: STAR LIFE ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/366
+#EXTINF:-1,PT: CINEMUNDO ᴿ
+http://again.live:8080/artur777221/artur50665578901/103
+#EXTINF:-1,PT: CINEMUNDO ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/375
+#EXTINF:-1,PT: CINEMUNDO ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/104
+#EXTINF:-1,PT: CINEMUNDO ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/376
+#EXTINF:-1,PT: SYFY
+http://again.live:8080/artur777221/artur50665578901/105
+#EXTINF:-1,PT: SYFY ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/106
+#EXTINF:-1,PT: SYFY ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/421
+#EXTINF:-1,PT: AMC ᴿ
+http://again.live:8080/artur777221/artur50665578901/107
+#EXTINF:-1,PT: AMC ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/381
+#EXTINF:-1,PT: AMC ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/108
+#EXTINF:-1,PT: Canal NOS ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/109
+#EXTINF:-1,PT: KURIAKOS CINE
+http://again.live:8080/artur777221/artur50665578901/265907
+#EXTINF:-1,PT: TV SERIES
+http://again.live:8080/artur777221/artur50665578901/265914
+#EXTINF:-1,"----ENTERTENIMENTO----"
+http://again.live:8080/artur777221/artur50665578901/173
+#EXTINF:-1,PT: S+ ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/174
+#EXTINF:-1,PT: RT DOCUMENTARIOS
+http://again.live:8080/artur777221/artur50665578901/175
+#EXTINF:-1,PT: FTV
+http://again.live:8080/artur777221/artur50665578901/176
+#EXTINF:-1,PT: GINX
+http://again.live:8080/artur777221/artur50665578901/177
+#EXTINF:-1,PT: GAMETOON
+http://again.live:8080/artur777221/artur50665578901/19584
+#EXTINF:-1,PT: ONETORO ᴿ
+http://again.live:8080/artur777221/artur50665578901/178
+#EXTINF:-1,PT: ONETORO ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/179
+#EXTINF:-1,PT: AMC CRIME ᴿ
+http://again.live:8080/artur777221/artur50665578901/181
+#EXTINF:-1,PT: AMC CRIME ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/104615
+#EXTINF:-1,PT: HORSE TV
+http://again.live:8080/artur777221/artur50665578901/104616
+#EXTINF:-1,PT: NAUTICAL CHANEL
+http://again.live:8080/artur777221/artur50665578901/104617
+#EXTINF:-1,PT: E! ENTERTAINEMENT
+http://again.live:8080/artur777221/artur50665578901/182
+#EXTINF:-1,PT: E! ENTERTAINMENT ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/422
+#EXTINF:-1,PT: E! ENTERTAINMENT ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/183
+#EXTINF:-1,PT: TLC
+http://again.live:8080/artur777221/artur50665578901/184
+#EXTINF:-1,PT: DISCOVERY CHANNEL ᴿ
+http://again.live:8080/artur777221/artur50665578901/185
+#EXTINF:-1,PT:  DISCOVERY CHANNEL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/186
+#EXTINF:-1,PT: DISCOVERY CHANNEL ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/408
+#EXTINF:-1,PT: Discovery Turbo HD
+http://again.live:8080/artur777221/artur50665578901/187
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+http://again.live:8080/artur777221/artur50665578901/188
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/413
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://again.live:8080/artur777221/artur50665578901/189
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/410
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/190
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD ᴿ
+http://again.live:8080/artur777221/artur50665578901/191
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD HD
+http://again.live:8080/artur777221/artur50665578901/192
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/193
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/409
+#EXTINF:-1,PT: DOG TV ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/194
+#EXTINF:-1,PT: CBS REALITY
+http://again.live:8080/artur777221/artur50665578901/195
+#EXTINF:-1,PT: BBC ENTERTAINEMENT
+http://again.live:8080/artur777221/artur50665578901/196
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://again.live:8080/artur777221/artur50665578901/197
+#EXTINF:-1,PT: 24 KITCHEN ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/198
+#EXTINF:-1,PT: 24 KITCHEN ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/420
+#EXTINF:-1,PT: FOOD NETWORK ᴿ
+http://again.live:8080/artur777221/artur50665578901/199
+#EXTINF:-1,PT: FOOD NETWORK ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/200
+#EXTINF:-1,PT: Canal 180
+http://again.live:8080/artur777221/artur50665578901/202
+#EXTINF:-1,PT: CANAL 180 HD
+http://again.live:8080/artur777221/artur50665578901/203
+#EXTINF:-1,PT: FATIMA TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/204
+#EXTINF:-1,PT: CANCAO NOVA
+http://again.live:8080/artur777221/artur50665578901/205
+#EXTINF:-1,PT: Kuriakos TV
+http://again.live:8080/artur777221/artur50665578901/66
+#EXTINF:-1,PT: KURIAKOS TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/67
+#EXTINF:-1,PT: AMC BREAK
+http://again.live:8080/artur777221/artur50665578901/206
+#EXTINF:-1,PT: AMC BREAK ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/207
+#EXTINF:-1,PT: ARTE
+http://again.live:8080/artur777221/artur50665578901/208
+#EXTINF:-1,PT: LOCALVISAO TV ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/209
+#EXTINF:-1,PT: HISTORIA ᴿ
+http://again.live:8080/artur777221/artur50665578901/210
+#EXTINF:-1,PT: HISTORIA ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/211
+#EXTINF:-1,PT: ODISSEIA ᴿ
+http://again.live:8080/artur777221/artur50665578901/212
+#EXTINF:-1,PT: ODISSEIA ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/213
+#EXTINF:-1,PT: ODISSEIA ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/411
+#EXTINF:-1,PT: TRAVEL CHANNEL ᴿ
+http://again.live:8080/artur777221/artur50665578901/214
+#EXTINF:-1,PT: TRAVEL CHANNEL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/215
+#EXTINF:-1,PT: TRAVEL XP ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/135638
+#EXTINF:-1,PT: LIVE CANAL EVENTOS
+http://again.live:8080/artur777221/artur50665578901/265908
+#EXTINF:-1,PT: LIVE CANAL EVENTOS 2
+http://again.live:8080/artur777221/artur50665578901/265909
+#EXTINF:-1,PT: NOW TV
+http://again.live:8080/artur777221/artur50665578901/265911
+#EXTINF:-1,"-----MUSICA-----"
+http://again.live:8080/artur777221/artur50665578901/216
+#EXTINF:-1,PT: Alma Lusa ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/25808
+#EXTINF:-1,PT: AFRO MUSIC
+http://again.live:8080/artur777221/artur50665578901/217
+#EXTINF:-1,PT: I CONCERTS ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/218
+#EXTINF:-1,PT: MCM POP
+http://again.live:8080/artur777221/artur50665578901/219
+#EXTINF:-1,PT: MCM TOP
+http://again.live:8080/artur777221/artur50665578901/220
+#EXTINF:-1,PT: MTV PORTUGAL
+http://again.live:8080/artur777221/artur50665578901/221
+#EXTINF:-1,PT: MTV PORTUGAL ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/222
+#EXTINF:-1,PT: MTV LIVE ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/223
+#EXTINF:-1,PT: CLUBBING TV
+http://again.live:8080/artur777221/artur50665578901/224
+#EXTINF:-1,PT: MEZZO
+http://again.live:8080/artur777221/artur50665578901/225
+#EXTINF:-1,PT: TRACE TOCA
+http://again.live:8080/artur777221/artur50665578901/226
+#EXTINF:-1,PT: TRACE URBAN
+http://again.live:8080/artur777221/artur50665578901/227
+#EXTINF:-1,PT: TRACE LATINA
+http://again.live:8080/artur777221/artur50665578901/228
+#EXTINF:-1,PT: MTV 00s
+http://again.live:8080/artur777221/artur50665578901/229
+#EXTINF:-1,PT: M6 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/230
+#EXTINF:-1,"---Internacionais---"
+http://again.live:8080/artur777221/artur50665578901/231
+#EXTINF:-1,PT: TVE INTERNACIONAL
+http://again.live:8080/artur777221/artur50665578901/233
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://again.live:8080/artur777221/artur50665578901/234
+#EXTINF:-1,PT: TCV INTERNACIONAL
+http://again.live:8080/artur777221/artur50665578901/235
+#EXTINF:-1,PT: DEUTSCHE WELLE
+http://again.live:8080/artur777221/artur50665578901/236
+#EXTINF:-1,PT: EURONEWS
+http://again.live:8080/artur777221/artur50665578901/237
+#EXTINF:-1,PT: TV5 MONDE
+http://again.live:8080/artur777221/artur50665578901/238
+#EXTINF:-1,PT: TV GALICIA
+http://again.live:8080/artur777221/artur50665578901/239
+#EXTINF:-1,PT: FRANCE 24
+http://again.live:8080/artur777221/artur50665578901/240
+#EXTINF:-1,PT: SKY NEWS
+http://again.live:8080/artur777221/artur50665578901/241
+#EXTINF:-1,PT: TVE 24H
+http://again.live:8080/artur777221/artur50665578901/242
+#EXTINF:-1,PT: CNN ᴿ
+http://again.live:8080/artur777221/artur50665578901/243
+#EXTINF:-1,PT: BLOOMBERG
+http://again.live:8080/artur777221/artur50665578901/244
+#EXTINF:-1,CNBC EUROPE
+http://again.live:8080/artur777221/artur50665578901/245
+#EXTINF:-1,PT: 1+1
+http://again.live:8080/artur777221/artur50665578901/246
+#EXTINF:-1,PT: Al Jazeera
+http://again.live:8080/artur777221/artur50665578901/247
+#EXTINF:-1,PT: Cubavisiðn Internacional
+http://again.live:8080/artur777221/artur50665578901/248
+#EXTINF:-1,PT: BNT World
+http://again.live:8080/artur777221/artur50665578901/249
+#EXTINF:-1,PT: BVN
+http://again.live:8080/artur777221/artur50665578901/250
+#EXTINF:-1,PT: CCTV4
+http://again.live:8080/artur777221/artur50665578901/251
+#EXTINF:-1,PT: CGTN
+http://again.live:8080/artur777221/artur50665578901/252
+#EXTINF:-1,PT: KBS World HD
+http://again.live:8080/artur777221/artur50665578901/253
+#EXTINF:-1,PT: NHK World TV
+http://again.live:8080/artur777221/artur50665578901/255
+#EXTINF:-1,PT: Phoenix CNE
+http://again.live:8080/artur777221/artur50665578901/256
+#EXTINF:-1,PT: Phoenix InfoNews
+http://again.live:8080/artur777221/artur50665578901/257
+#EXTINF:-1,PT: RT
+http://again.live:8080/artur777221/artur50665578901/258
+#EXTINF:-1,PT: RTL
+http://again.live:8080/artur777221/artur50665578901/259
+#EXTINF:-1,PT: RTR-Planeta
+http://again.live:8080/artur777221/artur50665578901/260
+#EXTINF:-1,PT: Rai News 24
+http://again.live:8080/artur777221/artur50665578901/261
+#EXTINF:-1,PT: Super RTL
+http://again.live:8080/artur777221/artur50665578901/262
+#EXTINF:-1,PT: TVR International
+http://again.live:8080/artur777221/artur50665578901/263
+#EXTINF:-1,PT: ZAP VIVA ᴴᴰ local
+http://again.live:8080/artur777221/artur50665578901/264
+#EXTINF:-1,PT: FIGHT NETWORK ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/265
+#EXTINF:-1,PT: TVI internacional
+http://again.live:8080/artur777221/artur50665578901/267
+#EXTINF:-1,PT: TCV Cabo Verde
+http://again.live:8080/artur777221/artur50665578901/269
+#EXTINF:-1,PT: Channel 1 Russia
+http://again.live:8080/artur777221/artur50665578901/271
+#EXTINF:-1,"-----DESPORTO-----"
+http://again.live:8080/artur777221/artur50665578901/29764
+#EXTINF:-1,VIP: BTV SD
+http://again.live:8080/artur777221/artur50665578901/29765
+#EXTINF:-1,VIP: BTV ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29766
+#EXTINF:-1,VIP: BTV ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29767
+#EXTINF:-1,VIP: BTV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29768
+#EXTINF:-1,VIP: BTV ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29769
+#EXTINF:-1,VIP: BTV 4K ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29770
+#EXTINF:-1,VIP: SPORTING TV
+http://again.live:8080/artur777221/artur50665578901/29771
+#EXTINF:-1,VIP: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29772
+#EXTINF:-1,VIP: SPORTING TV ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29773
+#EXTINF:-1,VIP: Canal 11
+http://again.live:8080/artur777221/artur50665578901/29774
+#EXTINF:-1,VIP: CANAL 11 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29775
+#EXTINF:-1,VIP: CANAL 11 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29776
+#EXTINF:-1,VIP: SPORT TV +
+http://again.live:8080/artur777221/artur50665578901/29780
+#EXTINF:-1,VIP: SPORT TV + ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29781
+#EXTINF:-1,VIP: SPORT TV + ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29782
+#EXTINF:-1,VIP: SPORT TV 1 SD
+http://again.live:8080/artur777221/artur50665578901/29784
+#EXTINF:-1,VIP: SPORT TV 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29785
+#EXTINF:-1,VIP: SPORT TV 1 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29786
+#EXTINF:-1,VIP: SPORT TV 1 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29787
+#EXTINF:-1,VIP: SPORT TV 1 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29788
+#EXTINF:-1,VIP: SPORT TV 1 4K ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29789
+#EXTINF:-1,VIP: SPORT TV 2 SD
+http://again.live:8080/artur777221/artur50665578901/29791
+#EXTINF:-1,VIP: SPORT TV 2 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29794
+#EXTINF:-1,VIP: SPORT TV 2 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29793
+#EXTINF:-1,VIP: SPORT TV 2 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29783
+#EXTINF:-1,VIP: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29795
+#EXTINF:-1,VIP: SPORT TV 3 SD
+http://again.live:8080/artur777221/artur50665578901/29792
+#EXTINF:-1,VIP: SPORT TV 3 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29798
+#EXTINF:-1,VIP: SPORT TV 3 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29797
+#EXTINF:-1,VIP: SPORT TV 3 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29796
+#EXTINF:-1,VIP: SPORT TV 3 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29800
+#EXTINF:-1,VIP: SPORT TV 4 SD
+http://again.live:8080/artur777221/artur50665578901/29801
+#EXTINF:-1,VIP: SPORT TV 4 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29802
+#EXTINF:-1,VIP: SPORT TV 4 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29803
+#EXTINF:-1,VIP: SPORT TV 5 SD
+http://again.live:8080/artur777221/artur50665578901/29804
+#EXTINF:-1,VIP: SPORT TV 5 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29805
+#EXTINF:-1,VIP: SPORT TV 5 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29806
+#EXTINF:-1,VIP: SPORT TV 6 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/69528
+#EXTINF:-1,VIP: SPORT TV 7
+http://again.live:8080/artur777221/artur50665578901/218200
+#EXTINF:-1,VIP: SPORT TV 7 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/218201
+#EXTINF:-1,VIP: DANZ 1 SD
+http://again.live:8080/artur777221/artur50665578901/29807
+#EXTINF:-1,VIP: DANZ 1 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29809
+#EXTINF:-1,VIP: DANZ 1 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29808
+#EXTINF:-1,VIP: DANZ 1 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29810
+#EXTINF:-1,VIP: DANZ 1 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29811
+#EXTINF:-1,VIP: DANZ 2 SD
+http://again.live:8080/artur777221/artur50665578901/29812
+#EXTINF:-1,VIP: DANZ 2 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29814
+#EXTINF:-1,VIP: DANZ 2 ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29813
+#EXTINF:-1,VIP: DANZ 2 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29815
+#EXTINF:-1,VIP: DANZ 2 ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29816
+#EXTINF:-1,VIP: DANZ 3 SD
+http://again.live:8080/artur777221/artur50665578901/29819
+#EXTINF:-1,VIP: DANZ 3 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29820
+#EXTINF:-1,VIP: DANZ 3  ʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29817
+#EXTINF:-1,VIP: DANZ 3 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29821
+#EXTINF:-1,VIP: DANZ 3  ᶠʰᵈ ᴴ²⁶⁵
+http://again.live:8080/artur777221/artur50665578901/29818
+#EXTINF:-1,VIP: DANZ 4 SD
+http://again.live:8080/artur777221/artur50665578901/29822
+#EXTINF:-1,VIP: DANZ 4 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29823
+#EXTINF:-1,VIP: DANZ 4 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29824
+#EXTINF:-1,VIP: DANZ 5 SD
+http://again.live:8080/artur777221/artur50665578901/29825
+#EXTINF:-1,VIP: DANZ 5 ᴴᴰ
+http://again.live:8080/artur777221/artur50665578901/29826
+#EXTINF:-1,VIP: DANZ 5 ᶠʰᵈ
+http://again.live:8080/artur777221/artur50665578901/29827
