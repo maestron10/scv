@@ -81,6 +81,33 @@ https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/101
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="DAZN 5 [HD]" tvg-logo="http://xlogos.ddns.net/logos2024/dazn.png" group-title="PT",DAZN 5 [HD]
 https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/102
 
+#EXTINF:-1, ==Allprod==
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/1030794
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [B+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/764059
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [FHD] [B+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/68422
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/764062
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [B]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/764064
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763939
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763941
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [B+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763969
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 [SD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763971
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763973
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [B+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763975
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [A+]
+http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763977
+
+
 
 #EXTINF:-1, ===Teo===
 
