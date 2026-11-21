@@ -31,6 +31,7 @@ http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186420
 http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186422
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="DAZN 5 FHD" tvg-logo="https://i.imgur.com/bqq6bXW.png" group-title="PT",DAZN 5 FHD
 http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/186423
+
 #EXTINF:-1 tvg-id="" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="PT",##### ENGLISH #####
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="PT",UK: TNT Sports 1
 http://sardinhatv.vip:8080/001PhaseCircuit/001PhaseCircuitG/369352
@@ -80,34 +81,23 @@ https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/100
 https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/101
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="DAZN 5 [HD]" tvg-logo="http://xlogos.ddns.net/logos2024/dazn.png" group-title="PT",DAZN 5 [HD]
 https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/102
-
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1" tvg-logo="" group-title="PT",UK: TNT Sports 1
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122581
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2" tvg-logo="" group-title="PT",UK: TNT Sports 2
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122580
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3" tvg-logo="" group-title="PT",UK: TNT Sports 3
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122579
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 5" tvg-logo="" group-title="PT",UK: TNT Sports 5
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122578
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 6" tvg-logo="" group-title="PT",UK: TNT Sports 6
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122577
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 7" tvg-logo="" group-title="PT",UK: TNT Sports 7
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122576
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 8" tvg-logo="" group-title="PT",UK: TNT Sports 8
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122575
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 9" tvg-logo="" group-title="PT",UK: TNT Sports 9
+https://tvdocosta.xyz/wmQkCqCeDVFv/8qbAKvH8w6w8/122574
 #EXTINF:-1, ==Allprod==
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/1030794
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [B+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/764059
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [FHD] [B+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/68422
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/764062
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [B]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/764064
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763939
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763941
-#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [B+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763969
-#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 [SD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763971
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763973
-#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [B+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763975
-#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [A+]
-http://allprodtv.com:80/MAGBBSFK4B/MAGU41Q3N2/763977
-
-
 
 #EXTINF:-1, ===Teo===
 
@@ -182,41 +172,6 @@ http://netromag.com/live/BXM799M/A8J4TUP/764062.ts
 
 
 #EXTINF:-1, ===== Ghos =======
-#EXTINF:-1,|PT| BTV 1 á´´á´°
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1065
-#EXTINF:-1,|PT| DAZN 1 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/43838
-#EXTINF:-1,|PT| DAZN 2 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/43839
-#EXTINF:-1,|PT| DAZN 3 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1051
-#EXTINF:-1,|PT| DAZN 4 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1054
-#EXTINF:-1,|PT| DAZN 5 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1057
-#EXTINF:-1,|PT| DAZN 5 á´´á´°
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1058
-
-#EXTINF:-1,|PT| SPORT TV 1 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/53448
-#EXTINF:-1,|PT| SPORT TV 2 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/25506
-#EXTINF:-1,|PT| SPORT TV 3 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1035
-#EXTINF:-1,|PT| SPORT TV 4 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1038
-#EXTINF:-1,|PT| SPORT TV 5 FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1040
-#EXTINF:-1,|PT| SPORT TV 5 á´´á´°
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/42764
-#EXTINF:-1,|PT| TVCINE TOP FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1085
-#EXTINF:-1,|PT| TVCINE EDITION FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1088
-#EXTINF:-1,|PT| TVCINE EMOTION FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1091
-#EXTINF:-1,|PT| TVCINE ACTION FHD
-https://ghos.ck-one.xyz:8443/Marcelo29/27122024/1094
 
 #EXTINF:-1, ===VAIS VER===
 
